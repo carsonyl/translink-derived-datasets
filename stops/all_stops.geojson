@@ -5061,6 +5061,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.827602,
+     49.284375
+    ],
+    "type": "Point"
+   },
+   "id": "10436",
+   "properties": {
+    "code": "53228",
+    "desc": "UNGLESS WAY @ NOONS CREEK DR",
+    "id": "10436",
+    "name": "WB UNGLESS WAY FS NOONS CREEK DR",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.822421,
      49.07214
     ],
@@ -10929,6 +10947,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.139026,
+     49.326813
+    ],
+    "type": "Point"
+   },
+   "id": "10947",
+   "properties": {
+    "code": "54442",
+    "desc": "MARINE DR @ 1000 BLOCK",
+    "id": "10947",
+    "name": "EB MARINE DR AT 1000 BLOCK",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.875671,
      49.204326
     ],
@@ -11066,6 +11102,24 @@
     "desc": "INDIAN RIVER DR @ MT SEYMOUR RD",
     "id": "10962",
     "name": "EB INDIAN RIVER DR FS MT SEYMOUR RD",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.139365,
+     49.25714
+    ],
+    "type": "Point"
+   },
+   "id": "10966",
+   "properties": {
+    "code": "61126",
+    "desc": "W 16 AVE @ GRANVILLE ST",
+    "id": "10966",
+    "name": "WB W 16 AVE FS GRANVILLE ST",
     "zone": "ZN 99"
    },
    "type": "Feature"
@@ -11660,6 +11714,24 @@
     "desc": "BROADWAY @ E ELLERSLIE AVE",
     "id": "11001",
     "name": "EB BROADWAY FS E ELLERSLIE AVE",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.215494,
+     49.276328
+    ],
+    "type": "Point"
+   },
+   "id": "11002",
+   "properties": {
+    "code": "61143",
+    "desc": "BUS STOP @ SPANISH BANKS LOOP",
+    "id": "11002",
+    "name": "SPANISH BANKS LOOP",
     "zone": "ZN 99"
    },
    "type": "Feature"
@@ -12423,8 +12495,80 @@
   {
    "geometry": {
     "coordinates": [
-     -123.097295,
-     49.240485
+     -123.203022,
+     49.271904
+    ],
+    "type": "Point"
+   },
+   "id": "11053",
+   "properties": {
+    "code": "51934",
+    "desc": "NW MARINE DR @ DISCOVERY ST",
+    "id": "11053",
+    "name": "WB NW MARINE DR FS DISCOVERY ST",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.203426,
+     49.271953
+    ],
+    "type": "Point"
+   },
+   "id": "11054",
+   "properties": {
+    "code": "51910",
+    "desc": "NW MARINE DR @ DISCOVERY ST",
+    "id": "11054",
+    "name": "EB NW MARINE DR NS DISCOVERY ST",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.209135,
+     49.274502
+    ],
+    "type": "Point"
+   },
+   "id": "11055",
+   "properties": {
+    "code": "51937",
+    "desc": "NW MARINE DR @ SASAMAT ST",
+    "id": "11055",
+    "name": "WB NW MARINE DR FS SASAMAT ST",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.200827,
+     49.268799
+    ],
+    "type": "Point"
+   },
+   "id": "11056",
+   "properties": {
+    "code": "51912",
+    "desc": "NW MARINE DR @ LOCARNO CRES",
+    "id": "11056",
+    "name": "EB NW MARINE DR FS LOCARNO CRES",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.09731,
+     49.240489
     ],
     "type": "Point"
    },
@@ -12585,6 +12729,42 @@
   {
    "geometry": {
     "coordinates": [
+     -123.205593,
+     49.274065
+    ],
+    "type": "Point"
+   },
+   "id": "11065",
+   "properties": {
+    "code": "51935",
+    "desc": "NW MARINE DR @ BELMONT AVE",
+    "id": "11065",
+    "name": "NB NW MARINE DR FS BELMONT AVE",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.211352,
+     49.274742
+    ],
+    "type": "Point"
+   },
+   "id": "11066",
+   "properties": {
+    "code": "51906",
+    "desc": "NW MARINE DR @ TOLMIE ST",
+    "id": "11066",
+    "name": "EB NW MARINE DR FS TOLMIE ST",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.134406,
      49.257964
     ],
@@ -12596,6 +12776,42 @@
     "desc": "W 15 AVE @ BIRCH ST",
     "id": "11067",
     "name": "WB W 15 AVE FS BIRCH ST",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.205803,
+     49.273327
+    ],
+    "type": "Point"
+   },
+   "id": "11068",
+   "properties": {
+    "code": "61133",
+    "desc": "TRIMBLE ST @ BELMONT AVE",
+    "id": "11068",
+    "name": "SB NW MARINE DR FS BELMONT AVE",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.212054,
+     49.275093
+    ],
+    "type": "Point"
+   },
+   "id": "11069",
+   "properties": {
+    "code": "51938",
+    "desc": "NW MARINE DR @ TOLMIE ST",
+    "id": "11069",
+    "name": "WB NW MARINE DR FS TOLMIE ST",
     "zone": "ZN 99"
    },
    "type": "Feature"
@@ -12632,6 +12848,24 @@
     "desc": "240 ST @ 118 AVE",
     "id": "11070",
     "name": "SB 240 ST NS 118 AVE",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.200648,
+     49.268938
+    ],
+    "type": "Point"
+   },
+   "id": "11071",
+   "properties": {
+    "code": "61138",
+    "desc": "NW MARINE DR @ W 4 AVE",
+    "id": "11071",
+    "name": "WB NW MARINE DR FS W 4 AVE",
     "zone": "ZN 99"
    },
    "type": "Feature"
@@ -14781,60 +15015,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.018938,
-     49.319205
-    ],
-    "type": "Point"
-   },
-   "id": "11195",
-   "properties": {
-    "code": "61069",
-    "desc": "CAPILANO UNIVERSITY @ BAY 2",
-    "id": "11195",
-    "name": "CAPILANO UNIVERSITY BAY 2",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.018758,
-     49.319394
-    ],
-    "type": "Point"
-   },
-   "id": "11196",
-   "properties": {
-    "code": "61070",
-    "desc": "CAPILANO UNIVERSITY @ BAY 3",
-    "id": "11196",
-    "name": "CAPILANO UNIVERSITY BAY 3",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.018935,
-     49.319397
-    ],
-    "type": "Point"
-   },
-   "id": "11197",
-   "properties": {
-    "code": "61068",
-    "desc": "CAPILANO UNIVERSITY @ BAY 1",
-    "id": "11197",
-    "name": "CAPILANO UNIVERSITY BAY 1",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.834269,
      49.276599
     ],
@@ -15617,7 +15797,7 @@
    "id": "11246",
    "properties": {
     "code": "61326",
-    "desc": "BRIDGEPORT STATION @ BAY 6",
+    "desc": "BRIDGEPORT STATION @ BAY 5A",
     "id": "11246",
     "name": "BRIDGEPORT STN BAY 6",
     "zone": "ZN 99"
@@ -16717,7 +16897,7 @@
     "code": "56558",
     "desc": "BURRARD STN @ BAY 6",
     "id": "11304",
-    "name": "BURRARD STN BAY 6 NEW",
+    "name": "BURRARD STN BAY 6",
     "zone": "ZN 99"
    },
    "type": "Feature"
@@ -18230,24 +18410,6 @@
     "desc": "FRASER WAY @ BAY MILL RD",
     "id": "11434",
     "name": "EB FRASER WAY NS BAY MILL RD",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.023896,
-     49.256104
-    ],
-    "type": "Point"
-   },
-   "id": "11435",
-   "properties": {
-    "code": "51772",
-    "desc": "BOUNDARY RD @ DOMINION ST",
-    "id": "11435",
-    "name": "SB BOUNDARY RD FS DOMINION ST",
     "zone": "ZN 99"
    },
    "type": "Feature"
@@ -29505,8 +29667,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.800656,
-     49.274744
+     -122.80055,
+     49.274918
     ],
     "type": "Point"
    },
@@ -29523,8 +29685,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.800766,
-     49.274601
+     -122.800641,
+     49.274738
     ],
     "type": "Point"
    },
@@ -31639,7 +31801,7 @@
     "code": "58099",
     "desc": "BURRARD STN @ BAY 5",
     "id": "12375",
-    "name": "BURRARD STN BAY 5 NEW",
+    "name": "BURRARD STN BAY 5",
     "zone": "ZN 99"
    },
    "type": "Feature"
@@ -33699,24 +33861,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.352427,
-     49.380835
-    ],
-    "type": "Point"
-   },
-   "id": "12501",
-   "properties": {
-    "code": "60238",
-    "desc": "ISLAND PACIFIC SCHOOL @ FLAG STOP",
-    "id": "12501",
-    "name": "FLAGSTOP AT ISLAND PACIFIC SCHOOL",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.329958,
      49.389398
     ],
@@ -33861,24 +34005,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.09012,
-     49.247066
-    ],
-    "type": "Point"
-   },
-   "id": "12510",
-   "properties": {
-    "code": "60244",
-    "desc": "FRASER ST @ E 27 AVE",
-    "id": "12510",
-    "name": "NB FRASER ST FS E 27 AVE",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.803502,
      49.027663
     ],
@@ -33926,6 +34052,42 @@
     "desc": "E BROADWAY @ FRASER ST",
     "id": "12513",
     "name": "EB E BROADWAY NS FRASER ST",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.692403,
+     49.118734
+    ],
+    "type": "Point"
+   },
+   "id": "12516",
+   "properties": {
+    "code": "61186",
+    "desc": "64 AVE @ FRASER HWY",
+    "id": "12516",
+    "name": "WB 64 AVE FS FRASER HWY",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.135557,
+     49.203179
+    ],
+    "type": "Point"
+   },
+   "id": "12518",
+   "properties": {
+    "code": "60251",
+    "desc": "SW MARINE DR @ HUDSON ST",
+    "id": "12518",
+    "name": "EB SW MARINE DR NS HUDSON ST",
     "zone": "ZN 99"
    },
    "type": "Feature"
@@ -37785,6 +37947,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.003113,
+     49.275944
+    ],
+    "type": "Point"
+   },
+   "id": "1475",
+   "properties": {
+    "code": "51463",
+    "desc": "WILLINGDON AVE @ PARKER ST",
+    "id": "1475",
+    "name": "NB WILLINGDON AVE FS PARKER ST",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.003077,
      49.278616
     ],
@@ -39621,8 +39801,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.100617,
-     49.248857
+     -123.101648,
+     49.248875
     ],
     "type": "Point"
    },
@@ -50205,8 +50385,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.923658,
-     49.223713
+     -122.923675,
+     49.223719
     ],
     "type": "Point"
    },
@@ -50486,24 +50666,6 @@
     "desc": "8 AVE @ 20 ST",
     "id": "2333",
     "name": "WB 8 AVE FS 20 ST",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.950427,
-     49.201793
-    ],
-    "type": "Point"
-   },
-   "id": "2334",
-   "properties": {
-    "code": "52312",
-    "desc": "8 AVE @ 21 ST",
-    "id": "2334",
-    "name": "WB 8 AVE FS 21 ST",
     "zone": "ZN 99"
    },
    "type": "Feature"
@@ -57063,24 +57225,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.014292,
-     49.280693
-    ],
-    "type": "Point"
-   },
-   "id": "2769",
-   "properties": {
-    "code": "52742",
-    "desc": "GILMORE AVE @ HASTINGS ST",
-    "id": "2769",
-    "name": "SB GILMORE AVE FS HASTINGS ST",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.214641,
      49.263836
     ],
@@ -57092,78 +57236,6 @@
     "desc": "W 10 AVE @ BLANCA ST",
     "id": "277",
     "name": "EB W 10 AVE FS BLANCA ST",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.014309,
-     49.278056
-    ],
-    "type": "Point"
-   },
-   "id": "2770",
-   "properties": {
-    "code": "52743",
-    "desc": "GILMORE AVE @ GEORGIA ST",
-    "id": "2770",
-    "name": "SB GILMORE AVE FS GEORGIA ST",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.014343,
-     49.276366
-    ],
-    "type": "Point"
-   },
-   "id": "2771",
-   "properties": {
-    "code": "52744",
-    "desc": "GILMORE AVE @ VENABLES ST",
-    "id": "2771",
-    "name": "SB GILMORE AVE FS VENABLES ST",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.014337,
-     49.273627
-    ],
-    "type": "Point"
-   },
-   "id": "2772",
-   "properties": {
-    "code": "52745",
-    "desc": "GILMORE AVE @ WILLIAM ST",
-    "id": "2772",
-    "name": "SB GILMORE AVE FS WILLIAM ST",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.014355,
-     49.271856
-    ],
-    "type": "Point"
-   },
-   "id": "2773",
-   "properties": {
-    "code": "52746",
-    "desc": "GILMORE AVE @ KITCHENER ST",
-    "id": "2773",
-    "name": "SB GILMORE AVE FS KITCHENER ST",
     "zone": "ZN 99"
    },
    "type": "Feature"
@@ -57891,60 +57963,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.014183,
-     49.270575
-    ],
-    "type": "Point"
-   },
-   "id": "2827",
-   "properties": {
-    "code": "52798",
-    "desc": "GILMORE AVE @ DOUGLAS RD",
-    "id": "2827",
-    "name": "NB GILMORE AVE FS DOUGLAS RD",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.014164,
-     49.272367
-    ],
-    "type": "Point"
-   },
-   "id": "2828",
-   "properties": {
-    "code": "52799",
-    "desc": "GILMORE AVE @ KITCHENER ST",
-    "id": "2828",
-    "name": "NB GILMORE AVE FS KITCHENER ST",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.014169,
-     49.274137
-    ],
-    "type": "Point"
-   },
-   "id": "2829",
-   "properties": {
-    "code": "52800",
-    "desc": "GILMORE AVE @ WILLIAM ST",
-    "id": "2829",
-    "name": "NB GILMORE AVE FS WILLIAM ST",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.196532,
      49.263564
     ],
@@ -57956,60 +57974,6 @@
     "desc": "W 10 AVE @ CAMOSUN ST",
     "id": "283",
     "name": "EB W 10 AVE FS CAMOSUN ST",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.01418,
-     49.275977
-    ],
-    "type": "Point"
-   },
-   "id": "2830",
-   "properties": {
-    "code": "52801",
-    "desc": "GILMORE AVE @ PARKER ST",
-    "id": "2830",
-    "name": "NB GILMORE AVE FS PARKER ST",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.014141,
-     49.277749
-    ],
-    "type": "Point"
-   },
-   "id": "2831",
-   "properties": {
-    "code": "52802",
-    "desc": "GILMORE AVE @ UNION ST",
-    "id": "2831",
-    "name": "NB GILMORE AVE FS UNION ST",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.014113,
-     49.279523
-    ],
-    "type": "Point"
-   },
-   "id": "2832",
-   "properties": {
-    "code": "52803",
-    "desc": "GILMORE AVE @ FRANCES ST",
-    "id": "2832",
-    "name": "NB GILMORE AVE FS FRANCES ST",
     "zone": "ZN 99"
    },
    "type": "Feature"
@@ -59072,24 +59036,6 @@
     "desc": "PRODUCTION WAY @ EASTLAKE DR",
     "id": "2899",
     "name": "NB PRODUCTION WAY FS EASTLAKE DR",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.125521,
-     49.281364
-    ],
-    "type": "Point"
-   },
-   "id": "29",
-   "properties": {
-    "code": "50029",
-    "desc": "BURRARD ST @ NELSON ST",
-    "id": "29",
-    "name": "NB BURRARD ST FS NELSON ST",
     "zone": "ZN 99"
    },
    "type": "Feature"
@@ -81939,24 +81885,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.040973,
-     49.313357
-    ],
-    "type": "Point"
-   },
-   "id": "4384",
-   "properties": {
-    "code": "54336",
-    "desc": "E KEITH RD @ BROOKSBANK AVE",
-    "id": "4384",
-    "name": "WB E KEITH RD FS BROOKSBANK AVE",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.044085,
      49.313392
     ],
@@ -90471,6 +90399,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.003068,
+     49.145422
+    ],
+    "type": "Point"
+   },
+   "id": "4903",
+   "properties": {
+    "code": "54851",
+    "desc": "RIVER RD @ HUSTON RD",
+    "id": "4903",
+    "name": "EB RIVER RD FS HUSTON RD",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.995391,
      49.14963
     ],
@@ -97357,7 +97303,7 @@
     "code": "50530",
     "desc": "BURRARD STN @ BAY 7",
     "id": "534",
-    "name": "BURRARD STN BAY 7 NEW",
+    "name": "BURRARD STN BAY 7",
     "zone": "ZN 99"
    },
    "type": "Feature"
@@ -98978,6 +98924,24 @@
     "desc": "KING GEORGE BLVD @ 152 ST",
     "id": "5444",
     "name": "NB KING GEORGE BLVD FS 152 ST",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.801099,
+     49.053234
+    ],
+    "type": "Point"
+   },
+   "id": "5445",
+   "properties": {
+    "code": "55392",
+    "desc": "152 ST @ 28 AVE",
+    "id": "5445",
+    "name": "NB 152 ST FS 28 AVE",
     "zone": "ZN 99"
    },
    "type": "Feature"
@@ -101757,8 +101721,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.867704,
-     49.116187
+     -122.867705,
+     49.116186
     ],
     "type": "Point"
    },
@@ -110325,6 +110289,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.801002,
+     49.056655
+    ],
+    "type": "Point"
+   },
+   "id": "6094",
+   "properties": {
+    "code": "56036",
+    "desc": "152 ST @ 29A AVE",
+    "id": "6094",
+    "name": "NB 152 ST FS 29A AVE",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.801011,
      49.062184
     ],
@@ -112927,7 +112909,7 @@
     "code": "56188",
     "desc": "STAYTE RD @ ROPER AVE",
     "id": "6248",
-    "name": "SB STATYE RD FS ROPER AVE",
+    "name": "SB STAYTE RD FS ROPER AVE",
     "zone": "ZN 99"
    },
    "type": "Feature"
@@ -120254,6 +120236,24 @@
     "desc": "NO 4 RD @ STEVESTON HWY",
     "id": "6739",
     "name": "NB NO. 4 RD FS STEVESTON HWY",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.185714,
+     49.264644
+    ],
+    "type": "Point"
+   },
+   "id": "674",
+   "properties": {
+    "code": "50667",
+    "desc": "ALMA ST @ W BROADWAY",
+    "id": "674",
+    "name": "NB ALMA ST FS W BROADWAY",
     "zone": "ZN 99"
    },
    "type": "Feature"
@@ -130802,24 +130802,6 @@
     "desc": "FRASER HWY @ 268 ST",
     "id": "7378",
     "name": "EB FRASER HWY FS 268 ST",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.476051,
-     49.058147
-    ],
-    "type": "Point"
-   },
-   "id": "7379",
-   "properties": {
-    "code": "57306",
-    "desc": "FRASER HWY @ 270 ST",
-    "id": "7379",
-    "name": "EB FRASER HWY FS 270 ST",
     "zone": "ZN 99"
    },
    "type": "Feature"
@@ -143733,6 +143715,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.090196,
+     49.242872
+    ],
+    "type": "Point"
+   },
+   "id": "844",
+   "properties": {
+    "code": "58955",
+    "desc": "FRASER ST @ E 31 AVE",
+    "id": "844",
+    "name": "NB FRASER ST FS E 31 AVE",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.01191,
      49.229508
     ],
@@ -147027,42 +147027,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.014361,
-     49.26778
-    ],
-    "type": "Point"
-   },
-   "id": "8738",
-   "properties": {
-    "code": "58387",
-    "desc": "GILMORE AVE @ 2 AVE",
-    "id": "8738",
-    "name": "SB GILMORE AVE FS 2 AVE",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.136699,
-     49.203585
-    ],
-    "type": "Point"
-   },
-   "id": "874",
-   "properties": {
-    "code": "50867",
-    "desc": "SW MARINE DR @ MONTCALM ST",
-    "id": "874",
-    "name": "EB SW MARINE DR FS MONTCALM ST",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.018495,
      49.263861
     ],
@@ -149853,24 +149817,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.014354,
-     49.269886
-    ],
-    "type": "Point"
-   },
-   "id": "9010",
-   "properties": {
-    "code": "58598",
-    "desc": "GILMORE AVE @ DOUGLAS RD",
-    "id": "9010",
-    "name": "SB GILMORE AVE FS DOUGLAS RD",
-    "zone": "ZN 99"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.647367,
      49.075012
     ],
@@ -150008,6 +149954,24 @@
     "desc": "FRASER HWY @ 196A ST",
     "id": "9020",
     "name": "WB FRASER HWY FS 196A ST",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.801095,
+     49.051035
+    ],
+    "type": "Point"
+   },
+   "id": "9021",
+   "properties": {
+    "code": "55390",
+    "desc": "152 ST @ KING GEORGE BLVD",
+    "id": "9021",
+    "name": "NB 152 ST NS KING GEORGE BLVD",
     "zone": "ZN 99"
    },
    "type": "Feature"
@@ -156200,6 +156164,24 @@
     "desc": "152 ST @ 93 AVE",
     "id": "9540",
     "name": "NB 152 ST FS 93 AVE",
+    "zone": "ZN 99"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.886049,
+     49.323873
+    ],
+    "type": "Point"
+   },
+   "id": "9541",
+   "properties": {
+    "code": "53249",
+    "desc": "WHITE PINE BEACH RD @ NORTON CRT",
+    "id": "9541",
+    "name": "WHITE PINE BEACH",
     "zone": "ZN 99"
    },
    "type": "Feature"
