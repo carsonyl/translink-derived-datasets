@@ -16,7 +16,7 @@ These are the derived datasets:
   All GTFS trip shapes.
   Each shape is a GeoJSON file.
 
-These datasets are current as of **2018-03-01**.
+These datasets are current as of **2018-05-06**.
 
 As GeoJSON, these files can be previewed from within GitHub.
 [Learn more](https://help.github.com/articles/mapping-geojson-files-on-github/).
