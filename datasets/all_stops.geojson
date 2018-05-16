@@ -9435,24 +9435,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.100898,
-     49.268688
-    ],
-    "type": "Point"
-   },
-   "id": "10814",
-   "properties": {
-    "code": "59580",
-    "desc": "MAIN ST @ E 2 AVE",
-    "id": "10814",
-    "name": "SB MAIN ST FS E 2 AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.033871,
      49.267232
     ],
@@ -20660,24 +20642,6 @@
     "desc": "KINGSWAY @ JOYCE ST",
     "id": "1160",
     "name": "EB KINGSWAY FS JOYCE ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.040448,
-     49.312833
-    ],
-    "type": "Point"
-   },
-   "id": "11600",
-   "properties": {
-    "code": "54329",
-    "desc": "BROOKSBANK AVE @ E KEITH RD",
-    "id": "11600",
-    "name": "SB BROOKSBANK AVE FS E KEITH RD",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -32349,6 +32313,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.002091,
+     49.225091
+    ],
+    "type": "Point"
+   },
+   "id": "12411",
+   "properties": {
+    "code": "60214",
+    "desc": "METROTOWN STATION @ BAY 13",
+    "id": "12411",
+    "name": "METROTOWN STATION BAY 13",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.77927,
      49.038034
     ],
@@ -34106,6 +34088,78 @@
     "desc": "NELSON RD @ WESTMINSTER HWY",
     "id": "12520",
     "name": "SB NELSON RD FS WESTMINSTER HWY",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.841895,
+     49.233083
+    ],
+    "type": "Point"
+   },
+   "id": "12521",
+   "properties": {
+    "code": "61298",
+    "desc": "BRUNETTE AVE @ HILLSIDE AVE",
+    "id": "12521",
+    "name": "SB BRUNETTE AVE NS HILLSIDE AVE",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.712624,
+     49.130861
+    ],
+    "type": "Point"
+   },
+   "id": "12522",
+   "properties": {
+    "code": "60247",
+    "desc": "184 STREET @ 71 AVE",
+    "id": "12522",
+    "name": "SB 184 STREET FS 71 AVENUE",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.100925,
+     49.267991
+    ],
+    "type": "Point"
+   },
+   "id": "12523",
+   "properties": {
+    "code": "50235",
+    "desc": "MAIN ST @ E 3 AVE",
+    "id": "12523",
+    "name": "SB MAIN ST FS E 3 AVE",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.100348,
+     49.338483
+    ],
+    "type": "Point"
+   },
+   "id": "12524",
+   "properties": {
+    "code": "60270",
+    "desc": "HIGHLAND BLVD @ CANFIELD CRES",
+    "id": "12524",
+    "name": "SB HIGHLAND BLVD NS CANFIELD CRES",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -68907,24 +68961,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.841626,
-     49.232708
-    ],
-    "type": "Point"
-   },
-   "id": "3558",
-   "properties": {
-    "code": "53520",
-    "desc": "BRUNETTE AVE @ HILLSIDE AVE",
-    "id": "3558",
-    "name": "EB BRUNETTE AVE FS HILLSIDE AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.836796,
      49.231173
     ],
@@ -69735,8 +69771,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.876297,
-     49.23534
+     -122.876618,
+     49.235228
     ],
     "type": "Point"
    },
@@ -100677,24 +100713,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.86793,
-     49.126271
-    ],
-    "type": "Point"
-   },
-   "id": "5559",
-   "properties": {
-    "code": "55505",
-    "desc": "128 ST @ 68 AVE",
-    "id": "5559",
-    "name": "SB 128 ST FS 68 AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.139408,
      49.243251
     ],
@@ -100706,24 +100724,6 @@
     "desc": "GRANVILLE ST @ W 32 AVE",
     "id": "556",
     "name": "SB GRANVILLE ST FS W 32 AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.867929,
-     49.122364
-    ],
-    "type": "Point"
-   },
-   "id": "5560",
-   "properties": {
-    "code": "55506",
-    "desc": "128 ST @ 66 AVE",
-    "id": "5560",
-    "name": "SB 128 ST FS 66 AVE",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -146793,8 +146793,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.986147,
-     49.263102
+     -122.985664,
+     49.263236
     ],
     "type": "Point"
    },
