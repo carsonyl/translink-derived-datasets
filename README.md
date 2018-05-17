@@ -63,7 +63,7 @@ They have an indirect relationship to routes via trip definitions.
 
 ### TransLink GTFS Stops GeoJSON
 
-Location: `datasets/all_stops.geojson`
+Location: `datasets/stops.geojson`
 
 This is a GeoJSON FeatureCollection that
 contains all of TransLink's stops.
