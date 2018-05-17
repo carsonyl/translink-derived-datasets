@@ -1,13 +1,12 @@
 # TransLink derived datasets
 
-These are transit-related GeoJSON datasets for Metro Vancouver,
-derived from the [TransLink Open API](https://developer.translink.ca/) and
+These are GeoJSON and CSV datasets related to public transit in Metro Vancouver.
+The datasets are derived from the [TransLink Open API](https://developer.translink.ca/) and
 [GTFS Static Transit datasets](https://developer.translink.ca/ServicesGtfs/GtfsData).
 
-These datasets are current as of **2018-05-06**.
-
-As GeoJSON, these files can be previewed from within GitHub.
-[Learn more](https://help.github.com/articles/mapping-geojson-files-on-github/).
+GitHub can show previews of these [GeoJSON](https://help.github.com/articles/mapping-geojson-files-on-github/)
+and [CSV](https://help.github.com/articles/rendering-csv-and-tsv-data/)
+files.
 
 ## The datasets
 
@@ -84,6 +83,14 @@ For instance:
 ```
 
 Stops are sorted by their ID.
+
+
+### TransLink GTFS Stops CSV
+
+Location: `datasets/stops.csv`
+
+This is `stops.txt` in TransLink's GTFS Static Transit dataset,
+sorted by stop ID.
 
 
 # Disclaimer
