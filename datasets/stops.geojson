@@ -87663,24 +87663,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.801046,
-     49.029973
-    ],
-    "type": "Point"
-   },
-   "id": "6173",
-   "properties": {
-    "code": "56115",
-    "desc": "JOHNSTON RD @ RUSSELL AVE",
-    "id": "6173",
-    "name": "NB JOHNSTON RD FS RUSSELL AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.80105,
      49.032418
     ],
@@ -87998,24 +87980,6 @@
     "desc": "SOUTH SURREY PARK & RIDE @ BAY 3",
     "id": "6194",
     "name": "SOUTH SURREY PARK & RIDE BAY 3",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.801296,
-     49.030718
-    ],
-    "type": "Point"
-   },
-   "id": "6195",
-   "properties": {
-    "code": "56136",
-    "desc": "WHITE ROCK CENTRE @ BAY 3",
-    "id": "6195",
-    "name": "WHITE ROCK CENTRE BAY 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -108914,6 +108878,24 @@
     "desc": "SCOTT RD STN @ BAY 8",
     "id": "7639",
     "name": "SCOTT ROAD STN BAY 8",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.003294,
+     49.145481
+    ],
+    "type": "Point"
+   },
+   "id": "7641",
+   "properties": {
+    "code": "57568",
+    "desc": "RIVER RD @ HUSTON RD",
+    "id": "7641",
+    "name": "WB RIVER RD NS HUSTON RD",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -153111,24 +153093,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.003979,
-     49.14472
-    ],
-    "type": "Point"
-   },
-   "id": "12042",
-   "properties": {
-    "code": "61932",
-    "desc": "RIVER RD @ HUSTON RD",
-    "id": "12042",
-    "name": "WB RIVER RD FS HUSTON RD",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.768818,
      49.263926
     ],
@@ -159566,6 +159530,24 @@
     "desc": "HIGHLAND BLVD @ CANFIELD CRES",
     "id": "12524",
     "name": "SB HIGHLAND BLVD NS CANFIELD CRES",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.001829,
+     49.085464
+    ],
+    "type": "Point"
+   },
+   "id": "12525",
+   "properties": {
+    "code": "60252",
+    "desc": "80 ST @ 4500 BLOCK",
+    "id": "12525",
+    "name": "SB 80 ST AT 4500 BLOCK",
     "zone": "BUS ZN"
    },
    "type": "Feature"
