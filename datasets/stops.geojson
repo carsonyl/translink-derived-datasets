@@ -62031,8 +62031,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.117356,
-     49.282127
+     -123.117661,
+     49.28232
     ],
     "type": "Point"
    },
@@ -71132,24 +71132,6 @@
     "desc": "RIVER RD @ MILLAR RD",
     "id": "5090",
     "name": "EB RIVER RD NS MILLAR RD",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.89869,
-     49.18578
-    ],
-    "type": "Point"
-   },
-   "id": "5091",
-   "properties": {
-    "code": "55039",
-    "desc": "117 ST @ GRACE RD",
-    "id": "5091",
-    "name": "NB 117 ST NS GRACE RD",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -122601,8 +122583,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.117632,
-     49.282315
+     -123.117372,
+     49.28214
     ],
     "type": "Point"
    },
@@ -151059,24 +151041,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.898715,
-     49.185607
-    ],
-    "type": "Point"
-   },
-   "id": "11904",
-   "properties": {
-    "code": "61827",
-    "desc": "117 ST @ GRACE RD",
-    "id": "11904",
-    "name": "SB 117 ST FS GRACE RD",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.802055,
      49.133757
     ],
@@ -154382,24 +154346,6 @@
     "desc": "W BROADWAY @ OAK ST",
     "id": "12156",
     "name": "EB W BROADWAY NS OAK ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.1265,
-     49.262652
-    ],
-    "type": "Point"
-   },
-   "id": "12157",
-   "properties": {
-    "code": "59412",
-    "desc": "OAK ST @ W 10 AVE",
-    "id": "12157",
-    "name": "NB OAK ST FS W 10 AVE",
     "zone": "BUS ZN"
    },
    "type": "Feature"
