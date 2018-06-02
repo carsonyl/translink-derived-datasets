@@ -16473,24 +16473,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.026273,
-     49.232284
-    ],
-    "type": "Point"
-   },
-   "id": "1182",
-   "properties": {
-    "code": "51173",
-    "desc": "KINGSWAY @ LINCOLN ST",
-    "id": "1182",
-    "name": "WB KINGSWAY FS LINCOLN ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.029643,
      49.232118
     ],
@@ -121233,24 +121215,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.893017,
-     49.250209
-    ],
-    "type": "Point"
-   },
-   "id": "9008",
-   "properties": {
-    "code": "58630",
-    "desc": "NORTH RD @ 500 BLOCK",
-    "id": "9008",
-    "name": "SB NORTH RD AT 500 BLOCK",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.647367,
      49.075012
     ],
@@ -151365,24 +151329,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.091768,
-     49.32003
-    ],
-    "type": "Point"
-   },
-   "id": "11929",
-   "properties": {
-    "code": "61553",
-    "desc": "W 3RD ST @ BEWICKE AVE",
-    "id": "11929",
-    "name": "EB W 3 ST NS BEWICKE AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.119071,
      49.280483
     ],
@@ -156956,24 +156902,6 @@
     "desc": "COMO LAKE AVE @ TYNDALL ST",
     "id": "12338",
     "name": "WB COMO LAKE AVE FS TYNDALL ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.246706,
-     49.266036
-    ],
-    "type": "Point"
-   },
-   "id": "12339",
-   "properties": {
-    "code": "58292",
-    "desc": "UBC EXCHANGE @ BAY 13",
-    "id": "12339",
-    "name": "UBC EXCHANGE BAY 13",
     "zone": "BUS ZN"
    },
    "type": "Feature"
