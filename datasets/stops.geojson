@@ -3351,60 +3351,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.241849,
-     49.266827
-    ],
-    "type": "Point"
-   },
-   "id": "271",
-   "properties": {
-    "code": "50268",
-    "desc": "UNIVERSITY BLVD @ ALLISON RD",
-    "id": "271",
-    "name": "EB UNIVERSITY BLVD FS ALLISON RD",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.235217,
-     49.265327
-    ],
-    "type": "Point"
-   },
-   "id": "273",
-   "properties": {
-    "code": "50270",
-    "desc": "UNIVERSITY BLVD @ 5300 BLOCK",
-    "id": "273",
-    "name": "EB UNIVERSITY BLVD AT 5300 BLOCK",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.229095,
-     49.263486
-    ],
-    "type": "Point"
-   },
-   "id": "274",
-   "properties": {
-    "code": "50271",
-    "desc": "UNIVERSITY BLVD @ 5100 BLOCK",
-    "id": "274",
-    "name": "EB UNIVERSITY BLVD AT 5100 BLOCK",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.215067,
      49.264289
     ],
@@ -8006,78 +7952,6 @@
     "desc": "BLANCA ST @ CHANCELLOR BLVD",
     "id": "606",
     "name": "SB BLANCA ST FS CHANCELLOR BLVD",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.215915,
-     49.264016
-    ],
-    "type": "Point"
-   },
-   "id": "607",
-   "properties": {
-    "code": "50601",
-    "desc": "UNIVERSITY BLVD @ BLANCA ST",
-    "id": "607",
-    "name": "WB UNIVERSITY BLVD FS BLANCA ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.229837,
-     49.263693
-    ],
-    "type": "Point"
-   },
-   "id": "608",
-   "properties": {
-    "code": "50602",
-    "desc": "UNIVERSITY BLVD @ 5100 BLOCK",
-    "id": "608",
-    "name": "WB UNIVERSITY BLVD AT 5100 BLOCK",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.235541,
-     49.265815
-    ],
-    "type": "Point"
-   },
-   "id": "609",
-   "properties": {
-    "code": "50603",
-    "desc": "UNIVERSITY BLVD @ 5300 BLOCK",
-    "id": "609",
-    "name": "WB UNIVERSITY BLVD AT 5300 BLOCK",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.239311,
-     49.267024
-    ],
-    "type": "Point"
-   },
-   "id": "610",
-   "properties": {
-    "code": "50604",
-    "desc": "UNIVERSITY BLVD @ ACADIA RD",
-    "id": "610",
-    "name": "WB UNIVERSITY BLVD FS ACADIA RD",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -69699,6 +69573,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.899756,
+     49.185497
+    ],
+    "type": "Point"
+   },
+   "id": "4997",
+   "properties": {
+    "code": "54945",
+    "desc": "GRACE RD @ 117 ST",
+    "id": "4997",
+    "name": "WB GRACE RD FS 117 ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.9159,
      49.171954
     ],
@@ -69908,24 +69800,6 @@
     "desc": "84 AVE @ 112 ST",
     "id": "5019",
     "name": "EB 84 AVE FS 112 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.90646,
-     49.155896
-    ],
-    "type": "Point"
-   },
-   "id": "5020",
-   "properties": {
-    "code": "54968",
-    "desc": "84 AVE @ 114 ST",
-    "id": "5020",
-    "name": "EB 84 AVE FS 114 ST",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -70790,24 +70664,6 @@
     "desc": "84 AVE @ 116 ST",
     "id": "5072",
     "name": "WB 84 AVE FS 116 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.906435,
-     49.156031
-    ],
-    "type": "Point"
-   },
-   "id": "5073",
-   "properties": {
-    "code": "55021",
-    "desc": "84 AVE @ 114 ST",
-    "id": "5073",
-    "name": "WB 84 AVE NS 114 ST",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -113673,24 +113529,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.237822,
-     49.266503
-    ],
-    "type": "Point"
-   },
-   "id": "8013",
-   "properties": {
-    "code": "57938",
-    "desc": "UNIVERSITY BLVD @ ACADIA RD",
-    "id": "8013",
-    "name": "EB UNIVERSITY BLVD FS ACADIA RD",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.081606,
      49.328504
     ],
@@ -113735,7 +113573,7 @@
    "id": "8020",
    "properties": {
     "code": "",
-    "desc": "WEST COAST EXPRESS @ PORT MOODY STATION",
+    "desc": "WEST COAST EXPRESS @ MOODY CENTRE STATION",
     "id": "8020",
     "name": "MOODY CENTRE STN EASTBOUND",
     "zone": "WCE2Z"
@@ -113969,7 +113807,7 @@
    "id": "8033",
    "properties": {
     "code": "",
-    "desc": "WEST COAST EXPRESS @ PORT MOODY STATION",
+    "desc": "WEST COAST EXPRESS @ MOODY CENTRE STATION",
     "id": "8033",
     "name": "MOODY CENTRE STN WESTBOUND",
     "zone": "WCE2Z"
@@ -124941,6 +124779,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.043632,
+     49.285674
+    ],
+    "type": "Point"
+   },
+   "id": "9359",
+   "properties": {
+    "code": "58030",
+    "desc": "N BUS ACCESS RD @ E 29TH AVE",
+    "id": "9359",
+    "name": "PNE COLISEUM LOOP",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.742182,
      49.264247
     ],
@@ -127652,6 +127508,24 @@
     "desc": "JACKSON RD @ 104 AVE",
     "id": "9632",
     "name": "SB JACKSON RD FS 104 AVE",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.856819,
+     49.33871
+    ],
+    "type": "Point"
+   },
+   "id": "9633",
+   "properties": {
+    "code": "59225",
+    "desc": "BUS STOP @ BUNTZEN LAKE",
+    "id": "9633",
+    "name": "BUNTZEN LAKE PARKING LOT",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -138218,6 +138092,24 @@
     "desc": "CAMBIE ST @ W 64 AVE",
     "id": "10857",
     "name": "NB CAMBIE ST FS W 64 AVE",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.855612,
+     49.322425
+    ],
+    "type": "Point"
+   },
+   "id": "10858",
+   "properties": {
+    "code": "61018",
+    "desc": "PARK ACCESS RD @ ANMORE GROCERY STORE",
+    "id": "10858",
+    "name": "FLAGSTOP NB AT ANMORE GROCERY STORE",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -149493,6 +149385,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.044987,
+     49.244392
+    ],
+    "type": "Point"
+   },
+   "id": "11762",
+   "properties": {
+    "code": "61616",
+    "desc": "29TH AVENUE STATION @ BAY 5",
+    "id": "11762",
+    "name": "29TH AVE STN BAY 5",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.849708,
      49.189461
     ],
@@ -156909,6 +156819,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.246706,
+     49.266036
+    ],
+    "type": "Point"
+   },
+   "id": "12339",
+   "properties": {
+    "code": "58292",
+    "desc": "UBC EXCHANGE @ BAY 13",
+    "id": "12339",
+    "name": "UBC EXCHANGE BAY 13",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.246112,
      49.266811
     ],
@@ -157136,24 +157064,6 @@
     "desc": "RUSS BAKER WAY @ MILLER RD",
     "id": "12356",
     "name": "NB RUSS BAKER WAY NS MILLER RD",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.24863,
-     49.267177
-    ],
-    "type": "Point"
-   },
-   "id": "12360",
-   "properties": {
-    "code": "60160",
-    "desc": "UBC EXCHANGE @ BAY 14",
-    "id": "12360",
-    "name": "UBC EXCHANGE BAY 14",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158871,24 +158781,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.244736,
-     49.266634
-    ],
-    "type": "Point"
-   },
-   "id": "12483",
-   "properties": {
-    "code": "60219",
-    "desc": "UNIVERSITY BLVD @ WESTERN PARKWAY",
-    "id": "12483",
-    "name": "WB UNIVERSITY BLVD FS WESTERN PARKWAY",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.785542,
      49.044433
     ],
@@ -159422,6 +159314,60 @@
     "desc": "80 ST @ 4500 BLOCK",
     "id": "12525",
     "name": "SB 80 ST AT 4500 BLOCK",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.215431,
+     49.265376
+    ],
+    "type": "Point"
+   },
+   "id": "12526",
+   "properties": {
+    "code": "60274",
+    "desc": "BLANCA LOOP @ LOADING ONLY",
+    "id": "12526",
+    "name": "BLANCA LOOP LOADING ONLY",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.21504,
+     49.265097
+    ],
+    "type": "Point"
+   },
+   "id": "12527",
+   "properties": {
+    "code": "60273",
+    "desc": "BLANCA ST @ W 9 AVE",
+    "id": "12527",
+    "name": "NB BLANCA ST FS W 9 AVE",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.12653,
+     49.262225
+    ],
+    "type": "Point"
+   },
+   "id": "12528",
+   "properties": {
+    "code": "60266",
+    "desc": "OAK ST @ W 10 AVE",
+    "id": "12528",
+    "name": "NB OAK ST NS W 10 AVE",
     "zone": "BUS ZN"
    },
    "type": "Feature"
