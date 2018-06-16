@@ -38397,6 +38397,96 @@
   {
    "geometry": {
     "coordinates": [
+     -123.014293,
+     49.280694
+    ],
+    "type": "Point"
+   },
+   "id": "2769",
+   "properties": {
+    "code": "52742",
+    "desc": "GILMORE AVE @ HASTINGS ST",
+    "id": "2769",
+    "name": "SB GILMORE AVE FS HASTINGS ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.01431,
+     49.278057
+    ],
+    "type": "Point"
+   },
+   "id": "2770",
+   "properties": {
+    "code": "52743",
+    "desc": "GILMORE AVE @ GEORGIA ST",
+    "id": "2770",
+    "name": "SB GILMORE AVE FS GEORGIA ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.014344,
+     49.276367
+    ],
+    "type": "Point"
+   },
+   "id": "2771",
+   "properties": {
+    "code": "52744",
+    "desc": "GILMORE AVE @ VENABLES ST",
+    "id": "2771",
+    "name": "SB GILMORE AVE FS VENABLES ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.014338,
+     49.273628
+    ],
+    "type": "Point"
+   },
+   "id": "2772",
+   "properties": {
+    "code": "52745",
+    "desc": "GILMORE AVE @ WILLIAM ST",
+    "id": "2772",
+    "name": "SB GILMORE AVE FS WILLIAM ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.014355,
+     49.271857
+    ],
+    "type": "Point"
+   },
+   "id": "2773",
+   "properties": {
+    "code": "52746",
+    "desc": "GILMORE AVE @ KITCHENER ST",
+    "id": "2773",
+    "name": "SB GILMORE AVE FS KITCHENER ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.990696,
      49.264308
     ],
@@ -39020,6 +39110,114 @@
     "desc": "DOUGLAS RD @ SPRINGER AVE",
     "id": "2819",
     "name": "NB DOUGLAS RD FS SPRINGER AVE",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.014183,
+     49.270576
+    ],
+    "type": "Point"
+   },
+   "id": "2827",
+   "properties": {
+    "code": "52798",
+    "desc": "GILMORE AVE @ DOUGLAS RD",
+    "id": "2827",
+    "name": "NB GILMORE AVE FS DOUGLAS RD",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.014164,
+     49.272367
+    ],
+    "type": "Point"
+   },
+   "id": "2828",
+   "properties": {
+    "code": "52799",
+    "desc": "GILMORE AVE @ KITCHENER ST",
+    "id": "2828",
+    "name": "NB GILMORE AVE FS KITCHENER ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.014169,
+     49.274137
+    ],
+    "type": "Point"
+   },
+   "id": "2829",
+   "properties": {
+    "code": "52800",
+    "desc": "GILMORE AVE @ WILLIAM ST",
+    "id": "2829",
+    "name": "NB GILMORE AVE FS WILLIAM ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.01418,
+     49.275977
+    ],
+    "type": "Point"
+   },
+   "id": "2830",
+   "properties": {
+    "code": "52801",
+    "desc": "GILMORE AVE @ PARKER ST",
+    "id": "2830",
+    "name": "NB GILMORE AVE FS PARKER ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.014142,
+     49.277749
+    ],
+    "type": "Point"
+   },
+   "id": "2831",
+   "properties": {
+    "code": "52802",
+    "desc": "GILMORE AVE @ UNION ST",
+    "id": "2831",
+    "name": "NB GILMORE AVE FS UNION ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.014114,
+     49.279524
+    ],
+    "type": "Point"
+   },
+   "id": "2832",
+   "properties": {
+    "code": "52803",
+    "desc": "GILMORE AVE @ FRANCES ST",
+    "id": "2832",
+    "name": "NB GILMORE AVE FS FRANCES ST",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -118569,6 +118767,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.014362,
+     49.267781
+    ],
+    "type": "Point"
+   },
+   "id": "8738",
+   "properties": {
+    "code": "58387",
+    "desc": "GILMORE AVE @ 2 AVE",
+    "id": "8738",
+    "name": "SB GILMORE AVE FS 2 AVE",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.018496,
      49.263862
     ],
@@ -121046,6 +121262,24 @@
     "desc": "WESTMINSTER HWY @ NELSON RD",
     "id": "9007",
     "name": "EB WESTMINSTER HWY NS NELSON RD",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.014355,
+     49.269887
+    ],
+    "type": "Point"
+   },
+   "id": "9010",
+   "properties": {
+    "code": "58598",
+    "desc": "GILMORE AVE @ DOUGLAS RD",
+    "id": "9010",
+    "name": "SB GILMORE AVE FS DOUGLAS RD",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -139017,24 +139251,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.184426,
-     49.258051
-    ],
-    "type": "Point"
-   },
-   "id": "10968",
-   "properties": {
-    "code": "61132",
-    "desc": "W 16 AVE @ DUNBAR ST",
-    "id": "10968",
-    "name": "WB W 16 AVE FS DUNBAR ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.184606,
      49.257785
     ],
@@ -147416,24 +147632,6 @@
     "desc": "E 3RD ST @ GLADSTONE AVE",
     "id": "11601",
     "name": "WB E 3 ST FS GLADSTONE AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.040574,
-     49.308077
-    ],
-    "type": "Point"
-   },
-   "id": "11602",
-   "properties": {
-    "code": "54331",
-    "desc": "BROOKSBANK AVE @ E 3RD ST",
-    "id": "11602",
-    "name": "SB BROOKSBANK AVE FS E 3 ST",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159368,6 +159566,60 @@
     "desc": "OAK ST @ W 10 AVE",
     "id": "12528",
     "name": "NB OAK ST NS W 10 AVE",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.023789,
+     49.169828
+    ],
+    "type": "Point"
+   },
+   "id": "12530",
+   "properties": {
+    "code": "61784",
+    "desc": "WESTMINSTER HY @ NO 8 RD",
+    "id": "12530",
+    "name": "EB WESTMINSTER HY FS NO 8 RD",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.119063,
+     49.177384
+    ],
+    "type": "Point"
+   },
+   "id": "12532",
+   "properties": {
+    "code": "60154",
+    "desc": "ALDERBRIDGE WAY @ MAY DR",
+    "id": "12532",
+    "name": "WB ALDERBRIDGE WAY FS MAY DR",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.118934,
+     49.177158
+    ],
+    "type": "Point"
+   },
+   "id": "12533",
+   "properties": {
+    "code": "60155",
+    "desc": "ALDERBRIDGE WAY @ MAY DR",
+    "id": "12533",
+    "name": "EB ALDERBRIDGE WAY NS MAY DR",
     "zone": "BUS ZN"
    },
    "type": "Feature"
