@@ -8031,24 +8031,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.119136,
-     49.28082
-    ],
-    "type": "Point"
-   },
-   "id": "623",
-   "properties": {
-    "code": "50617",
-    "desc": "ROBSON ST @ SEYMOUR ST",
-    "id": "623",
-    "name": "EB ROBSON ST NS SEYMOUR ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.116411,
      49.233991
     ],
@@ -52419,24 +52401,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.747793,
-     49.263782
-    ],
-    "type": "Point"
-   },
-   "id": "3823",
-   "properties": {
-    "code": "53784",
-    "desc": "RIVERWOOD GATE @ TERRY FOX SECONDARY",
-    "id": "3823",
-    "name": "EB RIVERWOOD GATE AT TERRY FOX SECONDARY",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.775365,
      49.266862
     ],
@@ -83955,24 +83919,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.807316,
-     49.155589
-    ],
-    "type": "Point"
-   },
-   "id": "5926",
-   "properties": {
-    "code": "55870",
-    "desc": "84 AVE @ 150 ST",
-    "id": "5926",
-    "name": "WB 84 AVE FS 150 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.812993,
      49.155608
     ],
@@ -84279,60 +84225,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.811953,
-     49.155446
-    ],
-    "type": "Point"
-   },
-   "id": "5945",
-   "properties": {
-    "code": "55889",
-    "desc": "84 AVE @ 148 ST",
-    "id": "5945",
-    "name": "EB 84 AVE FS 148 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.806588,
-     49.155465
-    ],
-    "type": "Point"
-   },
-   "id": "5946",
-   "properties": {
-    "code": "55890",
-    "desc": "84 AVE @ 150 ST",
-    "id": "5946",
-    "name": "EB 84 AVE FS 150 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.802014,
-     49.155603
-    ],
-    "type": "Point"
-   },
-   "id": "5947",
-   "properties": {
-    "code": "55891",
-    "desc": "84 AVE @ 152 ST",
-    "id": "5947",
-    "name": "WB 84 AVE FS 152 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.796138,
      49.155458
     ],
@@ -84506,24 +84398,6 @@
     "desc": "148 ST @ SPENSER DR",
     "id": "5957",
     "name": "SB 148 ST FS SPENSER DR",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.789355,
-     49.14819
-    ],
-    "type": "Point"
-   },
-   "id": "5958",
-   "properties": {
-    "code": "55902",
-    "desc": "80 AVE @ 156 ST",
-    "id": "5958",
-    "name": "EB 80 AVE FS 156 ST",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -90543,42 +90417,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.868821,
-     49.04583
-    ],
-    "type": "Point"
-   },
-   "id": "6366",
-   "properties": {
-    "code": "56306",
-    "desc": "24 AVE @ 128 ST",
-    "id": "6366",
-    "name": "WB 24 AVE FS 128 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.87619,
-     49.04584
-    ],
-    "type": "Point"
-   },
-   "id": "6367",
-   "properties": {
-    "code": "56307",
-    "desc": "24 AVE @ 124B ST",
-    "id": "6367",
-    "name": "WB 24 AVE NS 124B ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.878496,
      49.045527
     ],
@@ -91022,132 +90860,6 @@
     "desc": "160 ST @ 20 AVE",
     "id": "6403",
     "name": "NB 160 ST NS 20 AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.851445,
-     49.045844
-    ],
-    "type": "Point"
-   },
-   "id": "6425",
-   "properties": {
-    "code": "56365",
-    "desc": "24 AVE @ 134 ST",
-    "id": "6425",
-    "name": "WB 24 AVE FS 134 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.856816,
-     49.045834
-    ],
-    "type": "Point"
-   },
-   "id": "6426",
-   "properties": {
-    "code": "56366",
-    "desc": "24 AVE @ 132 ST",
-    "id": "6426",
-    "name": "WB 24 AVE FS 132 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.861486,
-     49.045834
-    ],
-    "type": "Point"
-   },
-   "id": "6427",
-   "properties": {
-    "code": "56367",
-    "desc": "24 AVE @ 130 ST",
-    "id": "6427",
-    "name": "WB 24 AVE FS 130 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.866177,
-     49.045703
-    ],
-    "type": "Point"
-   },
-   "id": "6428",
-   "properties": {
-    "code": "56368",
-    "desc": "24 AVE @ 128 ST",
-    "id": "6428",
-    "name": "EB 24 AVE FS 128 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.860782,
-     49.045704
-    ],
-    "type": "Point"
-   },
-   "id": "6429",
-   "properties": {
-    "code": "56369",
-    "desc": "24 AVE @ 130 ST",
-    "id": "6429",
-    "name": "EB 24 AVE FS 130 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.855979,
-     49.045706
-    ],
-    "type": "Point"
-   },
-   "id": "6430",
-   "properties": {
-    "code": "56370",
-    "desc": "24 AVE @ 132 ST",
-    "id": "6430",
-    "name": "EB 24 AVE FS 132 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.850534,
-     49.045684
-    ],
-    "type": "Point"
-   },
-   "id": "6431",
-   "properties": {
-    "code": "56371",
-    "desc": "24 AVE @ 134 ST",
-    "id": "6431",
-    "name": "EB 24 AVE FS 134 ST",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -101451,24 +101163,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.661315,
-     49.144835
-    ],
-    "type": "Point"
-   },
-   "id": "7107",
-   "properties": {
-    "code": "57039",
-    "desc": "202A ST @ 7800 BLOCK",
-    "id": "7107",
-    "name": "NB 202A ST AT 7800 BLOCK",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.668046,
      49.134251
     ],
@@ -101768,42 +101462,6 @@
     "desc": "200 ST @ 9200 BLOCK",
     "id": "7132",
     "name": "SB 200 ST AT 9200 BLOCK",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.666432,
-     49.148143
-    ],
-    "type": "Point"
-   },
-   "id": "7136",
-   "properties": {
-    "code": "57068",
-    "desc": "80 AVE @ 200 ST",
-    "id": "7136",
-    "name": "EB 80 AVE FS 200 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.661518,
-     49.143361
-    ],
-    "type": "Point"
-   },
-   "id": "7137",
-   "properties": {
-    "code": "57069",
-    "desc": "202A ST @ 7700 BLOCK",
-    "id": "7137",
-    "name": "SB 202A ST AT 7700 BLOCK",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -110459,9 +110117,9 @@
    "id": "7748",
    "properties": {
     "code": "57675",
-    "desc": "HAMMOND RD @ 203 ST",
+    "desc": "MAPLE CRES @ 203 ST",
     "id": "7748",
-    "name": "SB HAMMOND RD FS 203 ST",
+    "name": "EB MAPLE CRES FS 203 ST",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -111287,9 +110945,9 @@
    "id": "7800",
    "properties": {
     "code": "57726",
-    "desc": "HAMMOND RD @ 115 AVE",
+    "desc": "MAPLE CRES @ 115 AVE",
     "id": "7800",
-    "name": "NB HAMMOND RD NS 115 AVE",
+    "name": "WB MAPLE CRES NS 115 AVE",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -113720,24 +113378,6 @@
     "desc": "TAMARACK LANE @ LOUGHEED HWY",
     "id": "8008",
     "name": "WB TAMARACK LANE NS LOUGHEED HWY",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.081606,
-     49.328504
-    ],
-    "type": "Point"
-   },
-   "id": "8018",
-   "properties": {
-    "code": "57943",
-    "desc": "JONES AVE @ W 21 ST",
-    "id": "8018",
-    "name": "SB JONES AVE NS W 21 ST",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -117453,24 +117093,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.751944,
-     49.258466
-    ],
-    "type": "Point"
-   },
-   "id": "8592",
-   "properties": {
-    "code": "53831",
-    "desc": "DOMINION AVE @ ARCHBISHOP CARNEY SECONDARY",
-    "id": "8592",
-    "name": "WB DOMINION AVE AT ARCHBISHOP CARNEY SECONDARY",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.130846,
      49.192071
     ],
@@ -120225,24 +119847,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.800512,
-     49.168347
-    ],
-    "type": "Point"
-   },
-   "id": "8917",
-   "properties": {
-    "code": "58515",
-    "desc": "91 AVE @ 152 ST",
-    "id": "8917",
-    "name": "WB 91 AVE NS 152 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.956525,
      49.25166
     ],
@@ -122565,24 +122169,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.974395,
-     49.244496
-    ],
-    "type": "Point"
-   },
-   "id": "9126",
-   "properties": {
-    "code": "58729",
-    "desc": "DEER LAKE PARKWAY @ CANADA WAY (P3)",
-    "id": "9126",
-    "name": "SB DEER LAKE PARKWAY FS CANADA WAY---",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.83835,
      49.256088
     ],
@@ -122648,24 +122234,6 @@
     "desc": "W GEORGIA ST @ BUTE ST",
     "id": "9131",
     "name": "WB W GEORGIA ST FS BUTE ST--",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.84726,
-     49.045679
-    ],
-    "type": "Point"
-   },
-   "id": "9132",
-   "properties": {
-    "code": "56372",
-    "desc": "24 AVE @ 136 ST",
-    "id": "9132",
-    "name": "EB 24 AVE NS 136 ST",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -128055,24 +127623,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.556573,
-     49.200484
-    ],
-    "type": "Point"
-   },
-   "id": "9672",
-   "properties": {
-    "code": "59193",
-    "desc": "240 ST @ 109 AVE",
-    "id": "9672",
-    "name": "NB 240 ST FS 109 AVE--",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.557778,
      49.20587
     ],
@@ -130179,6 +129729,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.127085,
+     49.273623
+    ],
+    "type": "Point"
+   },
+   "id": "10057",
+   "properties": {
+    "code": "50087",
+    "desc": "PACIFIC ST @ RICHARDS ST",
+    "id": "10057",
+    "name": "WB PACIFIC ST NS RICHARDS ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.124214,
      49.27342
     ],
@@ -131475,42 +131043,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.556596,
-     49.206124
-    ],
-    "type": "Point"
-   },
-   "id": "10210",
-   "properties": {
-    "code": "59697",
-    "desc": "240 ST @ 112 AVE",
-    "id": "10210",
-    "name": "NB 240 ST FS 112 AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.556692,
-     49.212037
-    ],
-    "type": "Point"
-   },
-   "id": "10211",
-   "properties": {
-    "code": "59695",
-    "desc": "240 ST @ 11500 BLOCK",
-    "id": "10211",
-    "name": "NB 240 ST AT 11500 BLOCK",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.556703,
      49.205433
     ],
@@ -131540,60 +131072,6 @@
     "desc": "HOLLY PARK DR @ 62 ST",
     "id": "10213",
     "name": "WB HOLLY PARK DR NS 62 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.557188,
-     49.219802
-    ],
-    "type": "Point"
-   },
-   "id": "10215",
-   "properties": {
-    "code": "59692",
-    "desc": "240 ST @ DEWDNEY TRUNK RD",
-    "id": "10215",
-    "name": "SB 240 ST FS DEWDNEY TRUNK RD",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.556883,
-     49.211555
-    ],
-    "type": "Point"
-   },
-   "id": "10217",
-   "properties": {
-    "code": "59696",
-    "desc": "240 ST @ 11500 BLOCK",
-    "id": "10217",
-    "name": "SB 240 ST AT 11500 BLOCK",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.55685,
-     49.21665
-    ],
-    "type": "Point"
-   },
-   "id": "10218",
-   "properties": {
-    "code": "59693",
-    "desc": "240 ST @ 118 AVE",
-    "id": "10218",
-    "name": "NB 240 ST NS 118 AVE",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -139035,24 +138513,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.00393,
-     49.243038
-    ],
-    "type": "Point"
-   },
-   "id": "10928",
-   "properties": {
-    "code": "60859",
-    "desc": "MOSCROP ST @ WILLINGDON AVE",
-    "id": "10928",
-    "name": "WB MOSCROP ST FS WILLINGDON AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.949711,
      49.199857
     ],
@@ -140691,24 +140151,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.55709,
-     49.217262
-    ],
-    "type": "Point"
-   },
-   "id": "11070",
-   "properties": {
-    "code": "59713",
-    "desc": "240 ST @ 118 AVE",
-    "id": "11070",
-    "name": "SB 240 ST NS 118 AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.200648,
      49.268938
     ],
@@ -141368,24 +140810,6 @@
     "desc": "64 AVE @ SCOTT RD",
     "id": "11121",
     "name": "EB 64 AVE FS SCOTT RD",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.868362,
-     49.119211
-    ],
-    "type": "Point"
-   },
-   "id": "11122",
-   "properties": {
-    "code": "61170",
-    "desc": "64 AVE @ 128 ST",
-    "id": "11122",
-    "name": "WB 64 AVE FS 128 ST",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -143589,24 +143013,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.088428,
-     49.325675
-    ],
-    "type": "Point"
-   },
-   "id": "11261",
-   "properties": {
-    "code": "61336",
-    "desc": "LARSON RD @ FIR ST",
-    "id": "11261",
-    "name": "EB LARSON RD FS FIR ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.130464,
      49.205381
     ],
@@ -145220,42 +144626,6 @@
     "desc": "NO. 3 RD @ LANSDOWNE RD",
     "id": "11388",
     "name": "NB NO. 3 RD FS LANSDOWNE RD",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.010562,
-     49.232808
-    ],
-    "type": "Point"
-   },
-   "id": "11390",
-   "properties": {
-    "code": "61351",
-    "desc": "GRANGE ST @ BARKER AVE",
-    "id": "11390",
-    "name": "EB GRANGE ST FS BARKER AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.006294,
-     49.232173
-    ],
-    "type": "Point"
-   },
-   "id": "11391",
-   "properties": {
-    "code": "61352",
-    "desc": "GRANGE ST @ WILSON AVE",
-    "id": "11391",
-    "name": "EB GRANGE ST FS WILSON AVE",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -147207,24 +146577,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.012088,
-     49.22929
-    ],
-    "type": "Point"
-   },
-   "id": "11570",
-   "properties": {
-    "code": "61549",
-    "desc": "PATTERSON STATION @ BAY 3",
-    "id": "11570",
-    "name": "PATTERSON STN BAY 3",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.77348,
      49.244874
     ],
@@ -147639,8 +146991,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.040537,
-     49.309617
+     -123.040509,
+     49.310658
     ],
     "type": "Point"
    },
@@ -147686,6 +147038,24 @@
     "desc": "BROOKSBANK AVE @ E 5TH ST",
     "id": "11605",
     "name": "NB BROOKSBANK AVE FS E 5 ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.06875,
+     49.262416
+    ],
+    "type": "Point"
+   },
+   "id": "11606",
+   "properties": {
+    "code": "50913",
+    "desc": "E BROADWAY @ COMMERCIAL DR",
+    "id": "11606",
+    "name": "WB E BROADWAY NS COMMERCIAL DR BAY 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -150188,24 +149558,6 @@
     "desc": "152 ST @ 104 AVE",
     "id": "11819",
     "name": "SB 152 ST FS 104 AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.116234,
-     49.286709
-    ],
-    "type": "Point"
-   },
-   "id": "11820",
-   "properties": {
-    "code": "50033",
-    "desc": "W HASTINGS ST @ HORNBY ST",
-    "id": "11820",
-    "name": "EB W HASTINGS ST NS HORNBY ST",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -153518,24 +152870,6 @@
     "desc": "POWELL ST @ CLARK DR",
     "id": "12071",
     "name": "WB POWELL ST NS CLARK DR",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.070309,
-     49.262442
-    ],
-    "type": "Point"
-   },
-   "id": "12073",
-   "properties": {
-    "code": "58182",
-    "desc": "E BROADWAY @ COMMERCIAL DR",
-    "id": "12073",
-    "name": "WB E BROADWAY FS COMMERCIAL DR",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159591,6 +158925,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.156999,
+     49.340163
+    ],
+    "type": "Point"
+   },
+   "id": "12531",
+   "properties": {
+    "code": "60276",
+    "desc": "15TH ST @ OTTAWA AVE",
+    "id": "12531",
+    "name": "SB 15 ST NS OTTAWA AVE",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.119063,
      49.177384
     ],
@@ -159620,6 +158972,24 @@
     "desc": "ALDERBRIDGE WAY @ MAY DR",
     "id": "12533",
     "name": "EB ALDERBRIDGE WAY NS MAY DR",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.898602,
+     49.186221
+    ],
+    "type": "Point"
+   },
+   "id": "12534",
+   "properties": {
+    "code": "59372",
+    "desc": "GRACE RD @ 117 ST",
+    "id": "12534",
+    "name": "EB GRACE RD FS 117 ST",
     "zone": "BUS ZN"
    },
    "type": "Feature"
