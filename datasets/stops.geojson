@@ -1065,6 +1065,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.116055,
+     49.285523
+    ],
+    "type": "Point"
+   },
+   "id": "97",
+   "properties": {
+    "code": "50097",
+    "desc": "W PENDER ST @ HOWE ST",
+    "id": "97",
+    "name": "WB W PENDER ST FS HOWE ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.12964,
      49.278914
     ],
@@ -13658,6 +13676,24 @@
     "desc": "SEYMOUR ST @ DAVIE ST",
     "id": "1013",
     "name": "NB SEYMOUR ST FS DAVIE ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.117549,
+     49.281477
+    ],
+    "type": "Point"
+   },
+   "id": "1016",
+   "properties": {
+    "code": "58065",
+    "desc": "SEYMOUR ST @ ROBSON ST",
+    "id": "1016",
+    "name": "NB SEYMOUR ST FS ROBSON ST",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -39092,6 +39128,24 @@
     "desc": "DOUGLAS RD @ SPRINGER AVE",
     "id": "2819",
     "name": "NB DOUGLAS RD FS SPRINGER AVE",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.998687,
+     49.266442
+    ],
+    "type": "Point"
+   },
+   "id": "2821",
+   "properties": {
+    "code": "52792",
+    "desc": "LOUGHEED HWY @ BETA AVE",
+    "id": "2821",
+    "name": "WB LOUGHEED HWY FS BETA AVE",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -132249,8 +132303,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.631932,
-     49.219457
+     -122.631956,
+     49.218665
     ],
     "type": "Point"
    },
@@ -150123,42 +150177,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.002945,
-     49.267238
-    ],
-    "type": "Point"
-   },
-   "id": "11873",
-   "properties": {
-    "code": "61801",
-    "desc": "BRENTWOOD STN @ BAY 1",
-    "id": "11873",
-    "name": "BRENTWOOD STN BAY 1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.001909,
-     49.266536
-    ],
-    "type": "Point"
-   },
-   "id": "11874",
-   "properties": {
-    "code": "61802",
-    "desc": "BRENTWOOD STN @ BAY 2",
-    "id": "11874",
-    "name": "BRENTWOOD STN BAY 2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.99977,
      49.266221
     ],
@@ -151016,6 +151034,24 @@
     "desc": "NORTH RD @ FOSTER AVE",
     "id": "11946",
     "name": "NB NORTH RD NS FOSTER AVE",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.002989,
+     49.268632
+    ],
+    "type": "Point"
+   },
+   "id": "11947",
+   "properties": {
+    "code": "58287",
+    "desc": "WILLINGDON AVE @ HALIFAX ST",
+    "id": "11947",
+    "name": "NB WILLINGDON AVE FS HALIFAX ST",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156704,6 +156740,24 @@
     "desc": "BURRARD STN @ BAY 5",
     "id": "12375",
     "name": "BURRARD STN BAY 5",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.11051,
+     49.284328
+    ],
+    "type": "Point"
+   },
+   "id": "12378",
+   "properties": {
+    "code": "60196",
+    "desc": "W CORDOVA ST @ RICHARDS ST",
+    "id": "12378",
+    "name": "EB W CORDOVA ST FS RICHARDS ST",
     "zone": "BUS ZN"
    },
    "type": "Feature"
