@@ -142887,24 +142887,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.749983,
-     49.258336
-    ],
-    "type": "Point"
-   },
-   "id": "11249",
-   "properties": {
-    "code": "61273",
-    "desc": "DOMINION AVE @ ARCHBISHOP CARNEY SECONDARY",
-    "id": "11249",
-    "name": "EB DOMINION AVE AT ARCHBISHOP CARNEY SECONDARY",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.126551,
      49.195229
     ],
@@ -156740,24 +156722,6 @@
     "desc": "BURRARD STN @ BAY 5",
     "id": "12375",
     "name": "BURRARD STN BAY 5",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.11051,
-     49.284328
-    ],
-    "type": "Point"
-   },
-   "id": "12378",
-   "properties": {
-    "code": "60196",
-    "desc": "W CORDOVA ST @ RICHARDS ST",
-    "id": "12378",
-    "name": "EB W CORDOVA ST FS RICHARDS ST",
     "zone": "BUS ZN"
    },
    "type": "Feature"
