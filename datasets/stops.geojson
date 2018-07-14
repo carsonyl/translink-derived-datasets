@@ -55641,6 +55641,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.054317,
+     49.328615
+    ],
+    "type": "Point"
+   },
+   "id": "4058",
+   "properties": {
+    "code": "54017",
+    "desc": "BOULEVARD CRES @ SUTHERLAND AVE",
+    "id": "4058",
+    "name": "SB BOULEVARD CRES NS SUTHERLAND AVE",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.056353,
      49.325776
     ],
@@ -142635,24 +142653,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.233563,
-     49.430227
-    ],
-    "type": "Point"
-   },
-   "id": "11234",
-   "properties": {
-    "code": "61317",
-    "desc": "HIGHWAY 99 @ OCEAN POINT DR",
-    "id": "11234",
-    "name": "NB HWY 99 AT OCEAN POINT DR",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.23386,
      49.43045
     ],
@@ -153914,24 +153914,6 @@
     "desc": "UBC EXCHANGE @ BAY 1",
     "id": "12178",
     "name": "UBC EXCHANGE BAY 1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.105618,
-     49.339427
-    ],
-    "type": "Point"
-   },
-   "id": "12180",
-   "properties": {
-    "code": "54363",
-    "desc": "RIDGEWOOD DR @ EDGEMONT BLVD",
-    "id": "12180",
-    "name": "WB RIDGEWOOD DR FS EDGEMONT BLVD",
     "zone": "BUS ZN"
    },
    "type": "Feature"
