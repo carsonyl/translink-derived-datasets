@@ -39135,24 +39135,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.998687,
-     49.266442
-    ],
-    "type": "Point"
-   },
-   "id": "2821",
-   "properties": {
-    "code": "52792",
-    "desc": "LOUGHEED HWY @ BETA AVE",
-    "id": "2821",
-    "name": "WB LOUGHEED HWY FS BETA AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.014183,
      49.270576
     ],
@@ -104583,6 +104565,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.476051,
+     49.058148
+    ],
+    "type": "Point"
+   },
+   "id": "7379",
+   "properties": {
+    "code": "57306",
+    "desc": "FRASER HWY @ 270 ST",
+    "id": "7379",
+    "name": "EB FRASER HWY FS 270 ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.469684,
      49.060417
     ],
@@ -132753,42 +132753,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.59665,
-     49.217181
-    ],
-    "type": "Point"
-   },
-   "id": "10343",
-   "properties": {
-    "code": "59774",
-    "desc": "LOUGHEED HWY @ 226 ST",
-    "id": "10343",
-    "name": "WB LOUGHEED HWY FS 226 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.601051,
-     49.217028
-    ],
-    "type": "Point"
-   },
-   "id": "10344",
-   "properties": {
-    "code": "59773",
-    "desc": "LOUGHEED HWY @ 224 ST",
-    "id": "10344",
-    "name": "WB LOUGHEED HWY NS 224 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.59391,
      49.220874
     ],
@@ -148251,6 +148215,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.912513,
+     49.200804
+    ],
+    "type": "Point"
+   },
+   "id": "11713",
+   "properties": {
+    "code": "61650",
+    "desc": "NEW WESTMINSTER STATION @ BAY 3",
+    "id": "11713",
+    "name": "NEW WESTMINSTER STN BAY 3",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.912182,
      49.200991
     ],
@@ -158990,6 +158972,24 @@
     "desc": "GRACE RD @ 117 ST",
     "id": "12534",
     "name": "EB GRACE RD FS 117 ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.88435,
+     49.314355
+    ],
+    "type": "Point"
+   },
+   "id": "12536",
+   "properties": {
+    "code": "60271",
+    "desc": "BEDWELL BAY RD @ WHITE PINE BEACH RD",
+    "id": "12536",
+    "name": "WB BEDWELL BAY RD AT WHITE PINE BEACH RD",
     "zone": "BUS ZN"
    },
    "type": "Feature"
