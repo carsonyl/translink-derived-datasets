@@ -13691,9 +13691,9 @@
    "id": "1016",
    "properties": {
     "code": "58065",
-    "desc": "SEYMOUR ST @ ROBSON ST",
+    "desc": "SEYMOUR ST @ W GEORGIA ST",
     "id": "1016",
-    "name": "NB SEYMOUR ST FS ROBSON ST",
+    "name": "NB SEYMOUR ST NS W GEORGIA ST",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -22611,24 +22611,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.101632,
-     49.248868
-    ],
-    "type": "Point"
-   },
-   "id": "1583",
-   "properties": {
-    "code": "51571",
-    "desc": "E KING EDWARD AVE @ MAIN ST",
-    "id": "1583",
-    "name": "WB E KING EDWARD AVE NS MAIN ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.105388,
      49.248922
     ],
@@ -23763,24 +23745,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.032539,
-     49.238732
-    ],
-    "type": "Point"
-   },
-   "id": "1651",
-   "properties": {
-    "code": "51639",
-    "desc": "JOYCE STN @ BAY 3",
-    "id": "1651",
-    "name": "JOYCE STN BAY 3",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.033907,
      49.236266
     ],
@@ -24314,24 +24278,6 @@
     "desc": "RUPERT ST @ E 41 AVE",
     "id": "1683",
     "name": "NB RUPERT ST FS E 41 AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.032702,
-     49.238709
-    ],
-    "type": "Point"
-   },
-   "id": "1685",
-   "properties": {
-    "code": "51671",
-    "desc": "JOYCE STN @ BAY 2",
-    "id": "1685",
-    "name": "JOYCE STN BAY 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -25016,24 +24962,6 @@
     "desc": "JOYCE ST @ WELLINGTON AVE",
     "id": "1735",
     "name": "SB JOYCE ST FS WELLINGTON AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.032425,
-     49.238592
-    ],
-    "type": "Point"
-   },
-   "id": "1736",
-   "properties": {
-    "code": "51722",
-    "desc": "JOYCE STN @ BAY 1",
-    "id": "1736",
-    "name": "JOYCE STN BAY 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -25862,6 +25790,24 @@
     "desc": "VANNESS AVE @ MELBOURNE ST",
     "id": "1800",
     "name": "WB VANNESS AVE FS MELBOURNE ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.031047,
+     49.237907
+    ],
+    "type": "Point"
+   },
+   "id": "1801",
+   "properties": {
+    "code": "51787",
+    "desc": "JOYCE STN @ BAY 3",
+    "id": "1801",
+    "name": "JOYCE STN BAY 3 NEW",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -27212,24 +27158,6 @@
     "desc": "W 41 AVE @ HIGHBURY ST",
     "id": "1904",
     "name": "EB W 41 AVE FS HIGHBURY ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.031961,
-     49.238509
-    ],
-    "type": "Point"
-   },
-   "id": "1905",
-   "properties": {
-    "code": "51891",
-    "desc": "JOYCE STN @ BAY 4",
-    "id": "1905",
-    "name": "JOYCE STN BAY 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -50961,24 +50889,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.778463,
-     49.257245
-    ],
-    "type": "Point"
-   },
-   "id": "3696",
-   "properties": {
-    "code": "53657",
-    "desc": "MARY HILL RD @ HAWTHORNE AVE",
-    "id": "3696",
-    "name": "NB MARY HILL RD FS HAWTHORNE AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.824115,
      49.226379
     ],
@@ -51260,60 +51170,6 @@
     "desc": "REEVE ST @ RIVERSIDE SECONDARY",
     "id": "3727",
     "name": "SB REEVE ST AT RIVERSIDE SECONDARY",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.778638,
-     49.260338
-    ],
-    "type": "Point"
-   },
-   "id": "3728",
-   "properties": {
-    "code": "53689",
-    "desc": "MARY HILL RD @ WILSON AVE",
-    "id": "3728",
-    "name": "SB MARY HILL RD FS WILSON AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.778646,
-     49.257627
-    ],
-    "type": "Point"
-   },
-   "id": "3729",
-   "properties": {
-    "code": "53690",
-    "desc": "MARY HILL RD @ WELCHER AVE",
-    "id": "3729",
-    "name": "SB MARY HILL RD FS WELCHER AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.778643,
-     49.255908
-    ],
-    "type": "Point"
-   },
-   "id": "3730",
-   "properties": {
-    "code": "53691",
-    "desc": "MARY HILL RD @ CENTRAL AVE",
-    "id": "3730",
-    "name": "SB MARY HILL RD FS CENTRAL AVE",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -57315,8 +57171,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.00503,
-     49.320974
+     -123.005016,
+     49.32154
     ],
     "type": "Point"
    },
@@ -70023,6 +69879,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.90646,
+     49.155896
+    ],
+    "type": "Point"
+   },
+   "id": "5020",
+   "properties": {
+    "code": "54968",
+    "desc": "84 AVE @ 114 ST",
+    "id": "5020",
+    "name": "EB 84 AVE FS 114 ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.901124,
      49.155839
     ],
@@ -70880,6 +70754,24 @@
     "desc": "84 AVE @ 116 ST",
     "id": "5072",
     "name": "WB 84 AVE FS 116 ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.906435,
+     49.156031
+    ],
+    "type": "Point"
+   },
+   "id": "5073",
+   "properties": {
+    "code": "55021",
+    "desc": "84 AVE @ 114 ST",
+    "id": "5073",
+    "name": "WB 84 AVE NS 114 ST",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -77925,6 +77817,42 @@
   {
    "geometry": {
     "coordinates": [
+     -122.86793,
+     49.126271
+    ],
+    "type": "Point"
+   },
+   "id": "5559",
+   "properties": {
+    "code": "55505",
+    "desc": "128 ST @ 68 AVE",
+    "id": "5559",
+    "name": "SB 128 ST FS 68 AVE",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.867929,
+     49.122364
+    ],
+    "type": "Point"
+   },
+   "id": "5560",
+   "properties": {
+    "code": "55506",
+    "desc": "128 ST @ 66 AVE",
+    "id": "5560",
+    "name": "SB 128 ST FS 66 AVE",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.867994,
      49.118538
     ],
@@ -78818,60 +78746,6 @@
     "desc": "64 AVE @ 130 ST",
     "id": "5622",
     "name": "WB 64 AVE FS 130 ST",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.867702,
-     49.119475
-    ],
-    "type": "Point"
-   },
-   "id": "5623",
-   "properties": {
-    "code": "55568",
-    "desc": "128 ST @ 64 AVE",
-    "id": "5623",
-    "name": "NB 128 ST FS 64 AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.867677,
-     49.123152
-    ],
-    "type": "Point"
-   },
-   "id": "5624",
-   "properties": {
-    "code": "55569",
-    "desc": "128 ST @ 66 AVE",
-    "id": "5624",
-    "name": "NB 128 ST FS 66 AVE",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.867653,
-     49.126877
-    ],
-    "type": "Point"
-   },
-   "id": "5625",
-   "properties": {
-    "code": "55570",
-    "desc": "128 ST @ 68 AVE",
-    "id": "5625",
-    "name": "NB 128 ST FS 68 AVE",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -99237,24 +99111,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.989835,
-     49.168632
-    ],
-    "type": "Point"
-   },
-   "id": "6966",
-   "properties": {
-    "code": "56901",
-    "desc": "GRAYBAR RD @ WESTMINSTER HWY",
-    "id": "6966",
-    "name": "SB GRAYBAR RD FS WESTMINSTER HWY",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.986866,
      49.16735
     ],
@@ -116906,6 +116762,24 @@
     "desc": "BRAID STATION @ BAY 3",
     "id": "8561",
     "name": "BRAID STN BAY 3",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.032261,
+     49.237996
+    ],
+    "type": "Point"
+   },
+   "id": "8563",
+   "properties": {
+    "code": "58249",
+    "desc": "JOYCE STN @ BAY 1",
+    "id": "8563",
+    "name": "JOYCE STN BAY 1 NEW",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -145227,24 +145101,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.032543,
-     49.237696
-    ],
-    "type": "Point"
-   },
-   "id": "11455",
-   "properties": {
-    "code": "61485",
-    "desc": "JOYCE ST @ BAY 5",
-    "id": "11455",
-    "name": "JOYCE STN BAY 5",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.074177,
      49.006584
     ],
@@ -147650,6 +147506,24 @@
     "desc": "MARINE DR OFFRAMP @ LIONS GATE BRIDGE",
     "id": "11673",
     "name": "EB MARINE DR OFFRAMP NS LIONS GATE BRIDGE",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.031478,
+     49.238127
+    ],
+    "type": "Point"
+   },
+   "id": "11674",
+   "properties": {
+    "code": "61609",
+    "desc": "JOYCE STN @ BAY 4",
+    "id": "11674",
+    "name": "JOYCE STN BAY 4 NEW",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158990,6 +158864,78 @@
     "desc": "BEDWELL BAY RD @ WHITE PINE BEACH RD",
     "id": "12536",
     "name": "WB BEDWELL BAY RD AT WHITE PINE BEACH RD",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.030577,
+     49.237786
+    ],
+    "type": "Point"
+   },
+   "id": "12537",
+   "properties": {
+    "code": "60285",
+    "desc": "JOYCE ST @ VANNESS AVE",
+    "id": "12537",
+    "name": "JOYCE STN BAY 2 NEW",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.031924,
+     49.238015
+    ],
+    "type": "Point"
+   },
+   "id": "12538",
+   "properties": {
+    "code": "60286",
+    "desc": "JOYCE ST @ VANNESS AVE",
+    "id": "12538",
+    "name": "JOYCE STN UNLOADING ONLY",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.100621,
+     49.24885
+    ],
+    "type": "Point"
+   },
+   "id": "12539",
+   "properties": {
+    "code": "60289",
+    "desc": "E KING EDWARD AVE @ MAIN ST",
+    "id": "12539",
+    "name": "WB E KING EDWARD AVE NS MAIN ST",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.000485,
+     49.265757
+    ],
+    "type": "Point"
+   },
+   "id": "12541",
+   "properties": {
+    "code": "60287",
+    "desc": "ALPHA AVE @ LOUGHEED HWY",
+    "id": "12541",
+    "name": "SB ALPHA AVE FS LOUGHEED HWY",
     "zone": "BUS ZN"
    },
    "type": "Feature"
