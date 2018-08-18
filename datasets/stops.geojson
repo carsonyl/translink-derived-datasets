@@ -78753,6 +78753,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.867653,
+     49.126877
+    ],
+    "type": "Point"
+   },
+   "id": "5625",
+   "properties": {
+    "code": "55570",
+    "desc": "128 ST @ 68 AVE",
+    "id": "5625",
+    "name": "NB 128 ST FS 68 AVE",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.867682,
      49.129721
     ],
