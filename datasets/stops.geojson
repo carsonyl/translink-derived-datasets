@@ -1705,7 +1705,7 @@
     "code": "59305",
     "desc": "",
     "id": "136",
-    "name": "Eastbound W 41 Ave @ Ash St",
+    "name": "Oakridge-41st Ave Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -1975,7 +1975,7 @@
     "code": "50160",
     "desc": "",
     "id": "160",
-    "name": "Westbound W 41 Ave @ Cambie St",
+    "name": "Oakridge-41st Ave Station @ Bay 5",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -5665,7 +5665,7 @@
     "code": "50413",
     "desc": "",
     "id": "417",
-    "name": "Southbound Cambie St @ W Broadway",
+    "name": "Broadway-City Hall Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -5755,7 +5755,7 @@
     "code": "50419",
     "desc": "",
     "id": "423",
-    "name": "Southbound Cambie St @ W King Edward Ave",
+    "name": "King Edward Station @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -11685,6 +11685,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.090107,
+     49.245869
+    ],
+    "type": "Point"
+   },
+   "id": "845",
+   "properties": {
+    "code": "50838",
+    "desc": "",
+    "id": "845",
+    "name": "Northbound Fraser St @ E 28 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.089998,
      49.248973
     ],
@@ -13693,7 +13711,7 @@
     "code": "50985",
     "desc": "",
     "id": "994",
-    "name": "Southbound Cambie St @ W 49 Ave",
+    "name": "Langara-49th Station @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -21775,7 +21793,7 @@
     "code": "51513",
     "desc": "",
     "id": "1525",
-    "name": "Eastbound W King Edward Ave @ Cambie St",
+    "name": "King Edward Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -22783,7 +22801,7 @@
     "code": "51574",
     "desc": "",
     "id": "1586",
-    "name": "Westbound W King Edward Ave @ Cambie St",
+    "name": "King Edward Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -25430,24 +25448,6 @@
     "desc": "",
     "id": "1763",
     "name": "Northbound Mountain Hwy @ Crown St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.027015,
-     49.31348
-    ],
-    "type": "Point"
-   },
-   "id": "1765",
-   "properties": {
-    "code": "51751",
-    "desc": "",
-    "id": "1765",
-    "name": "Northbound Old Lillooet Rd @ Premier St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -28849,7 +28849,7 @@
     "code": "61218",
     "desc": "",
     "id": "2051",
-    "name": "Westbound W 49 Ave @ Cambie St",
+    "name": "Langara-49th Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -29623,7 +29623,7 @@
     "code": "52100",
     "desc": "",
     "id": "2119",
-    "name": "Eastbound W Broadway @ Yukon St",
+    "name": "Broadway-City Hall Station @ Bay 6",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -32575,7 +32575,7 @@
     "code": "52317",
     "desc": "",
     "id": "2339",
-    "name": "Eastbound Columbia St @ Columbia Station",
+    "name": "Columbia Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -32755,7 +32755,7 @@
     "code": "52331",
     "desc": "",
     "id": "2354",
-    "name": "Westbound Columbia St @ Columbia Station",
+    "name": "Columbia Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -93721,7 +93721,7 @@
     "code": "59771",
     "desc": "",
     "id": "6630",
-    "name": "Southbound No. 3 Rd @ Lansdowne Rd",
+    "name": "Lansdowne Station @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -98996,24 +98996,6 @@
     "desc": "",
     "id": "6938",
     "name": "Southbound Garden City Rd @ Glenallan Gate",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.125279,
-     49.14325
-    ],
-    "type": "Point"
-   },
-   "id": "6939",
-   "properties": {
-    "code": "56874",
-    "desc": "",
-    "id": "6939",
-    "name": "Southbound Garden City Rd @ Saunders Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -109057,7 +109039,7 @@
     "code": "57577",
     "desc": "",
     "id": "7650",
-    "name": "Southbound Harris Rd @ Pitt Meadows Station",
+    "name": "Pitt Meadows Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -110317,7 +110299,7 @@
     "code": "57663",
     "desc": "",
     "id": "7736",
-    "name": "Northbound Harris Rd @ Pitt Meadows Station",
+    "name": "Pitt Meadows Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -110767,7 +110749,7 @@
     "code": "57695",
     "desc": "",
     "id": "7768",
-    "name": "Eastbound River Rd @ Port Haney Station",
+    "name": "Port Haney Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -110893,7 +110875,7 @@
     "code": "57703",
     "desc": "",
     "id": "7777",
-    "name": "Westbound River Rd @ Port Haney Station",
+    "name": "Port Haney Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -117571,7 +117553,7 @@
     "code": "58198",
     "desc": "",
     "id": "8604",
-    "name": "Northbound No. 3 Rd @ Cambie Rd",
+    "name": "Aberdeen Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -117986,24 +117968,6 @@
     "desc": "",
     "id": "8649",
     "name": "Eastbound N Grandview Hwy @ Commercial Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.135068,
-     49.166445
-    ],
-    "type": "Point"
-   },
-   "id": "8650",
-   "properties": {
-    "code": "58279",
-    "desc": "",
-    "id": "8650",
-    "name": "Richmond-Brighouse Station @ Bay 6A",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -119245,7 +119209,7 @@
     "code": "56564",
     "desc": "",
     "id": "8800",
-    "name": "Southbound No. 3 Rd @ Cambie Rd",
+    "name": "Aberdeen Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -121135,7 +121099,7 @@
     "code": "52431",
     "desc": "",
     "id": "8978",
-    "name": "Northbound 4th St @ Columbia St",
+    "name": "Columbia Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -128065,7 +128029,7 @@
     "code": "59216",
     "desc": "",
     "id": "9667",
-    "name": "Eastbound River Rd @ Port Haney Station",
+    "name": "Port Haney Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -133429,7 +133393,7 @@
     "code": "61039",
     "desc": "",
     "id": "10360",
-    "name": "Eastbound W 2nd Ave @ Cambie St",
+    "name": "Olympic Village Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -134491,7 +134455,7 @@
     "code": "50016",
     "desc": "",
     "id": "10468",
-    "name": "Eastbound Pacific Blvd @ Davie St",
+    "name": "Yaletown-Roundhouse Station @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -135859,7 +135823,7 @@
     "code": "50922",
     "desc": "",
     "id": "10631",
-    "name": "Westbound W Broadway @ Yukon St",
+    "name": "Broadway-City Hall Station @ Bay 5",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -137083,7 +137047,7 @@
     "code": "51967",
     "desc": "",
     "id": "10745",
-    "name": "Eastbound W 49 Ave @ Cambie St",
+    "name": "Langara-49th Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -137587,7 +137551,7 @@
     "code": "50475",
     "desc": "",
     "id": "10799",
-    "name": "Northbound Cambie St @ W King Edward Ave",
+    "name": "King Edward Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -140917,7 +140881,7 @@
     "code": "58501",
     "desc": "",
     "id": "11088",
-    "name": "Westbound W Broadway @ Cambie St",
+    "name": "Broadway-City Hall Station @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -141169,7 +141133,7 @@
     "code": "50467",
     "desc": "",
     "id": "11103",
-    "name": "Northbound Cambie St @ W 41 Ave",
+    "name": "Oakridge-41st Ave Station @ Bay 6",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -143419,7 +143383,7 @@
     "code": "61326",
     "desc": "",
     "id": "11246",
-    "name": "Bridgeport Station @ Bay 5A",
+    "name": "Bridgeport Station @ Bay 7",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -143527,7 +143491,7 @@
     "code": "61329",
     "desc": "",
     "id": "11253",
-    "name": "Bridgeport Station @ Bay 9",
+    "name": "Bridgeport Station @ Bay 10",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -143599,7 +143563,7 @@
     "code": "61254",
     "desc": "",
     "id": "11258",
-    "name": "Eastbound E 2nd Ave @ Ash St",
+    "name": "Olympic Village Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -143635,7 +143599,7 @@
     "code": "61040",
     "desc": "",
     "id": "11260",
-    "name": "Westbound W 2nd Ave @ Cambie St",
+    "name": "Olympic Village Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -143743,7 +143707,7 @@
     "code": "61327",
     "desc": "",
     "id": "11266",
-    "name": "Bridgeport Station @ Bay 7",
+    "name": "Bridgeport Station @ Bay 8",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -143761,7 +143725,7 @@
     "code": "61328",
     "desc": "",
     "id": "11267",
-    "name": "Bridgeport Station @ Bay 8",
+    "name": "Bridgeport Station @ Bay 9",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -143779,7 +143743,7 @@
     "code": "61330",
     "desc": "",
     "id": "11268",
-    "name": "Bridgeport Station @ Bay 10",
+    "name": "Bridgeport Station @ Bay 11",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -143797,7 +143761,7 @@
     "code": "61331",
     "desc": "",
     "id": "11269",
-    "name": "Bridgeport Station @ Bay 11",
+    "name": "Bridgeport Station @ Bay 12",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -144517,7 +144481,7 @@
     "code": "50023",
     "desc": "",
     "id": "11310",
-    "name": "Westbound Davie St @ Hamilton St",
+    "name": "Yaletown-Roundhouse Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -144535,7 +144499,7 @@
     "code": "61215",
     "desc": "",
     "id": "11311",
-    "name": "Eastbound Davie St @ Pacific Blvd",
+    "name": "Yaletown-Roundhouse Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -144823,7 +144787,7 @@
     "code": "50085",
     "desc": "",
     "id": "11337",
-    "name": "Westbound Pacific Blvd @ Davie St",
+    "name": "Yaletown-Roundhouse Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -144877,7 +144841,7 @@
     "code": "50999",
     "desc": "",
     "id": "11349",
-    "name": "Northbound Cambie St @ W 49 Ave",
+    "name": "Langara-49th Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -144895,7 +144859,7 @@
     "code": "50981",
     "desc": "",
     "id": "11350",
-    "name": "Southbound Cambie St @ W 41 Ave",
+    "name": "Oakridge-41st Ave Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -144913,7 +144877,7 @@
     "code": "61027",
     "desc": "",
     "id": "11352",
-    "name": "Northbound Cambie St @ W 10 Ave",
+    "name": "Broadway-City Hall Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -144931,7 +144895,7 @@
     "code": "50136",
     "desc": "",
     "id": "11353",
-    "name": "Eastbound W 41 Ave @ Cambie St",
+    "name": "Oakridge-41st Ave Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -144949,7 +144913,7 @@
     "code": "50875",
     "desc": "",
     "id": "11357",
-    "name": "Eastbound W Broadway @ Cambie St",
+    "name": "Broadway-City Hall Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -145191,24 +145155,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.134652,
-     49.163531
-    ],
-    "type": "Point"
-   },
-   "id": "11384",
-   "properties": {
-    "code": "61335",
-    "desc": "",
-    "id": "11384",
-    "name": "Westbound Anderson Rd @ Buswell St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.136381,
      49.169358
     ],
@@ -145273,7 +145219,7 @@
     "code": "58196",
     "desc": "",
     "id": "11388",
-    "name": "Northbound No. 3rd Rd @ Lansdowne Rd",
+    "name": "Lansdowne Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -145957,7 +145903,7 @@
     "code": "56454",
     "desc": "",
     "id": "11471",
-    "name": "Eastbound Lansdowne Rd @ No. 3 Rd",
+    "name": "Lansdowne Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -147127,7 +147073,7 @@
     "code": "59796",
     "desc": "",
     "id": "11559",
-    "name": "Pitt Meadows Station @ Loop",
+    "name": "Pitt Meadows Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -148881,24 +148827,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.911869,
-     49.201348
-    ],
-    "type": "Point"
-   },
-   "id": "11711",
-   "properties": {
-    "code": "61648",
-    "desc": "",
-    "id": "11711",
-    "name": "New Westminster Station @ Bay 1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.911997,
      49.201472
     ],
@@ -148910,24 +148838,6 @@
     "desc": "",
     "id": "11712",
     "name": "New Westminster Station @ Bay 9",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.912513,
-     49.200804
-    ],
-    "type": "Point"
-   },
-   "id": "11713",
-   "properties": {
-    "code": "61650",
-    "desc": "",
-    "id": "11713",
-    "name": "New Westminster Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -149935,7 +149845,7 @@
     "code": "61693",
     "desc": "",
     "id": "11788",
-    "name": "Bridgeport Station @ Bay 5A",
+    "name": "Bridgeport Station @ Bay 6",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -151491,24 +151401,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.119071,
-     49.280483
-    ],
-    "type": "Point"
-   },
-   "id": "11930",
-   "properties": {
-    "code": "51007",
-    "desc": "",
-    "id": "11930",
-    "name": "Northbound Seymour St @ Robson St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.800969,
      49.074116
     ],
@@ -151591,7 +151483,7 @@
     "code": "61870",
     "desc": "",
     "id": "11935",
-    "name": "Southbound Hamilton St @ W Georgia St Bay 1",
+    "name": "Southbound Hamilton St @ W Georgia St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -151609,7 +151501,7 @@
     "code": "61871",
     "desc": "",
     "id": "11938",
-    "name": "Southbound Hamilton St @ W Georgia St Bay 2",
+    "name": "Southbound Hamilton St @ Dunsmuir St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -153661,7 +153553,7 @@
     "code": "61978",
     "desc": "",
     "id": "12080",
-    "name": "Southbound No. 3rd Rd @ 5300 Block",
+    "name": "Lansdowne Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159079,7 +158971,7 @@
     "code": "60583",
     "desc": "",
     "id": "12485",
-    "name": "Westbound W 41 Ave @ Ash St",
+    "name": "Oakridge-41st Ave Station @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159206,6 +159098,24 @@
     "desc": "",
     "id": "12496",
     "name": "Westbound 64 Ave @ 196 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.684578,
+     49.119024
+    ],
+    "type": "Point"
+   },
+   "id": "12497",
+   "properties": {
+    "code": "60207",
+    "desc": "",
+    "id": "12497",
+    "name": "Eastbound 64 Ave @ 194 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159591,42 +159501,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.215431,
-     49.265376
-    ],
-    "type": "Point"
-   },
-   "id": "12526",
-   "properties": {
-    "code": "60274",
-    "desc": "",
-    "id": "12526",
-    "name": "Blanca Loop @ Loading Only",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.21504,
-     49.265097
-    ],
-    "type": "Point"
-   },
-   "id": "12527",
-   "properties": {
-    "code": "60273",
-    "desc": "",
-    "id": "12527",
-    "name": "Northbound Blanca St @ W 9th Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.12653,
      49.262225
     ],
@@ -159781,7 +159655,7 @@
     "code": "60285",
     "desc": "",
     "id": "12537",
-    "name": "Joyce St @ Vanness Ave",
+    "name": "Joyce Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
