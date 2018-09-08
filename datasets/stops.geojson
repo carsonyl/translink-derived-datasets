@@ -61941,24 +61941,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.080618,
-     49.314235
-    ],
-    "type": "Point"
-   },
-   "id": "4477",
-   "properties": {
-    "code": "54427",
-    "desc": "",
-    "id": "4477",
-    "name": "Northbound Chesterfield Ave @ W 2nd St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.103303,
      49.323913
     ],
@@ -118011,8 +117993,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.156822,
-     49.34021
+     -123.156826,
+     49.340258
     ],
     "type": "Point"
    },
@@ -159303,24 +159285,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.803487,
-     49.027657
-    ],
-    "type": "Point"
-   },
-   "id": "12511",
-   "properties": {
-    "code": "60245",
-    "desc": "",
-    "id": "12511",
-    "name": "Westbound Thrift Ave @ Foster St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.80128,
      49.028755
     ],
@@ -159710,6 +159674,42 @@
     "desc": "",
     "id": "12541",
     "name": "Southbound Alpha Ave @ Lougheed Hwy",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.802667,
+     49.031031
+    ],
+    "type": "Point"
+   },
+   "id": "12542",
+   "properties": {
+    "code": "60291",
+    "desc": "",
+    "id": "12542",
+    "name": "Eastbound North Bluff Rd @ Foster St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.799229,
+     49.031015
+    ],
+    "type": "Point"
+   },
+   "id": "12543",
+   "properties": {
+    "code": "60292",
+    "desc": "",
+    "id": "12543",
+    "name": "Eastbound N Bluff Rd @ George St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
