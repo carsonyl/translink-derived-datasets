@@ -895,7 +895,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "BRIGHOUSE STN",
+  "destination": "EAST CAMBIE",
   "direction": "EAST",
   "name": "416-EB1",
   "operating-company": "CMBC",
