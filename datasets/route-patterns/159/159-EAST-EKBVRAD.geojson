@@ -3065,7 +3065,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "COQ CTRL STN VIA POCO STN",
+  "destination": "COQ CTRL STN",
   "direction": "EAST",
   "name": "159-EKBVRAD",
   "operating-company": "CMBC",

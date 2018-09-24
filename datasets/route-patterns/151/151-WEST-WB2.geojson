@@ -575,7 +575,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "SPECIAL",
+  "destination": "BURQUITLAM STN VIA REC CTR",
   "direction": "WEST",
   "name": "151-WB2",
   "operating-company": "CMBC",
