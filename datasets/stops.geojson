@@ -11973,8 +11973,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.140265,
-     49.21956
+     -123.140294,
+     49.218967
     ],
     "type": "Point"
    },
@@ -29667,8 +29667,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.179962,
-     49.192833
+     -123.179837,
+     49.193579
     ],
     "type": "Point"
    },
@@ -151124,6 +151124,24 @@
     "desc": "",
     "id": "11928",
     "name": "Southbound 150 St @ 102A Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.092219,
+     49.320191
+    ],
+    "type": "Point"
+   },
+   "id": "11929",
+   "properties": {
+    "code": "61553",
+    "desc": "",
+    "id": "11929",
+    "name": "Eastbound W 3rd St @ Bewicke Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
