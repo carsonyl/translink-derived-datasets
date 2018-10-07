@@ -39171,6 +39171,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.998687,
+     49.266442
+    ],
+    "type": "Point"
+   },
+   "id": "2821",
+   "properties": {
+    "code": "52792",
+    "desc": "",
+    "id": "2821",
+    "name": "Brentwood Station @ Bay 2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.014183,
      49.270576
     ],
@@ -53607,8 +53625,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.773202,
-     49.289114
+     -122.773213,
+     49.289197
     ],
     "type": "Point"
    },
@@ -53625,8 +53643,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.774226,
-     49.290405
+     -122.774104,
+     49.290264
     ],
     "type": "Point"
    },
@@ -61923,6 +61941,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.080618,
+     49.314235
+    ],
+    "type": "Point"
+   },
+   "id": "4477",
+   "properties": {
+    "code": "54427",
+    "desc": "",
+    "id": "4477",
+    "name": "Northbound Chesterfield Ave @ W 2nd St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.103303,
      49.323913
     ],
@@ -62491,7 +62527,7 @@
     "code": "54473",
     "desc": "",
     "id": "4523",
-    "name": "Eastbound W Georgia St @ Homer St",
+    "name": "Eastbound W Georgia St @ Richards St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -66811,7 +66847,7 @@
     "code": "54736",
     "desc": "",
     "id": "4788",
-    "name": "Westbound Crossing Creek Rd @ Highland Dr",
+    "name": "Westbound Cross Creek Rd @ Highland Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -66829,7 +66865,7 @@
     "code": "54737",
     "desc": "",
     "id": "4789",
-    "name": "Westbound Crossing Creek Rd @ Chartwell Dr",
+    "name": "Westbound Cross Creek Rd @ Chartwell Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -116869,7 +116905,7 @@
     "code": "60937",
     "desc": "",
     "id": "8520",
-    "name": "Eastbound Crossing Creek Rd @ Highland Dr (Flag)",
+    "name": "Eastbound Cross Creek Rd @ Highland Dr (Flag)",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -118111,7 +118147,7 @@
     "code": "60936",
     "desc": "",
     "id": "8662",
-    "name": "Westbound Crossing Creek Rd @ Eyremount Dr",
+    "name": "Westbound Cross Creek Rd @ Eyremount Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -130611,6 +130647,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.114489,
+     49.280019
+    ],
+    "type": "Point"
+   },
+   "id": "10114",
+   "properties": {
+    "code": "59513",
+    "desc": "",
+    "id": "10114",
+    "name": "Eastbound W Georgia St @ Hamilton St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.61103,
      49.135762
     ],
@@ -135284,6 +135338,24 @@
     "desc": "",
     "id": "10588",
     "name": "Eastbound 64 Ave @ 173A St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.112669,
+     49.279637
+    ],
+    "type": "Point"
+   },
+   "id": "10589",
+   "properties": {
+    "code": "59550",
+    "desc": "",
+    "id": "10589",
+    "name": "Northbound Cambie St @ W Georgia St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -148593,8 +148665,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.912182,
-     49.200991
+     -122.912095,
+     49.201037
     ],
     "type": "Point"
    },
@@ -151214,42 +151286,6 @@
     "desc": "",
     "id": "11934",
     "name": "Westbound 122 Ave @ 191B St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.113845,
-     49.280275
-    ],
-    "type": "Point"
-   },
-   "id": "11935",
-   "properties": {
-    "code": "61870",
-    "desc": "",
-    "id": "11935",
-    "name": "Southbound Hamilton St @ W Georgia St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.113264,
-     49.280661
-    ],
-    "type": "Point"
-   },
-   "id": "11938",
-   "properties": {
-    "code": "61871",
-    "desc": "",
-    "id": "11938",
-    "name": "Southbound Hamilton St @ Dunsmuir St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159422,24 +159458,6 @@
     "desc": "",
     "id": "12539",
     "name": "Westbound E King Edward Ave @ Main St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.000485,
-     49.265757
-    ],
-    "type": "Point"
-   },
-   "id": "12541",
-   "properties": {
-    "code": "60287",
-    "desc": "",
-    "id": "12541",
-    "name": "Southbound Alpha Ave @ Lougheed Hwy",
     "zone": "BUS ZN"
    },
    "type": "Feature"
