@@ -51303,6 +51303,60 @@
   {
    "geometry": {
     "coordinates": [
+     -122.778638,
+     49.260338
+    ],
+    "type": "Point"
+   },
+   "id": "3728",
+   "properties": {
+    "code": "53689",
+    "desc": "",
+    "id": "3728",
+    "name": "Southbound Mary Hill Rd @ Wilson Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.778646,
+     49.257627
+    ],
+    "type": "Point"
+   },
+   "id": "3729",
+   "properties": {
+    "code": "53690",
+    "desc": "",
+    "id": "3729",
+    "name": "Southbound Mary Hill Rd @ Welcher Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.778643,
+     49.255908
+    ],
+    "type": "Point"
+   },
+   "id": "3730",
+   "properties": {
+    "code": "53691",
+    "desc": "",
+    "id": "3730",
+    "name": "Southbound Mary Hill Rd @ Central Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.777953,
      49.253975
     ],
@@ -94999,7 +95053,7 @@
     "code": "56647",
     "desc": "",
     "id": "6709",
-    "name": "Entertainment Blvd @ 10500 Block",
+    "name": "Entertainment Blvd @ Riverport Recreation Complex",
     "zone": "BUS ZN"
    },
    "type": "Feature"
