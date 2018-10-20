@@ -31125,24 +31125,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.089925,
-     49.211147
-    ],
-    "type": "Point"
-   },
-   "id": "2231",
-   "properties": {
-    "code": "52209",
-    "desc": "",
-    "id": "2231",
-    "name": "Westbound SE Marine Dr @ Chester St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.095708,
      49.211151
     ],
@@ -32997,42 +32979,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.933742,
-     49.192071
-    ],
-    "type": "Point"
-   },
-   "id": "2378",
-   "properties": {
-    "code": "52354",
-    "desc": "",
-    "id": "2378",
-    "name": "Northbound Derwent Way @ Ewen Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.934885,
-     49.195163
-    ],
-    "type": "Point"
-   },
-   "id": "2379",
-   "properties": {
-    "code": "52355",
-    "desc": "",
-    "id": "2379",
-    "name": "Eastbound Duncan St @ 400 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.927269,
      49.194614
     ],
@@ -33044,6 +32990,24 @@
     "desc": "",
     "id": "2380",
     "name": "Southbound Furness St @ Ewen Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.932626,
+     49.192184
+    ],
+    "type": "Point"
+   },
+   "id": "2381",
+   "properties": {
+    "code": "52357",
+    "desc": "",
+    "id": "2381",
+    "name": "Westbound Ewen Ave @ Stanley St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -79905,8 +79869,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.868134,
-     49.166706
+     -122.868138,
+     49.166344
     ],
     "type": "Point"
    },
@@ -103989,8 +103953,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.639102,
-     49.175524
+     -122.639111,
+     49.175681
     ],
     "type": "Point"
    },
