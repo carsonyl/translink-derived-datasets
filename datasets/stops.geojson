@@ -985,7 +985,7 @@
     "code": "50082",
     "desc": "",
     "id": "82",
-    "name": "Southbound Cambie St @ W Georgia St Bay 3",
+    "name": "Southbound Cambie St @ W Georgia St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -52635,7 +52635,7 @@
   {
    "geometry": {
     "coordinates": [
-     -122.752705,
+     -122.752628,
      49.285675
     ],
     "type": "Point"
@@ -53319,8 +53319,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.752811,
-     49.285784
+     -122.752581,
+     49.285793
     ],
     "type": "Point"
    },
@@ -67622,24 +67622,6 @@
     "desc": "",
     "id": "4832",
     "name": "Westbound Marine Dr @ 14 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.236598,
-     49.458168
-    ],
-    "type": "Point"
-   },
-   "id": "4835",
-   "properties": {
-    "code": "54783",
-    "desc": "",
-    "id": "4835",
-    "name": "Northbound Lions Bay Ave @ Hwy 99",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -139081,7 +139063,7 @@
     "code": "58727",
     "desc": "",
     "id": "10944",
-    "name": "Rose Garden Lane @ Bay 1",
+    "name": "Stanley Park Loop @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159548,6 +159530,42 @@
     "desc": "",
     "id": "12545",
     "name": "Northbound Scott Rd @ 56 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.079785,
+     49.036783
+    ],
+    "type": "Point"
+   },
+   "id": "12546",
+   "properties": {
+    "code": "60198",
+    "desc": "",
+    "id": "12546",
+    "name": "Southbound 52 St @ Hwy 17",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.079855,
+     49.0269
+    ],
+    "type": "Point"
+   },
+   "id": "12547",
+   "properties": {
+    "code": "60293",
+    "desc": "",
+    "id": "12547",
+    "name": "Southbound 52 St @ Cliff Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
