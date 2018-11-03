@@ -58287,24 +58287,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.028591,
-     49.347391
-    ],
-    "type": "Point"
-   },
-   "id": "4236",
-   "properties": {
-    "code": "54190",
-    "desc": "",
-    "id": "4236",
-    "name": "Southbound Hoskins Rd @ Dempsey Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.028655,
      49.344793
     ],
@@ -119937,24 +119919,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.801051,
-     49.032156
-    ],
-    "type": "Point"
-   },
-   "id": "8854",
-   "properties": {
-    "code": "56116",
-    "desc": "",
-    "id": "8854",
-    "name": "White Rock Centre @ Bay 6",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.033608,
      49.260804
     ],
@@ -143276,6 +143240,24 @@
     "desc": "",
     "id": "11251",
     "name": "Marine Drive Station @ Bay 1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.116116,
+     49.209383
+    ],
+    "type": "Point"
+   },
+   "id": "11252",
+   "properties": {
+    "code": "61338",
+    "desc": "",
+    "id": "11252",
+    "name": "Marine Drive Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
