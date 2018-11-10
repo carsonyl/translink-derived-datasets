@@ -5655,24 +5655,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115052,
-     49.262829
-    ],
-    "type": "Point"
-   },
-   "id": "417",
-   "properties": {
-    "code": "50413",
-    "desc": "",
-    "id": "417",
-    "name": "Broadway-City Hall Station @ Bay 3",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.115144,
      49.260113
     ],
@@ -50972,6 +50954,24 @@
     "desc": "",
     "id": "3695",
     "name": "Westbound Pitt River Rd @ Mary Hill Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.778463,
+     49.257245
+    ],
+    "type": "Point"
+   },
+   "id": "3696",
+   "properties": {
+    "code": "53657",
+    "desc": "",
+    "id": "3696",
+    "name": "Northbound Mary Hill Rd @ Hawthorne Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -141141,6 +141141,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.868362,
+     49.119211
+    ],
+    "type": "Point"
+   },
+   "id": "11122",
+   "properties": {
+    "code": "61170",
+    "desc": "",
+    "id": "11122",
+    "name": "Westbound 64 Ave @ 128 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.823839,
      49.11921
     ],
@@ -159015,42 +159033,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.951378,
-     49.183819
-    ],
-    "type": "Point"
-   },
-   "id": "12507",
-   "properties": {
-    "code": "59553",
-    "desc": "",
-    "id": "12507",
-    "name": "Southbound Gifford St @ Ewen Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.948697,
-     49.181901
-    ],
-    "type": "Point"
-   },
-   "id": "12508",
-   "properties": {
-    "code": "59559",
-    "desc": "",
-    "id": "12508",
-    "name": "Eastbound Salter St @ Gifford St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.814937,
      49.212398
     ],
@@ -159548,6 +159530,42 @@
     "desc": "",
     "id": "12547",
     "name": "Southbound 52 St @ Cliff Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.11511,
+     49.261999
+    ],
+    "type": "Point"
+   },
+   "id": "12548",
+   "properties": {
+    "code": "60307",
+    "desc": "",
+    "id": "12548",
+    "name": "Cambie St @ W 10th Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.354759,
+     49.387519
+    ],
+    "type": "Point"
+   },
+   "id": "12549",
+   "properties": {
+    "code": "60290",
+    "desc": "",
+    "id": "12549",
+    "name": "Southbound Mt Gardner Rd @ Magee Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
