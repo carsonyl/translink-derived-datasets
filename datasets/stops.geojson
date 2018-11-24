@@ -3721,7 +3721,7 @@
     "code": "50289",
     "desc": "",
     "id": "292",
-    "name": "Westbound W 41st Ave @ West Boulevard",
+    "name": "Westbound W 41 Ave @ West Boulevard",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -5215,7 +5215,7 @@
     "code": "50382",
     "desc": "",
     "id": "386",
-    "name": "Eastbound W 41st Ave @ West Boulevard",
+    "name": "Eastbound W 41 Ave @ West Boulevard",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -14323,7 +14323,7 @@
     "code": "51038",
     "desc": "",
     "id": "1047",
-    "name": "Southbound Renfrew St @ East Georgia St",
+    "name": "Southbound Renfrew St @ E Georgia St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -15205,7 +15205,7 @@
     "code": "51091",
     "desc": "",
     "id": "1100",
-    "name": "Northbound Renfrew St @ East Georgia St",
+    "name": "Northbound Renfrew St @ E Georgia St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -16304,6 +16304,24 @@
     "desc": "",
     "id": "1171",
     "name": "Southbound Willingdon Ave @ Kemp St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.006974,
+     49.227271
+    ],
+    "type": "Point"
+   },
+   "id": "1172",
+   "properties": {
+    "code": "51163",
+    "desc": "",
+    "id": "1172",
+    "name": "Eastbound Central Blvd @ Willingdon Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -42043,7 +42061,7 @@
     "code": "52992",
     "desc": "",
     "id": "3023",
-    "name": "Edmonds Station @ 18 Ave",
+    "name": "Edmonds Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -51969,6 +51987,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.806025,
+     49.285021
+    ],
+    "type": "Point"
+   },
+   "id": "3785",
+   "properties": {
+    "code": "53746",
+    "desc": "",
+    "id": "3785",
+    "name": "Westbound Guildford Way @ 2800 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.813271,
      49.283489
     ],
@@ -55471,7 +55507,7 @@
     "code": "54007",
     "desc": "",
     "id": "4048",
-    "name": "Southbound Mountain Hwy @ E 17th St",
+    "name": "Southbound Mountain Hwy @ E 17 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -55669,7 +55705,7 @@
     "code": "54019",
     "desc": "",
     "id": "4060",
-    "name": "Southbound Grand Blvd East @ E 17th St",
+    "name": "Southbound Grand Blvd East @ E 17 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -58153,7 +58189,7 @@
     "code": "54180",
     "desc": "",
     "id": "4225",
-    "name": "Northbound Grand Blvd East @ E 17th St",
+    "name": "Northbound Grand Blvd East @ E 17 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -58423,7 +58459,7 @@
     "code": "54198",
     "desc": "",
     "id": "4244",
-    "name": "Northbound Lonsdale Ave @ E 17th St",
+    "name": "Northbound Lonsdale Ave @ E 17 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -59359,7 +59395,7 @@
     "code": "54253",
     "desc": "",
     "id": "4300",
-    "name": "Southbound Lonsdale Ave @ W 17th St",
+    "name": "Southbound Lonsdale Ave @ W 17 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -62031,8 +62067,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.119519,
-     49.324031
+     -123.120746,
+     49.324043
     ],
     "type": "Point"
    },
@@ -63363,8 +63399,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.082637,
-     49.352305
+     -123.083406,
+     49.352734
     ],
     "type": "Point"
    },
@@ -79491,8 +79527,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.860414,
-     49.191608
+     -122.858379,
+     49.191596
     ],
     "type": "Point"
    },
@@ -82371,8 +82407,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.80203,
-     49.162931
+     -122.802469,
+     49.162941
     ],
     "type": "Point"
    },
@@ -82850,24 +82886,6 @@
     "desc": "",
     "id": "5858",
     "name": "Westbound Grosvenor Rd @ Howey Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.843199,
-     49.200306
-    ],
-    "type": "Point"
-   },
-   "id": "5859",
-   "properties": {
-    "code": "55804",
-    "desc": "",
-    "id": "5859",
-    "name": "Westbound Grosvenor Rd @ Hilton Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -84027,6 +84045,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.823501,
+     49.152751
+    ],
+    "type": "Point"
+   },
+   "id": "5930",
+   "properties": {
+    "code": "55874",
+    "desc": "",
+    "id": "5930",
+    "name": "Southbound 144 St @ 82 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.82348,
      49.142924
     ],
@@ -85046,6 +85082,24 @@
     "desc": "",
     "id": "6002",
     "name": "Northbound 144 St @ 80 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.823274,
+     49.153359
+    ],
+    "type": "Point"
+   },
+   "id": "6003",
+   "properties": {
+    "code": "55947",
+    "desc": "",
+    "id": "6003",
+    "name": "Northbound 144 St @ 82A Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -95863,7 +95917,7 @@
     "code": "56698",
     "desc": "",
     "id": "6762",
-    "name": "Southbound No. 5th Rd @ Blundell Rd",
+    "name": "Southbound No. 5 Rd @ Blundell Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -95881,7 +95935,7 @@
     "code": "56699",
     "desc": "",
     "id": "6763",
-    "name": "Southbound No. 5th Rd @ 8500 Block",
+    "name": "Southbound No. 5 Rd @ 8500 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -95899,7 +95953,7 @@
     "code": "56700",
     "desc": "",
     "id": "6764",
-    "name": "Southbound No. 5th Rd @ Kingsbridge Dr",
+    "name": "Southbound No. 5 Rd @ Kingsbridge Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -96259,7 +96313,7 @@
     "code": "56720",
     "desc": "",
     "id": "6785",
-    "name": "Northbound No. 5th Rd @ Kingsbridge Dr",
+    "name": "Northbound No. 5 Rd @ Kingsbridge Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -96277,7 +96331,7 @@
     "code": "56721",
     "desc": "",
     "id": "6786",
-    "name": "Northbound No. 5th Rd @ 8500 Block",
+    "name": "Northbound No. 5 Rd @ 8500 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -96295,7 +96349,7 @@
     "code": "56722",
     "desc": "",
     "id": "6787",
-    "name": "Northbound No. 5th Rd @ Blundell Rd",
+    "name": "Northbound No. 5 Rd @ Blundell Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -137317,7 +137371,7 @@
     "code": "60843",
     "desc": "",
     "id": "10779",
-    "name": "Northbound No. 8th Rd @ Blundell Rd",
+    "name": "Northbound No. 8 Rd @ Blundell Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -144985,7 +145039,7 @@
     "code": "60284",
     "desc": "",
     "id": "11386",
-    "name": "Northbound No. 3rd Rd @ Yaohan Access Rd",
+    "name": "Northbound No. 3 Rd @ Yaohan Access Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -146659,7 +146713,7 @@
     "code": "61526",
     "desc": "",
     "id": "11544",
-    "name": "Northbound No. 3rd Rd @ Jones Rd",
+    "name": "Northbound No. 3 Rd @ Jones Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -147937,7 +147991,7 @@
     "code": "58154",
     "desc": "",
     "id": "11644",
-    "name": "Southbound No. 3rd Rd @ Browngate Rd",
+    "name": "Southbound No. 3 Rd @ Browngate Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -148621,7 +148675,7 @@
     "code": "54406",
     "desc": "",
     "id": "11708",
-    "name": "Southbound Lloyd Ave @ W 17th St",
+    "name": "Southbound Lloyd Ave @ W 17 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -151249,7 +151303,7 @@
     "code": "61811",
     "desc": "",
     "id": "11932",
-    "name": "Southbound No. 5th Rd @ Steveston Hwy",
+    "name": "Southbound No. 5 Rd @ Steveston Hwy",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159566,6 +159620,42 @@
     "desc": "",
     "id": "12549",
     "name": "Southbound Mt Gardner Rd @ Magee Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.756474,
+     49.145639
+    ],
+    "type": "Point"
+   },
+   "id": "12550",
+   "properties": {
+    "code": "60297",
+    "desc": "",
+    "id": "12550",
+    "name": "Northbound 168 St @ 78A Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.807134,
+     49.168408
+    ],
+    "type": "Point"
+   },
+   "id": "12551",
+   "properties": {
+    "code": "61764",
+    "desc": "",
+    "id": "12551",
+    "name": "Westbound Fraser Hwy @ 150 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
