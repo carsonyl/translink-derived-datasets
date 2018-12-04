@@ -70383,24 +70383,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.845247,
-     49.181116
-    ],
-    "type": "Point"
-   },
-   "id": "5041",
-   "properties": {
-    "code": "54989",
-    "desc": "",
-    "id": "5041",
-    "name": "Northbound King George Blvd @ Fraser Hwy",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.845136,
      49.183124
     ],
@@ -83876,24 +83858,6 @@
     "desc": "",
     "id": "5920",
     "name": "Westbound 84 Ave @ 160 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.786202,
-     49.155545
-    ],
-    "type": "Point"
-   },
-   "id": "5921",
-   "properties": {
-    "code": "55865",
-    "desc": "",
-    "id": "5921",
-    "name": "Westbound 84 Ave @ 157A St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -120002,24 +119966,6 @@
     "desc": "",
     "id": "8861",
     "name": "Eastbound Dollarton Hwy @ Riverside Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.802541,
-     49.033418
-    ],
-    "type": "Point"
-   },
-   "id": "8864",
-   "properties": {
-    "code": "58577",
-    "desc": "",
-    "id": "8864",
-    "name": "Mall Access Rd @ Mall Entrance",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159501,24 +159447,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.799229,
-     49.031015
-    ],
-    "type": "Point"
-   },
-   "id": "12543",
-   "properties": {
-    "code": "60292",
-    "desc": "",
-    "id": "12543",
-    "name": "Eastbound N Bluff Rd @ George St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.126721,
      49.262196
     ],
@@ -159656,6 +159584,60 @@
     "desc": "",
     "id": "12551",
     "name": "Westbound Fraser Hwy @ 150 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.785083,
+     49.155559
+    ],
+    "type": "Point"
+   },
+   "id": "12552",
+   "properties": {
+    "code": "60310",
+    "desc": "",
+    "id": "12552",
+    "name": "Westbound 84 Ave @ Venture St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.025034,
+     49.313239
+    ],
+    "type": "Point"
+   },
+   "id": "12553",
+   "properties": {
+    "code": "60311",
+    "desc": "",
+    "id": "12553",
+    "name": "Southbound Lillooet Rd @ Old Lillooet Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.803437,
+     49.033015
+    ],
+    "type": "Point"
+   },
+   "id": "12554",
+   "properties": {
+    "code": "60312",
+    "desc": "",
+    "id": "12554",
+    "name": "Mall Access Rd @ Semiahmoo Mall",
     "zone": "BUS ZN"
    },
    "type": "Feature"
