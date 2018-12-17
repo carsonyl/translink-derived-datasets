@@ -1345,7 +1345,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "22ND ST STN VIA PORT ROYAL",
+  "destination": "22ND ST STN",
   "direction": "NORTH",
   "name": "104-NB1",
   "operating-company": "CMBC",

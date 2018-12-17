@@ -1335,7 +1335,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "BRIGHOUSE STN",
+  "destination": "RAILWAY",
   "direction": "WEST",
   "name": "410-W3",
   "operating-company": "CMBC",
