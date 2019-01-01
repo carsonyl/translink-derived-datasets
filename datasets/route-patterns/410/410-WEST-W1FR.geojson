@@ -2545,7 +2545,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "RAILWAY VIA FRASERWOOD",
+  "destination": "BRIGHOUSE STN VIA FRASERWOOD",
   "direction": "WEST",
   "name": "410-W1FR",
   "operating-company": "CMBC",
