@@ -515,7 +515,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "SNUG COVE VIA MT.GARDNER",
+  "destination": "MT GARDNER",
   "direction": "NORTH",
   "name": "282-NB1",
   "operating-company": "First Transit",
