@@ -3451,7 +3451,7 @@
     "code": "50273",
     "desc": "",
     "id": "276",
-    "name": "Bus Stop @ Blanca Loop",
+    "name": "Blanca Loop @ Blanca St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -3721,7 +3721,7 @@
     "code": "50289",
     "desc": "",
     "id": "292",
-    "name": "Westbound W 41 Ave @ West Boulevard",
+    "name": "Westbound W 41 Ave @ West Blvd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -4352,6 +4352,24 @@
     "desc": "",
     "id": "332",
     "name": "Eastbound W Broadway @ Alder St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.125866,
+     49.263284
+    ],
+    "type": "Point"
+   },
+   "id": "333",
+   "properties": {
+    "code": "59440",
+    "desc": "",
+    "id": "333",
+    "name": "Eastbound W Broadway @ Oak St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -5215,7 +5233,7 @@
     "code": "50382",
     "desc": "",
     "id": "386",
-    "name": "Eastbound W 41 Ave @ West Boulevard",
+    "name": "Eastbound W 41 Ave @ West Blvd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -5439,8 +5457,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.15952,
-     49.268161
+     -123.159157,
+     49.268143
     ],
     "type": "Point"
    },
@@ -5792,24 +5810,6 @@
     "desc": "",
     "id": "430",
     "name": "Eastbound E Cordova St @ Dunlevy Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.091052,
-     49.282056
-    ],
-    "type": "Point"
-   },
-   "id": "431",
-   "properties": {
-    "code": "50427",
-    "desc": "",
-    "id": "431",
-    "name": "Eastbound E Cordova St @ Princess Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -8319,8 +8319,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.133169,
-     49.281583
+     -123.132973,
+     49.28144
     ],
     "type": "Point"
    },
@@ -8365,7 +8365,7 @@
     "code": "50640",
     "desc": "",
     "id": "646",
-    "name": "Dunbar @ Loop",
+    "name": "Dunbar St @ Dunbar Loop",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -9176,24 +9176,6 @@
     "desc": "",
     "id": "694",
     "name": "Southbound Nanaimo St @ E 22 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.055655,
-     49.248471
-    ],
-    "type": "Point"
-   },
-   "id": "695",
-   "properties": {
-    "code": "50688",
-    "desc": "",
-    "id": "695",
-    "name": "Nanaimo Station @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -13819,7 +13801,7 @@
     "code": "59042",
     "desc": "",
     "id": "1018",
-    "name": "63rd Ave Loop @ Granville St",
+    "name": "63 Ave Loop @ Granville St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -13891,7 +13873,7 @@
     "code": "51013",
     "desc": "",
     "id": "1022",
-    "name": "Northbound W Boulevard @ W 60 Ave",
+    "name": "Northbound West Blvd @ W 60 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -13909,7 +13891,7 @@
     "code": "51014",
     "desc": "",
     "id": "1023",
-    "name": "Northbound W Boulevard @ W 57 Ave",
+    "name": "Northbound West Blvd @ W 57 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -13927,7 +13909,7 @@
     "code": "51015",
     "desc": "",
     "id": "1024",
-    "name": "Northbound W Boulevard @ W 54 Ave",
+    "name": "Northbound West Blvd @ W 54 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -13945,7 +13927,7 @@
     "code": "51016",
     "desc": "",
     "id": "1025",
-    "name": "Northbound W Boulevard @ W 51 Ave",
+    "name": "Northbound West Blvd @ W 51 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -13981,7 +13963,7 @@
     "code": "51018",
     "desc": "",
     "id": "1027",
-    "name": "Northbound W Boulevard @ W 49 Ave",
+    "name": "Northbound West Blvd @ W 49 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -13999,7 +13981,7 @@
     "code": "51019",
     "desc": "",
     "id": "1028",
-    "name": "Northbound W Boulevard @ W 46 Ave",
+    "name": "Northbound West Blvd @ W 46 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -14017,7 +13999,7 @@
     "code": "51020",
     "desc": "",
     "id": "1029",
-    "name": "Northbound W Boulevard @ W 45 Ave",
+    "name": "Northbound West Blvd @ W 45 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -14035,7 +14017,7 @@
     "code": "51021",
     "desc": "",
     "id": "1030",
-    "name": "Northbound W Boulevard @ W 43 Ave",
+    "name": "Northbound West Blvd @ W 43 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -14053,7 +14035,7 @@
     "code": "51022",
     "desc": "",
     "id": "1031",
-    "name": "Northbound W Boulevard @ W 41 Ave",
+    "name": "Northbound West Blvd @ W 41 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -14071,7 +14053,7 @@
     "code": "51023",
     "desc": "",
     "id": "1032",
-    "name": "Northbound W Boulevard @ W 39 Ave",
+    "name": "Northbound West Blvd @ W 39 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -14089,7 +14071,7 @@
     "code": "51024",
     "desc": "",
     "id": "1033",
-    "name": "Northbound W Boulevard @ W 37 Ave",
+    "name": "Northbound West Blvd @ W 37 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -15421,7 +15403,7 @@
     "code": "51105",
     "desc": "",
     "id": "1114",
-    "name": "Southbound W Boulevard @ W 37 Ave",
+    "name": "Southbound West Blvd @ W 37 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -15439,7 +15421,7 @@
     "code": "51106",
     "desc": "",
     "id": "1115",
-    "name": "Southbound W Boulevard @ W 39 Ave",
+    "name": "Southbound West Blvd @ W 39 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -15457,7 +15439,7 @@
     "code": "51107",
     "desc": "",
     "id": "1116",
-    "name": "Southbound W Boulevard @ W 41 Ave",
+    "name": "Southbound West Blvd @ W 41 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -15475,7 +15457,7 @@
     "code": "51108",
     "desc": "",
     "id": "1117",
-    "name": "Southbound W Boulevard @ W 43 Ave",
+    "name": "Southbound West Blvd @ W 43 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -15493,7 +15475,7 @@
     "code": "51109",
     "desc": "",
     "id": "1118",
-    "name": "Southbound W Boulevard @ W 45 Ave",
+    "name": "Southbound West Blvd @ W 45 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -15547,7 +15529,7 @@
     "code": "51113",
     "desc": "",
     "id": "1122",
-    "name": "Southbound W Boulevard @ W 53 Ave",
+    "name": "Southbound West Blvd @ W 53 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -15565,7 +15547,7 @@
     "code": "51115",
     "desc": "",
     "id": "1124",
-    "name": "Southbound W Boulevard @ W 60 Ave",
+    "name": "Southbound West Blvd @ W 60 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -21999,24 +21981,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.05614,
-     49.248518
-    ],
-    "type": "Point"
-   },
-   "id": "1541",
-   "properties": {
-    "code": "51529",
-    "desc": "",
-    "id": "1541",
-    "name": "Nanaimo Station @ Bay 2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.049111,
      49.250567
     ],
@@ -22532,24 +22496,6 @@
     "desc": "",
     "id": "1571",
     "name": "Westbound E 22 Ave @ Kaslo St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.056046,
-     49.248689
-    ],
-    "type": "Point"
-   },
-   "id": "1572",
-   "properties": {
-    "code": "51560",
-    "desc": "",
-    "id": "1572",
-    "name": "Nanaimo Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -29659,7 +29605,7 @@
     "code": "52107",
     "desc": "",
     "id": "2127",
-    "name": "Vancouver International Airport @ Level 1st",
+    "name": "Vancouver International Airport @ Level One",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -31639,7 +31585,7 @@
     "code": "58165",
     "desc": "",
     "id": "2275",
-    "name": "Northbound 1st St @ 15 Ave",
+    "name": "Northbound 1st St @ 16 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -32954,6 +32900,42 @@
     "desc": "",
     "id": "2377",
     "name": "Eastbound Derwent Way @ 600 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.933742,
+     49.192071
+    ],
+    "type": "Point"
+   },
+   "id": "2378",
+   "properties": {
+    "code": "52354",
+    "desc": "",
+    "id": "2378",
+    "name": "Northbound Boyd St @ Ewen Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.934885,
+     49.195163
+    ],
+    "type": "Point"
+   },
+   "id": "2379",
+   "properties": {
+    "code": "52355",
+    "desc": "",
+    "id": "2379",
+    "name": "Eastbound Duncan St @ 400 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -39091,7 +39073,7 @@
     "code": "52787",
     "desc": "",
     "id": "2816",
-    "name": "Northbound Douglas Rd @ Hwy 1st",
+    "name": "Northbound Douglas Rd @ Hwy One Overpass",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -41961,8 +41943,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.016561,
-     49.287466
+     -123.016452,
+     49.287464
     ],
     "type": "Point"
    },
@@ -48811,7 +48793,7 @@
     "code": "53503",
     "desc": "",
     "id": "3541",
-    "name": "Eastbound 8th Ave @ Park Crescent",
+    "name": "Eastbound 8th Ave @ Park Cres",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -49676,42 +49658,6 @@
     "desc": "",
     "id": "3604",
     "name": "Westbound Brunette Ave @ Wiltshire Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.843756,
-     49.237852
-    ],
-    "type": "Point"
-   },
-   "id": "3605",
-   "properties": {
-    "code": "53566",
-    "desc": "",
-    "id": "3605",
-    "name": "Westbound Brunette Ave @ Pare Court",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.846405,
-     49.238539
-    ],
-    "type": "Point"
-   },
-   "id": "3606",
-   "properties": {
-    "code": "53567",
-    "desc": "",
-    "id": "3606",
-    "name": "Westbound Brunette Ave @ Cayer St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -54877,7 +54823,7 @@
     "code": "61269",
     "desc": "",
     "id": "4010",
-    "name": "Northbound Mountain Hwy @ E 27th St",
+    "name": "Northbound Mountain Hwy @ E 27 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -55382,24 +55328,6 @@
     "desc": "",
     "id": "4040",
     "name": "Southbound Mountain Hwy @ Doran Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.038053,
-     49.343242
-    ],
-    "type": "Point"
-   },
-   "id": "4041",
-   "properties": {
-    "code": "54000",
-    "desc": "",
-    "id": "4041",
-    "name": "Southbound Mountain Hwy @ Wellington Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -57883,7 +57811,7 @@
     "code": "54155",
     "desc": "",
     "id": "4200",
-    "name": "Southbound Lonsdale Ave @ W 13th St",
+    "name": "Southbound Lonsdale Ave @ W 13 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -58153,7 +58081,7 @@
     "code": "54177",
     "desc": "",
     "id": "4222",
-    "name": "Westbound E 13 St @ E Grand Blvd",
+    "name": "Westbound E 13 St @ Grand Blvd East",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -58171,7 +58099,7 @@
     "code": "54179",
     "desc": "",
     "id": "4224",
-    "name": "Eastbound E 15 St @ E Grand Blvd",
+    "name": "Eastbound E 15 St @ Grand Blvd East",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -59953,7 +59881,7 @@
     "code": "54288",
     "desc": "",
     "id": "4335",
-    "name": "Northbound Westview Dr @ Hwy 1st",
+    "name": "Northbound Westview Dr @ Hwy One",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -60727,7 +60655,7 @@
     "code": "54343",
     "desc": "",
     "id": "4391",
-    "name": "Westbound E Keith Rd @ W Grand Blvd",
+    "name": "Westbound E Keith Rd @ Grand Blvd West",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -61357,7 +61285,7 @@
     "code": "54386",
     "desc": "",
     "id": "4435",
-    "name": "Westbound W 22nd St @ Cortell St",
+    "name": "Westbound W 22 St @ Cortell St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -61375,7 +61303,7 @@
     "code": "54387",
     "desc": "",
     "id": "4436",
-    "name": "Westbound W 22nd St @ Lloyd Ave",
+    "name": "Westbound W 22 St @ Lloyd Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -61393,7 +61321,7 @@
     "code": "54388",
     "desc": "",
     "id": "4437",
-    "name": "Westbound W 22nd St @ Pemberton Ave",
+    "name": "Westbound W 22 St @ Pemberton Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -61411,7 +61339,7 @@
     "code": "54389",
     "desc": "",
     "id": "4438",
-    "name": "Westbound W 22nd St @ Philip Ave",
+    "name": "Westbound W 22 St @ Philip Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -61429,7 +61357,7 @@
     "code": "54390",
     "desc": "",
     "id": "4439",
-    "name": "Eastbound W 22nd St @ Philip Ave",
+    "name": "Eastbound W 22 St @ Philip Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -61573,7 +61501,7 @@
     "code": "54400",
     "desc": "",
     "id": "4449",
-    "name": "Eastbound W 22nd St @ Bridgman Ave",
+    "name": "Eastbound W 22 St @ Bridgman Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -61591,7 +61519,7 @@
     "code": "54401",
     "desc": "",
     "id": "4450",
-    "name": "Eastbound W 22nd St @ Pemberton Ave",
+    "name": "Eastbound W 22 St @ Pemberton Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -61609,7 +61537,7 @@
     "code": "54402",
     "desc": "",
     "id": "4451",
-    "name": "Eastbound W 22nd St @ Lloyd Ave",
+    "name": "Eastbound W 22 St @ Lloyd Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -61645,7 +61573,7 @@
     "code": "54404",
     "desc": "",
     "id": "4453",
-    "name": "Southbound Mackay Ave @ W 19th St",
+    "name": "Southbound Mackay Ave @ W 19 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -62077,7 +62005,7 @@
     "code": "54439",
     "desc": "",
     "id": "4489",
-    "name": "Westbound Marine Dr @ Garden Ave",
+    "name": "Westbound Marine Dr @ McGuire Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -62257,7 +62185,7 @@
     "code": "54454",
     "desc": "",
     "id": "4504",
-    "name": "Eastbound W 15th St @ Jones Ave",
+    "name": "Eastbound W 15 St @ Jones Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -62275,7 +62203,7 @@
     "code": "54455",
     "desc": "",
     "id": "4505",
-    "name": "Eastbound W 15th St @ Mahon Ave",
+    "name": "Eastbound W 15 St @ Mahon Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -62293,7 +62221,7 @@
     "code": "54456",
     "desc": "",
     "id": "4506",
-    "name": "Eastbound W 15th St @ Chesterfield Ave",
+    "name": "Eastbound W 15 St @ Chesterfield Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -62311,7 +62239,7 @@
     "code": "54457",
     "desc": "",
     "id": "4507",
-    "name": "Eastbound E 15th St @ St. Georges Ave",
+    "name": "Eastbound E 15 St @ St. Georges Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -62329,7 +62257,7 @@
     "code": "54458",
     "desc": "",
     "id": "4508",
-    "name": "Eastbound E 15th St @ St. Andrews Ave",
+    "name": "Eastbound E 15 St @ St. Andrews Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -62347,7 +62275,7 @@
     "code": "54459",
     "desc": "",
     "id": "4509",
-    "name": "Eastbound E 15th St @ Ridgeway Ave",
+    "name": "Eastbound E 15 St @ Ridgeway Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -62365,7 +62293,7 @@
     "code": "54460",
     "desc": "",
     "id": "4510",
-    "name": "Eastbound E 15th St @ Moody Ave",
+    "name": "Eastbound E 15 St @ Moody Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -62383,7 +62311,7 @@
     "code": "54461",
     "desc": "",
     "id": "4511",
-    "name": "Westbound E 15th St @ Moody Ave",
+    "name": "Westbound E 15 St @ Moody Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -62401,7 +62329,7 @@
     "code": "54462",
     "desc": "",
     "id": "4512",
-    "name": "Westbound E 15th St @ Ridgeway Ave",
+    "name": "Westbound E 15 St @ Ridgeway Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -62419,7 +62347,7 @@
     "code": "54463",
     "desc": "",
     "id": "4513",
-    "name": "Westbound E 15th St @ St. Andrews Ave",
+    "name": "Westbound E 15 St @ St. Andrews Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -62437,7 +62365,7 @@
     "code": "54464",
     "desc": "",
     "id": "4514",
-    "name": "Westbound W 15th St @ Lonsdale Ave",
+    "name": "Westbound W 15 St @ Lonsdale Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -62455,7 +62383,7 @@
     "code": "54465",
     "desc": "",
     "id": "4515",
-    "name": "Westbound W 15th St @ Chesterfield Ave",
+    "name": "Westbound W 15 St @ Chesterfield Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -62473,7 +62401,7 @@
     "code": "54466",
     "desc": "",
     "id": "4516",
-    "name": "Westbound W 15th St @ Mahon Ave",
+    "name": "Westbound W 15 St @ Mahon Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -63085,7 +63013,7 @@
     "code": "54508",
     "desc": "",
     "id": "4560",
-    "name": "Southbound Westview Dr @ W 28th St",
+    "name": "Southbound Westview Dr @ W 28 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -63103,7 +63031,7 @@
     "code": "54509",
     "desc": "",
     "id": "4561",
-    "name": "Southbound Westview Dr @ Trans Canada Hwy",
+    "name": "Southbound Westview Dr @ Hwy One",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -63121,7 +63049,7 @@
     "code": "54510",
     "desc": "",
     "id": "4562",
-    "name": "Southbound Westview Dr @ W 23rd St",
+    "name": "Southbound Westview Dr @ W 23 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -63139,7 +63067,7 @@
     "code": "54511",
     "desc": "",
     "id": "4563",
-    "name": "Southbound Westview Dr @ W 21st St",
+    "name": "Southbound Westview Dr @ W 21 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -63157,7 +63085,7 @@
     "code": "54512",
     "desc": "",
     "id": "4564",
-    "name": "Southbound Westview Dr @ W 20th St",
+    "name": "Southbound Westview Dr @ W 20 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -63193,7 +63121,7 @@
     "code": "54515",
     "desc": "",
     "id": "4567",
-    "name": "Southbound Bewicke Ave @ W 14th St",
+    "name": "Southbound Bewicke Ave @ W 14 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -63751,7 +63679,7 @@
     "code": "54549",
     "desc": "",
     "id": "4601",
-    "name": "Northbound Cliffridge Ave @ Sonora Dr",
+    "name": "Northbound Cliffridge Ave @ Sonora Dr South",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -63769,7 +63697,7 @@
     "code": "54550",
     "desc": "",
     "id": "4602",
-    "name": "Northbound Cliffridge Ave @ Sonora Dr",
+    "name": "Northbound Cliffridge Ave @ Sonora Dr North",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -63867,8 +63795,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.272805,
-     49.374146
+     -123.272831,
+     49.374191
     ],
     "type": "Point"
    },
@@ -63877,7 +63805,7 @@
     "code": "54556",
     "desc": "",
     "id": "4608",
-    "name": "Bus Stop @ Horseshoe Bay Ferry Terminal",
+    "name": "Keith Rd @ Horseshoe Bay Ferry Terminal",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -66253,7 +66181,7 @@
     "code": "54698",
     "desc": "",
     "id": "4750",
-    "name": "Westbound Mathers Ave @ 20th St",
+    "name": "Westbound Mathers Ave @ 20 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -67621,7 +67549,7 @@
     "code": "54778",
     "desc": "",
     "id": "4830",
-    "name": "Westbound E 15 St @ E Grand Blvd",
+    "name": "Westbound E 15 St @ Grand Blvd East",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -87583,7 +87511,7 @@
     "code": "56109",
     "desc": "",
     "id": "6167",
-    "name": "Southbound Oxford St @ N Bluff Rd",
+    "name": "Southbound Oxford St @ North Bluff Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -88123,7 +88051,7 @@
     "code": "56143",
     "desc": "",
     "id": "6202",
-    "name": "Westbound North Bluff Rd @ 146 St",
+    "name": "Westbound 16 Ave @ 146 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -88213,7 +88141,7 @@
     "code": "56148",
     "desc": "",
     "id": "6207",
-    "name": "Westbound North Bluff Rd @ Bishop Rd",
+    "name": "Westbound 16 Ave @ Bishop Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -89096,24 +89024,6 @@
     "desc": "",
     "id": "6259",
     "name": "Westbound Marine Dr @ 15100 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.806392,
-     49.021568
-    ],
-    "type": "Point"
-   },
-   "id": "6260",
-   "properties": {
-    "code": "56200",
-    "desc": "",
-    "id": "6260",
-    "name": "Westbound Marine Dr @ Martin St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -90121,7 +90031,7 @@
     "code": "56261",
     "desc": "",
     "id": "6321",
-    "name": "Southbound Stayte Rd @ N Bluff Rd",
+    "name": "Southbound Stayte Rd @ North Bluff Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -96079,7 +95989,7 @@
     "code": "56707",
     "desc": "",
     "id": "6771",
-    "name": "Southbound Horseshoe Way W @ Machrina Way",
+    "name": "Southbound Horseshoe Way West @ Machrina Way",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -96205,7 +96115,7 @@
     "code": "56714",
     "desc": "",
     "id": "6778",
-    "name": "Eastbound Machrina Way @ W Horseshoe Way",
+    "name": "Eastbound Machrina Way @ Horseshoe Way West",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -98096,24 +98006,6 @@
     "desc": "",
     "id": "6887",
     "name": "Northbound Gilbert Rd @ 6300 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147824,
-     49.169766
-    ],
-    "type": "Point"
-   },
-   "id": "6888",
-   "properties": {
-    "code": "56823",
-    "desc": "",
-    "id": "6888",
-    "name": "Southbound Gilbert Rd @ Westminster Hwy",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -105799,7 +105691,7 @@
     "code": "57377",
     "desc": "",
     "id": "7450",
-    "name": "South Delta Park & Ride @ Bay 1",
+    "name": "South Delta Exchange @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -106375,7 +106267,7 @@
     "code": "58597",
     "desc": "",
     "id": "7489",
-    "name": "South Delta Park & Ride @ Bay 2",
+    "name": "South Delta Exchange @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -123555,8 +123447,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.830414,
-     49.30409
+     -122.830381,
+     49.304041
     ],
     "type": "Point"
    },
@@ -123889,7 +123781,7 @@
     "code": "58842",
     "desc": "",
     "id": "9252",
-    "name": "Southbound Parkway Blvd @ Salal Cres N",
+    "name": "Southbound Parkway Blvd @ Salal Cres North",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -123907,7 +123799,7 @@
     "code": "58841",
     "desc": "",
     "id": "9253",
-    "name": "Southbound Parkway Blvd @ Salal Cres S",
+    "name": "Southbound Parkway Blvd @ Salal Cres South",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -124699,7 +124591,7 @@
     "code": "58856",
     "desc": "",
     "id": "9326",
-    "name": "Westbound Panorama Dr @ Greenside Court",
+    "name": "Westbound Panorama Dr @ Greenstone Court",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -126373,7 +126265,7 @@
     "code": "58961",
     "desc": "",
     "id": "9492",
-    "name": "Willowbrook Mall @ Local Bus Stop",
+    "name": "Mall Access Rd @ Willowbrook Mall",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -127003,7 +126895,7 @@
     "code": "59190",
     "desc": "",
     "id": "9555",
-    "name": "Southbound Langley Bypass @ Fraser Hwy",
+    "name": "Southbound 208 Street Causeway @ Fraser Hwy",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -127021,7 +126913,7 @@
     "code": "59191",
     "desc": "",
     "id": "9556",
-    "name": "Northbound Langley Bypass @ Fraser Hwy",
+    "name": "Northbound 208 St Causeway @ Fraser Hwy",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -129253,7 +129145,7 @@
     "code": "60979",
     "desc": "",
     "id": "9956",
-    "name": "Eastbound Bus Stop @ Mission City Station",
+    "name": "Eastbound N Railway Ave @ Mission City Station",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -131377,7 +131269,7 @@
     "code": "59767",
     "desc": "",
     "id": "10196",
-    "name": "VCC Station @ Unloading Only",
+    "name": "VCC-Clark Station @ Unloading Only",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -131575,7 +131467,7 @@
     "code": "59698",
     "desc": "",
     "id": "10212",
-    "name": "Southbound 240 St @ 112 Ave",
+    "name": "Southbound 240 St @ Kanaka Way",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -133969,7 +133861,7 @@
     "code": "59617",
     "desc": "",
     "id": "10417",
-    "name": "Northbound Meadowtown Center Way @ Meadowtown Centre",
+    "name": "Northbound Mall Access Rd @ Meadowtown Centre",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -134059,7 +133951,7 @@
     "code": "59852",
     "desc": "",
     "id": "10428",
-    "name": "South Delta Park & Ride @ Bay 3",
+    "name": "South Delta Exchange @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -135787,7 +135679,7 @@
     "code": "58625",
     "desc": "",
     "id": "10621",
-    "name": "Northbound Lonsdale Ave @ E 19th St",
+    "name": "Northbound Lonsdale Ave @ E 19 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -136155,8 +136047,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.017549,
-     49.287382
+     -123.018147,
+     49.287392
     ],
     "type": "Point"
    },
@@ -138001,7 +137893,7 @@
     "code": "54174",
     "desc": "",
     "id": "10827",
-    "name": "Northbound E Grand Blvd @ E Keith Rd",
+    "name": "Northbound Grand Blvd East @ E Keith Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -139045,7 +138937,7 @@
     "code": "59803",
     "desc": "",
     "id": "10926",
-    "name": "VCC Station @ Bay 1",
+    "name": "VCC-Clark Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -143221,7 +143113,7 @@
     "code": "61295",
     "desc": "",
     "id": "11245",
-    "name": "Northbound 232 St @ Fern Crescent",
+    "name": "Northbound 232 St @ Fern Cres",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -144327,24 +144219,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.130316,
-     49.275435
-    ],
-    "type": "Point"
-   },
-   "id": "11309",
-   "properties": {
-    "code": "59395",
-    "desc": "",
-    "id": "11309",
-    "name": "Eastbound Pacific St @ Howe St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.122521,
      49.274863
     ],
@@ -145237,7 +145111,7 @@
     "code": "54826",
     "desc": "",
     "id": "11403",
-    "name": "Northbound Granville St @ W 10th Ave",
+    "name": "Northbound Granville St @ W 10 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -147271,7 +147145,7 @@
     "code": "54480",
     "desc": "",
     "id": "11585",
-    "name": "Northbound Capilano Rd @ W 21st St",
+    "name": "Northbound Capilano Rd @ W 21 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -147883,7 +147757,7 @@
     "code": "50156",
     "desc": "",
     "id": "11632",
-    "name": "Westbound E 41st Ave @ Main St",
+    "name": "Westbound E 41 Ave @ Main St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -149954,24 +149828,6 @@
     "desc": "",
     "id": "11808",
     "name": "Carvolth Exchange @ Bay 4",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.660498,
-     49.159864
-    ],
-    "type": "Point"
-   },
-   "id": "11809",
-   "properties": {
-    "code": "61713",
-    "desc": "",
-    "id": "11809",
-    "name": "Carvolth Exchange @ Bay 5",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -153417,8 +153273,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.95283,
-     49.185126
+     -122.953118,
+     49.184961
     ],
     "type": "Point"
    },
@@ -154003,7 +153859,7 @@
     "code": "61503",
     "desc": "",
     "id": "12134",
-    "name": "Eastbound E 41st Ave @ Fraser St",
+    "name": "Eastbound E 41 Ave @ Fraser St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -154147,7 +154003,7 @@
     "code": "59292",
     "desc": "",
     "id": "12148",
-    "name": "Southbound Fraser St @ E 19th Ave",
+    "name": "Southbound Fraser St @ E 19 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -154238,24 +154094,6 @@
     "desc": "",
     "id": "12155",
     "name": "King George Station @ Bay 4",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.126858,
-     49.263313
-    ],
-    "type": "Point"
-   },
-   "id": "12156",
-   "properties": {
-    "code": "50329",
-    "desc": "",
-    "id": "12156",
-    "name": "Eastbound W Broadway @ Oak St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -155065,7 +154903,7 @@
     "code": "59510",
     "desc": "",
     "id": "12220",
-    "name": "Westbound 52 St @ 2000 Block",
+    "name": "Westbound Canoe Pass Way @ 52 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -155083,7 +154921,7 @@
     "code": "59532",
     "desc": "",
     "id": "12221",
-    "name": "Eastbound 52 St @ Mall Access Rd",
+    "name": "Eastbound Canoe Pass Way @ Mall Access Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -155101,7 +154939,7 @@
     "code": "59511",
     "desc": "",
     "id": "12222",
-    "name": "Westbound 52 St @ 2000 Block",
+    "name": "Westbound Canoe Pass Way @ Mall Access Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -155119,7 +154957,7 @@
     "code": "59541",
     "desc": "",
     "id": "12223",
-    "name": "Eastbound 52 St @ 2000 Block",
+    "name": "Eastbound Canoe Pass Way @ Salish Sea Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -155137,7 +154975,7 @@
     "code": "59542",
     "desc": "",
     "id": "12224",
-    "name": "Southbound 52 St @ 2000  Block",
+    "name": "Southbound Salish Sea Dr @ Canoe Pass Way",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -155155,7 +154993,7 @@
     "code": "59547",
     "desc": "",
     "id": "12225",
-    "name": "Northbound 52 St @ 2000 Block",
+    "name": "Northbound Salish Sea Dr @ Blue Heron Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156595,7 +156433,7 @@
     "code": "",
     "desc": "",
     "id": "12319",
-    "name": "Port Moody Station @ West Coast Express",
+    "name": "Moody Centre Station @ West Coast Express",
     "zone": "WCE2A"
    },
    "type": "Feature"
@@ -156613,7 +156451,7 @@
     "code": "",
     "desc": "",
     "id": "12320",
-    "name": "Port Moody Station @ West Coast Express",
+    "name": "Moody Centre Station @ West Coast Express",
     "zone": "WCE2A"
    },
    "type": "Feature"
@@ -159403,7 +159241,7 @@
     "code": "60276",
     "desc": "",
     "id": "12531",
-    "name": "Southbound 15th St @ Ottawa Ave",
+    "name": "Southbound 15 St @ Ottawa Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159465,8 +159303,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.118157,
-     49.281079
+     -123.118468,
+     49.280878
     ],
     "type": "Point"
    },
@@ -159800,6 +159638,78 @@
     "desc": "",
     "id": "12556",
     "name": "Northbound Nanaimo St @ E 24 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.807511,
+     49.021902
+    ],
+    "type": "Point"
+   },
+   "id": "12558",
+   "properties": {
+    "code": "60320",
+    "desc": "",
+    "id": "12558",
+    "name": "Westbound Marine Dr @ 14900 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.844343,
+     49.237976
+    ],
+    "type": "Point"
+   },
+   "id": "12560",
+   "properties": {
+    "code": "60322",
+    "desc": "",
+    "id": "12560",
+    "name": "Westbound Brunette @ Pare Court",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.870879,
+     49.30235
+    ],
+    "type": "Point"
+   },
+   "id": "12561",
+   "properties": {
+    "code": "60313",
+    "desc": "",
+    "id": "12561",
+    "name": "Eastbound Ioco Rd @ Beach Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.003002,
+     49.266821
+    ],
+    "type": "Point"
+   },
+   "id": "12567",
+   "properties": {
+    "code": "60329",
+    "desc": "",
+    "id": "12567",
+    "name": "Northbound Willingdon Ave @ Lougheed Hwy",
     "zone": "BUS ZN"
    },
    "type": "Feature"
