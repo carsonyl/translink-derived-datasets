@@ -5817,6 +5817,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.091052,
+     49.282056
+    ],
+    "type": "Point"
+   },
+   "id": "431",
+   "properties": {
+    "code": "50427",
+    "desc": "",
+    "id": "431",
+    "name": "Eastbound E Cordova St @ Princess Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.081697,
      49.282672
     ],
@@ -21765,24 +21783,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.102742,
-     49.248736
-    ],
-    "type": "Point"
-   },
-   "id": "1529",
-   "properties": {
-    "code": "51517",
-    "desc": "",
-    "id": "1529",
-    "name": "Eastbound E King Edward Ave @ Quebec St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.100559,
      49.248697
     ],
@@ -31773,8 +31773,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.911123,
-     49.245383
+     -122.911079,
+     49.245474
     ],
     "type": "Point"
    },
@@ -31935,8 +31935,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.909829,
-     49.243631
+     -122.909715,
+     49.243573
     ],
     "type": "Point"
    },
@@ -34358,24 +34358,6 @@
     "desc": "",
     "id": "2482",
     "name": "Westbound Kingsway @ Arcola St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.971478,
-     49.219902
-    ],
-    "type": "Point"
-   },
-   "id": "2483",
-   "properties": {
-    "code": "52459",
-    "desc": "",
-    "id": "2483",
-    "name": "Westbound Kingsway @ Gilley Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -63625,7 +63607,7 @@
     "code": "54544",
     "desc": "",
     "id": "4596",
-    "name": "Southbound Capilano Rd @ Hwy 1st Overpass",
+    "name": "Southbound Capilano Rd @ Hwy One Overpass",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -66757,7 +66739,7 @@
     "code": "54732",
     "desc": "",
     "id": "4784",
-    "name": "Northbound Taylor Way @ Hwy 1st Overpass",
+    "name": "Northbound Taylor Way @ Hwy One Overpass",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -67495,7 +67477,7 @@
     "code": "54775",
     "desc": "",
     "id": "4827",
-    "name": "Southbound Taylor Way @ Hwy 1st Overpass",
+    "name": "Southbound Taylor Way @ Hwy One Overpass",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -117805,7 +117787,7 @@
     "code": "60886",
     "desc": "",
     "id": "8635",
-    "name": "Westbound Hwy 1st Overpass @ Marine Dr",
+    "name": "Westbound Hwy One Overpass @ Marine Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -130748,6 +130730,24 @@
     "desc": "",
     "id": "10139",
     "name": "Northbound Pinetree Way @ 1300 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.800886,
+     49.299129
+    ],
+    "type": "Point"
+   },
+   "id": "10140",
+   "properties": {
+    "code": "53925",
+    "desc": "",
+    "id": "10140",
+    "name": "Southbound Johnson St @ Panorama Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -147505,7 +147505,7 @@
     "code": "59434",
     "desc": "",
     "id": "11610",
-    "name": "Westbound E 49th Ave @ Vivian St",
+    "name": "Westbound E 49 Ave @ Vivian St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -150457,7 +150457,7 @@
     "code": "61782",
     "desc": "",
     "id": "11867",
-    "name": "Eastbound Marine Dr @ Park Royal South -",
+    "name": "Eastbound Marine Dr @ Park Royal South",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -150511,7 +150511,7 @@
     "code": "61800",
     "desc": "",
     "id": "11871",
-    "name": "Victoria Dr @ E 54th Ave",
+    "name": "Victoria Dr @ 54th Avenue Loop",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -151213,7 +151213,7 @@
     "code": "61789",
     "desc": "",
     "id": "11931",
-    "name": "Northbound 152 Street @ 40 Ave",
+    "name": "Northbound 152 St @ 40 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -153157,7 +153157,7 @@
     "code": "61962",
     "desc": "",
     "id": "12063",
-    "name": "Southbound 156 St @ Hwy 1st Offramp",
+    "name": "Southbound 156 St @ Hwy One Offramp",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -153175,7 +153175,7 @@
     "code": "61961",
     "desc": "",
     "id": "12064",
-    "name": "Northbound 156 St @ Hwy 1st Off Ramp",
+    "name": "Northbound 156 St @ Hwy One Offramp",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -153193,7 +153193,7 @@
     "code": "61960",
     "desc": "",
     "id": "12065",
-    "name": "Eastbound Hwy 1st Offramp @ 156 St",
+    "name": "Eastbound Hwy One Offramp @ 156 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -153211,7 +153211,7 @@
     "code": "61959",
     "desc": "",
     "id": "12066",
-    "name": "Westbound Hwy 1st Offramp @ 156 St",
+    "name": "Westbound Hwy One Offramp @ 156 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -154291,7 +154291,7 @@
     "code": "60023",
     "desc": "",
     "id": "12183",
-    "name": "Southbound Arlington St @ E 49th Ave",
+    "name": "Southbound Arlington St @ E 49 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -154345,7 +154345,7 @@
     "code": "60022",
     "desc": "",
     "id": "12186",
-    "name": "Westbound E 49th Ave @ Doman St",
+    "name": "Westbound E 49 Ave @ Doman St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -154363,7 +154363,7 @@
     "code": "60020",
     "desc": "",
     "id": "12187",
-    "name": "Eastbound E 49th Ave @ Doman St",
+    "name": "Eastbound E 49 Ave @ Doman St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159710,6 +159710,60 @@
     "desc": "",
     "id": "12567",
     "name": "Northbound Willingdon Ave @ Lougheed Hwy",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.104633,
+     49.248771
+    ],
+    "type": "Point"
+   },
+   "id": "12570",
+   "properties": {
+    "code": "60335",
+    "desc": "",
+    "id": "12570",
+    "name": "Eastbound E King Edward Ave @ Ontario St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.97264,
+     49.220162
+    ],
+    "type": "Point"
+   },
+   "id": "12571",
+   "properties": {
+    "code": "60332",
+    "desc": "",
+    "id": "12571",
+    "name": "Westbound Kingsway @ Gilley Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.089076,
+     49.28202
+    ],
+    "type": "Point"
+   },
+   "id": "12572",
+   "properties": {
+    "code": "60336",
+    "desc": "",
+    "id": "12572",
+    "name": "Eastbound E Cordova St @ Heatley Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
