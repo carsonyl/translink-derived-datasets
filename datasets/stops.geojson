@@ -5637,24 +5637,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.117719,
-     49.275788
-    ],
-    "type": "Point"
-   },
-   "id": "415",
-   "properties": {
-    "code": "50411",
-    "desc": "",
-    "id": "415",
-    "name": "Eastbound Nelson St @ Cambie St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.115144,
      49.260113
     ],
@@ -5954,60 +5936,6 @@
     "desc": "",
     "id": "441",
     "name": "Eastbound Dundas St @ Templeton Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.05639,
-     49.285176
-    ],
-    "type": "Point"
-   },
-   "id": "442",
-   "properties": {
-    "code": "50438",
-    "desc": "",
-    "id": "442",
-    "name": "Northbound N Nanaimo St @ Dundas St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.056377,
-     49.286389
-    ],
-    "type": "Point"
-   },
-   "id": "443",
-   "properties": {
-    "code": "50439",
-    "desc": "",
-    "id": "443",
-    "name": "Northbound N Nanaimo St @ Cambridge St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.056367,
-     49.288013
-    ],
-    "type": "Point"
-   },
-   "id": "444",
-   "properties": {
-    "code": "50440",
-    "desc": "",
-    "id": "444",
-    "name": "Northbound N Nanaimo St @ Eton St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -6548,42 +6476,6 @@
     "desc": "",
     "id": "494",
     "name": "Westbound McGill St @ N Penticton St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.05666,
-     49.288026
-    ],
-    "type": "Point"
-   },
-   "id": "495",
-   "properties": {
-    "code": "50491",
-    "desc": "",
-    "id": "495",
-    "name": "Southbound N Nanaimo St @ McGill St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.056672,
-     49.286276
-    ],
-    "type": "Point"
-   },
-   "id": "496",
-   "properties": {
-    "code": "50492",
-    "desc": "",
-    "id": "496",
-    "name": "Southbound N Nanaimo St @ Cambridge St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -12128,6 +12020,24 @@
     "desc": "",
     "id": "886",
     "name": "Eastbound E Broadway @ Main St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.099816,
+     49.262778
+    ],
+    "type": "Point"
+   },
+   "id": "887",
+   "properties": {
+    "code": "50880",
+    "desc": "",
+    "id": "887",
+    "name": "Eastbound E Broadway @ Kingsway St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -26877,24 +26787,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.920119,
-     49.279957
-    ],
-    "type": "Point"
-   },
-   "id": "1877",
-   "properties": {
-    "code": "51863",
-    "desc": "",
-    "id": "1877",
-    "name": "SFU Transportation Centre @ Bay 1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.928277,
      49.281238
     ],
@@ -31208,24 +31100,6 @@
     "desc": "",
     "id": "2242",
     "name": "Marpole Loop @ Bay 3",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.949097,
-     49.199857
-    ],
-    "type": "Point"
-   },
-   "id": "2252",
-   "properties": {
-    "code": "52230",
-    "desc": "",
-    "id": "2252",
-    "name": "22nd St Station @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -39109,7 +38983,7 @@
     "code": "52792",
     "desc": "",
     "id": "2821",
-    "name": "Brentwood Station @ Bay 2",
+    "name": "Westbound Lougheed Hwy @ Beta Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -54608,24 +54482,6 @@
     "desc": "",
     "id": "3994",
     "name": "Eastbound E 3rd St @ Ridgeway Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.059819,
-     49.308434
-    ],
-    "type": "Point"
-   },
-   "id": "3995",
-   "properties": {
-    "code": "53954",
-    "desc": "",
-    "id": "3995",
-    "name": "Eastbound E 3rd St @ Moody Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -77583,8 +77439,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.801323,
-     49.03262
+     -122.801322,
+     49.032567
     ],
     "type": "Point"
    },
@@ -84740,24 +84596,6 @@
     "desc": "",
     "id": "5983",
     "name": "Westbound 108 Ave @ 158 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.949615,
-     49.199727
-    ],
-    "type": "Point"
-   },
-   "id": "5989",
-   "properties": {
-    "code": "55933",
-    "desc": "",
-    "id": "5989",
-    "name": "22nd St Station @ Bay 6",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -118731,24 +118569,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.014362,
-     49.267781
-    ],
-    "type": "Point"
-   },
-   "id": "8738",
-   "properties": {
-    "code": "58387",
-    "desc": "",
-    "id": "8738",
-    "name": "Southbound Gilmore Ave @ 2nd Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.018496,
      49.263862
     ],
@@ -131385,24 +131205,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.909375,
-     49.277133
-    ],
-    "type": "Point"
-   },
-   "id": "10208",
-   "properties": {
-    "code": "59044",
-    "desc": "",
-    "id": "10208",
-    "name": "Southbound Tower Rd @ University High Street",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.123173,
      49.191931
     ],
@@ -133142,6 +132944,24 @@
     "desc": "",
     "id": "10342",
     "name": "Northbound Griffiths Dr @ 14 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.59665,
+     49.217181
+    ],
+    "type": "Point"
+   },
+   "id": "10343",
+   "properties": {
+    "code": "59774",
+    "desc": "",
+    "id": "10343",
+    "name": "Westbound Lougheed Hwy @ 226 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -137912,6 +137732,24 @@
     "desc": "",
     "id": "10828",
     "name": "Northbound 206 St @ 66 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.65239,
+     49.126159
+    ],
+    "type": "Point"
+   },
+   "id": "10829",
+   "properties": {
+    "code": "60987",
+    "desc": "",
+    "id": "10829",
+    "name": "Westbound 68 Ave @ 206 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -147945,8 +147783,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.720302,
-     49.243679
+     -122.720621,
+     49.24395
     ],
     "type": "Point"
    },
@@ -150530,6 +150368,24 @@
     "desc": "",
     "id": "11872",
     "name": "Northbound Entertainment Blvd @ Steveston Hwy",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.001909,
+     49.266536
+    ],
+    "type": "Point"
+   },
+   "id": "11874",
+   "properties": {
+    "code": "61802",
+    "desc": "",
+    "id": "11874",
+    "name": "Brentwood Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -154238,6 +154094,24 @@
     "desc": "",
     "id": "12176",
     "name": "Northbound 160 St @ 96 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.117499,
+     49.276601
+    ],
+    "type": "Point"
+   },
+   "id": "12177",
+   "properties": {
+    "code": "60049",
+    "desc": "",
+    "id": "12177",
+    "name": "Southbound Cambie St @ Nelson St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159565,7 +159439,7 @@
     "code": "60310",
     "desc": "",
     "id": "12552",
-    "name": "Westbound 84 Ave @ Venture St",
+    "name": "Westbound 84 Ave @ Venture Way",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159663,6 +159537,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.921004,
+     49.280328
+    ],
+    "type": "Point"
+   },
+   "id": "12559",
+   "properties": {
+    "code": "60015",
+    "desc": "",
+    "id": "12559",
+    "name": "SFU Transportation Centre @ Bay 1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.844343,
      49.237976
     ],
@@ -159692,6 +159584,42 @@
     "desc": "",
     "id": "12561",
     "name": "Eastbound Ioco Rd @ Beach Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.948652,
+     49.200479
+    ],
+    "type": "Point"
+   },
+   "id": "12562",
+   "properties": {
+    "code": "59428",
+    "desc": "",
+    "id": "12562",
+    "name": "22nd Street Station @ Bay 10",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.948341,
+     49.200653
+    ],
+    "type": "Point"
+   },
+   "id": "12563",
+   "properties": {
+    "code": "60309",
+    "desc": "",
+    "id": "12563",
+    "name": "22nd Street Station @ Bay 11",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159764,6 +159692,96 @@
     "desc": "",
     "id": "12572",
     "name": "Eastbound E Cordova St @ Heatley Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.079702,
+     49.028289
+    ],
+    "type": "Point"
+   },
+   "id": "12573",
+   "properties": {
+    "code": "60294",
+    "desc": "",
+    "id": "12573",
+    "name": "Northbound 52 St @ Saratoga Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.05639,
+     49.284164
+    ],
+    "type": "Point"
+   },
+   "id": "12574",
+   "properties": {
+    "code": "60337",
+    "desc": "",
+    "id": "12574",
+    "name": "Northbound Nanaimo St @ Triumph St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.057373,
+     49.284729
+    ],
+    "type": "Point"
+   },
+   "id": "12575",
+   "properties": {
+    "code": "60338",
+    "desc": "",
+    "id": "12575",
+    "name": "Eastbound Dundas St @ Garden Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.055732,
+     49.288623
+    ],
+    "type": "Point"
+   },
+   "id": "12576",
+   "properties": {
+    "code": "60339",
+    "desc": "",
+    "id": "12576",
+    "name": "Eastbound McGill St @ Garden Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.054828,
+     49.288809
+    ],
+    "type": "Point"
+   },
+   "id": "12577",
+   "properties": {
+    "code": "60340",
+    "desc": "",
+    "id": "12577",
+    "name": "Westbound McGill St @ N Kamloops St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
