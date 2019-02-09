@@ -5799,8 +5799,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.091052,
-     49.282056
+     -123.091703,
+     49.28207
     ],
     "type": "Point"
    },
@@ -31611,24 +31611,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.907744,
-     49.242361
-    ],
-    "type": "Point"
-   },
-   "id": "2286",
-   "properties": {
-    "code": "52264",
-    "desc": "",
-    "id": "2286",
-    "name": "Northbound Cariboo Rd @ Cariboo Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.910016,
      49.244165
     ],
@@ -32169,8 +32151,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.930936,
-     49.212306
+     -122.931005,
+     49.212274
     ],
     "type": "Point"
    },
@@ -77449,7 +77431,7 @@
     "code": "55488",
     "desc": "",
     "id": "5542",
-    "name": "Southbound 152 St @ 17 Ave",
+    "name": "White Rock Centre @ Bay 10",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -123195,8 +123177,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.832777,
-     49.303562
+     -122.832895,
+     49.303484
     ],
     "type": "Point"
    },
@@ -132962,6 +132944,24 @@
     "desc": "",
     "id": "10343",
     "name": "Westbound Lougheed Hwy @ 226 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.601051,
+     49.217028
+    ],
+    "type": "Point"
+   },
+   "id": "10344",
+   "properties": {
+    "code": "59773",
+    "desc": "",
+    "id": "10344",
+    "name": "Westbound Lougheed Hwy @ 224 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -151995,24 +151995,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.537254,
-     49.194271
-    ],
-    "type": "Point"
-   },
-   "id": "11993",
-   "properties": {
-    "code": "61886",
-    "desc": "",
-    "id": "11993",
-    "name": "Southbound Jackson Rd @ 105A Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.537378,
      49.193826
     ],
@@ -159465,24 +159447,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.803437,
-     49.033015
-    ],
-    "type": "Point"
-   },
-   "id": "12554",
-   "properties": {
-    "code": "60312",
-    "desc": "",
-    "id": "12554",
-    "name": "Mall Access Rd @ Semiahmoo Mall",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.0568,
      49.248992
     ],
@@ -159763,7 +159727,7 @@
     "code": "60339",
     "desc": "",
     "id": "12576",
-    "name": "Eastbound McGill St @ Garden Dr",
+    "name": "Eastbound McGill St @ N Nanaimo St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
