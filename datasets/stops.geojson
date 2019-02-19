@@ -5943,6 +5943,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.05639,
+     49.285176
+    ],
+    "type": "Point"
+   },
+   "id": "442",
+   "properties": {
+    "code": "50438",
+    "desc": "",
+    "id": "442",
+    "name": "Northbound N Nanaimo St @ Dundas St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.054072,
      49.288625
     ],
@@ -159699,24 +159717,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.057373,
-     49.284729
-    ],
-    "type": "Point"
-   },
-   "id": "12575",
-   "properties": {
-    "code": "60338",
-    "desc": "",
-    "id": "12575",
-    "name": "Eastbound Dundas St @ Garden Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.055732,
      49.288623
     ],
@@ -159746,6 +159746,24 @@
     "desc": "",
     "id": "12577",
     "name": "Westbound McGill St @ N Kamloops St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.134881,
+     49.203508
+    ],
+    "type": "Point"
+   },
+   "id": "12578",
+   "properties": {
+    "code": "59769",
+    "desc": "",
+    "id": "12578",
+    "name": "Southbound Hudson St @ W 73 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
