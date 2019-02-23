@@ -9903,24 +9903,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.13332,
-     49.202764
-    ],
-    "type": "Point"
-   },
-   "id": "745",
-   "properties": {
-    "code": "50738",
-    "desc": "",
-    "id": "745",
-    "name": "Marpole Loop @ Bay 1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.130671,
      49.204348
     ],
@@ -159763,7 +159745,7 @@
     "code": "59769",
     "desc": "",
     "id": "12578",
-    "name": "Southbound Hudson St @ W 73 Ave",
+    "name": "Southbound Hudson St @ Marine Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
