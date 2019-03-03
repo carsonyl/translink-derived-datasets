@@ -5475,6 +5475,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.157148,
+     49.268131
+    ],
+    "type": "Point"
+   },
+   "id": "401",
+   "properties": {
+    "code": "50397",
+    "desc": "",
+    "id": "401",
+    "name": "Eastbound W 4th Ave @ Vine St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.152371,
      49.268041
     ],
@@ -50223,24 +50241,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.898799,
-     49.22304
-    ],
-    "type": "Point"
-   },
-   "id": "3655",
-   "properties": {
-    "code": "53616",
-    "desc": "",
-    "id": "3655",
-    "name": "Southbound Richmond St @ Alberta St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.899969,
      49.220614
     ],
@@ -91893,24 +91893,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147116,
-     49.170079
-    ],
-    "type": "Point"
-   },
-   "id": "6508",
-   "properties": {
-    "code": "56447",
-    "desc": "",
-    "id": "6508",
-    "name": "Eastbound Westminster Hwy @ Gilbert Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.144084,
      49.170083
     ],
@@ -127695,24 +127677,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.604104,
-     49.212009
-    ],
-    "type": "Point"
-   },
-   "id": "9667",
-   "properties": {
-    "code": "59216",
-    "desc": "",
-    "id": "9667",
-    "name": "Port Haney Station @ Bay 3",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.556619,
      49.197238
     ],
@@ -128919,8 +128883,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.304219,
-     49.133844
+     -122.305153,
+     49.133882
     ],
     "type": "Point"
    },
@@ -159746,6 +159710,42 @@
     "desc": "",
     "id": "12578",
     "name": "Southbound Hudson St @ Marine Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147475,
+     49.170522
+    ],
+    "type": "Point"
+   },
+   "id": "12579",
+   "properties": {
+    "code": "56938",
+    "desc": "",
+    "id": "12579",
+    "name": "Northbound Gilbert Rd @ Westminster Hwy",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.606432,
+     49.212575
+    ],
+    "type": "Point"
+   },
+   "id": "12580",
+   "properties": {
+    "code": "59709",
+    "desc": "",
+    "id": "12580",
+    "name": "Port Haney Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
