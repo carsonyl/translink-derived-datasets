@@ -104223,24 +104223,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.624204,
-     49.161409
-    ],
-    "type": "Point"
-   },
-   "id": "7336",
-   "properties": {
-    "code": "57265",
-    "desc": "",
-    "id": "7336",
-    "name": "Southbound 216 St @ 88 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.624158,
      49.159386
     ],
@@ -118353,8 +118335,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.985664,
-     49.263236
+     -122.985569,
+     49.263261
     ],
     "type": "Point"
    },
@@ -122745,8 +122727,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.902016,
-     49.209294
+     -122.90199,
+     49.209275
     ],
     "type": "Point"
    },
@@ -129513,24 +129495,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.962966,
-     49.25941
-    ],
-    "type": "Point"
-   },
-   "id": "10021",
-   "properties": {
-    "code": "52835",
-    "desc": "",
-    "id": "10021",
-    "name": "Westbound Lougheed Hwy @ Sperling Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.955209,
      49.258523
     ],
@@ -130215,8 +130179,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.845608,
-     49.278916
+     -122.845681,
+     49.278915
     ],
     "type": "Point"
    },
@@ -145371,24 +145335,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.956938,
-     49.258862
-    ],
-    "type": "Point"
-   },
-   "id": "11451",
-   "properties": {
-    "code": "52539",
-    "desc": "",
-    "id": "11451",
-    "name": "Westbound Lougheed Hwy @ Bainbridge Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.152005,
      49.263703
     ],
@@ -159746,6 +159692,24 @@
     "desc": "",
     "id": "12580",
     "name": "Port Haney Station @ Bay 3",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.96529,
+     49.259774
+    ],
+    "type": "Point"
+   },
+   "id": "12582",
+   "properties": {
+    "code": "60330",
+    "desc": "",
+    "id": "12582",
+    "name": "Westbound Lougheed Hwy @ Sperling Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
