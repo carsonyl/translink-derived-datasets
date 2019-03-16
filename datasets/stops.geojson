@@ -1695,24 +1695,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.11793,
-     49.233459
-    ],
-    "type": "Point"
-   },
-   "id": "136",
-   "properties": {
-    "code": "59305",
-    "desc": "",
-    "id": "136",
-    "name": "Oakridge-41st Ave Station @ Bay 3",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.107725,
      49.233142
     ],
@@ -1958,24 +1940,6 @@
     "desc": "",
     "id": "158",
     "name": "Westbound W 41 Ave @ Columbia St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.116855,
-     49.233681
-    ],
-    "type": "Point"
-   },
-   "id": "160",
-   "properties": {
-    "code": "50160",
-    "desc": "",
-    "id": "160",
-    "name": "Oakridge-41st Ave Station @ Bay 5",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -35265,24 +35229,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.95602,
-     49.260983
-    ],
-    "type": "Point"
-   },
-   "id": "2562",
-   "properties": {
-    "code": "52537",
-    "desc": "",
-    "id": "2562",
-    "name": "Southbound Bainbridge Ave @ Broadway",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.955835,
      49.250878
     ],
@@ -35582,24 +35528,6 @@
     "desc": "",
     "id": "2586",
     "name": "Westbound Winston St @ 7200 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.955878,
-     49.259135
-    ],
-    "type": "Point"
-   },
-   "id": "2590",
-   "properties": {
-    "code": "52565",
-    "desc": "",
-    "id": "2590",
-    "name": "Northbound Bainbridge Ave @ Lougheed Hwy",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -39531,42 +39459,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.948215,
-     49.261184
-    ],
-    "type": "Point"
-   },
-   "id": "2866",
-   "properties": {
-    "code": "52837",
-    "desc": "",
-    "id": "2866",
-    "name": "Eastbound Broadway @ Phillips Place",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.940876,
-     49.26086
-    ],
-    "type": "Point"
-   },
-   "id": "2867",
-   "properties": {
-    "code": "52838",
-    "desc": "",
-    "id": "2867",
-    "name": "Eastbound Broadway @ Lawrence Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.936395,
      49.260851
     ],
@@ -40226,42 +40118,6 @@
     "desc": "",
     "id": "2909",
     "name": "Southbound Underhill Ave @ Broadway",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.940798,
-     49.260945
-    ],
-    "type": "Point"
-   },
-   "id": "2911",
-   "properties": {
-    "code": "52881",
-    "desc": "",
-    "id": "2911",
-    "name": "Westbound Broadway @ Lawrence Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.948952,
-     49.261263
-    ],
-    "type": "Point"
-   },
-   "id": "2912",
-   "properties": {
-    "code": "52882",
-    "desc": "",
-    "id": "2912",
-    "name": "Westbound Broadway @ Phillips Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -118353,42 +118209,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.937831,
-     49.255848
-    ],
-    "type": "Point"
-   },
-   "id": "8703",
-   "properties": {
-    "code": "58363",
-    "desc": "",
-    "id": "8703",
-    "name": "Northbound Lake City Way @ Enterprise St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.937815,
-     49.258128
-    ],
-    "type": "Point"
-   },
-   "id": "8704",
-   "properties": {
-    "code": "58364",
-    "desc": "",
-    "id": "8704",
-    "name": "Northbound Lake City Way @ Venture St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.916944,
      49.257296
     ],
@@ -119523,24 +119343,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.937447,
-     49.260186
-    ],
-    "type": "Point"
-   },
-   "id": "8846",
-   "properties": {
-    "code": "58460",
-    "desc": "",
-    "id": "8846",
-    "name": "Northbound Lake City Way @ Express St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.852353,
      49.249301
     ],
@@ -119714,24 +119516,6 @@
     "desc": "",
     "id": "8896",
     "name": "Eastbound Hastings St @ Inlet Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.952748,
-     49.261035
-    ],
-    "type": "Point"
-   },
-   "id": "8897",
-   "properties": {
-    "code": "58451",
-    "desc": "",
-    "id": "8897",
-    "name": "Eastbound Broadway @ Duthie Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -130226,24 +130010,6 @@
     "desc": "",
     "id": "10106",
     "name": "Southbound Broadway St @ Mary Hill Bypass",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.9278,
-     49.259302
-    ],
-    "type": "Point"
-   },
-   "id": "10110",
-   "properties": {
-    "code": "59486",
-    "desc": "",
-    "id": "10110",
-    "name": "Southbound Underhill Ave @ 2700 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -144399,24 +144165,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.117554,
-     49.233446
-    ],
-    "type": "Point"
-   },
-   "id": "11353",
-   "properties": {
-    "code": "50136",
-    "desc": "",
-    "id": "11353",
-    "name": "Oakridge-41st Ave Station @ Bay 2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.114283,
      49.263107
     ],
@@ -145310,24 +145058,6 @@
     "desc": "",
     "id": "11444",
     "name": "Eastbound Como Lake Ave @ Poirier St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.95607,
-     49.258892
-    ],
-    "type": "Point"
-   },
-   "id": "11450",
-   "properties": {
-    "code": "52538",
-    "desc": "",
-    "id": "11450",
-    "name": "Southbound Bainbridge Ave @ Lougheed Hwy",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158475,24 +158205,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.118539,
-     49.233703
-    ],
-    "type": "Point"
-   },
-   "id": "12485",
-   "properties": {
-    "code": "60583",
-    "desc": "",
-    "id": "12485",
-    "name": "Oakridge-41st Ave Station @ Bay 4",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.089851,
      49.253266
     ],
@@ -159710,6 +159422,114 @@
     "desc": "",
     "id": "12582",
     "name": "Westbound Lougheed Hwy @ Sperling Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.115566,
+     49.233634
+    ],
+    "type": "Point"
+   },
+   "id": "12583",
+   "properties": {
+    "code": "50159",
+    "desc": "",
+    "id": "12583",
+    "name": "Oakridge-41st Ave Station @ Bay 5",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.115113,
+     49.233615
+    ],
+    "type": "Point"
+   },
+   "id": "12584",
+   "properties": {
+    "code": "60350",
+    "desc": "",
+    "id": "12584",
+    "name": "Oakridge-41st Ave Station @ Bay 4",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.115592,
+     49.2334
+    ],
+    "type": "Point"
+   },
+   "id": "12585",
+   "properties": {
+    "code": "50137",
+    "desc": "",
+    "id": "12585",
+    "name": "Oakridge-41st Ave Station @ Bay 2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.115117,
+     49.233392
+    ],
+    "type": "Point"
+   },
+   "id": "12586",
+   "properties": {
+    "code": "60349",
+    "desc": "",
+    "id": "12586",
+    "name": "Oakridge-41st Ave Station @ Bay 3",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.956079,
+     49.258286
+    ],
+    "type": "Point"
+   },
+   "id": "12587",
+   "properties": {
+    "code": "60232",
+    "desc": "",
+    "id": "12587",
+    "name": "Southbound Bainbridge Ave @ Lougheed Hwy",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.938112,
+     49.254743
+    ],
+    "type": "Point"
+   },
+   "id": "12588",
+   "properties": {
+    "code": "60328",
+    "desc": "",
+    "id": "12588",
+    "name": "Southbound Lake City Way @ Enterprise St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
