@@ -15519,24 +15519,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.132871,
-     49.20325
-    ],
-    "type": "Point"
-   },
-   "id": "1129",
-   "properties": {
-    "code": "51120",
-    "desc": "",
-    "id": "1129",
-    "name": "Marpole Loop @ Bay 2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.06505,
      49.232713
     ],
@@ -22550,6 +22532,24 @@
     "desc": "",
     "id": "1582",
     "name": "Westbound E King Edward Ave @ Prince Edward St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.101632,
+     49.248868
+    ],
+    "type": "Point"
+   },
+   "id": "1583",
+   "properties": {
+    "code": "51571",
+    "desc": "",
+    "id": "1583",
+    "name": "Westbound E King Edward Ave @ Main St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -96843,24 +96843,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.143492,
-     49.162848
-    ],
-    "type": "Point"
-   },
-   "id": "6842",
-   "properties": {
-    "code": "56777",
-    "desc": "",
-    "id": "6842",
-    "name": "Westbound Granville Ave @ Minoru Gate",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.148798,
      49.162852
     ],
@@ -158853,24 +158835,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.100621,
-     49.24885
-    ],
-    "type": "Point"
-   },
-   "id": "12539",
-   "properties": {
-    "code": "60289",
-    "desc": "",
-    "id": "12539",
-    "name": "Westbound E King Edward Ave @ Main St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.802667,
      49.031031
     ],
@@ -159530,6 +159494,24 @@
     "desc": "",
     "id": "12588",
     "name": "Southbound Lake City Way @ Enterprise St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.145425,
+     49.162848
+    ],
+    "type": "Point"
+   },
+   "id": "12589",
+   "properties": {
+    "code": "60352",
+    "desc": "",
+    "id": "12589",
+    "name": "Westbound Granville Ave @ Moffatt Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
