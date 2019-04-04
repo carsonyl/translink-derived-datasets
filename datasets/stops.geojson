@@ -5925,24 +5925,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.05639,
-     49.285176
-    ],
-    "type": "Point"
-   },
-   "id": "442",
-   "properties": {
-    "code": "50438",
-    "desc": "",
-    "id": "442",
-    "name": "Northbound N Nanaimo St @ Dundas St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.054072,
      49.288625
     ],
@@ -26744,24 +26726,6 @@
     "desc": "",
     "id": "1875",
     "name": "SFU Transit Exchange @ Bay 1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.916031,
-     49.276558
-    ],
-    "type": "Point"
-   },
-   "id": "1876",
-   "properties": {
-    "code": "51862",
-    "desc": "",
-    "id": "1876",
-    "name": "Westbound S Campus Rd @ Science Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -52941,8 +52905,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.737912,
-     49.2858
+     -122.737672,
+     49.285827
     ],
     "type": "Point"
    },
@@ -54392,24 +54356,6 @@
     "desc": "",
     "id": "4004",
     "name": "Westbound E Keith Rd @ Mountain Hwy",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.036123,
-     49.317812
-    ],
-    "type": "Point"
-   },
-   "id": "4005",
-   "properties": {
-    "code": "53964",
-    "desc": "",
-    "id": "4005",
-    "name": "Northbound Mountain Hwy @ Arborlynn Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -96789,8 +96735,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.142685,
-     49.162607
+     -123.142445,
+     49.16261
     ],
     "type": "Point"
    },
@@ -96799,7 +96745,7 @@
     "code": "56774",
     "desc": "",
     "id": "6839",
-    "name": "Eastbound Granville Ave @ Minoru Gate",
+    "name": "Eastbound Granville Ave @ Moffatt Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -157017,8 +156963,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.00348,
-     49.22572
+     -123.003451,
+     49.225701
     ],
     "type": "Point"
    },
