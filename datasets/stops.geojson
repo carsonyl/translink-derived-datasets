@@ -8715,6 +8715,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.185714,
+     49.264644
+    ],
+    "type": "Point"
+   },
+   "id": "674",
+   "properties": {
+    "code": "50667",
+    "desc": "",
+    "id": "674",
+    "name": "Northbound Alma St @ W Broadway",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.185659,
      49.266385
     ],
@@ -9860,6 +9878,24 @@
     "desc": "",
     "id": "744",
     "name": "Southbound Dunbar St @ W 41 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.13332,
+     49.202764
+    ],
+    "type": "Point"
+   },
+   "id": "745",
+   "properties": {
+    "code": "50738",
+    "desc": "",
+    "id": "745",
+    "name": "Marpole Loop @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -15501,6 +15537,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.132871,
+     49.20325
+    ],
+    "type": "Point"
+   },
+   "id": "1129",
+   "properties": {
+    "code": "51120",
+    "desc": "",
+    "id": "1129",
+    "name": "Marpole Loop @ Bay 2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.06505,
      49.232713
     ],
@@ -15674,6 +15728,24 @@
     "desc": "",
     "id": "1139",
     "name": "Eastbound E 41 Ave @ School Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.099412,
+     49.262551
+    ],
+    "type": "Point"
+   },
+   "id": "1143",
+   "properties": {
+    "code": "51134",
+    "desc": "",
+    "id": "1143",
+    "name": "Eastbound Kingsway @ E Broadway",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -35193,6 +35265,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.95602,
+     49.260983
+    ],
+    "type": "Point"
+   },
+   "id": "2562",
+   "properties": {
+    "code": "52537",
+    "desc": "",
+    "id": "2562",
+    "name": "Southbound Bainbridge Ave @ Broadway",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.955835,
      49.250878
     ],
@@ -40082,6 +40172,24 @@
     "desc": "",
     "id": "2909",
     "name": "Southbound Underhill Ave @ Broadway",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.940798,
+     49.260945
+    ],
+    "type": "Point"
+   },
+   "id": "2911",
+   "properties": {
+    "code": "52881",
+    "desc": "",
+    "id": "2911",
+    "name": "Westbound Broadway @ Lawrence Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -47451,6 +47559,42 @@
   {
    "geometry": {
     "coordinates": [
+     -122.813498,
+     49.241138
+    ],
+    "type": "Point"
+   },
+   "id": "3460",
+   "properties": {
+    "code": "53422",
+    "desc": "",
+    "id": "3460",
+    "name": "Eastbound Cape Horn Ave @ Colony Farm Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.807863,
+     49.245003
+    ],
+    "type": "Point"
+   },
+   "id": "3461",
+   "properties": {
+    "code": "53423",
+    "desc": "",
+    "id": "3461",
+    "name": "Northbound Holly Dr @ Fern Terrace",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.803405,
      49.249444
     ],
@@ -47462,6 +47606,24 @@
     "desc": "",
     "id": "3463",
     "name": "Northbound Holly Dr @ Lilac Place",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.802413,
+     49.254069
+    ],
+    "type": "Point"
+   },
+   "id": "3464",
+   "properties": {
+    "code": "53426",
+    "desc": "",
+    "id": "3464",
+    "name": "Northbound Holly Dr @ Rose Way",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -55076,24 +55238,6 @@
     "desc": "",
     "id": "4049",
     "name": "Southbound Mountain Hwy @ E 15 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.036309,
-     49.317811
-    ],
-    "type": "Point"
-   },
-   "id": "4050",
-   "properties": {
-    "code": "54009",
-    "desc": "",
-    "id": "4050",
-    "name": "Southbound Mountain Hwy @ Arborlynn Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -97581,60 +97725,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147852,
-     49.16728
-    ],
-    "type": "Point"
-   },
-   "id": "6889",
-   "properties": {
-    "code": "56824",
-    "desc": "",
-    "id": "6889",
-    "name": "Southbound Gilbert Rd @ 6400 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147869,
-     49.1658
-    ],
-    "type": "Point"
-   },
-   "id": "6890",
-   "properties": {
-    "code": "56825",
-    "desc": "",
-    "id": "6890",
-    "name": "Southbound Gilbert Rd @ Azure Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.14789,
-     49.164437
-    ],
-    "type": "Point"
-   },
-   "id": "6891",
-   "properties": {
-    "code": "56826",
-    "desc": "",
-    "id": "6891",
-    "name": "Southbound Gilbert Rd @ 6800 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.147898,
      49.16209
     ],
@@ -126219,6 +126309,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.88605,
+     49.323873
+    ],
+    "type": "Point"
+   },
+   "id": "9541",
+   "properties": {
+    "code": "53249",
+    "desc": "",
+    "id": "9541",
+    "name": "White Pine Beach Rd @ Norton Court",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.11995,
      49.324033
     ],
@@ -129981,24 +130089,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.114489,
-     49.280019
-    ],
-    "type": "Point"
-   },
-   "id": "10114",
-   "properties": {
-    "code": "59513",
-    "desc": "",
-    "id": "10114",
-    "name": "Eastbound W Georgia St @ Hamilton St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.61103,
      49.135762
     ],
@@ -133491,6 +133581,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.827603,
+     49.284375
+    ],
+    "type": "Point"
+   },
+   "id": "10436",
+   "properties": {
+    "code": "53228",
+    "desc": "",
+    "id": "10436",
+    "name": "Westbound Ungless Way @ Noons Creek Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.822421,
      49.07214
     ],
@@ -135615,24 +135723,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.113897,
-     49.281337
-    ],
-    "type": "Point"
-   },
-   "id": "10670",
-   "properties": {
-    "code": "58267",
-    "desc": "",
-    "id": "10670",
-    "name": "Northbound Homer St @ Dunsmuir St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.712514,
      49.111824
     ],
@@ -136785,8 +136875,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.01988,
-     49.159279
+     -123.017739,
+     49.159374
     ],
     "type": "Point"
    },
@@ -136803,8 +136893,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.012695,
-     49.159854
+     -123.012722,
+     49.160346
     ],
     "type": "Point"
    },
@@ -137829,7 +137919,7 @@
   {
    "geometry": {
     "coordinates": [
-     -123.013653,
+     -123.014165,
      49.159559
     ],
     "type": "Point"
@@ -137948,6 +138038,24 @@
     "desc": "",
     "id": "10879",
     "name": "Southbound Mountain Hwy @ Lynn Valley Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.847774,
+     49.189699
+    ],
+    "type": "Point"
+   },
+   "id": "10880",
+   "properties": {
+    "code": "61035",
+    "desc": "",
+    "id": "10880",
+    "name": "Surrey Central Station @ Bay 12",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -139071,6 +139179,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.215494,
+     49.276328
+    ],
+    "type": "Point"
+   },
+   "id": "11002",
+   "properties": {
+    "code": "61143",
+    "desc": "",
+    "id": "11002",
+    "name": "Bus Stop @ Spanish Banks Loop",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.922785,
      49.155985
     ],
@@ -139737,6 +139863,78 @@
   {
    "geometry": {
     "coordinates": [
+     -123.203022,
+     49.271904
+    ],
+    "type": "Point"
+   },
+   "id": "11053",
+   "properties": {
+    "code": "51934",
+    "desc": "",
+    "id": "11053",
+    "name": "Westbound NW Marine Dr @ Discovery St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.203426,
+     49.271953
+    ],
+    "type": "Point"
+   },
+   "id": "11054",
+   "properties": {
+    "code": "51910",
+    "desc": "",
+    "id": "11054",
+    "name": "Eastbound NW Marine Dr @ Discovery St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.209135,
+     49.274502
+    ],
+    "type": "Point"
+   },
+   "id": "11055",
+   "properties": {
+    "code": "51937",
+    "desc": "",
+    "id": "11055",
+    "name": "Westbound NW Marine Dr @ Sasamat St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.200827,
+     49.268799
+    ],
+    "type": "Point"
+   },
+   "id": "11056",
+   "properties": {
+    "code": "51912",
+    "desc": "",
+    "id": "11056",
+    "name": "Eastbound NW Marine Dr @ Locarno Cres",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.097295,
      49.240485
     ],
@@ -139881,6 +140079,42 @@
   {
    "geometry": {
     "coordinates": [
+     -123.205593,
+     49.274065
+    ],
+    "type": "Point"
+   },
+   "id": "11065",
+   "properties": {
+    "code": "51935",
+    "desc": "",
+    "id": "11065",
+    "name": "Northbound NW Marine Dr @ Belmont Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.211352,
+     49.274742
+    ],
+    "type": "Point"
+   },
+   "id": "11066",
+   "properties": {
+    "code": "51906",
+    "desc": "",
+    "id": "11066",
+    "name": "Eastbound NW Marine Dr @ Tolmie St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.134406,
      49.257964
     ],
@@ -139899,6 +140133,42 @@
   {
    "geometry": {
     "coordinates": [
+     -123.205803,
+     49.273327
+    ],
+    "type": "Point"
+   },
+   "id": "11068",
+   "properties": {
+    "code": "61133",
+    "desc": "",
+    "id": "11068",
+    "name": "Southbound Trimble St @ Belmont Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.212054,
+     49.275093
+    ],
+    "type": "Point"
+   },
+   "id": "11069",
+   "properties": {
+    "code": "51938",
+    "desc": "",
+    "id": "11069",
+    "name": "Westbound NW Marine Dr @ Tolmie St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.55709,
      49.217262
     ],
@@ -139910,6 +140180,24 @@
     "desc": "",
     "id": "11070",
     "name": "Southbound 240 St @ 118 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.200648,
+     49.268938
+    ],
+    "type": "Point"
+   },
+   "id": "11071",
+   "properties": {
+    "code": "61138",
+    "desc": "",
+    "id": "11071",
+    "name": "Westbound NW Marine Dr @ W 4th Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -144338,6 +144626,24 @@
     "desc": "",
     "id": "11382",
     "name": "Southbound Minoru Blvd @ Murdoch Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.134652,
+     49.163531
+    ],
+    "type": "Point"
+   },
+   "id": "11384",
+   "properties": {
+    "code": "61335",
+    "desc": "",
+    "id": "11384",
+    "name": "Westbound Anderson Rd @ Buswell St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158493,8 +158799,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.012921,
-     49.168457
+     -123.01295,
+     49.168301
     ],
     "type": "Point"
    },
@@ -159141,6 +159447,42 @@
   {
    "geometry": {
     "coordinates": [
+     -123.135154,
+     49.171943
+    ],
+    "type": "Point"
+   },
+   "id": "12568",
+   "properties": {
+    "code": "60333",
+    "desc": "",
+    "id": "12568",
+    "name": "Eastbound Ackroyd Rd @ No. 3rd Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.134305,
+     49.171933
+    ],
+    "type": "Point"
+   },
+   "id": "12569",
+   "properties": {
+    "code": "60334",
+    "desc": "",
+    "id": "12569",
+    "name": "Eastbound Ackroyd Rd @ No. 3rd Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.104633,
      49.248771
     ],
@@ -159458,6 +159800,168 @@
     "desc": "",
     "id": "12589",
     "name": "Westbound Granville Ave @ Moffatt Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.114778,
+     49.280458
+    ],
+    "type": "Point"
+   },
+   "id": "12590",
+   "properties": {
+    "code": "60346",
+    "desc": "",
+    "id": "12590",
+    "name": "Westbound W Georgia St @ Homer St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.800781,
+     49.256017
+    ],
+    "type": "Point"
+   },
+   "id": "12591",
+   "properties": {
+    "code": "60343",
+    "desc": "",
+    "id": "12591",
+    "name": "Southbound Orchid Dr @ Holly Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.800508,
+     49.255724
+    ],
+    "type": "Point"
+   },
+   "id": "12592",
+   "properties": {
+    "code": "60344",
+    "desc": "",
+    "id": "12592",
+    "name": "Northbound Orchid Dr @ Palm Terrace",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.802491,
+     49.25414
+    ],
+    "type": "Point"
+   },
+   "id": "12593",
+   "properties": {
+    "code": "60345",
+    "desc": "",
+    "id": "12593",
+    "name": "Southbound Holly Dr @ Campion Way",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.11163,
+     49.27999
+    ],
+    "type": "Point"
+   },
+   "id": "12594",
+   "properties": {
+    "code": "60355",
+    "desc": "",
+    "id": "12594",
+    "name": "Larwill Park @ Layover Only",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.111266,
+     49.279812
+    ],
+    "type": "Point"
+   },
+   "id": "12595",
+   "properties": {
+    "code": "60356",
+    "desc": "",
+    "id": "12595",
+    "name": "Larwill Park @ Layover Only",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.114837,
+     49.280236
+    ],
+    "type": "Point"
+   },
+   "id": "12596",
+   "properties": {
+    "code": "60348",
+    "desc": "",
+    "id": "12596",
+    "name": "Eastbound W Georgia St @ Homer St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.701792,
+     49.045618
+    ],
+    "type": "Point"
+   },
+   "id": "12597",
+   "properties": {
+    "code": "51781",
+    "desc": "",
+    "id": "12597",
+    "name": "Eastbound 24 Ave @ 188 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.703226,
+     49.045795
+    ],
+    "type": "Point"
+   },
+   "id": "12598",
+   "properties": {
+    "code": "50243",
+    "desc": "",
+    "id": "12598",
+    "name": "Westbound 24 Ave @ 188 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
