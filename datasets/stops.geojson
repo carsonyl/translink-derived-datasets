@@ -1677,24 +1677,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.120243,
-     49.233534
-    ],
-    "type": "Point"
-   },
-   "id": "135",
-   "properties": {
-    "code": "50135",
-    "desc": "",
-    "id": "135",
-    "name": "Eastbound W 41 Ave @ Heather St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.107725,
      49.233142
     ],
@@ -1940,24 +1922,6 @@
     "desc": "",
     "id": "158",
     "name": "Westbound W 41 Ave @ Columbia St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.121289,
-     49.233831
-    ],
-    "type": "Point"
-   },
-   "id": "161",
-   "properties": {
-    "code": "50161",
-    "desc": "",
-    "id": "161",
-    "name": "Westbound W 41 Ave @ Heather St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -5612,6 +5576,24 @@
     "desc": "",
     "id": "414",
     "name": "Southbound Cambie St @ W Hastings St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.117719,
+     49.275788
+    ],
+    "type": "Point"
+   },
+   "id": "415",
+   "properties": {
+    "code": "50411",
+    "desc": "",
+    "id": "415",
+    "name": "Eastbound Nelson St @ Cambie St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -50223,6 +50205,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.898799,
+     49.22304
+    ],
+    "type": "Point"
+   },
+   "id": "3655",
+   "properties": {
+    "code": "53616",
+    "desc": "",
+    "id": "3655",
+    "name": "Southbound Richmond St @ Alberta St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.899969,
      49.220614
     ],
@@ -55238,6 +55238,24 @@
     "desc": "",
     "id": "4049",
     "name": "Southbound Mountain Hwy @ E 15 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.036309,
+     49.317811
+    ],
+    "type": "Point"
+   },
+   "id": "4050",
+   "properties": {
+    "code": "54009",
+    "desc": "",
+    "id": "4050",
+    "name": "Southbound Mountain Hwy @ Arborlynn Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -60339,6 +60357,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.040973,
+     49.313357
+    ],
+    "type": "Point"
+   },
+   "id": "4384",
+   "properties": {
+    "code": "54336",
+    "desc": "",
+    "id": "4384",
+    "name": "Westbound E Keith Rd @ Brooksbank Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.044085,
      49.313392
     ],
@@ -64418,24 +64454,6 @@
     "desc": "",
     "id": "4656",
     "name": "Eastbound Marine Dr @ Main St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.114696,
-     49.280858
-    ],
-    "type": "Point"
-   },
-   "id": "4658",
-   "properties": {
-    "code": "54606",
-    "desc": "",
-    "id": "4658",
-    "name": "Northbound Homer St @ W Georgia St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -79059,8 +79077,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.867917,
-     49.174291
+     -122.867913,
+     49.17483
     ],
     "type": "Point"
    },
@@ -133527,24 +133545,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.248968,
-     49.268677
-    ],
-    "type": "Point"
-   },
-   "id": "10432",
-   "properties": {
-    "code": "59936",
-    "desc": "",
-    "id": "10432",
-    "name": "UBC Exchange @ Bay 3",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.24893,
      49.25498
     ],
@@ -147063,6 +147063,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.040448,
+     49.312833
+    ],
+    "type": "Point"
+   },
+   "id": "11600",
+   "properties": {
+    "code": "54329",
+    "desc": "",
+    "id": "11600",
+    "name": "Southbound Brooksbank Ave @ E Keith Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.04466,
      49.308399
     ],
@@ -153921,24 +153939,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.249685,
-     49.268677
-    ],
-    "type": "Point"
-   },
-   "id": "12175",
-   "properties": {
-    "code": "60045",
-    "desc": "",
-    "id": "12175",
-    "name": "UBC Exchange @ Bay 2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.778703,
      49.177371
     ],
@@ -153950,42 +153950,6 @@
     "desc": "",
     "id": "12176",
     "name": "Northbound 160 St @ 96 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.117499,
-     49.276601
-    ],
-    "type": "Point"
-   },
-   "id": "12177",
-   "properties": {
-    "code": "60049",
-    "desc": "",
-    "id": "12177",
-    "name": "Southbound Cambie St @ Nelson St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.248997,
-     49.268941
-    ],
-    "type": "Point"
-   },
-   "id": "12178",
-   "properties": {
-    "code": "60040",
-    "desc": "",
-    "id": "12178",
-    "name": "UBC Exchange @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156639,24 +156603,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.247294,
-     49.267643
-    ],
-    "type": "Point"
-   },
-   "id": "12355",
-   "properties": {
-    "code": "60156",
-    "desc": "",
-    "id": "12355",
-    "name": "UBC Exchange @ Unloading Only",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.141973,
      49.191858
     ],
@@ -156675,6 +156621,42 @@
   {
    "geometry": {
     "coordinates": [
+     -123.247954,
+     49.267415
+    ],
+    "type": "Point"
+   },
+   "id": "12358",
+   "properties": {
+    "code": "60158",
+    "desc": "",
+    "id": "12358",
+    "name": "UBC Exchange @ Bay 1 New",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.24828,
+     49.2673
+    ],
+    "type": "Point"
+   },
+   "id": "12359",
+   "properties": {
+    "code": "60159",
+    "desc": "",
+    "id": "12359",
+    "name": "UBC Exchange @ Bay 2 New",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.24863,
      49.267177
     ],
@@ -156685,7 +156667,7 @@
     "code": "60160",
     "desc": "",
     "id": "12360",
-    "name": "UBC Exchange @ Bay 14",
+    "name": "UBC Exchange @ Bay 3 New",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159609,24 +159591,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.134881,
-     49.203508
-    ],
-    "type": "Point"
-   },
-   "id": "12578",
-   "properties": {
-    "code": "59769",
-    "desc": "",
-    "id": "12578",
-    "name": "Southbound Hudson St @ Marine Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.147475,
      49.170522
     ],
@@ -159656,6 +159620,24 @@
     "desc": "",
     "id": "12580",
     "name": "Port Haney Station @ Bay 3",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.112876,
+     49.279676
+    ],
+    "type": "Point"
+   },
+   "id": "12581",
+   "properties": {
+    "code": "60342",
+    "desc": "",
+    "id": "12581",
+    "name": "Southbound Cambie St @ W Georgia St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159962,6 +159944,42 @@
     "desc": "",
     "id": "12598",
     "name": "Westbound 24 Ave @ 188 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.2481,
+     49.26819
+    ],
+    "type": "Point"
+   },
+   "id": "12599",
+   "properties": {
+    "code": "60357",
+    "desc": "",
+    "id": "12599",
+    "name": "UBC Exchange @ Unloading Only",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.247621,
+     49.267674
+    ],
+    "type": "Point"
+   },
+   "id": "12600",
+   "properties": {
+    "code": "60358",
+    "desc": "",
+    "id": "12600",
+    "name": "UBC Exchange @ Unloading Only",
     "zone": "BUS ZN"
    },
    "type": "Feature"
