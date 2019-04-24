@@ -12009,24 +12009,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.099816,
-     49.262778
-    ],
-    "type": "Point"
-   },
-   "id": "887",
-   "properties": {
-    "code": "50880",
-    "desc": "",
-    "id": "887",
-    "name": "Eastbound E Broadway @ Kingsway St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.101629,
      49.26302
     ],
@@ -19687,7 +19669,7 @@
     "code": "51389",
     "desc": "",
     "id": "1401",
-    "name": "Southbound Willingdon Ave @ Lougheed Hwy",
+    "name": "Brentwood Station @ Bay 7",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -39495,24 +39477,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.936395,
-     49.260851
-    ],
-    "type": "Point"
-   },
-   "id": "2868",
-   "properties": {
-    "code": "52839",
-    "desc": "",
-    "id": "2868",
-    "name": "Eastbound Broadway @ Lake City Way",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.913354,
      49.252623
     ],
@@ -54625,7 +54589,7 @@
     "code": "53970",
     "desc": "",
     "id": "4011",
-    "name": "Northbound Grand Blvd East @ E 19 St",
+    "name": "Northbound Boulevard Cres @ E 19 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -95737,7 +95701,7 @@
     "code": "56707",
     "desc": "",
     "id": "6771",
-    "name": "Southbound Horseshoe Way West @ Machrina Way",
+    "name": "Southbound Horseshoe Way @ Machrina Way",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -95863,7 +95827,7 @@
     "code": "56714",
     "desc": "",
     "id": "6778",
-    "name": "Eastbound Machrina Way @ Horseshoe Way West",
+    "name": "Eastbound Machrina Way @ No. 5th Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -98726,24 +98690,6 @@
     "desc": "",
     "id": "6946",
     "name": "Eastbound Williams Rd @ Seacote Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.13489,
-     49.164764
-    ],
-    "type": "Point"
-   },
-   "id": "6947",
-   "properties": {
-    "code": "56882",
-    "desc": "",
-    "id": "6947",
-    "name": "Westbound Park Rd @ Buswell St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -107401,7 +107347,7 @@
     "code": "57499",
     "desc": "",
     "id": "7572",
-    "name": "Northbound 46A St @ W River Rd",
+    "name": "Northbound 46A St @ River Rd West",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -107923,7 +107869,7 @@
     "code": "57529",
     "desc": "",
     "id": "7602",
-    "name": "Southbound 46A St @ W River Rd",
+    "name": "Southbound 46A St @ River Rd West",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -119659,7 +119605,7 @@
     "code": "58496",
     "desc": "",
     "id": "8910",
-    "name": "Northbound Willingdon Ave @ Lougheed Hwy",
+    "name": "Brentwood Station @ Bay 6",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -142149,60 +142095,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.018939,
-     49.319206
-    ],
-    "type": "Point"
-   },
-   "id": "11195",
-   "properties": {
-    "code": "61069",
-    "desc": "",
-    "id": "11195",
-    "name": "Capilano University @ Bay 2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.018759,
-     49.319395
-    ],
-    "type": "Point"
-   },
-   "id": "11196",
-   "properties": {
-    "code": "61070",
-    "desc": "",
-    "id": "11196",
-    "name": "Capilano University @ Bay 3",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.018935,
-     49.319397
-    ],
-    "type": "Point"
-   },
-   "id": "11197",
-   "properties": {
-    "code": "61068",
-    "desc": "",
-    "id": "11197",
-    "name": "Capilano University @ Bay 1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.834269,
      49.276599
     ],
@@ -149079,24 +148971,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.044987,
-     49.244392
-    ],
-    "type": "Point"
-   },
-   "id": "11762",
-   "properties": {
-    "code": "61616",
-    "desc": "",
-    "id": "11762",
-    "name": "29th Avenue Station @ Bay 5",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.849708,
      49.189461
     ],
@@ -150349,7 +150223,7 @@
     "code": "61806",
     "desc": "",
     "id": "11878",
-    "name": "Brentwood Station @ Bay 6",
+    "name": "Southbound Willingdon Ave @ Buchanan St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -150367,7 +150241,7 @@
     "code": "61807",
     "desc": "",
     "id": "11879",
-    "name": "Brentwood Station @ Bay 7",
+    "name": "Southbound Willingdon Ave @ Halifax St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -151141,7 +151015,7 @@
     "code": "58287",
     "desc": "",
     "id": "11947",
-    "name": "Brentwood Station @ Bay 1",
+    "name": "Northbound Willingdon Ave @ Halifax St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156631,7 +156505,7 @@
     "code": "60158",
     "desc": "",
     "id": "12358",
-    "name": "UBC Exchange @ Bay 1 New",
+    "name": "UBC Exchange @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156649,7 +156523,7 @@
     "code": "60159",
     "desc": "",
     "id": "12359",
-    "name": "UBC Exchange @ Bay 2 New",
+    "name": "UBC Exchange @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156667,7 +156541,7 @@
     "code": "60160",
     "desc": "",
     "id": "12360",
-    "name": "UBC Exchange @ Bay 3 New",
+    "name": "UBC Exchange @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156722,24 +156596,6 @@
     "desc": "",
     "id": "12372",
     "name": "Westbound Cumberland St  @ Sapper St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.849535,
-     49.188245
-    ],
-    "type": "Point"
-   },
-   "id": "12373",
-   "properties": {
-    "code": "60153",
-    "desc": "",
-    "id": "12373",
-    "name": "Surrey Central Station @ Bay 15",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158827,7 +158683,7 @@
     "code": "60247",
     "desc": "",
     "id": "12522",
-    "name": "Southbound 184 Street @ 71 Ave",
+    "name": "Southbound 184 St @ 71 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158917,7 +158773,7 @@
     "code": "61784",
     "desc": "",
     "id": "12530",
-    "name": "Eastbound Westminster Hy @ No. 8 Rd",
+    "name": "Eastbound Westminster Hwy @ No. 8 Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159421,7 +159277,7 @@
     "code": "60329",
     "desc": "",
     "id": "12567",
-    "name": "Northbound Willingdon Ave @ Lougheed Hwy",
+    "name": "Brentwood Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159584,24 +159440,6 @@
     "desc": "",
     "id": "12577",
     "name": "Westbound McGill St @ N Kamloops St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147475,
-     49.170522
-    ],
-    "type": "Point"
-   },
-   "id": "12579",
-   "properties": {
-    "code": "56938",
-    "desc": "",
-    "id": "12579",
-    "name": "Northbound Gilbert Rd @ Westminster Hwy",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159980,6 +159818,24 @@
     "desc": "",
     "id": "12600",
     "name": "UBC Exchange @ Unloading Only",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.056474,
+     49.249113
+    ],
+    "type": "Point"
+   },
+   "id": "12601",
+   "properties": {
+    "code": "59351",
+    "desc": "",
+    "id": "12601",
+    "name": "Northbound Nanaimo St @ E 24th Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
