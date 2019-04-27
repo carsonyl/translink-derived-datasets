@@ -471,6 +471,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.135121,
+     49.283006
+    ],
+    "type": "Point"
+   },
+   "id": "51",
+   "properties": {
+    "code": "50051",
+    "desc": "",
+    "id": "51",
+    "name": "Westbound Davie St @ Jervis St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.136507,
      49.283898
     ],
@@ -78537,6 +78555,42 @@
   {
    "geometry": {
     "coordinates": [
+     -122.867702,
+     49.119475
+    ],
+    "type": "Point"
+   },
+   "id": "5623",
+   "properties": {
+    "code": "55568",
+    "desc": "",
+    "id": "5623",
+    "name": "Northbound 128 St @ 64 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.867677,
+     49.123152
+    ],
+    "type": "Point"
+   },
+   "id": "5624",
+   "properties": {
+    "code": "55569",
+    "desc": "",
+    "id": "5624",
+    "name": "Northbound 128 St @ 66 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.867653,
      49.126877
     ],
@@ -117561,6 +117615,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.135068,
+     49.166445
+    ],
+    "type": "Point"
+   },
+   "id": "8650",
+   "properties": {
+    "code": "58279",
+    "desc": "",
+    "id": "8650",
+    "name": "Richmond-Brighouse Station @ Bay 6A",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.163501,
      49.334618
     ],
@@ -145191,6 +145263,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.956938,
+     49.258862
+    ],
+    "type": "Point"
+   },
+   "id": "11451",
+   "properties": {
+    "code": "52539",
+    "desc": "",
+    "id": "11451",
+    "name": "Westbound Lougheed Hwy @ Bainbridge Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.152005,
      49.263703
     ],
@@ -159566,24 +159656,6 @@
     "desc": "",
     "id": "12586",
     "name": "Oakridge-41st Ave Station @ Bay 3",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.956079,
-     49.258286
-    ],
-    "type": "Point"
-   },
-   "id": "12587",
-   "properties": {
-    "code": "60232",
-    "desc": "",
-    "id": "12587",
-    "name": "Southbound Bainbridge Ave @ Lougheed Hwy",
     "zone": "BUS ZN"
    },
    "type": "Feature"
