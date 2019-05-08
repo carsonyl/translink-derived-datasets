@@ -345,24 +345,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.121683,
-     49.284166
-    ],
-    "type": "Point"
-   },
-   "id": "44",
-   "properties": {
-    "code": "50044",
-    "desc": "",
-    "id": "44",
-    "name": "Southbound Burrard St @ W Georgia St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.123336,
      49.283087
     ],
@@ -8751,24 +8733,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.05668,
-     49.284388
-    ],
-    "type": "Point"
-   },
-   "id": "676",
-   "properties": {
-    "code": "50669",
-    "desc": "",
-    "id": "676",
-    "name": "Southbound Nanaimo St @ Dundas St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.056723,
      49.28183
     ],
@@ -9842,24 +9806,6 @@
     "desc": "",
     "id": "742",
     "name": "Northbound Nanaimo St @ E Hastings St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.056396,
-     49.283304
-    ],
-    "type": "Point"
-   },
-   "id": "743",
-   "properties": {
-    "code": "50736",
-    "desc": "",
-    "id": "743",
-    "name": "Northbound Nanaimo St @ Pandora St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -45417,24 +45363,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.925447,
-     49.313315
-    ],
-    "type": "Point"
-   },
-   "id": "3286",
-   "properties": {
-    "code": "53251",
-    "desc": "",
-    "id": "3286",
-    "name": "Eastbound Midden Rd @ Belcarra Bay Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.909827,
      49.317311
     ],
@@ -54435,8 +54363,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.058221,
-     49.308539
+     -123.057704,
+     49.308546
     ],
     "type": "Point"
    },
@@ -122331,24 +122259,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.92585,
-     49.313843
-    ],
-    "type": "Point"
-   },
-   "id": "9158",
-   "properties": {
-    "code": "58759",
-    "desc": "",
-    "id": "9158",
-    "name": "Northbound Belcarra Bay Rd @ Midden Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.910135,
      49.317209
     ],
@@ -125769,8 +125679,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.923171,
-     49.313975
+     -122.922967,
+     49.313511
     ],
     "type": "Point"
    },
@@ -129344,6 +129254,24 @@
     "desc": "",
     "id": "10018",
     "name": "Eastbound Lougheed Hwy @ Holdom Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.962966,
+     49.25941
+    ],
+    "type": "Point"
+   },
+   "id": "10021",
+   "properties": {
+    "code": "52835",
+    "desc": "",
+    "id": "10021",
+    "name": "Westbound Lougheed Hwy @ Sperling Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159483,24 +159411,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.05639,
-     49.284164
-    ],
-    "type": "Point"
-   },
-   "id": "12574",
-   "properties": {
-    "code": "60337",
-    "desc": "",
-    "id": "12574",
-    "name": "Northbound Nanaimo St @ Triumph St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.055732,
      49.288623
     ],
@@ -159566,24 +159476,6 @@
     "desc": "",
     "id": "12581",
     "name": "Southbound Cambie St @ W Georgia St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.96529,
-     49.259774
-    ],
-    "type": "Point"
-   },
-   "id": "12582",
-   "properties": {
-    "code": "60330",
-    "desc": "",
-    "id": "12582",
-    "name": "Westbound Lougheed Hwy @ Sperling Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159908,6 +159800,24 @@
     "desc": "",
     "id": "12601",
     "name": "Northbound Nanaimo St @ E 24th Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.124019,
+     49.282359
+    ],
+    "type": "Point"
+   },
+   "id": "12603",
+   "properties": {
+    "code": "60269",
+    "desc": "",
+    "id": "12603",
+    "name": "Northbound Burrard St @ Smithe St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
