@@ -11973,6 +11973,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.099816,
+     49.262778
+    ],
+    "type": "Point"
+   },
+   "id": "887",
+   "properties": {
+    "code": "50880",
+    "desc": "",
+    "id": "887",
+    "name": "Eastbound E Broadway @ Kingsway St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.101629,
      49.26302
     ],
@@ -127983,8 +128001,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.803886,
-     49.193281
+     -122.802706,
+     49.193277
     ],
     "type": "Point"
    },
@@ -159440,6 +159458,24 @@
     "desc": "",
     "id": "12577",
     "name": "Westbound McGill St @ N Kamloops St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147475,
+     49.170522
+    ],
+    "type": "Point"
+   },
+   "id": "12579",
+   "properties": {
+    "code": "56938",
+    "desc": "",
+    "id": "12579",
+    "name": "Northbound Gilbert Rd @ Westminster Hwy",
     "zone": "BUS ZN"
    },
    "type": "Feature"
