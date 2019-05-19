@@ -489,8 +489,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.138905,
-     49.285466
+     -123.138416,
+     49.285161
     ],
     "type": "Point"
    },
@@ -13467,6 +13467,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.082407,
+     49.311218
+    ],
+    "type": "Point"
+   },
+   "id": "989",
+   "properties": {
+    "code": "50980",
+    "desc": "",
+    "id": "989",
+    "name": "Lonsdale Quay @ Bay 10",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.116561,
      49.231397
     ],
@@ -23817,8 +23835,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.031687,
-     49.224553
+     -123.03149,
+     49.22453
     ],
     "type": "Point"
    },
@@ -36255,24 +36273,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.948116,
-     49.21392
-    ],
-    "type": "Point"
-   },
-   "id": "2634",
-   "properties": {
-    "code": "52609",
-    "desc": "",
-    "id": "2634",
-    "name": "Westbound 14 Ave @ 15 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.943021,
      49.21627
     ],
@@ -43358,24 +43358,6 @@
     "desc": "",
     "id": "3125",
     "name": "Westbound Oakland St @ Waltham Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.982166,
-     49.229562
-    ],
-    "type": "Point"
-   },
-   "id": "3126",
-   "properties": {
-    "code": "53093",
-    "desc": "",
-    "id": "3126",
-    "name": "Westbound Oakland St @ Elgin Place",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -57603,24 +57585,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.083084,
-     49.310589
-    ],
-    "type": "Point"
-   },
-   "id": "4210",
-   "properties": {
-    "code": "54165",
-    "desc": "",
-    "id": "4210",
-    "name": "Lonsdale Quay @ Bay 6",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.07821,
      49.312182
     ],
@@ -58046,24 +58010,6 @@
     "desc": "",
     "id": "4241",
     "name": "Westbound Lynn Valley Rd @ Church St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.082752,
-     49.310753
-    ],
-    "type": "Point"
-   },
-   "id": "4242",
-   "properties": {
-    "code": "54196",
-    "desc": "",
-    "id": "4242",
-    "name": "Lonsdale Quay @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -61527,24 +61473,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.082918,
-     49.310597
-    ],
-    "type": "Point"
-   },
-   "id": "4471",
-   "properties": {
-    "code": "54421",
-    "desc": "",
-    "id": "4471",
-    "name": "Lonsdale Quay @ Bay 4",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.024687,
      49.313087
     ],
@@ -61592,24 +61520,6 @@
     "desc": "",
     "id": "4474",
     "name": "Phibbs Exchange @ Bay 10",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.083112,
-     49.310412
-    ],
-    "type": "Point"
-   },
-   "id": "4475",
-   "properties": {
-    "code": "54425",
-    "desc": "",
-    "id": "4475",
-    "name": "Lonsdale Quay @ Bay 5",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -91821,6 +91731,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.147116,
+     49.170079
+    ],
+    "type": "Point"
+   },
+   "id": "6508",
+   "properties": {
+    "code": "56447",
+    "desc": "",
+    "id": "6508",
+    "name": "Eastbound Westminster Hwy @ Gilbert Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.144084,
      49.170083
     ],
@@ -97653,24 +97581,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147623,
-     49.163558
-    ],
-    "type": "Point"
-   },
-   "id": "6884",
-   "properties": {
-    "code": "56819",
-    "desc": "",
-    "id": "6884",
-    "name": "Northbound Gilbert Rd @ Granville Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.147587,
      49.166463
     ],
@@ -97700,6 +97610,24 @@
     "desc": "",
     "id": "6887",
     "name": "Northbound Gilbert Rd @ 6300 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147824,
+     49.169766
+    ],
+    "type": "Point"
+   },
+   "id": "6888",
+   "properties": {
+    "code": "56823",
+    "desc": "",
+    "id": "6888",
+    "name": "Southbound Gilbert Rd @ Westminster Hwy",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -125707,25 +125635,7 @@
     "code": "58978",
     "desc": "",
     "id": "9483",
-    "name": "Westbound Bedwell Bay Rd @ 4000 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.923325,
-     49.313675
-    ],
-    "type": "Point"
-   },
-   "id": "9484",
-   "properties": {
-    "code": "58979",
-    "desc": "",
-    "id": "9484",
-    "name": "Eastbound Bedwell Bay Rd @ 4000 Block (Flag)",
+    "name": "Westbound Bedwell Bay Rd @ Midden Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -137847,24 +137757,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.082393,
-     49.3111
-    ],
-    "type": "Point"
-   },
-   "id": "10866",
-   "properties": {
-    "code": "58725",
-    "desc": "",
-    "id": "10866",
-    "name": "Lonsdale Quay @ Bay 1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.082557,
      49.311066
     ],
@@ -145515,6 +145407,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.24331,
+     49.266846
+    ],
+    "type": "Point"
+   },
+   "id": "11486",
+   "properties": {
+    "code": "50605",
+    "desc": "",
+    "id": "11486",
+    "name": "Westbound University Blvd @ Allison Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.785073,
      49.200713
     ],
@@ -146588,6 +146498,24 @@
     "desc": "",
     "id": "11570",
     "name": "Patterson Station @ Bay 3",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.923185,
+     49.313465
+    ],
+    "type": "Point"
+   },
+   "id": "11572",
+   "properties": {
+    "code": "61536",
+    "desc": "",
+    "id": "11572",
+    "name": "Eastbound Bedwell Bay Rd @ Midden Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -157899,6 +157827,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.580106,
+     49.249034
+    ],
+    "type": "Point"
+   },
+   "id": "12459",
+   "properties": {
+    "code": "60171",
+    "desc": "",
+    "id": "12459",
+    "name": "Northbound 232 St @ 136 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.585996,
      49.249719
     ],
@@ -158270,24 +158216,6 @@
     "desc": "",
     "id": "12482",
     "name": "Southbound 140 St @ 93A Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.244736,
-     49.266634
-    ],
-    "type": "Point"
-   },
-   "id": "12483",
-   "properties": {
-    "code": "60219",
-    "desc": "",
-    "id": "12483",
-    "name": "Westbound University Blvd @ Western Parkway",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159465,24 +159393,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147475,
-     49.170522
-    ],
-    "type": "Point"
-   },
-   "id": "12579",
-   "properties": {
-    "code": "56938",
-    "desc": "",
-    "id": "12579",
-    "name": "Northbound Gilbert Rd @ Westminster Hwy",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.606432,
      49.212575
     ],
@@ -159843,6 +159753,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.09865,
+     49.273853
+    ],
+    "type": "Point"
+   },
+   "id": "12602",
+   "properties": {
+    "code": "60351",
+    "desc": "",
+    "id": "12602",
+    "name": "Southbound Station St @ National Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.124019,
      49.282359
     ],
@@ -159854,6 +159782,60 @@
     "desc": "",
     "id": "12603",
     "name": "Northbound Burrard St @ Smithe St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.081959,
+     49.311266
+    ],
+    "type": "Point"
+   },
+   "id": "12604",
+   "properties": {
+    "code": "60360",
+    "desc": "",
+    "id": "12604",
+    "name": "Lonsdale Quay @ Bay 14",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.081895,
+     49.311082
+    ],
+    "type": "Point"
+   },
+   "id": "12605",
+   "properties": {
+    "code": "60363",
+    "desc": "",
+    "id": "12605",
+    "name": "Lonsdale Quay @ @ Bay 15",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.980952,
+     49.229249
+    ],
+    "type": "Point"
+   },
+   "id": "12606",
+   "properties": {
+    "code": "60366",
+    "desc": "",
+    "id": "12606",
+    "name": "Westbound Oakland St @ Dufferin Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
