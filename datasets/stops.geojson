@@ -53013,24 +53013,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.745481,
-     49.285776
-    ],
-    "type": "Point"
-   },
-   "id": "3887",
-   "properties": {
-    "code": "53847",
-    "desc": "",
-    "id": "3887",
-    "name": "Westbound Victoria Dr @ Burke Mountain St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.752581,
      49.285793
     ],
@@ -159836,6 +159818,24 @@
     "desc": "",
     "id": "12606",
     "name": "Westbound Oakland St @ Dufferin Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.083631,
+     49.310588
+    ],
+    "type": "Point"
+   },
+   "id": "12607",
+   "properties": {
+    "code": "60374",
+    "desc": "",
+    "id": "12607",
+    "name": "Eastbound Chadwick Court @ Chesterfield Place",
     "zone": "BUS ZN"
    },
    "type": "Feature"
