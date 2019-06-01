@@ -5385,8 +5385,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.159157,
-     49.268143
+     -123.159497,
+     49.268147
     ],
     "type": "Point"
    },
@@ -5403,8 +5403,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.157148,
-     49.268131
+     -123.156884,
+     49.268115
     ],
     "type": "Point"
    },
@@ -5900,6 +5900,24 @@
     "desc": "",
     "id": "441",
     "name": "Eastbound Dundas St @ Templeton Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.056367,
+     49.288013
+    ],
+    "type": "Point"
+   },
+   "id": "444",
+   "properties": {
+    "code": "50440",
+    "desc": "",
+    "id": "444",
+    "name": "Northbound N Nanaimo St @ Eton St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -6440,6 +6458,24 @@
     "desc": "",
     "id": "494",
     "name": "Westbound McGill St @ N Penticton St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.05666,
+     49.288026
+    ],
+    "type": "Point"
+   },
+   "id": "495",
+   "properties": {
+    "code": "50491",
+    "desc": "",
+    "id": "495",
+    "name": "Southbound N Nanaimo St @ McGill St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -52383,8 +52419,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.744836,
-     49.285688
+     -122.744592,
+     49.285689
     ],
     "type": "Point"
    },
@@ -66020,132 +66056,6 @@
     "desc": "",
     "id": "4764",
     "name": "Southbound Keith Rd @ Stone Cres",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.202663,
-     49.341274
-    ],
-    "type": "Point"
-   },
-   "id": "4765",
-   "properties": {
-    "code": "54713",
-    "desc": "",
-    "id": "4765",
-    "name": "Northbound 31 St @ Dickinson Cres",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.203429,
-     49.342342
-    ],
-    "type": "Point"
-   },
-   "id": "4766",
-   "properties": {
-    "code": "54714",
-    "desc": "",
-    "id": "4766",
-    "name": "Westbound Mathers Ave @ 31 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.205458,
-     49.343256
-    ],
-    "type": "Point"
-   },
-   "id": "4767",
-   "properties": {
-    "code": "54715",
-    "desc": "",
-    "id": "4767",
-    "name": "Westbound Thompson Cres @ Mathers Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.207076,
-     49.345283
-    ],
-    "type": "Point"
-   },
-   "id": "4768",
-   "properties": {
-    "code": "54716",
-    "desc": "",
-    "id": "4768",
-    "name": "Westbound Westmount Rd @ Benbow Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.21024,
-     49.34558
-    ],
-    "type": "Point"
-   },
-   "id": "4769",
-   "properties": {
-    "code": "54717",
-    "desc": "",
-    "id": "4769",
-    "name": "Westbound Westmount Rd @ 3300 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.21395,
-     49.34562
-    ],
-    "type": "Point"
-   },
-   "id": "4770",
-   "properties": {
-    "code": "54718",
-    "desc": "",
-    "id": "4770",
-    "name": "Westbound Westmount Rd @ Rockview Place",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.21663,
-     49.34564
-    ],
-    "type": "Point"
-   },
-   "id": "4771",
-   "properties": {
-    "code": "54719",
-    "desc": "",
-    "id": "4771",
-    "name": "Westbound Westmount Rd @ Cedaridge Place",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -117741,24 +117651,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.206384,
-     49.344086
-    ],
-    "type": "Point"
-   },
-   "id": "8668",
-   "properties": {
-    "code": "60889",
-    "desc": "",
-    "id": "8668",
-    "name": "Northbound Thompson Cres @ Thompson Place",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.235382,
      49.347592
     ],
@@ -152625,42 +152517,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.246338,
-     49.267088
-    ],
-    "type": "Point"
-   },
-   "id": "12056",
-   "properties": {
-    "code": "61934",
-    "desc": "",
-    "id": "12056",
-    "name": "UBC Exchange @ Bay 6",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.246831,
-     49.267419
-    ],
-    "type": "Point"
-   },
-   "id": "12057",
-   "properties": {
-    "code": "61935",
-    "desc": "",
-    "id": "12057",
-    "name": "UBC Exchange @ Bay 4",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.781442,
      49.264587
     ],
@@ -152924,24 +152780,6 @@
     "desc": "",
     "id": "12083",
     "name": "Eastbound Ioco Rd @ Bentley Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.246536,
-     49.267312
-    ],
-    "type": "Point"
-   },
-   "id": "12085",
-   "properties": {
-    "code": "61979",
-    "desc": "",
-    "id": "12085",
-    "name": "UBC Exchange @ Bay 5",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156225,24 +156063,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.246112,
-     49.266811
-    ],
-    "type": "Point"
-   },
-   "id": "12340",
-   "properties": {
-    "code": "60117",
-    "desc": "",
-    "id": "12340",
-    "name": "UBC Exchange @ Bay 7",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.957497,
      49.281183
     ],
@@ -156488,6 +156308,60 @@
     "desc": "",
     "id": "12360",
     "name": "UBC Exchange @ Bay 3",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.247902,
+     49.26704
+    ],
+    "type": "Point"
+   },
+   "id": "12361",
+   "properties": {
+    "code": "60162",
+    "desc": "",
+    "id": "12361",
+    "name": "UBC Exchange @ Bay 4 New",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.247589,
+     49.26715
+    ],
+    "type": "Point"
+   },
+   "id": "12362",
+   "properties": {
+    "code": "60163",
+    "desc": "",
+    "id": "12362",
+    "name": "UBC Exchange @ Bay 5 New",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.247155,
+     49.267304
+    ],
+    "type": "Point"
+   },
+   "id": "12363",
+   "properties": {
+    "code": "60164",
+    "desc": "",
+    "id": "12363",
+    "name": "UBC Exchange @ Bay 6 New",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159339,42 +159213,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.055732,
-     49.288623
-    ],
-    "type": "Point"
-   },
-   "id": "12576",
-   "properties": {
-    "code": "60339",
-    "desc": "",
-    "id": "12576",
-    "name": "Eastbound McGill St @ N Nanaimo St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.054828,
-     49.288809
-    ],
-    "type": "Point"
-   },
-   "id": "12577",
-   "properties": {
-    "code": "60340",
-    "desc": "",
-    "id": "12577",
-    "name": "Westbound McGill St @ N Kamloops St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.606432,
      49.212575
     ],
@@ -159674,24 +159512,6 @@
     "desc": "",
     "id": "12598",
     "name": "Westbound 24 Ave @ 188 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.2481,
-     49.26819
-    ],
-    "type": "Point"
-   },
-   "id": "12599",
-   "properties": {
-    "code": "60357",
-    "desc": "",
-    "id": "12599",
-    "name": "UBC Exchange @ Unloading Only",
     "zone": "BUS ZN"
    },
    "type": "Feature"
