@@ -345,6 +345,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.122237,
+     49.283807
+    ],
+    "type": "Point"
+   },
+   "id": "44",
+   "properties": {
+    "code": "50044",
+    "desc": "",
+    "id": "44",
+    "name": "Southbound Burrard St @ W Georgia St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.123336,
      49.283087
     ],
@@ -5907,6 +5925,42 @@
   {
    "geometry": {
     "coordinates": [
+     -123.05639,
+     49.285176
+    ],
+    "type": "Point"
+   },
+   "id": "442",
+   "properties": {
+    "code": "50438",
+    "desc": "",
+    "id": "442",
+    "name": "Northbound N Nanaimo St @ Dundas St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.056377,
+     49.286389
+    ],
+    "type": "Point"
+   },
+   "id": "443",
+   "properties": {
+    "code": "50439",
+    "desc": "",
+    "id": "443",
+    "name": "Northbound N Nanaimo St @ Cambridge St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.056367,
      49.288013
     ],
@@ -6476,6 +6530,24 @@
     "desc": "",
     "id": "495",
     "name": "Southbound N Nanaimo St @ McGill St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.056672,
+     49.286276
+    ],
+    "type": "Point"
+   },
+   "id": "496",
+   "properties": {
+    "code": "50492",
+    "desc": "",
+    "id": "496",
+    "name": "Southbound N Nanaimo St @ Cambridge St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -21135,8 +21207,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.243631,
-     49.263836
+     -123.243748,
+     49.264
     ],
     "type": "Point"
    },
@@ -22424,6 +22496,24 @@
     "desc": "",
     "id": "1571",
     "name": "Westbound E 22 Ave @ Kaslo St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.056046,
+     49.248689
+    ],
+    "type": "Point"
+   },
+   "id": "1572",
+   "properties": {
+    "code": "51560",
+    "desc": "",
+    "id": "1572",
+    "name": "Nanaimo Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -35247,24 +35337,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.963811,
-     49.261458
-    ],
-    "type": "Point"
-   },
-   "id": "2559",
-   "properties": {
-    "code": "52534",
-    "desc": "",
-    "id": "2559",
-    "name": "Eastbound Broadway @ Sperling Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.95602,
      49.260983
     ],
@@ -35582,42 +35654,6 @@
     "desc": "",
     "id": "2586",
     "name": "Westbound Winston St @ 7200 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.956521,
-     49.261514
-    ],
-    "type": "Point"
-   },
-   "id": "2591",
-   "properties": {
-    "code": "52566",
-    "desc": "",
-    "id": "2591",
-    "name": "Westbound Broadway @ Bainbridge Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.959556,
-     49.261966
-    ],
-    "type": "Point"
-   },
-   "id": "2592",
-   "properties": {
-    "code": "52567",
-    "desc": "",
-    "id": "2592",
-    "name": "Westbound Broadway @ Cliff Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -36309,6 +36345,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.948116,
+     49.21392
+    ],
+    "type": "Point"
+   },
+   "id": "2634",
+   "properties": {
+    "code": "52609",
+    "desc": "",
+    "id": "2634",
+    "name": "Westbound 14 Ave @ 15 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.943021,
      49.21627
     ],
@@ -36644,24 +36698,6 @@
     "desc": "",
     "id": "2654",
     "name": "Eastbound 14 Ave @ 15 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.951051,
-     49.212338
-    ],
-    "type": "Point"
-   },
-   "id": "2655",
-   "properties": {
-    "code": "52630",
-    "desc": "",
-    "id": "2655",
-    "name": "Westbound 14 Ave @ 7100 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -39423,78 +39459,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.953438,
-     49.267617
-    ],
-    "type": "Point"
-   },
-   "id": "2860",
-   "properties": {
-    "code": "52831",
-    "desc": "",
-    "id": "2860",
-    "name": "Southbound Duthie Ave @ Halifax St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.953467,
-     49.26513
-    ],
-    "type": "Point"
-   },
-   "id": "2861",
-   "properties": {
-    "code": "52832",
-    "desc": "",
-    "id": "2861",
-    "name": "Southbound Duthie Ave @ Camarillo Place",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.953487,
-     49.263035
-    ],
-    "type": "Point"
-   },
-   "id": "2862",
-   "properties": {
-    "code": "52833",
-    "desc": "",
-    "id": "2862",
-    "name": "Southbound Duthie Ave @ Gibson St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.953511,
-     49.261553
-    ],
-    "type": "Point"
-   },
-   "id": "2863",
-   "properties": {
-    "code": "52834",
-    "desc": "",
-    "id": "2863",
-    "name": "Southbound Duthie Ave @ Broadway",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.913354,
      49.252623
     ],
@@ -40154,60 +40118,6 @@
     "desc": "",
     "id": "2911",
     "name": "Westbound Broadway @ Lawrence Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.953352,
-     49.261603
-    ],
-    "type": "Point"
-   },
-   "id": "2914",
-   "properties": {
-    "code": "52883",
-    "desc": "",
-    "id": "2914",
-    "name": "Northbound Duthie Ave @ Broadway",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.95332,
-     49.264556
-    ],
-    "type": "Point"
-   },
-   "id": "2915",
-   "properties": {
-    "code": "52884",
-    "desc": "",
-    "id": "2915",
-    "name": "Northbound Duthie Ave @ Montecito Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.953295,
-     49.26658
-    ],
-    "type": "Point"
-   },
-   "id": "2916",
-   "properties": {
-    "code": "52885",
-    "desc": "",
-    "id": "2916",
-    "name": "Northbound Duthie Ave @ Sutliff St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -57938,6 +57848,24 @@
     "desc": "",
     "id": "4234",
     "name": "Northbound Lynn Valley Rd @ Dempsey Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.028591,
+     49.347391
+    ],
+    "type": "Point"
+   },
+   "id": "4236",
+   "properties": {
+    "code": "54190",
+    "desc": "",
+    "id": "4236",
+    "name": "Southbound Hoskins Rd @ Dempsey Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -84603,60 +84531,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.812115,
-     49.177292
-    ],
-    "type": "Point"
-   },
-   "id": "6008",
-   "properties": {
-    "code": "55952",
-    "desc": "",
-    "id": "6008",
-    "name": "Northbound 148 St @ 96 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.812038,
-     49.180874
-    ],
-    "type": "Point"
-   },
-   "id": "6009",
-   "properties": {
-    "code": "55953",
-    "desc": "",
-    "id": "6009",
-    "name": "Northbound 148 St @ 98 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.811494,
-     49.184067
-    ],
-    "type": "Point"
-   },
-   "id": "6010",
-   "properties": {
-    "code": "55954",
-    "desc": "",
-    "id": "6010",
-    "name": "Eastbound 100 Ave @ 148 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.806344,
      49.184581
     ],
@@ -85424,60 +85298,6 @@
     "desc": "",
     "id": "6062",
     "name": "Southbound 150 St @ 101 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.807046,
-     49.184261
-    ],
-    "type": "Point"
-   },
-   "id": "6063",
-   "properties": {
-    "code": "56005",
-    "desc": "",
-    "id": "6063",
-    "name": "Westbound 100 Ave @ 150 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.812191,
-     49.183668
-    ],
-    "type": "Point"
-   },
-   "id": "6064",
-   "properties": {
-    "code": "56006",
-    "desc": "",
-    "id": "6064",
-    "name": "Southbound 148 St @ 100 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.81225,
-     49.180174
-    ],
-    "type": "Point"
-   },
-   "id": "6065",
-   "properties": {
-    "code": "56007",
-    "desc": "",
-    "id": "6065",
-    "name": "Southbound 148 St @ 98 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -95647,7 +95467,7 @@
     "code": "56714",
     "desc": "",
     "id": "6778",
-    "name": "Eastbound Machrina Way @ No. 5th Rd",
+    "name": "Eastbound Machrina Way @ No. 5 Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -121359,24 +121179,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.960766,
-     49.261675
-    ],
-    "type": "Point"
-   },
-   "id": "9081",
-   "properties": {
-    "code": "58264",
-    "desc": "",
-    "id": "9081",
-    "name": "Eastbound Broadway @ Ellerslie Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.824307,
      49.263081
     ],
@@ -124275,6 +124077,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.043632,
+     49.285674
+    ],
+    "type": "Point"
+   },
+   "id": "9359",
+   "properties": {
+    "code": "58030",
+    "desc": "",
+    "id": "9359",
+    "name": "N Bus Access Rd @ E 29th Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.742182,
      49.264247
     ],
@@ -126968,6 +126788,24 @@
     "desc": "",
     "id": "9632",
     "name": "Southbound Jackson Rd @ 104 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.856819,
+     49.33871
+    ],
+    "type": "Point"
+   },
+   "id": "9633",
+   "properties": {
+    "code": "59225",
+    "desc": "",
+    "id": "9633",
+    "name": "Bus Stop @ Buntzen Lake",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -129848,6 +129686,24 @@
     "desc": "",
     "id": "10113",
     "name": "Southbound 116 St @ 82 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.114489,
+     49.280019
+    ],
+    "type": "Point"
+   },
+   "id": "10114",
+   "properties": {
+    "code": "59513",
+    "desc": "",
+    "id": "10114",
+    "name": "Eastbound W Georgia St @ Hamilton St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -137541,6 +137397,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.855612,
+     49.322425
+    ],
+    "type": "Point"
+   },
+   "id": "10858",
+   "properties": {
+    "code": "61018",
+    "desc": "",
+    "id": "10858",
+    "name": "Northbound @ Anmore Grocery Store (Flag)",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.15681,
      49.339239
     ],
@@ -138884,24 +138758,6 @@
     "desc": "",
     "id": "10999",
     "name": "Southbound Endswell Farm @ Smith Rd (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.956905,
-     49.26148
-    ],
-    "type": "Point"
-   },
-   "id": "11001",
-   "properties": {
-    "code": "52535",
-    "desc": "",
-    "id": "11001",
-    "name": "Eastbound Broadway @ E Ellerslie Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -148802,6 +148658,24 @@
     "desc": "",
     "id": "11761",
     "name": "Eastbound W Cordova St @ Abbott St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.044987,
+     49.244392
+    ],
+    "type": "Point"
+   },
+   "id": "11762",
+   "properties": {
+    "code": "61616",
+    "desc": "",
+    "id": "11762",
+    "name": "29th Avenue Station @ Bay 5",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159231,24 +159105,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.112876,
-     49.279676
-    ],
-    "type": "Point"
-   },
-   "id": "12581",
-   "properties": {
-    "code": "60342",
-    "desc": "",
-    "id": "12581",
-    "name": "Southbound Cambie St @ W Georgia St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.115566,
      49.233634
     ],
@@ -159357,24 +159213,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.114778,
-     49.280458
-    ],
-    "type": "Point"
-   },
-   "id": "12590",
-   "properties": {
-    "code": "60346",
-    "desc": "",
-    "id": "12590",
-    "name": "Westbound W Georgia St @ Homer St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.800781,
      49.256017
     ],
@@ -159458,24 +159296,6 @@
     "desc": "",
     "id": "12595",
     "name": "Larwill Park @ Layover Only",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.114837,
-     49.280236
-    ],
-    "type": "Point"
-   },
-   "id": "12596",
-   "properties": {
-    "code": "60348",
-    "desc": "",
-    "id": "12596",
-    "name": "Eastbound W Georgia St @ Homer St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159656,6 +159476,78 @@
     "desc": "",
     "id": "12607",
     "name": "Eastbound Chadwick Court @ Chesterfield Place",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.001679,
+     49.085606
+    ],
+    "type": "Point"
+   },
+   "id": "12608",
+   "properties": {
+    "code": "60368",
+    "desc": "",
+    "id": "12608",
+    "name": "Northbound 80 St @ 4500 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.113802,
+     49.279826
+    ],
+    "type": "Point"
+   },
+   "id": "12609",
+   "properties": {
+    "code": "60369",
+    "desc": "",
+    "id": "12609",
+    "name": "Westbound W Georgia St @ Hamilton St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.80576,
+     49.184086
+    ],
+    "type": "Point"
+   },
+   "id": "12610",
+   "properties": {
+    "code": "60377",
+    "desc": "",
+    "id": "12610",
+    "name": "Eastbound 100 Ave @ 150 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.809814,
+     49.176775
+    ],
+    "type": "Point"
+   },
+   "id": "12611",
+   "properties": {
+    "code": "60378",
+    "desc": "",
+    "id": "12611",
+    "name": "Eastbound 96 Ave @ 148 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
