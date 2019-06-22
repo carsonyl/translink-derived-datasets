@@ -355,7 +355,7 @@
     "code": "50044",
     "desc": "",
     "id": "44",
-    "name": "Southbound Burrard St @ W Georgia St",
+    "name": "Southbound Burrard St @ Alberni St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -22503,8 +22503,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.056046,
-     49.248689
+     -123.055976,
+     49.248591
     ],
     "type": "Point"
    },
@@ -25052,6 +25052,24 @@
     "desc": "",
     "id": "1735",
     "name": "Southbound Joyce St @ Wellington Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.032425,
+     49.238592
+    ],
+    "type": "Point"
+   },
+   "id": "1736",
+   "properties": {
+    "code": "51722",
+    "desc": "",
+    "id": "1736",
+    "name": "Joyce Station @ Unload Only",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -54356,6 +54374,24 @@
     "desc": "",
     "id": "4004",
     "name": "Westbound E Keith Rd @ Mountain Hwy",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.036123,
+     49.317812
+    ],
+    "type": "Point"
+   },
+   "id": "4005",
+   "properties": {
+    "code": "53964",
+    "desc": "",
+    "id": "4005",
+    "name": "Northbound Mountain Hwy @ Arborlynn Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -103701,6 +103737,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.624204,
+     49.161409
+    ],
+    "type": "Point"
+   },
+   "id": "7336",
+   "properties": {
+    "code": "57265",
+    "desc": "",
+    "id": "7336",
+    "name": "Southbound 216 St @ 88 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.624158,
      49.159386
     ],
@@ -117824,6 +117878,24 @@
     "desc": "",
     "id": "8701",
     "name": "Westbound Goring St @ Douglas Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.937831,
+     49.255848
+    ],
+    "type": "Point"
+   },
+   "id": "8703",
+   "properties": {
+    "code": "58363",
+    "desc": "",
+    "id": "8703",
+    "name": "Northbound Lake City Way @ Enterprise St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156199,7 +156271,7 @@
     "code": "60162",
     "desc": "",
     "id": "12361",
-    "name": "UBC Exchange @ Bay 4 New",
+    "name": "UBC Exchange @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156217,7 +156289,7 @@
     "code": "60163",
     "desc": "",
     "id": "12362",
-    "name": "UBC Exchange @ Bay 5 New",
+    "name": "UBC Exchange @ Bay 5",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156235,7 +156307,7 @@
     "code": "60164",
     "desc": "",
     "id": "12363",
-    "name": "UBC Exchange @ Bay 6 New",
+    "name": "UBC Exchange @ Bay 6",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158719,7 +158791,7 @@
     "code": "60307",
     "desc": "",
     "id": "12548",
-    "name": "Cambie St @ W 10th Ave",
+    "name": "Broadway-City Hall Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
