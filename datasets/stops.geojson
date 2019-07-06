@@ -31215,6 +31215,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.949097,
+     49.199857
+    ],
+    "type": "Point"
+   },
+   "id": "2252",
+   "properties": {
+    "code": "52230",
+    "desc": "",
+    "id": "2252",
+    "name": "22nd St Station @ Bay 4",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.952972,
      49.200284
     ],
@@ -35319,6 +35337,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.963811,
+     49.261458
+    ],
+    "type": "Point"
+   },
+   "id": "2559",
+   "properties": {
+    "code": "52534",
+    "desc": "",
+    "id": "2559",
+    "name": "Eastbound Broadway @ Sperling Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.955835,
      49.250878
     ],
@@ -35618,6 +35654,42 @@
     "desc": "",
     "id": "2586",
     "name": "Westbound Winston St @ 7200 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.956521,
+     49.261514
+    ],
+    "type": "Point"
+   },
+   "id": "2591",
+   "properties": {
+    "code": "52566",
+    "desc": "",
+    "id": "2591",
+    "name": "Westbound Broadway @ Bainbridge Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.959556,
+     49.261966
+    ],
+    "type": "Point"
+   },
+   "id": "2592",
+   "properties": {
+    "code": "52567",
+    "desc": "",
+    "id": "2592",
+    "name": "Westbound Broadway @ Cliff Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -39423,6 +39495,78 @@
   {
    "geometry": {
     "coordinates": [
+     -122.953438,
+     49.267617
+    ],
+    "type": "Point"
+   },
+   "id": "2860",
+   "properties": {
+    "code": "52831",
+    "desc": "",
+    "id": "2860",
+    "name": "Southbound Duthie Ave @ Halifax St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.953467,
+     49.26513
+    ],
+    "type": "Point"
+   },
+   "id": "2861",
+   "properties": {
+    "code": "52832",
+    "desc": "",
+    "id": "2861",
+    "name": "Southbound Duthie Ave @ Camarillo Place",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.953487,
+     49.263035
+    ],
+    "type": "Point"
+   },
+   "id": "2862",
+   "properties": {
+    "code": "52833",
+    "desc": "",
+    "id": "2862",
+    "name": "Southbound Duthie Ave @ Gibson St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.953511,
+     49.261553
+    ],
+    "type": "Point"
+   },
+   "id": "2863",
+   "properties": {
+    "code": "52834",
+    "desc": "",
+    "id": "2863",
+    "name": "Southbound Duthie Ave @ Broadway",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.913354,
      49.252623
     ],
@@ -40064,6 +40208,60 @@
     "desc": "",
     "id": "2909",
     "name": "Southbound Underhill Ave @ Broadway",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.953352,
+     49.261603
+    ],
+    "type": "Point"
+   },
+   "id": "2914",
+   "properties": {
+    "code": "52883",
+    "desc": "",
+    "id": "2914",
+    "name": "Northbound Duthie Ave @ Broadway",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.95332,
+     49.264556
+    ],
+    "type": "Point"
+   },
+   "id": "2915",
+   "properties": {
+    "code": "52884",
+    "desc": "",
+    "id": "2915",
+    "name": "Northbound Duthie Ave @ Montecito Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.953295,
+     49.26658
+    ],
+    "type": "Point"
+   },
+   "id": "2916",
+   "properties": {
+    "code": "52885",
+    "desc": "",
+    "id": "2916",
+    "name": "Northbound Duthie Ave @ Sutliff St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -56595,42 +56793,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.998029,
-     49.316329
-    ],
-    "type": "Point"
-   },
-   "id": "4144",
-   "properties": {
-    "code": "54101",
-    "desc": "",
-    "id": "4144",
-    "name": "Northbound Emerson Way @ Mt Seymour Parkway",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.998606,
-     49.31812
-    ],
-    "type": "Point"
-   },
-   "id": "4145",
-   "properties": {
-    "code": "54102",
-    "desc": "",
-    "id": "4145",
-    "name": "Westbound Carnation St @ Emerson Way",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.004867,
      49.318413
     ],
@@ -56858,60 +57020,6 @@
     "desc": "",
     "id": "4158",
     "name": "Southbound Berkley Rd @ Shelley Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.004437,
-     49.318082
-    ],
-    "type": "Point"
-   },
-   "id": "4159",
-   "properties": {
-    "code": "54116",
-    "desc": "",
-    "id": "4159",
-    "name": "Eastbound Carnation St @ Berkley Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.998203,
-     49.317587
-    ],
-    "type": "Point"
-   },
-   "id": "4160",
-   "properties": {
-    "code": "54117",
-    "desc": "",
-    "id": "4160",
-    "name": "Southbound Emerson Way @ Carnation St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.998191,
-     49.316192
-    ],
-    "type": "Point"
-   },
-   "id": "4161",
-   "properties": {
-    "code": "54118",
-    "desc": "",
-    "id": "4161",
-    "name": "Southbound Emerson Way @ Mt Seymour Parkway",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -84092,6 +84200,24 @@
     "desc": "",
     "id": "5983",
     "name": "Westbound 108 Ave @ 158 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.949615,
+     49.199727
+    ],
+    "type": "Point"
+   },
+   "id": "5989",
+   "properties": {
+    "code": "55933",
+    "desc": "",
+    "id": "5989",
+    "name": "22nd St Station @ Bay 6",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -120729,6 +120855,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.960766,
+     49.261675
+    ],
+    "type": "Point"
+   },
+   "id": "9081",
+   "properties": {
+    "code": "58264",
+    "desc": "",
+    "id": "9081",
+    "name": "Eastbound Broadway @ Ellerslie Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.824307,
      49.263081
     ],
@@ -132429,24 +132573,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.948609,
-     49.20002
-    ],
-    "type": "Point"
-   },
-   "id": "10423",
-   "properties": {
-    "code": "52165",
-    "desc": "",
-    "id": "10423",
-    "name": "22nd St Station @ Bay 2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.124555,
      49.276179
     ],
@@ -138092,6 +138218,24 @@
     "desc": "",
     "id": "10999",
     "name": "Southbound Endswell Farm @ Smith Rd (Flag)",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.956905,
+     49.26148
+    ],
+    "type": "Point"
+   },
+   "id": "11001",
+   "properties": {
+    "code": "52535",
+    "desc": "",
+    "id": "11001",
+    "name": "Eastbound Broadway @ E Ellerslie Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -151617,6 +151761,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.246831,
+     49.267419
+    ],
+    "type": "Point"
+   },
+   "id": "12057",
+   "properties": {
+    "code": "61935",
+    "desc": "",
+    "id": "12057",
+    "name": "UBC Exchange @ Bay 7",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.781442,
      49.264587
     ],
@@ -151880,6 +152042,24 @@
     "desc": "",
     "id": "12083",
     "name": "Eastbound Ioco Rd @ Bentley Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.246536,
+     49.267312
+    ],
+    "type": "Point"
+   },
+   "id": "12085",
+   "properties": {
+    "code": "61979",
+    "desc": "",
+    "id": "12085",
+    "name": "UBC Exchange @ Bay 8",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -153014,6 +153194,24 @@
     "desc": "",
     "id": "12198",
     "name": "Northbound 208 St @ 76 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.645691,
+     49.145812
+    ],
+    "type": "Point"
+   },
+   "id": "12199",
+   "properties": {
+    "code": "58031",
+    "desc": "",
+    "id": "12199",
+    "name": "Northbound 208 St @ Willoughby Town Centre Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -154443,42 +154641,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.245997,
-     49.26667
-    ],
-    "type": "Point"
-   },
-   "id": "12289",
-   "properties": {
-    "code": "60099",
-    "desc": "",
-    "id": "12289",
-    "name": "UBC Exchange @ Bay 8",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.24588,
-     49.266519
-    ],
-    "type": "Point"
-   },
-   "id": "12290",
-   "properties": {
-    "code": "60100",
-    "desc": "",
-    "id": "12290",
-    "name": "UBC Exchange @ Bay 9",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.89837,
      49.220487
     ],
@@ -155138,24 +155300,6 @@
     "desc": "",
     "id": "12338",
     "name": "Westbound Como Lake Ave @ Tyndall St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.246706,
-     49.266036
-    ],
-    "type": "Point"
-   },
-   "id": "12339",
-   "properties": {
-    "code": "58292",
-    "desc": "",
-    "id": "12339",
-    "name": "UBC Exchange @ Bay 13",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158115,42 +158259,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.948652,
-     49.200479
-    ],
-    "type": "Point"
-   },
-   "id": "12562",
-   "properties": {
-    "code": "59428",
-    "desc": "",
-    "id": "12562",
-    "name": "22nd Street Station @ Bay 10",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.948341,
-     49.200653
-    ],
-    "type": "Point"
-   },
-   "id": "12563",
-   "properties": {
-    "code": "60309",
-    "desc": "",
-    "id": "12563",
-    "name": "22nd Street Station @ Bay 11",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.003002,
      49.266821
     ],
@@ -158828,6 +158936,42 @@
     "desc": "",
     "id": "12616",
     "name": "Westbound Great Northern Way @ Carolina Street",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.044877,
+     49.15544
+    ],
+    "type": "Point"
+   },
+   "id": "12617",
+   "properties": {
+    "code": "60387",
+    "desc": "",
+    "id": "12617",
+    "name": "Westbound Blundell Rd @ 16100 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.005081,
+     49.317893
+    ],
+    "type": "Point"
+   },
+   "id": "12618",
+   "properties": {
+    "code": "60388",
+    "desc": "",
+    "id": "12618",
+    "name": "Southbound Berkley Rd @ Carnation St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
