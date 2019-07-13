@@ -41511,60 +41511,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.008078,
-     49.287303
-    ],
-    "type": "Point"
-   },
-   "id": "3003",
-   "properties": {
-    "code": "52972",
-    "desc": "",
-    "id": "3003",
-    "name": "Eastbound Eton St @ N Madison Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.005355,
-     49.287319
-    ],
-    "type": "Point"
-   },
-   "id": "3004",
-   "properties": {
-    "code": "52973",
-    "desc": "",
-    "id": "3004",
-    "name": "Eastbound Eton St @ N Rosser Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.003046,
-     49.28695
-    ],
-    "type": "Point"
-   },
-   "id": "3005",
-   "properties": {
-    "code": "52974",
-    "desc": "",
-    "id": "3005",
-    "name": "Southbound N Willingdon Ave @ Eton St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.003094,
      49.286146
     ],
@@ -41648,42 +41594,6 @@
     "desc": "",
     "id": "3011",
     "name": "Northbound N Willingdon Ave @ Penzance Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.003433,
-     49.287392
-    ],
-    "type": "Point"
-   },
-   "id": "3012",
-   "properties": {
-    "code": "52981",
-    "desc": "",
-    "id": "3012",
-    "name": "Westbound Eton St @ N Willingdon Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.006229,
-     49.287401
-    ],
-    "type": "Point"
-   },
-   "id": "3013",
-   "properties": {
-    "code": "52982",
-    "desc": "",
-    "id": "3013",
-    "name": "Westbound Eton St @ N Rosser Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -83325,24 +83235,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.789992,
-     49.148622
-    ],
-    "type": "Point"
-   },
-   "id": "5922",
-   "properties": {
-    "code": "55866",
-    "desc": "",
-    "id": "5922",
-    "name": "Northbound 156 St @ 80 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.790673,
      49.155582
     ],
@@ -115923,24 +115815,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.143517,
-     49.338146
-    ],
-    "type": "Point"
-   },
-   "id": "8528",
-   "properties": {
-    "code": "60925",
-    "desc": "",
-    "id": "8528",
-    "name": "Westbound Mathers Ave @ 1000 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.14595,
      49.336132
     ],
@@ -116690,24 +116564,6 @@
     "desc": "",
     "id": "8629",
     "name": "Southbound Nelson Ave @ 6400 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.156881,
-     49.329417
-    ],
-    "type": "Point"
-   },
-   "id": "8633",
-   "properties": {
-    "code": "54779",
-    "desc": "",
-    "id": "8633",
-    "name": "Southbound 15 St @ Duchess Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
