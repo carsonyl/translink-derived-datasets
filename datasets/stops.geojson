@@ -579,24 +579,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.168239,
-     49.259869
-    ],
-    "type": "Point"
-   },
-   "id": "57",
-   "properties": {
-    "code": "50057",
-    "desc": "",
-    "id": "57",
-    "name": "Northbound Macdonald St @ W 14 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.168164,
      49.261778
     ],
@@ -5547,8 +5529,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.119898,
-     49.287284
+     -123.119204,
+     49.287073
     ],
     "type": "Point"
    },
@@ -47793,8 +47775,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.79891,
-     49.267586
+     -122.798889,
+     49.268103
     ],
     "type": "Point"
    },
@@ -97077,24 +97059,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147908,
-     49.159513
-    ],
-    "type": "Point"
-   },
-   "id": "6893",
-   "properties": {
-    "code": "56828",
-    "desc": "",
-    "id": "6893",
-    "name": "Southbound Gilbert Rd @ Mang Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.147926,
      49.157333
     ],
@@ -117525,6 +117489,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.014362,
+     49.267781
+    ],
+    "type": "Point"
+   },
+   "id": "8738",
+   "properties": {
+    "code": "58387",
+    "desc": "",
+    "id": "8738",
+    "name": "Southbound Gilmore Ave @ 2nd Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.018496,
      49.263862
     ],
@@ -127598,24 +127580,6 @@
     "desc": "",
     "id": "9929",
     "name": "Northbound King George Blvd @ 108 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.853592,
-     49.204569
-    ],
-    "type": "Point"
-   },
-   "id": "9930",
-   "properties": {
-    "code": "55431",
-    "desc": "",
-    "id": "9930",
-    "name": "Northbound King George Blvd @ Bolivar Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158828,6 +158792,42 @@
     "desc": "",
     "id": "12618",
     "name": "Southbound Berkley Rd @ Carnation St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.168213,
+     49.260307
+    ],
+    "type": "Point"
+   },
+   "id": "12619",
+   "properties": {
+    "code": "60359",
+    "desc": "",
+    "id": "12619",
+    "name": "Northbound Macdonald St @ W 13th Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.04604,
+     49.169853
+    ],
+    "type": "Point"
+   },
+   "id": "12620",
+   "properties": {
+    "code": "60367",
+    "desc": "",
+    "id": "12620",
+    "name": "Eastbound Westminster Hwy @ No. 7th Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
