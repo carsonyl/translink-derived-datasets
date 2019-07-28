@@ -9723,26 +9723,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.05646,
-     49.269899
-    ],
-    "type": "Point"
-   },
-   "id": "731",
-   "properties": {
-    "code": "50724",
-    "desc": "",
-    "id": "731",
-    "name": "Northbound Nanaimo St @ E 1st Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.056441,
-     49.271645
+     -123.056444,
+     49.272134
     ],
     "type": "Point"
    },
@@ -17150,6 +17132,24 @@
     "desc": "",
     "id": "1230",
     "name": "Northbound Commercial Dr @ E 10 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.069636,
+     49.262699
+    ],
+    "type": "Point"
+   },
+   "id": "1231",
+   "properties": {
+    "code": "58327",
+    "desc": "",
+    "id": "1231",
+    "name": "Commercial Dr @ Broadway",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -29264,24 +29264,6 @@
     "desc": "",
     "id": "2086",
     "name": "Eastbound Lameys Mill Rd @ Sitka Square",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.135035,
-     49.166583
-    ],
-    "type": "Point"
-   },
-   "id": "2092",
-   "properties": {
-    "code": "52075",
-    "desc": "",
-    "id": "2092",
-    "name": "Richmond-Brighouse Station @ Bay 5A",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -61591,7 +61573,7 @@
     "code": "58504",
     "desc": "",
     "id": "4495",
-    "name": "Westbound W Georgia St @ Seymour St",
+    "name": "Westbound W Georgia St @ Granville St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -97887,24 +97869,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.126386,
-     49.14078
-    ],
-    "type": "Point"
-   },
-   "id": "6940",
-   "properties": {
-    "code": "56875",
-    "desc": "",
-    "id": "6940",
-    "name": "Eastbound Williams Rd @ Garden City Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.118719,
      49.140717
     ],
@@ -115185,24 +115149,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.18513,
-     49.126357
-    ],
-    "type": "Point"
-   },
-   "id": "8490",
-   "properties": {
-    "code": "58194",
-    "desc": "",
-    "id": "8490",
-    "name": "Eastbound Chatham St @ 3rd Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.132114,
      49.341176
     ],
@@ -121225,7 +121171,7 @@
     "code": "54445",
     "desc": "",
     "id": "9129",
-    "name": "Westbound W Georgia St @ Granville St",
+    "name": "Westbound W Georgia St @ Seymour St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -126309,24 +126255,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.186418,
-     49.126361
-    ],
-    "type": "Point"
-   },
-   "id": "9634",
-   "properties": {
-    "code": "59227",
-    "desc": "",
-    "id": "9634",
-    "name": "Eastbound Chatham St @ 4th Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.543302,
      49.19135
     ],
@@ -127094,24 +127022,6 @@
     "desc": "",
     "id": "9714",
     "name": "Southbound Pinetree Way @ Guildford Way",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.802706,
-     49.193277
-    ],
-    "type": "Point"
-   },
-   "id": "9720",
-   "properties": {
-    "code": "59237",
-    "desc": "",
-    "id": "9720",
-    "name": "Guildford Exchange @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158828,6 +158738,24 @@
     "desc": "",
     "id": "12620",
     "name": "Eastbound Westminster Hwy @ No. 7th Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.185967,
+     49.126362
+    ],
+    "type": "Point"
+   },
+   "id": "12621",
+   "properties": {
+    "code": "60392",
+    "desc": "",
+    "id": "12621",
+    "name": "Eastbound Chatham St @ 3rd Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
