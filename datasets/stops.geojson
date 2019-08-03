@@ -8823,6 +8823,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.05668,
+     49.284388
+    ],
+    "type": "Point"
+   },
+   "id": "676",
+   "properties": {
+    "code": "50669",
+    "desc": "",
+    "id": "676",
+    "name": "Southbound Nanaimo St @ Dundas St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.056723,
      49.28183
     ],
@@ -9860,6 +9878,24 @@
     "desc": "",
     "id": "740",
     "name": "Westbound E Hastings St @ Victoria Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.056396,
+     49.283304
+    ],
+    "type": "Point"
+   },
+   "id": "743",
+   "properties": {
+    "code": "50736",
+    "desc": "",
+    "id": "743",
+    "name": "Northbound Nanaimo St @ Pandora St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -32864,24 +32900,6 @@
     "desc": "",
     "id": "2378",
     "name": "Northbound Boyd St @ Ewen Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.934885,
-     49.195163
-    ],
-    "type": "Point"
-   },
-   "id": "2379",
-   "properties": {
-    "code": "52355",
-    "desc": "",
-    "id": "2379",
-    "name": "Eastbound Duncan St @ 400 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -91389,8 +91407,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.135524,
-     49.166583
+     -123.135287,
+     49.166575
     ],
     "type": "Point"
    },
@@ -127029,6 +127047,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.802706,
+     49.193277
+    ],
+    "type": "Point"
+   },
+   "id": "9720",
+   "properties": {
+    "code": "59237",
+    "desc": "",
+    "id": "9720",
+    "name": "Guildford Exchange @ Bay 4",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.845372,
      49.205751
     ],
@@ -158756,6 +158792,24 @@
     "desc": "",
     "id": "12621",
     "name": "Eastbound Chatham St @ 3rd Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.090557,
+     49.26668
+    ],
+    "type": "Point"
+   },
+   "id": "12622",
+   "properties": {
+    "code": "60391",
+    "desc": "",
+    "id": "12622",
+    "name": "Eastbound Great Northern Way @ Carolina St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
