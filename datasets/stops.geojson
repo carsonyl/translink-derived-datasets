@@ -9885,6 +9885,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.056378,
+     49.281413
+    ],
+    "type": "Point"
+   },
+   "id": "742",
+   "properties": {
+    "code": "50735",
+    "desc": "",
+    "id": "742",
+    "name": "Northbound Nanaimo St @ E Hastings St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.056396,
      49.283304
     ],
@@ -42213,8 +42231,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.781495,
-     49.262567
+     -122.781673,
+     49.26239
     ],
     "type": "Point"
    },
@@ -45237,8 +45255,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.855644,
-     49.318629
+     -122.855614,
+     49.318242
     ],
     "type": "Point"
    },
@@ -117464,6 +117482,24 @@
     "desc": "",
     "id": "8738",
     "name": "Southbound Gilmore Ave @ 2nd Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.014167,
+     49.268646
+    ],
+    "type": "Point"
+   },
+   "id": "8740",
+   "properties": {
+    "code": "58388",
+    "desc": "",
+    "id": "8740",
+    "name": "Northbound Gilmore Ave @ Halifax St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
