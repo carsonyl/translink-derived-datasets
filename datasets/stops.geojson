@@ -669,26 +669,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.168204,
-     49.268707
-    ],
-    "type": "Point"
-   },
-   "id": "63",
-   "properties": {
-    "code": "50063",
-    "desc": "",
-    "id": "63",
-    "name": "Northbound Macdonald St @ W 4th Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.168134,
-     49.270382
+     -123.168123,
+     49.271248
     ],
     "type": "Point"
    },
@@ -697,7 +679,7 @@
     "code": "50064",
     "desc": "",
     "id": "64",
-    "name": "Northbound Macdonald St @ W 2nd Ave",
+    "name": "Northbound Macdonald St @ W 1st Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -1209,8 +1191,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.168329,
-     49.270767
+     -123.167694,
+     49.27168
     ],
     "type": "Point"
    },
@@ -1219,25 +1201,7 @@
     "code": "50107",
     "desc": "",
     "id": "107",
-    "name": "Southbound Macdonald St @ W 1st Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.168389,
-     49.268877
-    ],
-    "type": "Point"
-   },
-   "id": "108",
-   "properties": {
-    "code": "50108",
-    "desc": "",
-    "id": "108",
-    "name": "Southbound Macdonald St @ W 3rd Ave",
+    "name": "Westbound Point Grey Rd @ Macdonald St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -3729,7 +3693,7 @@
   {
    "geometry": {
     "coordinates": [
-     -123.173797,
+     -123.173542,
      49.23482
     ],
     "type": "Point"
@@ -9345,8 +9309,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.066194,
-     49.232764
+     -123.06615,
+     49.232771
     ],
     "type": "Point"
    },
@@ -9489,8 +9453,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.091316,
-     49.233018
+     -123.091171,
+     49.233019
     ],
     "type": "Point"
    },
@@ -9752,6 +9716,24 @@
     "desc": "",
     "id": "734",
     "name": "Northbound Nanaimo St @ Napier St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.056382,
+     49.280521
+    ],
+    "type": "Point"
+   },
+   "id": "736",
+   "properties": {
+    "code": "50729",
+    "desc": "",
+    "id": "736",
+    "name": "Northbound Nanaimo St @ E Pender St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -23745,8 +23727,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.035505,
-     49.234407
+     -123.03552,
+     49.234391
     ],
     "type": "Point"
    },
@@ -116247,24 +116229,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.143517,
-     49.338146
-    ],
-    "type": "Point"
-   },
-   "id": "8528",
-   "properties": {
-    "code": "60925",
-    "desc": "",
-    "id": "8528",
-    "name": "Westbound Mathers Ave @ 1000 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.14595,
      49.336132
     ],
@@ -117032,24 +116996,6 @@
     "desc": "",
     "id": "8629",
     "name": "Southbound Nelson Ave @ 6400 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.156881,
-     49.329417
-    ],
-    "type": "Point"
-   },
-   "id": "8633",
-   "properties": {
-    "code": "54779",
-    "desc": "",
-    "id": "8633",
-    "name": "Southbound 15 St @ Duchess Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -153237,8 +153183,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.09098,
-     49.232766
+     -123.090946,
+     49.232781
     ],
     "type": "Point"
    },
