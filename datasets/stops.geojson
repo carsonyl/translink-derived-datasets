@@ -31161,42 +31161,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.952972,
-     49.200284
-    ],
-    "type": "Point"
-   },
-   "id": "2253",
-   "properties": {
-    "code": "52231",
-    "desc": "",
-    "id": "2253",
-    "name": "Eastbound 8th Ave @ 23 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.951796,
-     49.200902
-    ],
-    "type": "Point"
-   },
-   "id": "2254",
-   "properties": {
-    "code": "52232",
-    "desc": "",
-    "id": "2254",
-    "name": "Eastbound 8th Ave @ 22 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.949878,
      49.201938
     ],
@@ -32331,24 +32295,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.952508,
-     49.200666
-    ],
-    "type": "Point"
-   },
-   "id": "2335",
-   "properties": {
-    "code": "59127",
-    "desc": "",
-    "id": "2335",
-    "name": "Westbound 8th Ave @ 22 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.907238,
      49.203434
     ],
@@ -33026,24 +32972,6 @@
     "desc": "",
     "id": "2393",
     "name": "Westbound Westminster Hwy @ Willett Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.967172,
-     49.176954
-    ],
-    "type": "Point"
-   },
-   "id": "2394",
-   "properties": {
-    "code": "52370",
-    "desc": "",
-    "id": "2394",
-    "name": "Eastbound Gilley Rd @ Westminster Hwy",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -39506,24 +39434,6 @@
     "desc": "",
     "id": "2863",
     "name": "Southbound Duthie Ave @ Broadway",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.936395,
-     49.260851
-    ],
-    "type": "Point"
-   },
-   "id": "2868",
-   "properties": {
-    "code": "52839",
-    "desc": "",
-    "id": "2868",
-    "name": "Eastbound Broadway @ Lake City Way",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -56721,24 +56631,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.998606,
-     49.31812
-    ],
-    "type": "Point"
-   },
-   "id": "4145",
-   "properties": {
-    "code": "54102",
-    "desc": "",
-    "id": "4145",
-    "name": "Westbound Carnation St @ Emerson Way",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.004867,
      49.318413
     ],
@@ -56966,60 +56858,6 @@
     "desc": "",
     "id": "4158",
     "name": "Southbound Berkley Rd @ Shelley Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.004437,
-     49.318082
-    ],
-    "type": "Point"
-   },
-   "id": "4159",
-   "properties": {
-    "code": "54116",
-    "desc": "",
-    "id": "4159",
-    "name": "Eastbound Carnation St @ Berkley Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.998203,
-     49.317587
-    ],
-    "type": "Point"
-   },
-   "id": "4160",
-   "properties": {
-    "code": "54117",
-    "desc": "",
-    "id": "4160",
-    "name": "Southbound Emerson Way @ Carnation St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.998191,
-     49.316192
-    ],
-    "type": "Point"
-   },
-   "id": "4161",
-   "properties": {
-    "code": "54118",
-    "desc": "",
-    "id": "4161",
-    "name": "Southbound Emerson Way @ Mt Seymour Parkway",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -84603,6 +84441,60 @@
   {
    "geometry": {
     "coordinates": [
+     -122.812115,
+     49.177292
+    ],
+    "type": "Point"
+   },
+   "id": "6008",
+   "properties": {
+    "code": "55952",
+    "desc": "",
+    "id": "6008",
+    "name": "Northbound 148 St @ 96 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.812038,
+     49.180874
+    ],
+    "type": "Point"
+   },
+   "id": "6009",
+   "properties": {
+    "code": "55953",
+    "desc": "",
+    "id": "6009",
+    "name": "Northbound 148 St @ 98 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.811494,
+     49.184067
+    ],
+    "type": "Point"
+   },
+   "id": "6010",
+   "properties": {
+    "code": "55954",
+    "desc": "",
+    "id": "6010",
+    "name": "Eastbound 100 Ave @ 148 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.806344,
      49.184581
     ],
@@ -85370,6 +85262,60 @@
     "desc": "",
     "id": "6062",
     "name": "Southbound 150 St @ 101 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.807046,
+     49.184261
+    ],
+    "type": "Point"
+   },
+   "id": "6063",
+   "properties": {
+    "code": "56005",
+    "desc": "",
+    "id": "6063",
+    "name": "Westbound 100 Ave @ 150 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.812191,
+     49.183668
+    ],
+    "type": "Point"
+   },
+   "id": "6064",
+   "properties": {
+    "code": "56006",
+    "desc": "",
+    "id": "6064",
+    "name": "Southbound 148 St @ 100 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.81225,
+     49.180174
+    ],
+    "type": "Point"
+   },
+   "id": "6065",
+   "properties": {
+    "code": "56007",
+    "desc": "",
+    "id": "6065",
+    "name": "Southbound 148 St @ 98 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -115635,24 +115581,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.18513,
-     49.126357
-    ],
-    "type": "Point"
-   },
-   "id": "8490",
-   "properties": {
-    "code": "58194",
-    "desc": "",
-    "id": "8490",
-    "name": "Eastbound Chatham St @ 3rd Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.132114,
      49.341176
     ],
@@ -116222,6 +116150,24 @@
     "desc": "",
     "id": "8527",
     "name": "Westbound Burley Dr @ 800 Block (Flag)",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.143517,
+     49.338146
+    ],
+    "type": "Point"
+   },
+   "id": "8528",
+   "properties": {
+    "code": "60925",
+    "desc": "",
+    "id": "8528",
+    "name": "Westbound Mathers Ave @ 1000 Block (Flag)",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -116996,6 +116942,24 @@
     "desc": "",
     "id": "8629",
     "name": "Southbound Nelson Ave @ 6400 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.156881,
+     49.329417
+    ],
+    "type": "Point"
+   },
+   "id": "8633",
+   "properties": {
+    "code": "54779",
+    "desc": "",
+    "id": "8633",
+    "name": "Southbound 15 St @ Duchess Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -119318,24 +119282,6 @@
     "desc": "",
     "id": "8913",
     "name": "Southbound Commercial Dr @ N Grandview Hwy",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.934473,
-     49.260979
-    ],
-    "type": "Point"
-   },
-   "id": "8915",
-   "properties": {
-    "code": "52880",
-    "desc": "",
-    "id": "8915",
-    "name": "Westbound Broadway @ 7900 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -126860,24 +126806,6 @@
     "desc": "",
     "id": "9633",
     "name": "Bus Stop @ Buntzen Lake",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.186418,
-     49.126361
-    ],
-    "type": "Point"
-   },
-   "id": "9634",
-   "properties": {
-    "code": "59227",
-    "desc": "",
-    "id": "9634",
-    "name": "Eastbound Chatham St @ 4th Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159537,42 +159465,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.80576,
-     49.184086
-    ],
-    "type": "Point"
-   },
-   "id": "12610",
-   "properties": {
-    "code": "60377",
-    "desc": "",
-    "id": "12610",
-    "name": "Eastbound 100 Ave @ 150 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.809814,
-     49.176775
-    ],
-    "type": "Point"
-   },
-   "id": "12611",
-   "properties": {
-    "code": "60378",
-    "desc": "",
-    "id": "12611",
-    "name": "Eastbound 96 Ave @ 148 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.039901,
      49.155249
     ],
@@ -159764,24 +159656,6 @@
     "desc": "",
     "id": "12622",
     "name": "Eastbound Great Northern Way @ Carolina St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.807802,
-     49.176936
-    ],
-    "type": "Point"
-   },
-   "id": "12623",
-   "properties": {
-    "code": "60379",
-    "desc": "",
-    "id": "12623",
-    "name": "Westbound 96 Ave @ 150 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
