@@ -2215,7 +2215,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "SURREY CTRL EXP",
+  "destination": "FRASER HWY EXP/SURREY CTRL STN",
   "direction": "WEST",
   "name": "503-WB1",
   "operating-company": "CMBC",

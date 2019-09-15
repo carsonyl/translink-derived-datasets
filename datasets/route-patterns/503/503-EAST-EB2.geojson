@@ -725,7 +725,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "ALDERGROVE EXP",
+  "destination": "FRASER HWY EXP/ALDERGROVE",
   "direction": "EAST",
   "name": "503-EB2",
   "operating-company": "CMBC",
