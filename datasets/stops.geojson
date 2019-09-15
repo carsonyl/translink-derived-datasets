@@ -345,8 +345,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.122237,
-     49.283807
+     -123.121677,
+     49.284178
     ],
     "type": "Point"
    },
@@ -9651,24 +9651,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.056457,
-     49.266968
-    ],
-    "type": "Point"
-   },
-   "id": "730",
-   "properties": {
-    "code": "50723",
-    "desc": "",
-    "id": "730",
-    "name": "Northbound Nanaimo St @ E 4th Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.056444,
      49.272134
     ],
@@ -9849,8 +9831,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.13332,
-     49.202764
+     -123.133802,
+     49.202789
     ],
     "type": "Point"
    },
@@ -23295,8 +23277,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.041442,
-     49.219505
+     -123.041405,
+     49.219855
     ],
     "type": "Point"
    },
@@ -30477,6 +30459,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.924754,
+     49.202926
+    ],
+    "type": "Point"
+   },
+   "id": "2192",
+   "properties": {
+    "code": "52172",
+    "desc": "",
+    "id": "2192",
+    "name": "Southbound 12 St @ 3rd Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.923185,
      49.20182
     ],
@@ -31154,6 +31154,24 @@
     "desc": "",
     "id": "2252",
     "name": "22nd St Station @ Bay 4",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.951796,
+     49.200902
+    ],
+    "type": "Point"
+   },
+   "id": "2254",
+   "properties": {
+    "code": "52232",
+    "desc": "",
+    "id": "2254",
+    "name": "Eastbound 8th Ave @ 22 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -36255,8 +36273,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.948116,
-     49.21392
+     -122.947328,
+     49.214153
     ],
     "type": "Point"
    },
@@ -42069,24 +42087,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.792389,
-     49.274107
-    ],
-    "type": "Point"
-   },
-   "id": "3054",
-   "properties": {
-    "code": "53022",
-    "desc": "",
-    "id": "3054",
-    "name": "Eastbound Lougheed Hwy @ Westwood St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.781555,
      49.269622
     ],
@@ -43491,8 +43491,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.892497,
-     49.24294
+     -122.892495,
+     49.243516
     ],
     "type": "Point"
    },
@@ -51015,8 +51015,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.774054,
-     49.239052
+     -122.774036,
+     49.239063
     ],
     "type": "Point"
    },
@@ -56631,6 +56631,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.998606,
+     49.31812
+    ],
+    "type": "Point"
+   },
+   "id": "4145",
+   "properties": {
+    "code": "54102",
+    "desc": "",
+    "id": "4145",
+    "name": "Westbound Carnation St @ Emerson Way",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.004867,
      49.318413
     ],
@@ -56858,6 +56876,60 @@
     "desc": "",
     "id": "4158",
     "name": "Southbound Berkley Rd @ Shelley Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.004437,
+     49.318082
+    ],
+    "type": "Point"
+   },
+   "id": "4159",
+   "properties": {
+    "code": "54116",
+    "desc": "",
+    "id": "4159",
+    "name": "Eastbound Carnation St @ Berkley Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.998203,
+     49.317587
+    ],
+    "type": "Point"
+   },
+   "id": "4160",
+   "properties": {
+    "code": "54117",
+    "desc": "",
+    "id": "4160",
+    "name": "Southbound Emerson Way @ Carnation St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.998191,
+     49.316192
+    ],
+    "type": "Point"
+   },
+   "id": "4161",
+   "properties": {
+    "code": "54118",
+    "desc": "",
+    "id": "4161",
+    "name": "Southbound Emerson Way @ Mt Seymour Parkway",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -97365,6 +97437,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.147852,
+     49.16728
+    ],
+    "type": "Point"
+   },
+   "id": "6889",
+   "properties": {
+    "code": "56824",
+    "desc": "",
+    "id": "6889",
+    "name": "Southbound Gilbert Rd @ 6400 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.147898,
      49.16209
     ],
@@ -110263,7 +110353,7 @@
     "code": "57714",
     "desc": "",
     "id": "7788",
-    "name": "Westbound 117 Avee @ Graves St",
+    "name": "Westbound 117 Ave @ Graves St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -126824,42 +126914,6 @@
     "desc": "",
     "id": "9635",
     "name": "Westbound 104 Ave @ 245 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.842581,
-     49.295686
-    ],
-    "type": "Point"
-   },
-   "id": "9643",
-   "properties": {
-    "code": "58890",
-    "desc": "",
-    "id": "9643",
-    "name": "Northbound Heritage Mountain Blvd @ 1200 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.842922,
-     49.295778
-    ],
-    "type": "Point"
-   },
-   "id": "9650",
-   "properties": {
-    "code": "58891",
-    "desc": "",
-    "id": "9650",
-    "name": "Southbound Heritage Mountain Blvd @ Foxwood Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -144957,24 +145011,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.130901,
-     49.288447
-    ],
-    "type": "Point"
-   },
-   "id": "11478",
-   "properties": {
-    "code": "50612",
-    "desc": "",
-    "id": "11478",
-    "name": "Eastbound Robson St @ Nicola St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.128301,
      49.286773
     ],
@@ -146588,24 +146624,6 @@
     "desc": "",
     "id": "11597",
     "name": "Westbound Cotton Rd @ Brooksbank Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.040892,
-     49.307215
-    ],
-    "type": "Point"
-   },
-   "id": "11598",
-   "properties": {
-    "code": "53955",
-    "desc": "",
-    "id": "11598",
-    "name": "Eastbound Cotton Rd @ Brooksbank Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -148863,8 +148881,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.886273,
-     49.263173
+     -122.886137,
+     49.263206
     ],
     "type": "Point"
    },
@@ -151916,6 +151934,24 @@
     "desc": "",
     "id": "12026",
     "name": "Northbound Smithe St @ Expo Blvd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.133071,
+     49.203203
+    ],
+    "type": "Point"
+   },
+   "id": "12027",
+   "properties": {
+    "code": "52123",
+    "desc": "",
+    "id": "12027",
+    "name": "Marpole Loop @ Bay 5",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159573,24 +159609,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.005081,
-     49.317893
-    ],
-    "type": "Point"
-   },
-   "id": "12618",
-   "properties": {
-    "code": "60388",
-    "desc": "",
-    "id": "12618",
-    "name": "Southbound Berkley Rd @ Carnation St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.168213,
      49.260307
     ],
@@ -159656,6 +159674,24 @@
     "desc": "",
     "id": "12622",
     "name": "Eastbound Great Northern Way @ Carolina St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.787945,
+     49.272258
+    ],
+    "type": "Point"
+   },
+   "id": "12627",
+   "properties": {
+    "code": "60202",
+    "desc": "",
+    "id": "12627",
+    "name": "Eastbound Lougheed Hwy @ Westwood St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
