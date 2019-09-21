@@ -3603,24 +3603,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.156193,
-     49.234649
-    ],
-    "type": "Point"
-   },
-   "id": "292",
-   "properties": {
-    "code": "50289",
-    "desc": "",
-    "id": "292",
-    "name": "Westbound W 41 Ave @ West Blvd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.160343,
      49.234721
     ],
@@ -5108,24 +5090,6 @@
     "desc": "",
     "id": "385",
     "name": "Eastbound W 41 Ave @ Yew St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.155784,
-     49.234507
-    ],
-    "type": "Point"
-   },
-   "id": "386",
-   "properties": {
-    "code": "50382",
-    "desc": "",
-    "id": "386",
-    "name": "Eastbound W 41 Ave @ West Blvd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -26823,6 +26787,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.916031,
+     49.276558
+    ],
+    "type": "Point"
+   },
+   "id": "1876",
+   "properties": {
+    "code": "51862",
+    "desc": "",
+    "id": "1876",
+    "name": "Westbound S Campus Rd @ Science Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.928277,
      49.281238
     ],
@@ -27795,24 +27777,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.091529,
-     49.225419
-    ],
-    "type": "Point"
-   },
-   "id": "1991",
-   "properties": {
-    "code": "51974",
-    "desc": "",
-    "id": "1991",
-    "name": "Eastbound E 49 Ave @ Frederick St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.090264,
      49.225406
     ],
@@ -28562,24 +28526,6 @@
     "desc": "",
     "id": "2042",
     "name": "Westbound E 49 Ave @ St. Catherines St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.089891,
-     49.225522
-    ],
-    "type": "Point"
-   },
-   "id": "2043",
-   "properties": {
-    "code": "52026",
-    "desc": "",
-    "id": "2043",
-    "name": "Westbound E 49 Ave @ Chester St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -30171,8 +30117,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.979062,
-     49.205595
+     -122.980103,
+     49.205949
     ],
     "type": "Point"
    },
@@ -130539,6 +130485,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.909375,
+     49.277133
+    ],
+    "type": "Point"
+   },
+   "id": "10208",
+   "properties": {
+    "code": "59044",
+    "desc": "",
+    "id": "10208",
+    "name": "Southbound Tower Rd @ University High Street",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.123173,
      49.191931
     ],
@@ -159692,6 +159656,42 @@
     "desc": "",
     "id": "12627",
     "name": "Eastbound Lougheed Hwy @ Westwood St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.154407,
+     49.234483
+    ],
+    "type": "Point"
+   },
+   "id": "12631",
+   "properties": {
+    "code": "60386",
+    "desc": "",
+    "id": "12631",
+    "name": "Eastbound E 41 Ave @ East Blvd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.15479,
+     49.234672
+    ],
+    "type": "Point"
+   },
+   "id": "12632",
+   "properties": {
+    "code": "60385",
+    "desc": "",
+    "id": "12632",
+    "name": "Westbound W 41 Ave @ East Boulevard",
     "zone": "BUS ZN"
    },
    "type": "Feature"
