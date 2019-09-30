@@ -1641,6 +1641,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.11793,
+     49.233459
+    ],
+    "type": "Point"
+   },
+   "id": "136",
+   "properties": {
+    "code": "59305",
+    "desc": "",
+    "id": "136",
+    "name": "Oakridge-41st Ave Station @ Bay 3",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.107725,
      49.233142
     ],
@@ -42051,24 +42069,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.77758,
-     49.266491
-    ],
-    "type": "Point"
-   },
-   "id": "3056",
-   "properties": {
-    "code": "53024",
-    "desc": "",
-    "id": "3056",
-    "name": "Southbound Shaughnessy St @ Lions Way",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.781673,
      49.26239
     ],
@@ -52221,8 +52221,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.744592,
-     49.285689
+     -122.744835,
+     49.28568
     ],
     "type": "Point"
    },
@@ -52844,6 +52844,24 @@
     "desc": "",
     "id": "3886",
     "name": "Westbound Victoria Dr @ 3500 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.745481,
+     49.285776
+    ],
+    "type": "Point"
+   },
+   "id": "3887",
+   "properties": {
+    "code": "53847",
+    "desc": "",
+    "id": "3887",
+    "name": "Westbound Victoria Dr @ Burke Mountain St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -143895,6 +143913,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.117554,
+     49.233446
+    ],
+    "type": "Point"
+   },
+   "id": "11353",
+   "properties": {
+    "code": "50136",
+    "desc": "",
+    "id": "11353",
+    "name": "Oakridge-41st Ave Station @ Bay 2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.114283,
      49.263107
     ],
@@ -146469,6 +146505,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.107243,
+     49.282943
+    ],
+    "type": "Point"
+   },
+   "id": "11590",
+   "properties": {
+    "code": "50037",
+    "desc": "",
+    "id": "11590",
+    "name": "Eastbound W Cordova St @ Abbott St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.767094,
      49.162744
     ],
@@ -148586,24 +148640,6 @@
     "desc": "",
     "id": "11760",
     "name": "Northbound Wesbrook Mall @ Birney Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.10606,
-     49.282714
-    ],
-    "type": "Point"
-   },
-   "id": "11761",
-   "properties": {
-    "code": "58125",
-    "desc": "",
-    "id": "11761",
-    "name": "Eastbound W Cordova St @ Abbott St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -153374,24 +153410,6 @@
     "desc": "",
     "id": "12160",
     "name": "Eastbound Queens Ave @ 18 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.777493,
-     49.266583
-    ],
-    "type": "Point"
-   },
-   "id": "12165",
-   "properties": {
-    "code": "59421",
-    "desc": "",
-    "id": "12165",
-    "name": "Southbound Shaughnessy St @ Lions Way",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159087,42 +159105,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115592,
-     49.2334
-    ],
-    "type": "Point"
-   },
-   "id": "12585",
-   "properties": {
-    "code": "50137",
-    "desc": "",
-    "id": "12585",
-    "name": "Oakridge-41st Ave Station @ Bay 2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.115117,
-     49.233392
-    ],
-    "type": "Point"
-   },
-   "id": "12586",
-   "properties": {
-    "code": "60349",
-    "desc": "",
-    "id": "12586",
-    "name": "Oakridge-41st Ave Station @ Bay 3",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.938112,
      49.254743
     ],
@@ -159692,6 +159674,42 @@
     "desc": "",
     "id": "12632",
     "name": "Westbound W 41 Ave @ East Boulevard",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.778224,
+     49.26583
+    ],
+    "type": "Point"
+   },
+   "id": "12633",
+   "properties": {
+    "code": "61034",
+    "desc": "",
+    "id": "12633",
+    "name": "Southbound Shaughnessy St @ Lions Way",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.661347,
+     49.140984
+    ],
+    "type": "Point"
+   },
+   "id": "12634",
+   "properties": {
+    "code": "60389",
+    "desc": "",
+    "id": "12634",
+    "name": "Northbound 202A St @ 76 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
