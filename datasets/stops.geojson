@@ -3891,6 +3891,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.185125,
+     49.245532
+    ],
+    "type": "Point"
+   },
+   "id": "307",
+   "properties": {
+    "code": "50304",
+    "desc": "",
+    "id": "307",
+    "name": "Northbound Dunbar St @ W 30 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.185094,
      49.247382
     ],
@@ -9651,6 +9669,42 @@
   {
    "geometry": {
     "coordinates": [
+     -123.056457,
+     49.266968
+    ],
+    "type": "Point"
+   },
+   "id": "730",
+   "properties": {
+    "code": "50723",
+    "desc": "",
+    "id": "730",
+    "name": "Northbound Nanaimo St @ E 4th Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.05646,
+     49.269899
+    ],
+    "type": "Point"
+   },
+   "id": "731",
+   "properties": {
+    "code": "50724",
+    "desc": "",
+    "id": "731",
+    "name": "Northbound Nanaimo St @ E 1st Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.056451,
      49.271635
     ],
@@ -9698,24 +9752,6 @@
     "desc": "",
     "id": "734",
     "name": "Northbound Nanaimo St @ Napier St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.056382,
-     49.280521
-    ],
-    "type": "Point"
-   },
-   "id": "736",
-   "properties": {
-    "code": "50729",
-    "desc": "",
-    "id": "736",
-    "name": "Northbound Nanaimo St @ E Pender St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -42134,6 +42170,24 @@
     "desc": "",
     "id": "3055",
     "name": "Eastbound Lougheed Hwy @ Hastings St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.77758,
+     49.266491
+    ],
+    "type": "Point"
+   },
+   "id": "3056",
+   "properties": {
+    "code": "53024",
+    "desc": "",
+    "id": "3056",
+    "name": "Southbound Shaughnessy St @ Lions Way",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -85323,24 +85377,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.812191,
-     49.183668
-    ],
-    "type": "Point"
-   },
-   "id": "6064",
-   "properties": {
-    "code": "56006",
-    "desc": "",
-    "id": "6064",
-    "name": "Southbound 148 St @ 100 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.81225,
      49.180174
     ],
@@ -97394,6 +97430,24 @@
     "desc": "",
     "id": "6889",
     "name": "Southbound Gilbert Rd @ 6400 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147869,
+     49.1658
+    ],
+    "type": "Point"
+   },
+   "id": "6890",
+   "properties": {
+    "code": "56825",
+    "desc": "",
+    "id": "6890",
+    "name": "Southbound Gilbert Rd @ Azure Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -109569,8 +109623,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.775315,
-     49.267174
+     -122.774006,
+     49.266595
     ],
     "type": "Point"
    },
@@ -142491,8 +142545,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.150337,
-     49.174108
+     -123.150998,
+     49.173922
     ],
     "type": "Point"
    },
@@ -144741,8 +144795,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.84602,
-     49.263337
+     -122.84699,
+     49.263341
     ],
     "type": "Point"
    },
@@ -159548,24 +159602,6 @@
     "desc": "",
     "id": "12632",
     "name": "Westbound W 41 Ave @ East Boulevard",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.778224,
-     49.26583
-    ],
-    "type": "Point"
-   },
-   "id": "12633",
-   "properties": {
-    "code": "61034",
-    "desc": "",
-    "id": "12633",
-    "name": "Southbound Shaughnessy St @ Lions Way",
     "zone": "BUS ZN"
    },
    "type": "Feature"
