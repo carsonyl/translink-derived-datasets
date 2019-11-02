@@ -1677,6 +1677,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.11793,
+     49.233459
+    ],
+    "type": "Point"
+   },
+   "id": "136",
+   "properties": {
+    "code": "59305",
+    "desc": "",
+    "id": "136",
+    "name": "Oakridge-41st Ave Station @ Bay 3",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.107725,
      49.233142
     ],
@@ -1922,6 +1940,24 @@
     "desc": "",
     "id": "158",
     "name": "Westbound W 41 Ave @ Columbia St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.116855,
+     49.233681
+    ],
+    "type": "Point"
+   },
+   "id": "160",
+   "properties": {
+    "code": "50160",
+    "desc": "",
+    "id": "160",
+    "name": "Oakridge-41st Ave Station @ Bay 5",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -31179,6 +31215,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.952972,
+     49.200284
+    ],
+    "type": "Point"
+   },
+   "id": "2253",
+   "properties": {
+    "code": "52231",
+    "desc": "",
+    "id": "2253",
+    "name": "Eastbound 8th Ave @ 23 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.951796,
      49.200902
     ],
@@ -44222,24 +44276,6 @@
     "desc": "",
     "id": "3202",
     "name": "Southbound Pinetree Way @ Glen Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.799039,
-     49.274922
-    ],
-    "type": "Point"
-   },
-   "id": "3204",
-   "properties": {
-    "code": "53170",
-    "desc": "",
-    "id": "3204",
-    "name": "Coquitlam Central Station @ Bay 7",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -85377,6 +85413,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.812191,
+     49.183668
+    ],
+    "type": "Point"
+   },
+   "id": "6064",
+   "properties": {
+    "code": "56006",
+    "desc": "",
+    "id": "6064",
+    "name": "Southbound 148 St @ 100 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.81225,
      49.180174
     ],
@@ -113032,7 +113086,7 @@
    },
    "id": "8019",
    "properties": {
-    "code": "",
+    "code": "57944",
     "desc": "",
     "id": "8019",
     "name": "Waterfront Station Eastbound",
@@ -113050,7 +113104,7 @@
    },
    "id": "8020",
    "properties": {
-    "code": "",
+    "code": "57945",
     "desc": "",
     "id": "8020",
     "name": "Moody Centre Station Eastbound",
@@ -113068,7 +113122,7 @@
    },
    "id": "8021",
    "properties": {
-    "code": "",
+    "code": "57946",
     "desc": "",
     "id": "8021",
     "name": "Coquitlam Central Station Eastbound",
@@ -113086,7 +113140,7 @@
    },
    "id": "8022",
    "properties": {
-    "code": "",
+    "code": "57947",
     "desc": "",
     "id": "8022",
     "name": "Port Coquitlam Station Eastbound",
@@ -113104,7 +113158,7 @@
    },
    "id": "8023",
    "properties": {
-    "code": "",
+    "code": "57948",
     "desc": "",
     "id": "8023",
     "name": "Pitt Meadows Station Eastbound",
@@ -113122,7 +113176,7 @@
    },
    "id": "8024",
    "properties": {
-    "code": "",
+    "code": "57949",
     "desc": "",
     "id": "8024",
     "name": "Maple Meadows Station Eastbound",
@@ -113140,7 +113194,7 @@
    },
    "id": "8025",
    "properties": {
-    "code": "",
+    "code": "57950",
     "desc": "",
     "id": "8025",
     "name": "Port Haney Station Eastbound",
@@ -113158,7 +113212,7 @@
    },
    "id": "8026",
    "properties": {
-    "code": "",
+    "code": "57951",
     "desc": "",
     "id": "8026",
     "name": "Mission City Station Unload Only",
@@ -113176,7 +113230,7 @@
    },
    "id": "8027",
    "properties": {
-    "code": "",
+    "code": "57952",
     "desc": "",
     "id": "8027",
     "name": "Mission City Station Westbound",
@@ -113194,7 +113248,7 @@
    },
    "id": "8028",
    "properties": {
-    "code": "",
+    "code": "57953",
     "desc": "",
     "id": "8028",
     "name": "Port Haney Station Westbound",
@@ -113212,7 +113266,7 @@
    },
    "id": "8029",
    "properties": {
-    "code": "",
+    "code": "57954",
     "desc": "",
     "id": "8029",
     "name": "Maple Meadows Station Westbound",
@@ -113230,7 +113284,7 @@
    },
    "id": "8030",
    "properties": {
-    "code": "",
+    "code": "57955",
     "desc": "",
     "id": "8030",
     "name": "Pitt Meadows Station Westbound",
@@ -113248,7 +113302,7 @@
    },
    "id": "8031",
    "properties": {
-    "code": "",
+    "code": "57956",
     "desc": "",
     "id": "8031",
     "name": "Port Coquitlam Station Westbound",
@@ -113266,7 +113320,7 @@
    },
    "id": "8032",
    "properties": {
-    "code": "",
+    "code": "57957",
     "desc": "",
     "id": "8032",
     "name": "Coquitlam Central Station Westbound",
@@ -113284,7 +113338,7 @@
    },
    "id": "8033",
    "properties": {
-    "code": "",
+    "code": "57958",
     "desc": "",
     "id": "8033",
     "name": "Moody Centre Station Westbound",
@@ -113302,7 +113356,7 @@
    },
    "id": "8034",
    "properties": {
-    "code": "",
+    "code": "57959",
     "desc": "",
     "id": "8034",
     "name": "Waterfront Station Unload Only",
@@ -113320,7 +113374,7 @@
    },
    "id": "8035",
    "properties": {
-    "code": "",
+    "code": "57960",
     "desc": "",
     "id": "8035",
     "name": "Waterfront Station Northbound",
@@ -113338,7 +113392,7 @@
    },
    "id": "8036",
    "properties": {
-    "code": "",
+    "code": "57961",
     "desc": "",
     "id": "8036",
     "name": "Lonsdale Quay Northbound",
@@ -113356,7 +113410,7 @@
    },
    "id": "8037",
    "properties": {
-    "code": "",
+    "code": "57962",
     "desc": "",
     "id": "8037",
     "name": "Lonsdale Quay Southbound",
@@ -113374,7 +113428,7 @@
    },
    "id": "8038",
    "properties": {
-    "code": "",
+    "code": "57963",
     "desc": "",
     "id": "8038",
     "name": "Waterfront Station Southbound",
@@ -113392,7 +113446,7 @@
    },
    "id": "8039",
    "properties": {
-    "code": "",
+    "code": "57964",
     "desc": "",
     "id": "8039",
     "name": "Waterfront Station Platform 2",
@@ -113410,7 +113464,7 @@
    },
    "id": "8040",
    "properties": {
-    "code": "",
+    "code": "60826",
     "desc": "",
     "id": "8040",
     "name": "Burrard Station Platform 2",
@@ -113428,7 +113482,7 @@
    },
    "id": "8041",
    "properties": {
-    "code": "",
+    "code": "57966",
     "desc": "",
     "id": "8041",
     "name": "Granville Station Platform 2",
@@ -113446,7 +113500,7 @@
    },
    "id": "8042",
    "properties": {
-    "code": "",
+    "code": "57967",
     "desc": "",
     "id": "8042",
     "name": "Stadium-Chinatown Station Platform 2",
@@ -113464,7 +113518,7 @@
    },
    "id": "8043",
    "properties": {
-    "code": "",
+    "code": "57968",
     "desc": "",
     "id": "8043",
     "name": "Main Street-Science World Station Platform 2",
@@ -113482,7 +113536,7 @@
    },
    "id": "8044",
    "properties": {
-    "code": "",
+    "code": "57969",
     "desc": "",
     "id": "8044",
     "name": "Commercial-Broadway Station Platform 4",
@@ -113500,7 +113554,7 @@
    },
    "id": "8045",
    "properties": {
-    "code": "",
+    "code": "57970",
     "desc": "",
     "id": "8045",
     "name": "Nanaimo Station Platform 2",
@@ -113518,7 +113572,7 @@
    },
    "id": "8046",
    "properties": {
-    "code": "",
+    "code": "57971",
     "desc": "",
     "id": "8046",
     "name": "29th Avenue Station Platform 2",
@@ -113536,7 +113590,7 @@
    },
    "id": "8047",
    "properties": {
-    "code": "",
+    "code": "57972",
     "desc": "",
     "id": "8047",
     "name": "Joyce-Collingwood Station Platform 2",
@@ -113554,7 +113608,7 @@
    },
    "id": "8048",
    "properties": {
-    "code": "",
+    "code": "57973",
     "desc": "",
     "id": "8048",
     "name": "Patterson Station Platform 2",
@@ -113572,7 +113626,7 @@
    },
    "id": "8049",
    "properties": {
-    "code": "",
+    "code": "57974",
     "desc": "",
     "id": "8049",
     "name": "Metrotown Station Platform 2",
@@ -113590,7 +113644,7 @@
    },
    "id": "8050",
    "properties": {
-    "code": "",
+    "code": "57975",
     "desc": "",
     "id": "8050",
     "name": "Royal Oak Station Platform 2",
@@ -113608,7 +113662,7 @@
    },
    "id": "8051",
    "properties": {
-    "code": "",
+    "code": "57976",
     "desc": "",
     "id": "8051",
     "name": "Edmonds Station Platform 2",
@@ -113626,7 +113680,7 @@
    },
    "id": "8052",
    "properties": {
-    "code": "",
+    "code": "57977",
     "desc": "",
     "id": "8052",
     "name": "22nd Street Station Platform 2",
@@ -113644,7 +113698,7 @@
    },
    "id": "8053",
    "properties": {
-    "code": "",
+    "code": "57978",
     "desc": "",
     "id": "8053",
     "name": "New Westminster Station Platform 2",
@@ -113662,7 +113716,7 @@
    },
    "id": "8054",
    "properties": {
-    "code": "",
+    "code": "57979",
     "desc": "",
     "id": "8054",
     "name": "Columbia Station Platform 2",
@@ -113680,7 +113734,7 @@
    },
    "id": "8055",
    "properties": {
-    "code": "",
+    "code": "57980",
     "desc": "",
     "id": "8055",
     "name": "Scott Road Station Platform 2",
@@ -113698,7 +113752,7 @@
    },
    "id": "8056",
    "properties": {
-    "code": "",
+    "code": "57981",
     "desc": "",
     "id": "8056",
     "name": "Gateway Station Platform 2",
@@ -113716,7 +113770,7 @@
    },
    "id": "8057",
    "properties": {
-    "code": "",
+    "code": "57982",
     "desc": "",
     "id": "8057",
     "name": "Surrey Central Station Platform 2",
@@ -113734,7 +113788,7 @@
    },
    "id": "8058",
    "properties": {
-    "code": "",
+    "code": "57983",
     "desc": "",
     "id": "8058",
     "name": "King George Station Platform 2",
@@ -113752,7 +113806,7 @@
    },
    "id": "8059",
    "properties": {
-    "code": "",
+    "code": "57984",
     "desc": "",
     "id": "8059",
     "name": "King George Station Platform 1",
@@ -113770,7 +113824,7 @@
    },
    "id": "8060",
    "properties": {
-    "code": "",
+    "code": "57985",
     "desc": "",
     "id": "8060",
     "name": "Surrey Central Station Platform 1",
@@ -113788,7 +113842,7 @@
    },
    "id": "8061",
    "properties": {
-    "code": "",
+    "code": "57986",
     "desc": "",
     "id": "8061",
     "name": "Gateway Station Platform 1",
@@ -113806,7 +113860,7 @@
    },
    "id": "8062",
    "properties": {
-    "code": "",
+    "code": "57987",
     "desc": "",
     "id": "8062",
     "name": "Scott Road Station Platform 1",
@@ -113824,7 +113878,7 @@
    },
    "id": "8063",
    "properties": {
-    "code": "",
+    "code": "57988",
     "desc": "",
     "id": "8063",
     "name": "Columbia Station Platform 1",
@@ -113842,7 +113896,7 @@
    },
    "id": "8064",
    "properties": {
-    "code": "",
+    "code": "57989",
     "desc": "",
     "id": "8064",
     "name": "New Westminster Station Platform 1",
@@ -113860,7 +113914,7 @@
    },
    "id": "8065",
    "properties": {
-    "code": "",
+    "code": "57990",
     "desc": "",
     "id": "8065",
     "name": "22nd Street Station Platform 1",
@@ -113878,7 +113932,7 @@
    },
    "id": "8066",
    "properties": {
-    "code": "",
+    "code": "57991",
     "desc": "",
     "id": "8066",
     "name": "Edmonds Station Platform 1",
@@ -113896,7 +113950,7 @@
    },
    "id": "8067",
    "properties": {
-    "code": "",
+    "code": "57992",
     "desc": "",
     "id": "8067",
     "name": "Royal Oak Station Platform 1",
@@ -113914,7 +113968,7 @@
    },
    "id": "8068",
    "properties": {
-    "code": "",
+    "code": "57993",
     "desc": "",
     "id": "8068",
     "name": "Metrotown Station Platform 1",
@@ -113932,7 +113986,7 @@
    },
    "id": "8069",
    "properties": {
-    "code": "",
+    "code": "57994",
     "desc": "",
     "id": "8069",
     "name": "Patterson Station Platform 1",
@@ -113950,7 +114004,7 @@
    },
    "id": "8070",
    "properties": {
-    "code": "",
+    "code": "57995",
     "desc": "",
     "id": "8070",
     "name": "Joyce-Collingwood Station Platform 1",
@@ -113968,7 +114022,7 @@
    },
    "id": "8071",
    "properties": {
-    "code": "",
+    "code": "57996",
     "desc": "",
     "id": "8071",
     "name": "29th Avenue Station Platform 1",
@@ -113986,7 +114040,7 @@
    },
    "id": "8072",
    "properties": {
-    "code": "",
+    "code": "57997",
     "desc": "",
     "id": "8072",
     "name": "Nanaimo Station Platform 1",
@@ -114004,7 +114058,7 @@
    },
    "id": "8073",
    "properties": {
-    "code": "",
+    "code": "57998",
     "desc": "",
     "id": "8073",
     "name": "Commercial-Broadway Station Platform 3",
@@ -114022,7 +114076,7 @@
    },
    "id": "8074",
    "properties": {
-    "code": "",
+    "code": "57999",
     "desc": "",
     "id": "8074",
     "name": "Main Street-Science World Station Platform 1",
@@ -114040,7 +114094,7 @@
    },
    "id": "8075",
    "properties": {
-    "code": "",
+    "code": "58000",
     "desc": "",
     "id": "8075",
     "name": "Stadium-Chinatown Station Platform 1",
@@ -114058,7 +114112,7 @@
    },
    "id": "8076",
    "properties": {
-    "code": "",
+    "code": "58001",
     "desc": "",
     "id": "8076",
     "name": "Granville Station Platform 1",
@@ -114076,7 +114130,7 @@
    },
    "id": "8077",
    "properties": {
-    "code": "",
+    "code": "58002",
     "desc": "",
     "id": "8077",
     "name": "Burrard Station Platform 1",
@@ -114094,7 +114148,7 @@
    },
    "id": "8078",
    "properties": {
-    "code": "",
+    "code": "58003",
     "desc": "",
     "id": "8078",
     "name": "Waterfront Station Platform 1",
@@ -116596,7 +116650,7 @@
    },
    "id": "8577",
    "properties": {
-    "code": "",
+    "code": "60802",
     "desc": "",
     "id": "8577",
     "name": "Braid Station Platform 1",
@@ -116614,7 +116668,7 @@
    },
    "id": "8578",
    "properties": {
-    "code": "",
+    "code": "60803",
     "desc": "",
     "id": "8578",
     "name": "Braid Station Platform 2",
@@ -116632,7 +116686,7 @@
    },
    "id": "8579",
    "properties": {
-    "code": "",
+    "code": "60800",
     "desc": "",
     "id": "8579",
     "name": "Sapperton Station Platform 1",
@@ -116650,7 +116704,7 @@
    },
    "id": "8580",
    "properties": {
-    "code": "",
+    "code": "60801",
     "desc": "",
     "id": "8580",
     "name": "Sapperton Station Platform 2",
@@ -116816,6 +116870,24 @@
     "desc": "",
     "id": "8604",
     "name": "Aberdeen Station @ Bay 1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.103787,
+     49.338965
+    ],
+    "type": "Point"
+   },
+   "id": "8605",
+   "properties": {
+    "code": "58111",
+    "desc": "",
+    "id": "8605",
+    "name": "Westbound Edgemont Blvd @ Ridgewood Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -118144,7 +118216,7 @@
    },
    "id": "8746",
    "properties": {
-    "code": "",
+    "code": "60804",
     "desc": "",
     "id": "8746",
     "name": "Lougheed Town Centre Station Platform 2",
@@ -118162,7 +118234,7 @@
    },
    "id": "8747",
    "properties": {
-    "code": "",
+    "code": "60806",
     "desc": "",
     "id": "8747",
     "name": "Production Way-University Station Platform 1",
@@ -118180,7 +118252,7 @@
    },
    "id": "8748",
    "properties": {
-    "code": "",
+    "code": "60810",
     "desc": "",
     "id": "8748",
     "name": "Sperling-Burnaby Lake Station Platform 1",
@@ -118198,7 +118270,7 @@
    },
    "id": "8749",
    "properties": {
-    "code": "",
+    "code": "60812",
     "desc": "",
     "id": "8749",
     "name": "Holdom Station Platform 1",
@@ -118216,7 +118288,7 @@
    },
    "id": "8750",
    "properties": {
-    "code": "",
+    "code": "60814",
     "desc": "",
     "id": "8750",
     "name": "Brentwood Town Centre Station Platform 1",
@@ -118234,7 +118306,7 @@
    },
    "id": "8751",
    "properties": {
-    "code": "",
+    "code": "60816",
     "desc": "",
     "id": "8751",
     "name": "Gilmore Station Platform 1",
@@ -118252,7 +118324,7 @@
    },
    "id": "8752",
    "properties": {
-    "code": "",
+    "code": "60818",
     "desc": "",
     "id": "8752",
     "name": "Rupert Station Platform 1",
@@ -118270,7 +118342,7 @@
    },
    "id": "8753",
    "properties": {
-    "code": "",
+    "code": "60820",
     "desc": "",
     "id": "8753",
     "name": "Renfrew Station Platform 1",
@@ -118288,7 +118360,7 @@
    },
    "id": "8754",
    "properties": {
-    "code": "",
+    "code": "60822",
     "desc": "",
     "id": "8754",
     "name": "Commercial-Broadway Station Platform 1",
@@ -118306,7 +118378,7 @@
    },
    "id": "8755",
    "properties": {
-    "code": "",
+    "code": "60805",
     "desc": "",
     "id": "8755",
     "name": "Lougheed Town Centre Station Platform 1",
@@ -118324,7 +118396,7 @@
    },
    "id": "8756",
    "properties": {
-    "code": "",
+    "code": "60807",
     "desc": "",
     "id": "8756",
     "name": "Production Way-University Station Platform 2",
@@ -118342,7 +118414,7 @@
    },
    "id": "8757",
    "properties": {
-    "code": "",
+    "code": "60811",
     "desc": "",
     "id": "8757",
     "name": "Sperling-Burnaby Lake Station Platform 2",
@@ -118360,7 +118432,7 @@
    },
    "id": "8758",
    "properties": {
-    "code": "",
+    "code": "60813",
     "desc": "",
     "id": "8758",
     "name": "Holdom Station Platform 2",
@@ -118378,7 +118450,7 @@
    },
    "id": "8759",
    "properties": {
-    "code": "",
+    "code": "60815",
     "desc": "",
     "id": "8759",
     "name": "Brentwood Town Centre Station Platform 2",
@@ -118396,7 +118468,7 @@
    },
    "id": "8760",
    "properties": {
-    "code": "",
+    "code": "60817",
     "desc": "",
     "id": "8760",
     "name": "Gilmore Station Platform 2",
@@ -118414,7 +118486,7 @@
    },
    "id": "8761",
    "properties": {
-    "code": "",
+    "code": "60819",
     "desc": "",
     "id": "8761",
     "name": "Rupert Station Platform 2",
@@ -118432,7 +118504,7 @@
    },
    "id": "8762",
    "properties": {
-    "code": "",
+    "code": "60821",
     "desc": "",
     "id": "8762",
     "name": "Renfrew Station Platform 2",
@@ -118450,7 +118522,7 @@
    },
    "id": "8763",
    "properties": {
-    "code": "",
+    "code": "60823",
     "desc": "",
     "id": "8763",
     "name": "Commercial-Broadway Station Platform 2",
@@ -121035,8 +121107,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.10218,
-     49.26304
+     -123.102662,
+     49.263049
     ],
     "type": "Point"
    },
@@ -125614,7 +125686,7 @@
    },
    "id": "9510",
    "properties": {
-    "code": "",
+    "code": "60808",
     "desc": "",
     "id": "9510",
     "name": "Lake City Way Station Platform 1",
@@ -125632,7 +125704,7 @@
    },
    "id": "9511",
    "properties": {
-    "code": "",
+    "code": "60809",
     "desc": "",
     "id": "9511",
     "name": "Lake City Way Station Platform 2",
@@ -127659,8 +127731,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.802706,
-     49.193277
+     -122.80321,
+     49.193278
     ],
     "type": "Point"
    },
@@ -132652,7 +132724,7 @@
    },
    "id": "10374",
    "properties": {
-    "code": "",
+    "code": "60825",
     "desc": "",
     "id": "10374",
     "name": "VCC-Clark Station Platform 2",
@@ -132670,7 +132742,7 @@
    },
    "id": "10375",
    "properties": {
-    "code": "",
+    "code": "60824",
     "desc": "",
     "id": "10375",
     "name": "VCC-Clark Station Platform 1",
@@ -142149,6 +142221,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.79928,
+     49.274886
+    ],
+    "type": "Point"
+   },
+   "id": "11229",
+   "properties": {
+    "code": "61306",
+    "desc": "",
+    "id": "11229",
+    "name": "Coquitlam Central Station @ Bay 13",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.66547,
      49.177082
     ],
@@ -142822,7 +142912,7 @@
    },
    "id": "11272",
    "properties": {
-    "code": "",
+    "code": "61363",
     "desc": "",
     "id": "11272",
     "name": "Vancouver City Centre Station Platform 1",
@@ -142840,7 +142930,7 @@
    },
    "id": "11273",
    "properties": {
-    "code": "",
+    "code": "61364",
     "desc": "",
     "id": "11273",
     "name": "Vancouver City Centre Station Platform 2",
@@ -142858,7 +142948,7 @@
    },
    "id": "11274",
    "properties": {
-    "code": "",
+    "code": "61365",
     "desc": "",
     "id": "11274",
     "name": "Yaletown-Roundhouse Station Platform 1",
@@ -142876,7 +142966,7 @@
    },
    "id": "11275",
    "properties": {
-    "code": "",
+    "code": "61366",
     "desc": "",
     "id": "11275",
     "name": "Yaletown-Roundhouse Station Platform 2",
@@ -142894,7 +142984,7 @@
    },
    "id": "11276",
    "properties": {
-    "code": "",
+    "code": "61367",
     "desc": "",
     "id": "11276",
     "name": "Olympic Village Station Platform 1",
@@ -142912,7 +143002,7 @@
    },
    "id": "11277",
    "properties": {
-    "code": "",
+    "code": "61368",
     "desc": "",
     "id": "11277",
     "name": "Olympic Village Station Platform 2",
@@ -142930,7 +143020,7 @@
    },
    "id": "11278",
    "properties": {
-    "code": "",
+    "code": "61369",
     "desc": "",
     "id": "11278",
     "name": "Broadway-City Hall Station Platform 1",
@@ -142948,7 +143038,7 @@
    },
    "id": "11279",
    "properties": {
-    "code": "",
+    "code": "61370",
     "desc": "",
     "id": "11279",
     "name": "Broadway-City Hall Station Platform 2",
@@ -142966,7 +143056,7 @@
    },
    "id": "11280",
    "properties": {
-    "code": "",
+    "code": "61371",
     "desc": "",
     "id": "11280",
     "name": "King Edward Station Platform 1",
@@ -142984,7 +143074,7 @@
    },
    "id": "11281",
    "properties": {
-    "code": "",
+    "code": "61372",
     "desc": "",
     "id": "11281",
     "name": "King Edward Station Platform 2",
@@ -143002,7 +143092,7 @@
    },
    "id": "11282",
    "properties": {
-    "code": "",
+    "code": "61373",
     "desc": "",
     "id": "11282",
     "name": "Oakridge-41st Avenue Station Platform 1",
@@ -143020,7 +143110,7 @@
    },
    "id": "11283",
    "properties": {
-    "code": "",
+    "code": "61374",
     "desc": "",
     "id": "11283",
     "name": "Oakridge-41st Avenue Station Platform 2",
@@ -143038,7 +143128,7 @@
    },
    "id": "11284",
    "properties": {
-    "code": "",
+    "code": "61375",
     "desc": "",
     "id": "11284",
     "name": "Langara-49th Avenue Station Platform 1",
@@ -143056,7 +143146,7 @@
    },
    "id": "11285",
    "properties": {
-    "code": "",
+    "code": "61376",
     "desc": "",
     "id": "11285",
     "name": "Langara-49th Avenue Station Platform 2",
@@ -143074,7 +143164,7 @@
    },
    "id": "11286",
    "properties": {
-    "code": "",
+    "code": "61377",
     "desc": "",
     "id": "11286",
     "name": "Marine Drive Station Platform 1",
@@ -143092,7 +143182,7 @@
    },
    "id": "11287",
    "properties": {
-    "code": "",
+    "code": "61378",
     "desc": "",
     "id": "11287",
     "name": "Marine Drive Station Platform 2",
@@ -143110,7 +143200,7 @@
    },
    "id": "11288",
    "properties": {
-    "code": "",
+    "code": "61379",
     "desc": "",
     "id": "11288",
     "name": "Bridgeport Station Platform 1",
@@ -143128,7 +143218,7 @@
    },
    "id": "11289",
    "properties": {
-    "code": "",
+    "code": "61380",
     "desc": "",
     "id": "11289",
     "name": "Bridgeport Station Platform 2",
@@ -143146,7 +143236,7 @@
    },
    "id": "11290",
    "properties": {
-    "code": "",
+    "code": "61381",
     "desc": "",
     "id": "11290",
     "name": "Aberdeen Station Platform 1",
@@ -143164,7 +143254,7 @@
    },
    "id": "11291",
    "properties": {
-    "code": "",
+    "code": "61382",
     "desc": "",
     "id": "11291",
     "name": "Aberdeen Station Platform 2",
@@ -143182,7 +143272,7 @@
    },
    "id": "11292",
    "properties": {
-    "code": "",
+    "code": "61383",
     "desc": "",
     "id": "11292",
     "name": "Lansdowne Station Platform 1",
@@ -143200,7 +143290,7 @@
    },
    "id": "11293",
    "properties": {
-    "code": "",
+    "code": "61384",
     "desc": "",
     "id": "11293",
     "name": "Lansdowne Station Platform 2",
@@ -143218,7 +143308,7 @@
    },
    "id": "11294",
    "properties": {
-    "code": "",
+    "code": "61385",
     "desc": "",
     "id": "11294",
     "name": "Richmond-Brighouse Station Platform 1",
@@ -143236,7 +143326,7 @@
    },
    "id": "11295",
    "properties": {
-    "code": "",
+    "code": "61386",
     "desc": "",
     "id": "11295",
     "name": "Richmond-Brighouse Station Platform 2",
@@ -143254,7 +143344,7 @@
    },
    "id": "11296",
    "properties": {
-    "code": "",
+    "code": "61387",
     "desc": "",
     "id": "11296",
     "name": "Templeton Station Platform 1",
@@ -143272,7 +143362,7 @@
    },
    "id": "11297",
    "properties": {
-    "code": "",
+    "code": "61388",
     "desc": "",
     "id": "11297",
     "name": "Templeton Station Platform 2",
@@ -143290,7 +143380,7 @@
    },
    "id": "11298",
    "properties": {
-    "code": "",
+    "code": "61389",
     "desc": "",
     "id": "11298",
     "name": "Sea Island Centre Station Platform 1",
@@ -143308,7 +143398,7 @@
    },
    "id": "11299",
    "properties": {
-    "code": "",
+    "code": "61390",
     "desc": "",
     "id": "11299",
     "name": "Sea Island Centre Station Platform 2",
@@ -143326,7 +143416,7 @@
    },
    "id": "11300",
    "properties": {
-    "code": "",
+    "code": "61391",
     "desc": "",
     "id": "11300",
     "name": "YVR-Airport Station Platform 1",
@@ -143344,7 +143434,7 @@
    },
    "id": "11301",
    "properties": {
-    "code": "",
+    "code": "61392",
     "desc": "",
     "id": "11301",
     "name": "YVR-Airport Station Platform 2",
@@ -143362,7 +143452,7 @@
    },
    "id": "11302",
    "properties": {
-    "code": "",
+    "code": "61393",
     "desc": "",
     "id": "11302",
     "name": "Waterfront Station Canada Line",
@@ -143380,7 +143470,7 @@
    },
    "id": "11303",
    "properties": {
-    "code": "",
+    "code": "61394",
     "desc": "",
     "id": "11303",
     "name": "Waterfront Station Canada Line",
@@ -143888,6 +143978,42 @@
     "desc": "",
     "id": "11352",
     "name": "Broadway-City Hall Station @ Bay 2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.117554,
+     49.233446
+    ],
+    "type": "Point"
+   },
+   "id": "11353",
+   "properties": {
+    "code": "50136",
+    "desc": "",
+    "id": "11353",
+    "name": "Oakridge-41st Ave Station @ Bay 2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.117444,
+     49.233702
+    ],
+    "type": "Point"
+   },
+   "id": "11354",
+   "properties": {
+    "code": "61281",
+    "desc": "",
+    "id": "11354",
+    "name": "Oakridge-41st Ave Station  @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -153136,7 +153262,7 @@
    },
    "id": "12138",
    "properties": {
-    "code": "",
+    "code": "57893",
     "desc": "",
     "id": "12138",
     "name": "W Waterfront Rd @ SkyTrain",
@@ -154234,7 +154360,7 @@
    },
    "id": "12227",
    "properties": {
-    "code": "",
+    "code": "60084",
     "desc": "",
     "id": "12227",
     "name": "Lougheed Town Centre Station Platform 3",
@@ -154252,7 +154378,7 @@
    },
    "id": "12228",
    "properties": {
-    "code": "",
+    "code": "60085",
     "desc": "",
     "id": "12228",
     "name": "Burquitlam Station Platform 1",
@@ -154270,7 +154396,7 @@
    },
    "id": "12229",
    "properties": {
-    "code": "",
+    "code": "60086",
     "desc": "",
     "id": "12229",
     "name": "Burquitlam Station Platform 2",
@@ -154288,7 +154414,7 @@
    },
    "id": "12230",
    "properties": {
-    "code": "",
+    "code": "60087",
     "desc": "",
     "id": "12230",
     "name": "Moody Centre Station Platform 1",
@@ -154306,7 +154432,7 @@
    },
    "id": "12231",
    "properties": {
-    "code": "",
+    "code": "60088",
     "desc": "",
     "id": "12231",
     "name": "Moody Centre Station Platform 2",
@@ -154324,7 +154450,7 @@
    },
    "id": "12232",
    "properties": {
-    "code": "",
+    "code": "60089",
     "desc": "",
     "id": "12232",
     "name": "Inlet Centre Station Platform 1",
@@ -154342,7 +154468,7 @@
    },
    "id": "12233",
    "properties": {
-    "code": "",
+    "code": "60090",
     "desc": "",
     "id": "12233",
     "name": "Inlet Centre Station Platform 2",
@@ -154360,7 +154486,7 @@
    },
    "id": "12234",
    "properties": {
-    "code": "",
+    "code": "60091",
     "desc": "",
     "id": "12234",
     "name": "Coquitlam Central Station Platform 1",
@@ -154378,7 +154504,7 @@
    },
    "id": "12235",
    "properties": {
-    "code": "",
+    "code": "60092",
     "desc": "",
     "id": "12235",
     "name": "Coquitlam Central Station Platform 2",
@@ -154396,7 +154522,7 @@
    },
    "id": "12236",
    "properties": {
-    "code": "",
+    "code": "60093",
     "desc": "",
     "id": "12236",
     "name": "Lincoln Station Platform 1",
@@ -154414,7 +154540,7 @@
    },
    "id": "12237",
    "properties": {
-    "code": "",
+    "code": "60094",
     "desc": "",
     "id": "12237",
     "name": "Lincoln Station Platform 2",
@@ -154432,7 +154558,7 @@
    },
    "id": "12238",
    "properties": {
-    "code": "",
+    "code": "60095",
     "desc": "",
     "id": "12238",
     "name": "Lafarge Lake-Douglas Station Platform 1",
@@ -154450,7 +154576,7 @@
    },
    "id": "12239",
    "properties": {
-    "code": "",
+    "code": "60096",
     "desc": "",
     "id": "12239",
     "name": "Lafarge Lake-Douglas Station Platform 2",
@@ -155620,7 +155746,7 @@
    },
    "id": "12319",
    "properties": {
-    "code": "",
+    "code": "60105",
     "desc": "",
     "id": "12319",
     "name": "Moody Centre Station @ West Coast Express",
@@ -155638,7 +155764,7 @@
    },
    "id": "12320",
    "properties": {
-    "code": "",
+    "code": "60106",
     "desc": "",
     "id": "12320",
     "name": "Moody Centre Station @ West Coast Express",
@@ -155656,7 +155782,7 @@
    },
    "id": "12321",
    "properties": {
-    "code": "",
+    "code": "60107",
     "desc": "",
     "id": "12321",
     "name": "Coquitlam Central Station @ West Coast Express",
@@ -155674,7 +155800,7 @@
    },
    "id": "12322",
    "properties": {
-    "code": "",
+    "code": "60108",
     "desc": "",
     "id": "12322",
     "name": "Coquitlam Central Station @ West Coast Express",
@@ -158979,78 +159105,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115566,
-     49.233634
-    ],
-    "type": "Point"
-   },
-   "id": "12583",
-   "properties": {
-    "code": "50159",
-    "desc": "",
-    "id": "12583",
-    "name": "Oakridge-41st Ave Station @ Bay 5",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.115113,
-     49.233615
-    ],
-    "type": "Point"
-   },
-   "id": "12584",
-   "properties": {
-    "code": "60350",
-    "desc": "",
-    "id": "12584",
-    "name": "Oakridge-41st Ave Station @ Bay 4",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.115592,
-     49.2334
-    ],
-    "type": "Point"
-   },
-   "id": "12585",
-   "properties": {
-    "code": "50137",
-    "desc": "",
-    "id": "12585",
-    "name": "Oakridge-41st Ave Station @ Bay 2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.115117,
-     49.233392
-    ],
-    "type": "Point"
-   },
-   "id": "12586",
-   "properties": {
-    "code": "60349",
-    "desc": "",
-    "id": "12586",
-    "name": "Oakridge-41st Ave Station @ Bay 3",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.938112,
      49.254743
     ],
@@ -159728,6 +159782,24 @@
     "desc": "",
     "id": "12646",
     "name": "Westbound 64 Ave @ 165 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.799074,
+     49.275276
+    ],
+    "type": "Point"
+   },
+   "id": "12647",
+   "properties": {
+    "code": "60390",
+    "desc": "",
+    "id": "12647",
+    "name": "Coquitlam Central Station @ Bay 14",
     "zone": "BUS ZN"
    },
    "type": "Feature"

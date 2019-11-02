@@ -92,6 +92,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 131,50131,Southbound Mackenzie St @ W 39 Ave,,49.236401,-123.170382,BUS ZN,,0,
 132,50132,Eastbound W 41 Ave @ Mackenzie St,,49.234673,-123.169829,BUS ZN,,0,
 134,50134,Eastbound W 41 Ave @ Willow St,,49.233687,-123.123477,BUS ZN,,0,
+136,59305,Oakridge-41st Ave Station @ Bay 3,,49.233459,-123.11793,BUS ZN,,0,
 139,50139,Eastbound W 41 Ave @ Manitoba St,,49.233142,-123.107725,BUS ZN,,0,
 140,50140,Eastbound E 41 Ave @ Ontario St,,49.233063,-123.105218,BUS ZN,,0,
 141,50141,Westbound SE Marine Dr @ Main St,,49.211021,-123.101393,BUS ZN,,0,
@@ -106,6 +107,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 155,50155,Northbound Main St @ E 41 Ave,,49.233445,-123.101394,BUS ZN,,0,
 157,50157,Westbound W 41 Ave @ Ontario St,,49.233269,-123.106197,BUS ZN,,0,
 158,50158,Westbound W 41 Ave @ Columbia St,,49.233442,-123.11122,BUS ZN,,0,
+160,50160,Oakridge-41st Ave Station @ Bay 5,,49.233681,-123.116855,BUS ZN,,0,
 162,50162,Northbound Main St @ E 39 Ave,,49.235734,-123.101505,BUS ZN,,0,
 163,50163,Northbound Main St @ E 36 Ave,,49.23802,-123.101502,BUS ZN,,0,
 165,50165,Northbound Main St @ E 33 Ave,,49.241308,-123.101314,BUS ZN,,0,
@@ -1731,6 +1733,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2241,52219,Westbound SW Marine Dr @ Laurel St,,49.206184,-123.126813,BUS ZN,,0,
 2242,52220,Marpole Loop @ Bay 3,,49.203574,-123.134696,BUS ZN,,0,
 2252,52230,22nd St Station @ Bay 4,,49.199857,-122.949097,BUS ZN,,0,
+2253,52231,Eastbound 8th Ave @ 23 St,,49.200284,-122.952972,BUS ZN,,0,
 2254,52232,Eastbound 8th Ave @ 22 St,,49.200902,-122.951796,BUS ZN,,0,
 2255,52233,Eastbound 8th Ave @ 21 St,,49.201938,-122.949878,BUS ZN,,0,
 2256,52234,Eastbound 8th Ave @ 20 St,,49.203013,-122.947894,BUS ZN,,0,
@@ -2456,7 +2459,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3198,53164,Eastbound Guildford Way @ Johnson St,,49.285094,-122.80093,BUS ZN,,0,
 3199,53165,Eastbound Guildford Way @ Pacific St,,49.285107,-122.797418,BUS ZN,,0,
 3202,53168,Southbound Pinetree Way @ Glen Dr,,49.282274,-122.793385,BUS ZN,,0,
-3204,53170,Coquitlam Central Station @ Bay 7,,49.274922,-122.799039,BUS ZN,,0,
 3206,53172,Westbound Barnet Hwy @ Falcon Dr,,49.278022,-122.819531,BUS ZN,,0,
 3207,53173,Westbound Barnet Hwy @ Ioco Rd,,49.277716,-122.825618,BUS ZN,,0,
 3214,53180,Westbound St. Johns St @ Clearview Dr,,49.276634,-122.831542,BUS ZN,,0,
@@ -4742,6 +4744,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6060,56002,Southbound 150 St @ 104 Ave,,49.190964,-122.806568,BUS ZN,,0,
 6062,56004,Southbound 150 St @ 101 Ave,,49.185885,-122.80654,BUS ZN,,0,
 6063,56005,Westbound 100 Ave @ 150 St,,49.184261,-122.807046,BUS ZN,,0,
+6064,56006,Southbound 148 St @ 100 Ave,,49.183668,-122.812191,BUS ZN,,0,
 6065,56007,Southbound 148 St @ 98 Ave,,49.180174,-122.81225,BUS ZN,,0,
 6066,56008,Southbound 148 St @ 96 Ave,,49.176413,-122.812367,BUS ZN,,0,
 6067,56009,Southbound 148 St @ 94 Ave,,49.173155,-122.812362,BUS ZN,,0,
@@ -6278,66 +6281,66 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 8008,57933,Westbound Tamarack Lane @ Lougheed Hwy,,49.201243,-122.577748,BUS ZN,,0,
 8013,57938,Eastbound University Blvd @ Acadia Rd,,49.266503,-123.237822,BUS ZN,,0,
 8018,57943,Southbound Jones Ave @ W 21 St,,49.328504,-123.081606,BUS ZN,,0,
-8019,,Waterfront Station Eastbound,,49.286053,-123.11158,WCE1Z,,0,12034
-8020,,Moody Centre Station Eastbound,,49.278067,-122.846248,WCE2Z,,0,99928
-8021,,Coquitlam Central Station Eastbound,,49.273909,-122.800056,WCE2Z,,0,99930
-8022,,Port Coquitlam Station Eastbound,,49.261481,-122.77402,WCE2Z,,0,99953
-8023,,Pitt Meadows Station Eastbound,,49.225772,-122.688381,WCE3Z,,0,99954
-8024,,Maple Meadows Station Eastbound,,49.216465,-122.666097,WCE3Z,,0,99955
-8025,,Port Haney Station Eastbound,,49.212168,-122.605242,WCE3Z,,0,99956
-8026,,Mission City Station Unload Only,,49.133594,-122.30486,WCE4Z,,0,99957
-8027,,Mission City Station Westbound,,49.133785,-122.304872,WCE4Z,,0,99957
-8028,,Port Haney Station Westbound,,49.212224,-122.605216,WCE3Z,,0,99956
-8029,,Maple Meadows Station Westbound,,49.216544,-122.666265,WCE3Z,,0,99955
-8030,,Pitt Meadows Station Westbound,,49.225811,-122.688341,WCE3Z,,0,99954
-8031,,Port Coquitlam Station Westbound,,49.26151,-122.773934,WCE2Z,,0,99953
-8032,,Coquitlam Central Station Westbound,,49.273951,-122.8,WCE2Z,,0,99930
-8033,,Moody Centre Station Westbound,,49.278063,-122.84631,WCE2Z,,0,99928
-8034,,Waterfront Station Unload Only,,49.286116,-123.111512,WCE1Z,,0,12034
-8035,,Waterfront Station Northbound,,49.286063,-123.111306,ZN 1,,0,12034
-8036,,Lonsdale Quay Northbound,,49.310116,-123.08323,ZN 2,,0,99958
-8037,,Lonsdale Quay Southbound,,49.310161,-123.083358,ZN 2,,0,99958
-8038,,Waterfront Station Southbound,,49.286137,-123.111403,ZN 1,,0,12034
-8039,,Waterfront Station Platform 2,,49.285907,-123.111578,ZN 1,,0,12034
-8040,,Burrard Station Platform 2,,49.285634,-123.119515,ZN 1,,0,99933
-8041,,Granville Station Platform 2,,49.283136,-123.115744,ZN 1,,0,99934
-8042,,Stadium-Chinatown Station Platform 2,,49.279178,-123.109213,ZN 1,,0,99935
-8043,,Main Street-Science World Station Platform 2,,49.273099,-123.100399,ZN 1,,0,99936
-8044,,Commercial-Broadway Station Platform 4,,49.262317,-123.069179,ZN 1,,0,99917
-8045,,Nanaimo Station Platform 2,,49.248283,-123.055904,ZN 1,,0,99937
-8046,,29th Avenue Station Platform 2,,49.244236,-123.046136,ZN 1,,0,99938
-8047,,Joyce-Collingwood Station Platform 2,,49.238353,-123.031827,ZN 1,,0,99939
-8048,,Patterson Station Platform 2,,49.229712,-123.012678,ZN 2,,0,99940
-8049,,Metrotown Station Platform 2,,49.225781,-123.00394,ZN 2,,0,99941
-8050,,Royal Oak Station Platform 2,,49.220013,-122.988475,ZN 2,,0,99942
-8051,,Edmonds Station Platform 2,,49.211909,-122.959156,ZN 2,,0,99943
-8052,,22nd Street Station Platform 2,,49.200021,-122.94894,ZN 2,,0,99944
-8053,,New Westminster Station Platform 2,,49.201406,-122.912573,ZN 2,,0,99945
-8054,,Columbia Station Platform 2,,49.204778,-122.906118,ZN 2,,0,99946
-8055,,Scott Road Station Platform 2,,49.204383,-122.874171,ZN 3,,0,99949
-8056,,Gateway Station Platform 2,,49.198946,-122.850673,ZN 3,,0,99950
-8057,,Surrey Central Station Platform 2,,49.189549,-122.847914,ZN 3,,0,99951
-8058,,King George Station Platform 2,,49.182755,-122.844744,ZN 3,,0,99952
-8059,,King George Station Platform 1,,49.182812,-122.844691,ZN 3,,0,99952
-8060,,Surrey Central Station Platform 1,,49.189561,-122.847796,ZN 3,,0,99951
-8061,,Gateway Station Platform 1,,49.198955,-122.850542,ZN 3,,0,99950
-8062,,Scott Road Station Platform 1,,49.204448,-122.874185,ZN 3,,0,99949
-8063,,Columbia Station Platform 1,,49.204859,-122.906187,ZN 2,,0,99946
-8064,,New Westminster Station Platform 1,,49.201459,-122.912629,ZN 2,,0,99945
-8065,,22nd Street Station Platform 1,,49.200083,-122.948971,ZN 2,,0,99944
-8066,,Edmonds Station Platform 1,,49.211945,-122.95904,ZN 2,,0,99943
-8067,,Royal Oak Station Platform 1,,49.22011,-122.98844,ZN 2,,0,99942
-8068,,Metrotown Station Platform 1,,49.225852,-123.003876,ZN 2,,0,99941
-8069,,Patterson Station Platform 1,,49.229798,-123.012613,ZN 2,,0,99940
-8070,,Joyce-Collingwood Station Platform 1,,49.23843,-123.031759,ZN 1,,0,99939
-8071,,29th Avenue Station Platform 1,,49.24431,-123.04608,ZN 1,,0,99938
-8072,,Nanaimo Station Platform 1,,49.248334,-123.055868,ZN 1,,0,99937
-8073,,Commercial-Broadway Station Platform 3,,49.262311,-123.069077,ZN 1,,0,99917
-8074,,Main Street-Science World Station Platform 1,,49.273172,-123.10035,ZN 1,,0,99936
-8075,,Stadium-Chinatown Station Platform 1,,49.279271,-123.109109,ZN 1,,0,99935
-8076,,Granville Station Platform 1,,49.283193,-123.115674,ZN 1,,0,99934
-8077,,Burrard Station Platform 1,,49.28558,-123.119598,ZN 1,,0,99933
-8078,,Waterfront Station Platform 1,,49.285962,-123.111516,ZN 1,,0,12034
+8019,57944,Waterfront Station Eastbound,,49.286053,-123.11158,WCE1Z,,0,12034
+8020,57945,Moody Centre Station Eastbound,,49.278067,-122.846248,WCE2Z,,0,99928
+8021,57946,Coquitlam Central Station Eastbound,,49.273909,-122.800056,WCE2Z,,0,99930
+8022,57947,Port Coquitlam Station Eastbound,,49.261481,-122.77402,WCE2Z,,0,99953
+8023,57948,Pitt Meadows Station Eastbound,,49.225772,-122.688381,WCE3Z,,0,99954
+8024,57949,Maple Meadows Station Eastbound,,49.216465,-122.666097,WCE3Z,,0,99955
+8025,57950,Port Haney Station Eastbound,,49.212168,-122.605242,WCE3Z,,0,99956
+8026,57951,Mission City Station Unload Only,,49.133594,-122.30486,WCE4Z,,0,99957
+8027,57952,Mission City Station Westbound,,49.133785,-122.304872,WCE4Z,,0,99957
+8028,57953,Port Haney Station Westbound,,49.212224,-122.605216,WCE3Z,,0,99956
+8029,57954,Maple Meadows Station Westbound,,49.216544,-122.666265,WCE3Z,,0,99955
+8030,57955,Pitt Meadows Station Westbound,,49.225811,-122.688341,WCE3Z,,0,99954
+8031,57956,Port Coquitlam Station Westbound,,49.26151,-122.773934,WCE2Z,,0,99953
+8032,57957,Coquitlam Central Station Westbound,,49.273951,-122.8,WCE2Z,,0,99930
+8033,57958,Moody Centre Station Westbound,,49.278063,-122.84631,WCE2Z,,0,99928
+8034,57959,Waterfront Station Unload Only,,49.286116,-123.111512,WCE1Z,,0,12034
+8035,57960,Waterfront Station Northbound,,49.286063,-123.111306,ZN 1,,0,12034
+8036,57961,Lonsdale Quay Northbound,,49.310116,-123.08323,ZN 2,,0,99958
+8037,57962,Lonsdale Quay Southbound,,49.310161,-123.083358,ZN 2,,0,99958
+8038,57963,Waterfront Station Southbound,,49.286137,-123.111403,ZN 1,,0,12034
+8039,57964,Waterfront Station Platform 2,,49.285907,-123.111578,ZN 1,,0,12034
+8040,60826,Burrard Station Platform 2,,49.285634,-123.119515,ZN 1,,0,99933
+8041,57966,Granville Station Platform 2,,49.283136,-123.115744,ZN 1,,0,99934
+8042,57967,Stadium-Chinatown Station Platform 2,,49.279178,-123.109213,ZN 1,,0,99935
+8043,57968,Main Street-Science World Station Platform 2,,49.273099,-123.100399,ZN 1,,0,99936
+8044,57969,Commercial-Broadway Station Platform 4,,49.262317,-123.069179,ZN 1,,0,99917
+8045,57970,Nanaimo Station Platform 2,,49.248283,-123.055904,ZN 1,,0,99937
+8046,57971,29th Avenue Station Platform 2,,49.244236,-123.046136,ZN 1,,0,99938
+8047,57972,Joyce-Collingwood Station Platform 2,,49.238353,-123.031827,ZN 1,,0,99939
+8048,57973,Patterson Station Platform 2,,49.229712,-123.012678,ZN 2,,0,99940
+8049,57974,Metrotown Station Platform 2,,49.225781,-123.00394,ZN 2,,0,99941
+8050,57975,Royal Oak Station Platform 2,,49.220013,-122.988475,ZN 2,,0,99942
+8051,57976,Edmonds Station Platform 2,,49.211909,-122.959156,ZN 2,,0,99943
+8052,57977,22nd Street Station Platform 2,,49.200021,-122.94894,ZN 2,,0,99944
+8053,57978,New Westminster Station Platform 2,,49.201406,-122.912573,ZN 2,,0,99945
+8054,57979,Columbia Station Platform 2,,49.204778,-122.906118,ZN 2,,0,99946
+8055,57980,Scott Road Station Platform 2,,49.204383,-122.874171,ZN 3,,0,99949
+8056,57981,Gateway Station Platform 2,,49.198946,-122.850673,ZN 3,,0,99950
+8057,57982,Surrey Central Station Platform 2,,49.189549,-122.847914,ZN 3,,0,99951
+8058,57983,King George Station Platform 2,,49.182755,-122.844744,ZN 3,,0,99952
+8059,57984,King George Station Platform 1,,49.182812,-122.844691,ZN 3,,0,99952
+8060,57985,Surrey Central Station Platform 1,,49.189561,-122.847796,ZN 3,,0,99951
+8061,57986,Gateway Station Platform 1,,49.198955,-122.850542,ZN 3,,0,99950
+8062,57987,Scott Road Station Platform 1,,49.204448,-122.874185,ZN 3,,0,99949
+8063,57988,Columbia Station Platform 1,,49.204859,-122.906187,ZN 2,,0,99946
+8064,57989,New Westminster Station Platform 1,,49.201459,-122.912629,ZN 2,,0,99945
+8065,57990,22nd Street Station Platform 1,,49.200083,-122.948971,ZN 2,,0,99944
+8066,57991,Edmonds Station Platform 1,,49.211945,-122.95904,ZN 2,,0,99943
+8067,57992,Royal Oak Station Platform 1,,49.22011,-122.98844,ZN 2,,0,99942
+8068,57993,Metrotown Station Platform 1,,49.225852,-123.003876,ZN 2,,0,99941
+8069,57994,Patterson Station Platform 1,,49.229798,-123.012613,ZN 2,,0,99940
+8070,57995,Joyce-Collingwood Station Platform 1,,49.23843,-123.031759,ZN 1,,0,99939
+8071,57996,29th Avenue Station Platform 1,,49.24431,-123.04608,ZN 1,,0,99938
+8072,57997,Nanaimo Station Platform 1,,49.248334,-123.055868,ZN 1,,0,99937
+8073,57998,Commercial-Broadway Station Platform 3,,49.262311,-123.069077,ZN 1,,0,99917
+8074,57999,Main Street-Science World Station Platform 1,,49.273172,-123.10035,ZN 1,,0,99936
+8075,58000,Stadium-Chinatown Station Platform 1,,49.279271,-123.109109,ZN 1,,0,99935
+8076,58001,Granville Station Platform 1,,49.283193,-123.115674,ZN 1,,0,99934
+8077,58002,Burrard Station Platform 1,,49.28558,-123.119598,ZN 1,,0,99933
+8078,58003,Waterfront Station Platform 1,,49.285962,-123.111516,ZN 1,,0,12034
 8086,58010,Westbound @ Bowen Bay (Flag),,49.361102,-123.418655,BUS ZN,,0,
 8087,58011,Tunstall Blvd @ Whitesails Rd  (Flag),,49.355966,-123.405411,BUS ZN,,0,
 8092,58016,Eastbound @ Bowen Bay (Flag),,49.360951,-123.418062,BUS ZN,,0,
@@ -6476,10 +6479,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 8573,58079,Braid Station @ Bay 1,,49.232855,-122.883137,BUS ZN,,0,
 8574,58085,Braid Station @ Bay 5,,49.233145,-122.882556,BUS ZN,,0,
 8575,58086,Braid Station @ Bay 6,,49.232968,-122.882501,BUS ZN,,0,
-8577,,Braid Station Platform 1,,49.233236,-122.882831,ZN 2,,0,99948
-8578,,Braid Station Platform 2,,49.233236,-122.882718,ZN 2,,0,99948
-8579,,Sapperton Station Platform 1,,49.2247,-122.889424,ZN 2,,0,99947
-8580,,Sapperton Station Platform 2,,49.224621,-122.889311,ZN 2,,0,99947
+8577,60802,Braid Station Platform 1,,49.233236,-122.882831,ZN 2,,0,99948
+8578,60803,Braid Station Platform 2,,49.233236,-122.882718,ZN 2,,0,99948
+8579,60800,Sapperton Station Platform 1,,49.2247,-122.889424,ZN 2,,0,99947
+8580,60801,Sapperton Station Platform 2,,49.224621,-122.889311,ZN 2,,0,99947
 8582,58766,Eastbound Grafton Rd @ Artisan Square (Flag),,49.380461,-123.348842,BUS ZN,,0,
 8584,58117,Eastbound Kingsway @ Griffiths Dr,,49.218364,-122.959902,BUS ZN,,0,
 8588,56566,Southbound No. 3 Rd @ Leslie Rd,,49.179084,-123.13677,BUS ZN,,0,
@@ -6489,6 +6492,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 8600,58081,Northbound Holly Dr @ Sorrel St,,49.247693,-122.804601,BUS ZN,,0,
 8602,58080,Southbound Holly Dr @ Sorrel St,,49.24664,-122.805242,BUS ZN,,0,
 8604,58198,Aberdeen Station @ Bay 1,,49.183912,-123.136477,BUS ZN,,0,
+8605,58111,Westbound Edgemont Blvd @ Ridgewood Dr,,49.338965,-123.103787,BUS ZN,,0,
 8612,58160,Northbound Smith Ave @ Sunset St,,49.250063,-123.019709,BUS ZN,,0,
 8613,58161,Southbound Lillooet Rd @ 1000 Block,,49.31572,-123.024145,BUS ZN,,0,
 8615,58181,Southbound Brooke Rd @ River Rd,,49.164897,-122.925992,BUS ZN,,0,
@@ -6562,24 +6566,24 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 8742,58392,Eastbound Henning Dr @ Boundary Rd,,49.263596,-123.022725,BUS ZN,,0,
 8743,58386,Westbound Lougheed Hwy @ Gilmore Ave,,49.266208,-123.014957,BUS ZN,,0,
 8745,58390,Westbound Henning Dr @ 3800 Block,,49.264012,-123.019214,BUS ZN,,0,
-8746,,Lougheed Town Centre Station Platform 2,,49.248549,-122.896879,ZN 2,,0,99926
-8747,,Production Way-University Station Platform 1,,49.253465,-122.918191,ZN 2,,0,99925
-8748,,Sperling-Burnaby Lake Station Platform 1,,49.259213,-122.963982,ZN 2,,0,99923
-8749,,Holdom Station Platform 1,,49.264753,-122.982149,ZN 2,,0,99922
-8750,,Brentwood Town Centre Station Platform 1,,49.266431,-123.001813,ZN 2,,0,99921
-8751,,Gilmore Station Platform 1,,49.265002,-123.013571,ZN 2,,0,99920
-8752,,Rupert Station Platform 1,,49.260815,-123.032869,ZN 1,,0,99919
-8753,,Renfrew Station Platform 1,,49.258942,-123.045374,ZN 1,,0,99918
-8754,,Commercial-Broadway Station Platform 1,,49.26298,-123.068426,ZN 1,,0,99917
-8755,,Lougheed Town Centre Station Platform 1,,49.248484,-122.896952,ZN 2,,0,99926
-8756,,Production Way-University Station Platform 2,,49.253364,-122.918218,ZN 2,,0,99925
-8757,,Sperling-Burnaby Lake Station Platform 2,,49.259154,-122.963991,ZN 2,,0,99923
-8758,,Holdom Station Platform 2,,49.264705,-122.982158,ZN 2,,0,99922
-8759,,Brentwood Town Centre Station Platform 2,,49.266352,-123.001813,ZN 2,,0,99921
-8760,,Gilmore Station Platform 2,,49.264931,-123.013498,ZN 2,,0,99920
-8761,,Rupert Station Platform 2,,49.260733,-123.032821,ZN 1,,0,99919
-8762,,Renfrew Station Platform 2,,49.258877,-123.045348,ZN 1,,0,99918
-8763,,Commercial-Broadway Station Platform 2,,49.262912,-123.068491,ZN 1,,0,99917
+8746,60804,Lougheed Town Centre Station Platform 2,,49.248549,-122.896879,ZN 2,,0,99926
+8747,60806,Production Way-University Station Platform 1,,49.253465,-122.918191,ZN 2,,0,99925
+8748,60810,Sperling-Burnaby Lake Station Platform 1,,49.259213,-122.963982,ZN 2,,0,99923
+8749,60812,Holdom Station Platform 1,,49.264753,-122.982149,ZN 2,,0,99922
+8750,60814,Brentwood Town Centre Station Platform 1,,49.266431,-123.001813,ZN 2,,0,99921
+8751,60816,Gilmore Station Platform 1,,49.265002,-123.013571,ZN 2,,0,99920
+8752,60818,Rupert Station Platform 1,,49.260815,-123.032869,ZN 1,,0,99919
+8753,60820,Renfrew Station Platform 1,,49.258942,-123.045374,ZN 1,,0,99918
+8754,60822,Commercial-Broadway Station Platform 1,,49.26298,-123.068426,ZN 1,,0,99917
+8755,60805,Lougheed Town Centre Station Platform 1,,49.248484,-122.896952,ZN 2,,0,99926
+8756,60807,Production Way-University Station Platform 2,,49.253364,-122.918218,ZN 2,,0,99925
+8757,60811,Sperling-Burnaby Lake Station Platform 2,,49.259154,-122.963991,ZN 2,,0,99923
+8758,60813,Holdom Station Platform 2,,49.264705,-122.982158,ZN 2,,0,99922
+8759,60815,Brentwood Town Centre Station Platform 2,,49.266352,-123.001813,ZN 2,,0,99921
+8760,60817,Gilmore Station Platform 2,,49.264931,-123.013498,ZN 2,,0,99920
+8761,60819,Rupert Station Platform 2,,49.260733,-123.032821,ZN 1,,0,99919
+8762,60821,Renfrew Station Platform 2,,49.258877,-123.045348,ZN 1,,0,99918
+8763,60823,Commercial-Broadway Station Platform 2,,49.262912,-123.068491,ZN 1,,0,99917
 8797,58417,Eastbound Winslow Ave @ Poirier St,,49.253837,-122.848304,BUS ZN,,0,
 8800,56564,Aberdeen Station @ Bay 2,,49.183998,-123.136731,BUS ZN,,0,
 8802,58393,Westbound Hastings St @ Duthie Ave,,49.280475,-122.954024,BUS ZN,,0,
@@ -6723,7 +6727,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 9047,58450,Eastbound Derwent Way @ Audley Blvd,,49.175883,-122.932394,BUS ZN,,0,
 9050,58498,Westbound Marine Dr @ Kerfoot Rd,,49.026328,-122.825969,BUS ZN,,0,
 9051,58499,Eastbound E Broadway @ Clark Dr,,49.262263,-123.076191,BUS ZN,,0,
-9052,58500,Westbound E Broadway @ Main St,,49.26304,-123.10218,BUS ZN,,0,
+9052,58500,Westbound E Broadway @ Main St,,49.263049,-123.102662,BUS ZN,,0,
 9054,58502,Westbound W Broadway @ Willow St,,49.263437,-123.12286,BUS ZN,,0,
 9055,58503,Eastbound W Broadway @ Granville St,,49.263484,-123.137377,BUS ZN,,0,
 9056,54448,Westbound W Georgia St @ Broughton St,,49.289356,-123.128526,BUS ZN,,0,
@@ -6977,8 +6981,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 9502,50090,Westbound W 41 Ave @ Willow St,,49.233984,-123.126031,BUS ZN,,0,
 9505,58346,Southbound Gilmore Ave @ Henning Dr,,49.264143,-123.014452,BUS ZN,,0,
 9508,58394,Northbound Gaglardi Way @ Broadway,,49.26024,-122.90798,BUS ZN,,0,
-9510,,Lake City Way Station Platform 1,,49.254654,-122.939183,ZN 2,,0,99924
-9511,,Lake City Way Station Platform 2,,49.254609,-122.939183,ZN 2,,0,99924
+9510,60808,Lake City Way Station Platform 1,,49.254654,-122.939183,ZN 2,,0,99924
+9511,60809,Lake City Way Station Platform 2,,49.254609,-122.939183,ZN 2,,0,99924
 9513,59028,Northbound Golden Dr @ Rocket Way,,49.230983,-122.824438,BUS ZN,,0,
 9514,59032,Eastbound Hartley Ave @ Brigantine Dr,,49.226943,-122.848435,BUS ZN,,0,
 9515,59018,Northbound Brigantine Dr @ Hartley Ave,,49.227417,-122.848828,BUS ZN,,0,
@@ -7091,7 +7095,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 9712,59220,Northbound 222 St @ Lougheed Hwy,,49.217493,-122.606901,BUS ZN,,0,
 9713,59223,Northbound 222 St @ 119 Ave,,49.218793,-122.606907,BUS ZN,,0,
 9714,58666,Southbound Pinetree Way @ Guildford Way,,49.284128,-122.793018,BUS ZN,,0,
-9720,59237,Guildford Exchange @ Bay 4,,49.193277,-122.802706,BUS ZN,,0,
+9720,59237,Guildford Exchange @ Bay 4,,49.193278,-122.80321,BUS ZN,,0,
 9721,59242,Southbound 136 St @ 112 Ave,,49.205751,-122.845372,BUS ZN,,0,
 9722,59241,Southbound 136 St @ 111 Ave,,49.204041,-122.845341,BUS ZN,,0,
 9723,59239,Southbound Hilton Rd @ Bentley Rd,,49.201196,-122.844983,BUS ZN,,0,
@@ -7368,8 +7372,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 10365,59766,Eastbound Great Northern Way @ Foley St,,49.266021,-123.086122,BUS ZN,,0,
 10366,59646,Northbound West St @ Maple Meadows Station,,49.216888,-122.664763,BUS ZN,,0,
 10371,59783,Northbound Boundary Rd @ E Kent Ave North,,49.203898,-123.023178,BUS ZN,,0,
-10374,,VCC-Clark Station Platform 2,,49.265799,-123.079054,ZN 1,,0,99916
-10375,,VCC-Clark Station Platform 1,,49.265873,-123.079049,ZN 1,,0,99916
+10374,60825,VCC-Clark Station Platform 2,,49.265799,-123.079054,ZN 1,,0,99916
+10375,60824,VCC-Clark Station Platform 1,,49.265873,-123.079049,ZN 1,,0,99916
 10376,59780,Southbound Patterson Ave @ Clinton St,,49.212629,-123.012493,BUS ZN,,0,
 10377,59649,Westbound Hammond Rd @ 20200 Block,,49.213596,-122.660143,BUS ZN,,0,
 10378,59775,Southbound 228 St @ Dewdney Trunk Rd,,49.220113,-122.590426,BUS ZN,,0,
@@ -7896,6 +7900,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 11225,61277,Westbound Admiral Way @ 5300 Block,,49.112018,-123.076321,BUS ZN,,0,
 11226,61280,Southbound Ferry Rd @ Windjammer Rd,,49.106991,-123.079004,BUS ZN,,0,
 11227,50483,Northbound Cambie St @ W 7th Ave,,49.264648,-123.114622,BUS ZN,,0,
+11229,61306,Coquitlam Central Station @ Bay 13,,49.274886,-122.79928,BUS ZN,,0,
 11230,61211,Westbound 96 Ave @ 201 St,,49.177082,-122.66547,BUS ZN,,0,
 11232,61310,Southbound 196 St @ Fraser Hwy,,49.113418,-122.680068,BUS ZN,,0,
 11233,61316,Northbound Hwy 99 Onramp @ Seascape Dr,,49.398198,-123.247558,BUS ZN,,0,
@@ -7933,38 +7938,38 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 11268,61330,Bridgeport Station @ Bay 11,,49.195565,-123.126212,BUS ZN,,0,
 11269,61331,Bridgeport Station @ Bay 12,,49.195652,-123.125982,BUS ZN,,0,
 11270,61321,Bridgeport Station @ Bay 1,,49.195515,-123.125911,BUS ZN,,0,
-11272,,Vancouver City Centre Station Platform 1,,49.282462,-123.118283,ZN 1,,0,99915
-11273,,Vancouver City Centre Station Platform 2,,49.282352,-123.118143,ZN 1,,0,99915
-11274,,Yaletown-Roundhouse Station Platform 1,,49.274467,-123.122124,ZN 1,,0,99914
-11275,,Yaletown-Roundhouse Station Platform 2,,49.274508,-123.122015,ZN 1,,0,99914
-11276,,Olympic Village Station Platform 1,,49.266616,-123.115218,ZN 1,,0,99913
-11277,,Olympic Village Station Platform 2,,49.266557,-123.115527,ZN 1,,0,99913
-11278,,Broadway-City Hall Station Platform 1,,49.262684,-123.114856,ZN 1,,0,99912
-11279,,Broadway-City Hall Station Platform 2,,49.262725,-123.114753,ZN 1,,0,99912
-11280,,King Edward Station Platform 1,,49.249186,-123.115716,ZN 1,,0,99911
-11281,,King Edward Station Platform 2,,49.249172,-123.115228,ZN 1,,0,99911
-11282,,Oakridge-41st Avenue Station Platform 1,,49.233747,-123.116422,ZN 1,,0,99910
-11283,,Oakridge-41st Avenue Station Platform 2,,49.233731,-123.116176,ZN 1,,0,99910
-11284,,Langara-49th Avenue Station Platform 1,,49.225743,-123.116752,ZN 1,,0,99909
-11285,,Langara-49th Avenue Station Platform 2,,49.225709,-123.116289,ZN 1,,0,99909
-11286,,Marine Drive Station Platform 1,,49.209661,-123.117078,ZN 1,,0,99908
-11287,,Marine Drive Station Platform 2,,49.209663,-123.116921,ZN 1,,0,99908
-11288,,Bridgeport Station Platform 1,,49.195558,-123.126076,ZN 2,,0,99907
-11289,,Bridgeport Station Platform 2,,49.195514,-123.126006,ZN 2,,0,99907
-11290,,Aberdeen Station Platform 1,,49.184,-123.136398,ZN 2,,0,99906
-11291,,Aberdeen Station Platform 2,,49.183991,-123.13622,ZN 2,,0,99906
-11292,,Lansdowne Station Platform 1,,49.173616,-123.136498,ZN 2,,0,99905
-11293,,Lansdowne Station Platform 2,,49.173623,-123.13645,ZN 2,,0,99905
-11294,,Richmond-Brighouse Station Platform 1,,49.167942,-123.136396,ZN 2,,0,99904
-11295,,Richmond-Brighouse Station Platform 2,,49.167932,-123.13631,ZN 2,,0,99904
-11296,,Templeton Station Platform 1,,49.196715,-123.146335,ZN 2,,0,99903
-11297,,Templeton Station Platform 2,,49.196655,-123.146307,CL_AD,,0,99903
-11298,,Sea Island Centre Station Platform 1,,49.193053,-123.157851,ZN 2,,0,99902
-11299,,Sea Island Centre Station Platform 2,,49.19293,-123.157884,CL_AD,,0,99902
-11300,,YVR-Airport Station Platform 1,,49.194189,-123.178251,ZN 2,,0,99901
-11301,,YVR-Airport Station Platform 2,,49.194152,-123.178254,CL_AD,,0,99901
-11302,,Waterfront Station Canada Line,,49.285139,-123.114206,ZN 1,,0,12034
-11303,,Waterfront Station Canada Line,,49.285093,-123.114139,ZN 1,,0,12034
+11272,61363,Vancouver City Centre Station Platform 1,,49.282462,-123.118283,ZN 1,,0,99915
+11273,61364,Vancouver City Centre Station Platform 2,,49.282352,-123.118143,ZN 1,,0,99915
+11274,61365,Yaletown-Roundhouse Station Platform 1,,49.274467,-123.122124,ZN 1,,0,99914
+11275,61366,Yaletown-Roundhouse Station Platform 2,,49.274508,-123.122015,ZN 1,,0,99914
+11276,61367,Olympic Village Station Platform 1,,49.266616,-123.115218,ZN 1,,0,99913
+11277,61368,Olympic Village Station Platform 2,,49.266557,-123.115527,ZN 1,,0,99913
+11278,61369,Broadway-City Hall Station Platform 1,,49.262684,-123.114856,ZN 1,,0,99912
+11279,61370,Broadway-City Hall Station Platform 2,,49.262725,-123.114753,ZN 1,,0,99912
+11280,61371,King Edward Station Platform 1,,49.249186,-123.115716,ZN 1,,0,99911
+11281,61372,King Edward Station Platform 2,,49.249172,-123.115228,ZN 1,,0,99911
+11282,61373,Oakridge-41st Avenue Station Platform 1,,49.233747,-123.116422,ZN 1,,0,99910
+11283,61374,Oakridge-41st Avenue Station Platform 2,,49.233731,-123.116176,ZN 1,,0,99910
+11284,61375,Langara-49th Avenue Station Platform 1,,49.225743,-123.116752,ZN 1,,0,99909
+11285,61376,Langara-49th Avenue Station Platform 2,,49.225709,-123.116289,ZN 1,,0,99909
+11286,61377,Marine Drive Station Platform 1,,49.209661,-123.117078,ZN 1,,0,99908
+11287,61378,Marine Drive Station Platform 2,,49.209663,-123.116921,ZN 1,,0,99908
+11288,61379,Bridgeport Station Platform 1,,49.195558,-123.126076,ZN 2,,0,99907
+11289,61380,Bridgeport Station Platform 2,,49.195514,-123.126006,ZN 2,,0,99907
+11290,61381,Aberdeen Station Platform 1,,49.184,-123.136398,ZN 2,,0,99906
+11291,61382,Aberdeen Station Platform 2,,49.183991,-123.13622,ZN 2,,0,99906
+11292,61383,Lansdowne Station Platform 1,,49.173616,-123.136498,ZN 2,,0,99905
+11293,61384,Lansdowne Station Platform 2,,49.173623,-123.13645,ZN 2,,0,99905
+11294,61385,Richmond-Brighouse Station Platform 1,,49.167942,-123.136396,ZN 2,,0,99904
+11295,61386,Richmond-Brighouse Station Platform 2,,49.167932,-123.13631,ZN 2,,0,99904
+11296,61387,Templeton Station Platform 1,,49.196715,-123.146335,ZN 2,,0,99903
+11297,61388,Templeton Station Platform 2,,49.196655,-123.146307,CL_AD,,0,99903
+11298,61389,Sea Island Centre Station Platform 1,,49.193053,-123.157851,ZN 2,,0,99902
+11299,61390,Sea Island Centre Station Platform 2,,49.19293,-123.157884,CL_AD,,0,99902
+11300,61391,YVR-Airport Station Platform 1,,49.194189,-123.178251,ZN 2,,0,99901
+11301,61392,YVR-Airport Station Platform 2,,49.194152,-123.178254,CL_AD,,0,99901
+11302,61393,Waterfront Station Canada Line,,49.285139,-123.114206,ZN 1,,0,12034
+11303,61394,Waterfront Station Canada Line,,49.285093,-123.114139,ZN 1,,0,12034
 11304,56558,Burrard Station @ Bay 6,,49.28577,-123.118874,BUS ZN,,0,
 11305,61396,Southbound 232 St @ Fern Cres,,49.24101,-122.579718,BUS ZN,,0,
 11306,61353,Northbound 224 St @ 12200 Block,,49.225496,-122.601234,BUS ZN,,0,
@@ -7993,6 +7998,8 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 11349,50999,Langara-49th Station @ Bay 1,,49.226473,-123.116241,BUS ZN,,0,
 11350,50981,Oakridge-41st Ave Station @ Bay 1,,49.233092,-123.116464,BUS ZN,,0,
 11352,61027,Broadway-City Hall Station @ Bay 2,,49.262759,-123.114655,BUS ZN,,0,
+11353,50136,Oakridge-41st Ave Station @ Bay 2,,49.233446,-123.117554,BUS ZN,,0,
+11354,61281,Oakridge-41st Ave Station  @ Bay 4,,49.233702,-123.117444,BUS ZN,,0,
 11357,50875,Broadway-City Hall Station @ Bay 1,,49.263107,-123.114283,BUS ZN,,0,
 11361,61416,Westbound 68 Ave @ 194 St,,49.126433,-122.686138,BUS ZN,,0,
 11363,61419,Northbound Renaissance Square @ Quayside Dr,,49.199988,-122.924574,BUS ZN,,0,
@@ -8506,7 +8513,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 12125,61690,Northbound East Rd @ 1400 Block,,49.304307,-122.838479,BUS ZN,,0,
 12134,61503,Eastbound E 41 Ave @ Fraser St,,49.232781,-123.090946,BUS ZN,,0,
 12137,61906,Westbound 32 Ave @ 196 St,,49.060173,-122.681142,BUS ZN,,0,
-12138,,W Waterfront Rd @ SkyTrain,,49.286502,-123.110998,WCE1A,,0,
+12138,57893,W Waterfront Rd @ SkyTrain,,49.286502,-123.110998,WCE1A,,0,
 12139,59555,Eastbound Westminster Hwy @ Boundary Rd,,49.183562,-122.957993,BUS ZN,,0,
 12140,59026,Eastbound United Blvd @ Fawcett,,49.228759,-122.835425,BUS ZN,,0,
 12141,61966,Northbound Marine Way @ Market Crossing,,49.200254,-122.97942,BUS ZN,,0,
@@ -8567,19 +8574,19 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 12223,59541,Eastbound Canoe Pass Way @ Salish Sea Dr,,49.04011,-123.089288,BUS ZN,,0,
 12224,59542,Southbound Salish Sea Dr @ Canoe Pass Way,,49.039507,-123.090426,BUS ZN,,0,
 12225,59547,Northbound Salish Sea Dr @ Blue Heron Dr,,49.038251,-123.090098,BUS ZN,,0,
-12227,,Lougheed Town Centre Station Platform 3,,49.248611,-122.896818,ZN 2,,0,99926
-12228,,Burquitlam Station Platform 1,,49.261421,-122.889853,ZN 3,,0,99927
-12229,,Burquitlam Station Platform 2,,49.261375,-122.889784,ZN 3,,0,99927
-12230,,Moody Centre Station Platform 1,,49.27798,-122.845609,ZN 3,,0,99928
-12231,,Moody Centre Station Platform 2,,49.277941,-122.845608,ZN 3,,0,99928
-12232,,Inlet Centre Station Platform 1,,49.277294,-122.828164,ZN 3,,0,99929
-12233,,Inlet Centre Station Platform 2,,49.277118,-122.828183,ZN 3,,0,99929
-12234,,Coquitlam Central Station Platform 1,,49.274919,-122.800551,ZN 3,,0,99930
-12235,,Coquitlam Central Station Platform 2,,49.274738,-122.800643,ZN 3,,0,99930
-12236,,Lincoln Station Platform 1,,49.280417,-122.794097,ZN 3,,0,99931
-12237,,Lincoln Station Platform 2,,49.28041,-122.793805,ZN 3,,0,99931
-12238,,Lafarge Lake-Douglas Station Platform 1,,49.285743,-122.791623,ZN 3,,0,99932
-12239,,Lafarge Lake-Douglas Station Platform 2,,49.285693,-122.791435,ZN 3,,0,99932
+12227,60084,Lougheed Town Centre Station Platform 3,,49.248611,-122.896818,ZN 2,,0,99926
+12228,60085,Burquitlam Station Platform 1,,49.261421,-122.889853,ZN 3,,0,99927
+12229,60086,Burquitlam Station Platform 2,,49.261375,-122.889784,ZN 3,,0,99927
+12230,60087,Moody Centre Station Platform 1,,49.27798,-122.845609,ZN 3,,0,99928
+12231,60088,Moody Centre Station Platform 2,,49.277941,-122.845608,ZN 3,,0,99928
+12232,60089,Inlet Centre Station Platform 1,,49.277294,-122.828164,ZN 3,,0,99929
+12233,60090,Inlet Centre Station Platform 2,,49.277118,-122.828183,ZN 3,,0,99929
+12234,60091,Coquitlam Central Station Platform 1,,49.274919,-122.800551,ZN 3,,0,99930
+12235,60092,Coquitlam Central Station Platform 2,,49.274738,-122.800643,ZN 3,,0,99930
+12236,60093,Lincoln Station Platform 1,,49.280417,-122.794097,ZN 3,,0,99931
+12237,60094,Lincoln Station Platform 2,,49.28041,-122.793805,ZN 3,,0,99931
+12238,60095,Lafarge Lake-Douglas Station Platform 1,,49.285743,-122.791623,ZN 3,,0,99932
+12239,60096,Lafarge Lake-Douglas Station Platform 2,,49.285693,-122.791435,ZN 3,,0,99932
 12240,59569,Inlet Centre Station @ Bay 3,,49.277099,-122.826771,BUS ZN,,0,
 12241,53267,Inlet Centre Station @ Bay 1,,49.277967,-122.827449,BUS ZN,,0,
 12242,61988,Inlet Centre Station @ Bay 2,,49.278102,-122.827095,BUS ZN,,0,
@@ -8644,10 +8651,10 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 12316,59248,Northbound 156 St @ 108 Ave,,49.199154,-122.789701,BUS ZN,,0,
 12317,59012,Southbound 157A St @ 10900 Block,,49.200597,-122.78529,BUS ZN,,0,
 12318,59889,Kootenay Loop @ Bay 1,,49.281403,-123.025625,BUS ZN,,0,
-12319,,Moody Centre Station @ West Coast Express,,49.278065,-122.845996,WCE2A,,0,
-12320,,Moody Centre Station @ West Coast Express,,49.278062,-122.846595,WCE2A,,0,
-12321,,Coquitlam Central Station @ West Coast Express,,49.2738,-122.800001,WCE2A,,0,
-12322,,Coquitlam Central Station @ West Coast Express,,49.2738,-122.800401,WCE2A,,0,
+12319,60105,Moody Centre Station @ West Coast Express,,49.278065,-122.845996,WCE2A,,0,
+12320,60106,Moody Centre Station @ West Coast Express,,49.278062,-122.846595,WCE2A,,0,
+12321,60107,Coquitlam Central Station @ West Coast Express,,49.2738,-122.800001,WCE2A,,0,
+12322,60108,Coquitlam Central Station @ West Coast Express,,49.2738,-122.800401,WCE2A,,0,
 12328,61550,Westbound 60 Ave @ 194A St,,49.111342,-122.685765,BUS ZN,,0,
 12329,60102,Southbound Cambie St @ Nelson St,,49.275952,-123.118424,BUS ZN,,0,
 12330,60103,Northbound Cambie St @ Nelson St,,49.276256,-123.117748,BUS ZN,,0,
@@ -8831,10 +8838,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 12572,60336,Eastbound E Cordova St @ Heatley Ave,,49.28202,-123.089076,BUS ZN,,0,
 12573,60294,Northbound 52 St @ Saratoga Dr,,49.028289,-123.079702,BUS ZN,,0,
 12580,59709,Port Haney Station @ Bay 3,,49.212575,-122.606432,BUS ZN,,0,
-12583,50159,Oakridge-41st Ave Station @ Bay 5,,49.233634,-123.115566,BUS ZN,,0,
-12584,60350,Oakridge-41st Ave Station @ Bay 4,,49.233615,-123.115113,BUS ZN,,0,
-12585,50137,Oakridge-41st Ave Station @ Bay 2,,49.2334,-123.115592,BUS ZN,,0,
-12586,60349,Oakridge-41st Ave Station @ Bay 3,,49.233392,-123.115117,BUS ZN,,0,
 12588,60328,Southbound Lake City Way @ Enterprise St,,49.254743,-122.938112,BUS ZN,,0,
 12589,60352,Westbound Granville Ave @ Moffatt Rd,,49.162848,-123.145425,BUS ZN,,0,
 12591,60343,Southbound Orchid Dr @ Holly Dr,,49.256017,-122.800781,BUS ZN,,0,
@@ -8873,6 +8876,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 12644,60426,Northbound St Andrews Ave @ E 13 St,,49.320223,-123.066042,BUS ZN,,0,
 12645,60315,Eastbound 64 Ave @ 165 St,,49.118842,-122.764773,BUS ZN,,0,
 12646,60316,Westbound 64 Ave @ 165 St,,49.119037,-122.766041,BUS ZN,,0,
+12647,60390,Coquitlam Central Station @ Bay 14,,49.275276,-122.799074,BUS ZN,,0,
 99901,,YVR-Airport Station,,49.194174,-123.178269,ZN 2,,1,
 99902,,Sea Island Centre Station,,49.192986,-123.157887,ZN 2,,1,
 99903,,Templeton Station,,49.196688,-123.146337,ZN 2,,1,
