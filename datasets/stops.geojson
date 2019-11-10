@@ -17139,24 +17139,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.069654,
-     49.261744
-    ],
-    "type": "Point"
-   },
-   "id": "1230",
-   "properties": {
-    "code": "51221",
-    "desc": "",
-    "id": "1230",
-    "name": "Northbound Commercial Dr @ E 10 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.069636,
      49.262699
     ],
@@ -25610,6 +25592,24 @@
     "desc": "",
     "id": "1778",
     "name": "Southbound Boundary Rd @ Kitchener St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.023801,
+     49.26913
+    ],
+    "type": "Point"
+   },
+   "id": "1779",
+   "properties": {
+    "code": "51765",
+    "desc": "",
+    "id": "1779",
+    "name": "Southbound Boundary Rd @ E 1st Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -71931,24 +71931,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.804832,
-     49.192991
-    ],
-    "type": "Point"
-   },
-   "id": "5181",
-   "properties": {
-    "code": "55129",
-    "desc": "",
-    "id": "5181",
-    "name": "Eastbound 105 Ave @ 150 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.801058,
      49.192726
     ],
@@ -75866,24 +75848,6 @@
     "desc": "",
     "id": "5456",
     "name": "Northbound King George Blvd @ 64 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.84534,
-     49.122218
-    ],
-    "type": "Point"
-   },
-   "id": "5457",
-   "properties": {
-    "code": "55404",
-    "desc": "",
-    "id": "5457",
-    "name": "Northbound King George Blvd @ 6500 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -85406,24 +85370,6 @@
     "desc": "",
     "id": "6063",
     "name": "Westbound 100 Ave @ 150 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.812191,
-     49.183668
-    ],
-    "type": "Point"
-   },
-   "id": "6064",
-   "properties": {
-    "code": "56006",
-    "desc": "",
-    "id": "6064",
-    "name": "Southbound 148 St @ 100 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -126993,6 +126939,42 @@
   {
    "geometry": {
     "coordinates": [
+     -122.842581,
+     49.295686
+    ],
+    "type": "Point"
+   },
+   "id": "9643",
+   "properties": {
+    "code": "58890",
+    "desc": "",
+    "id": "9643",
+    "name": "Northbound Heritage Mountain Blvd @ 1200 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.842922,
+     49.295778
+    ],
+    "type": "Point"
+   },
+   "id": "9650",
+   "properties": {
+    "code": "58891",
+    "desc": "",
+    "id": "9650",
+    "name": "Southbound Heritage Mountain Blvd @ Foxwood Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.088237,
      49.338142
     ],
@@ -139449,78 +139431,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.203022,
-     49.271904
-    ],
-    "type": "Point"
-   },
-   "id": "11053",
-   "properties": {
-    "code": "51934",
-    "desc": "",
-    "id": "11053",
-    "name": "Westbound NW Marine Dr @ Discovery St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.203426,
-     49.271953
-    ],
-    "type": "Point"
-   },
-   "id": "11054",
-   "properties": {
-    "code": "51910",
-    "desc": "",
-    "id": "11054",
-    "name": "Eastbound NW Marine Dr @ Discovery St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.209135,
-     49.274502
-    ],
-    "type": "Point"
-   },
-   "id": "11055",
-   "properties": {
-    "code": "51937",
-    "desc": "",
-    "id": "11055",
-    "name": "Westbound NW Marine Dr @ Sasamat St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.200827,
-     49.268799
-    ],
-    "type": "Point"
-   },
-   "id": "11056",
-   "properties": {
-    "code": "51912",
-    "desc": "",
-    "id": "11056",
-    "name": "Eastbound NW Marine Dr @ Locarno Cres",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.097295,
      49.240485
     ],
@@ -139665,42 +139575,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.205593,
-     49.274065
-    ],
-    "type": "Point"
-   },
-   "id": "11065",
-   "properties": {
-    "code": "51935",
-    "desc": "",
-    "id": "11065",
-    "name": "Northbound NW Marine Dr @ Belmont Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.211352,
-     49.274742
-    ],
-    "type": "Point"
-   },
-   "id": "11066",
-   "properties": {
-    "code": "51906",
-    "desc": "",
-    "id": "11066",
-    "name": "Eastbound NW Marine Dr @ Tolmie St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.134406,
      49.257964
     ],
@@ -139719,42 +139593,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.205803,
-     49.273327
-    ],
-    "type": "Point"
-   },
-   "id": "11068",
-   "properties": {
-    "code": "61133",
-    "desc": "",
-    "id": "11068",
-    "name": "Southbound Trimble St @ Belmont Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.212054,
-     49.275093
-    ],
-    "type": "Point"
-   },
-   "id": "11069",
-   "properties": {
-    "code": "51938",
-    "desc": "",
-    "id": "11069",
-    "name": "Westbound NW Marine Dr @ Tolmie St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.55709,
      49.217262
     ],
@@ -139766,24 +139604,6 @@
     "desc": "",
     "id": "11070",
     "name": "Southbound 240 St @ 118 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.200648,
-     49.268938
-    ],
-    "type": "Point"
-   },
-   "id": "11071",
-   "properties": {
-    "code": "61138",
-    "desc": "",
-    "id": "11071",
-    "name": "Westbound NW Marine Dr @ W 4th Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -145220,24 +145040,6 @@
     "desc": "",
     "id": "11485",
     "name": "Westbound Robson St @ Cardero St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.24331,
-     49.266846
-    ],
-    "type": "Point"
-   },
-   "id": "11486",
-   "properties": {
-    "code": "50605",
-    "desc": "",
-    "id": "11486",
-    "name": "Westbound University Blvd @ Allison Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156009,8 +155811,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.246706,
-     49.266036
+     -123.246605,
+     49.266049
     ],
     "type": "Point"
    },
@@ -158025,6 +157827,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.244736,
+     49.266634
+    ],
+    "type": "Point"
+   },
+   "id": "12483",
+   "properties": {
+    "code": "60219",
+    "desc": "",
+    "id": "12483",
+    "name": "Westbound University Blvd @ Western Parkway",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.785542,
      49.044433
     ],
@@ -159800,6 +159620,60 @@
     "desc": "",
     "id": "12647",
     "name": "Coquitlam Central Station @ Bay 14",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.068855,
+     49.319869
+    ],
+    "type": "Point"
+   },
+   "id": "12649",
+   "properties": {
+    "code": "60427",
+    "desc": "",
+    "id": "12649",
+    "name": "Eastbound E 13th St @ St. Georges Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.803013,
+     49.19317
+    ],
+    "type": "Point"
+   },
+   "id": "12650",
+   "properties": {
+    "code": "61956",
+    "desc": "",
+    "id": "12650",
+    "name": "Eastbound 105 Ave  Lincoln Dr @ Lincoln Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.845337,
+     49.123732
+    ],
+    "type": "Point"
+   },
+   "id": "12651",
+   "properties": {
+    "code": "60420",
+    "desc": "",
+    "id": "12651",
+    "name": "Northbound King George Blvd @ 6700 Blk",
     "zone": "BUS ZN"
    },
    "type": "Feature"
