@@ -1677,24 +1677,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.11793,
-     49.233459
-    ],
-    "type": "Point"
-   },
-   "id": "136",
-   "properties": {
-    "code": "59305",
-    "desc": "",
-    "id": "136",
-    "name": "Oakridge-41st Ave Station @ Bay 3",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.107725,
      49.233142
     ],
@@ -1940,24 +1922,6 @@
     "desc": "",
     "id": "158",
     "name": "Westbound W 41 Ave @ Columbia St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.116855,
-     49.233681
-    ],
-    "type": "Point"
-   },
-   "id": "160",
-   "properties": {
-    "code": "50160",
-    "desc": "",
-    "id": "160",
-    "name": "Oakridge-41st Ave Station @ Bay 5",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -19389,6 +19353,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.083149,
+     49.276876
+    ],
+    "type": "Point"
+   },
+   "id": "1372",
+   "properties": {
+    "code": "51361",
+    "desc": "",
+    "id": "1372",
+    "name": "Westbound Venables St @ Raymur Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.087839,
      49.27661
     ],
@@ -28245,24 +28227,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.009358,
-     49.223973
-    ],
-    "type": "Point"
-   },
-   "id": "2014",
-   "properties": {
-    "code": "51997",
-    "desc": "",
-    "id": "2014",
-    "name": "Westbound Maywood St @ McKay Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.010415,
      49.224864
     ],
@@ -32882,6 +32846,24 @@
     "desc": "",
     "id": "2378",
     "name": "Northbound Boyd St @ Ewen Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.934885,
+     49.195163
+    ],
+    "type": "Point"
+   },
+   "id": "2379",
+   "properties": {
+    "code": "52355",
+    "desc": "",
+    "id": "2379",
+    "name": "Eastbound Duncan St @ 400 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -41547,24 +41529,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.003094,
-     49.286146
-    ],
-    "type": "Point"
-   },
-   "id": "3006",
-   "properties": {
-    "code": "52975",
-    "desc": "",
-    "id": "3006",
-    "name": "Southbound N Willingdon Ave @ Cambridge St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.00312,
      49.284404
     ],
@@ -41612,24 +41576,6 @@
     "desc": "",
     "id": "3010",
     "name": "Northbound Willingdon Ave @ Triumph St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.002948,
-     49.2858
-    ],
-    "type": "Point"
-   },
-   "id": "3011",
-   "properties": {
-    "code": "52980",
-    "desc": "",
-    "id": "3011",
-    "name": "Northbound N Willingdon Ave @ Penzance Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -61959,24 +61905,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.066512,
-     49.322067
-    ],
-    "type": "Point"
-   },
-   "id": "4513",
-   "properties": {
-    "code": "54463",
-    "desc": "",
-    "id": "4513",
-    "name": "Westbound E 15 St @ St. Andrews Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.072934,
      49.322138
     ],
@@ -71060,24 +70988,6 @@
     "desc": "",
     "id": "5120",
     "name": "Eastbound Old Yale Rd @ 132 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.851544,
-     49.186513
-    ],
-    "type": "Point"
-   },
-   "id": "5121",
-   "properties": {
-    "code": "55069",
-    "desc": "",
-    "id": "5121",
-    "name": "Northbound University Dr @ Old Yale Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -98834,24 +98744,6 @@
     "desc": "",
     "id": "6970",
     "name": "Eastbound Westminster Hwy @ McLean Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.968243,
-     49.177436
-    ],
-    "type": "Point"
-   },
-   "id": "6971",
-   "properties": {
-    "code": "56906",
-    "desc": "",
-    "id": "6971",
-    "name": "Eastbound Westminster Hwy @ Gilley Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -126939,8 +126831,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.842581,
-     49.295686
+     -122.843085,
+     49.296119
     ],
     "type": "Point"
    },
@@ -126957,8 +126849,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.842922,
-     49.295778
+     -122.842676,
+     49.295561
     ],
     "type": "Point"
    },
@@ -129765,24 +129657,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.114489,
-     49.280019
-    ],
-    "type": "Point"
-   },
-   "id": "10114",
-   "properties": {
-    "code": "59513",
-    "desc": "",
-    "id": "10114",
-    "name": "Eastbound W Georgia St @ Hamilton St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.61103,
      49.135762
     ],
@@ -130892,24 +130766,6 @@
     "desc": "",
     "id": "10229",
     "name": "Northbound Antrim Ave @ Victory St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.006608,
-     49.222719
-    ],
-    "type": "Point"
-   },
-   "id": "10230",
-   "properties": {
-    "code": "59665",
-    "desc": "",
-    "id": "10230",
-    "name": "Westbound Maywood St @ Telford Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -143798,42 +143654,6 @@
     "desc": "",
     "id": "11352",
     "name": "Broadway-City Hall Station @ Bay 2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.117554,
-     49.233446
-    ],
-    "type": "Point"
-   },
-   "id": "11353",
-   "properties": {
-    "code": "50136",
-    "desc": "",
-    "id": "11353",
-    "name": "Oakridge-41st Ave Station @ Bay 2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.117444,
-     49.233702
-    ],
-    "type": "Point"
-   },
-   "id": "11354",
-   "properties": {
-    "code": "61281",
-    "desc": "",
-    "id": "11354",
-    "name": "Oakridge-41st Ave Station  @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -157881,24 +157701,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.082278,
-     49.276883
-    ],
-    "type": "Point"
-   },
-   "id": "12488",
-   "properties": {
-    "code": "60227",
-    "desc": "",
-    "id": "12488",
-    "name": "Westbound Venables St @ Raymur Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.106526,
      49.28179
     ],
@@ -158925,6 +158727,78 @@
   {
    "geometry": {
     "coordinates": [
+     -123.115566,
+     49.233634
+    ],
+    "type": "Point"
+   },
+   "id": "12583",
+   "properties": {
+    "code": "50159",
+    "desc": "",
+    "id": "12583",
+    "name": "Oakridge-41st Ave Station @ Bay 5",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.115113,
+     49.233615
+    ],
+    "type": "Point"
+   },
+   "id": "12584",
+   "properties": {
+    "code": "60350",
+    "desc": "",
+    "id": "12584",
+    "name": "Oakridge-41st Ave Station @ Bay 4",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.115592,
+     49.2334
+    ],
+    "type": "Point"
+   },
+   "id": "12585",
+   "properties": {
+    "code": "50137",
+    "desc": "",
+    "id": "12585",
+    "name": "Oakridge-41st Ave Station @ Bay 2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.115117,
+     49.233392
+    ],
+    "type": "Point"
+   },
+   "id": "12586",
+   "properties": {
+    "code": "60349",
+    "desc": "",
+    "id": "12586",
+    "name": "Oakridge-41st Ave Station @ Bay 3",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.938112,
      49.254743
     ],
@@ -159044,6 +158918,24 @@
     "desc": "",
     "id": "12595",
     "name": "Larwill Park @ Layover Only",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.114837,
+     49.280236
+    ],
+    "type": "Point"
+   },
+   "id": "12596",
+   "properties": {
+    "code": "60348",
+    "desc": "",
+    "id": "12596",
+    "name": "Eastbound W Georgia St @ Homer St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159429,6 +159321,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.805781,
+     49.194098
+    ],
+    "type": "Point"
+   },
+   "id": "12624",
+   "properties": {
+    "code": "60419",
+    "desc": "",
+    "id": "12624",
+    "name": "Eastbound 150 Ave @ 105 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.787945,
      49.272258
     ],
@@ -159674,6 +159584,24 @@
     "desc": "",
     "id": "12651",
     "name": "Northbound King George Blvd @ 6700 Blk",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.968634,
+     49.176733
+    ],
+    "type": "Point"
+   },
+   "id": "12654",
+   "properties": {
+    "code": "60430",
+    "desc": "",
+    "id": "12654",
+    "name": "Eastbound Westminster Hwy @ Gilley Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
