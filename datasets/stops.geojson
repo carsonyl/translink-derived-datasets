@@ -88347,24 +88347,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.80264,
-     49.02051
-    ],
-    "type": "Point"
-   },
-   "id": "6259",
-   "properties": {
-    "code": "56199",
-    "desc": "",
-    "id": "6259",
-    "name": "Westbound Marine Dr @ 15100 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.808973,
      49.022354
     ],
@@ -89859,8 +89841,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.878493,
-     49.044056
+     -122.878498,
+     49.044355
     ],
     "type": "Point"
    },
@@ -94982,24 +94964,6 @@
     "desc": "",
     "id": "6752",
     "name": "Westbound Granville Ave @ Buswell St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.136374,
-     49.168108
-    ],
-    "type": "Point"
-   },
-   "id": "6753",
-   "properties": {
-    "code": "56689",
-    "desc": "",
-    "id": "6753",
-    "name": "Richmond-Brighouse Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -105584,24 +105548,6 @@
     "desc": "",
     "id": "7496",
     "name": "Southbound Boundary Bay Rd @ Ironwood Place",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.051735,
-     49.014463
-    ],
-    "type": "Point"
-   },
-   "id": "7497",
-   "properties": {
-    "code": "57424",
-    "desc": "",
-    "id": "7497",
-    "name": "Southbound Boundary Bay Rd @ 500 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -143941,7 +143887,7 @@
     "code": "56452",
     "desc": "",
     "id": "11385",
-    "name": "Northbound No. 3 Rd @ Saba Rd",
+    "name": "Brighouse Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -144626,24 +144572,6 @@
     "desc": "",
     "id": "11458",
     "name": "Southbound 54 St @ 2nd Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.136665,
-     49.169765
-    ],
-    "type": "Point"
-   },
-   "id": "11470",
-   "properties": {
-    "code": "56450",
-    "desc": "",
-    "id": "11470",
-    "name": "Southbound No. 3 Rd @ Westminster Hwy",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -146217,24 +146145,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.107243,
-     49.282943
-    ],
-    "type": "Point"
-   },
-   "id": "11590",
-   "properties": {
-    "code": "50037",
-    "desc": "",
-    "id": "11590",
-    "name": "Eastbound W Cordova St @ Abbott St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.767094,
      49.162744
     ],
@@ -147567,24 +147477,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.136682,
-     49.168435
-    ],
-    "type": "Point"
-   },
-   "id": "11707",
-   "properties": {
-    "code": "58624",
-    "desc": "",
-    "id": "11707",
-    "name": "Richmond-Brighouse Station @ Bay 4A",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.105025,
      49.32437
     ],
@@ -148352,6 +148244,24 @@
     "desc": "",
     "id": "11760",
     "name": "Northbound Wesbrook Mall @ Birney Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.10606,
+     49.282714
+    ],
+    "type": "Point"
+   },
+   "id": "11761",
+   "properties": {
+    "code": "58125",
+    "desc": "",
+    "id": "11761",
+    "name": "Eastbound W Cordova St @ Abbott St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159331,7 +159241,7 @@
     "code": "60419",
     "desc": "",
     "id": "12624",
-    "name": "Eastbound 150 Ave @ 105 St",
+    "name": "Eastbound 105 Ave @ 150 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159602,6 +159512,42 @@
     "desc": "",
     "id": "12654",
     "name": "Eastbound Westminster Hwy @ Gilley Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.136683,
+     49.16921
+    ],
+    "type": "Point"
+   },
+   "id": "12656",
+   "properties": {
+    "code": "60432",
+    "desc": "",
+    "id": "12656",
+    "name": "Richmond-Brighouse Station @ Bay 4A",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.04825,
+     49.01305
+    ],
+    "type": "Point"
+   },
+   "id": "12657",
+   "properties": {
+    "code": "60429",
+    "desc": "",
+    "id": "12657",
+    "name": "Southbound Boundary Bay Rd @ 400 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
