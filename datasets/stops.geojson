@@ -42159,6 +42159,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.792389,
+     49.274107
+    ],
+    "type": "Point"
+   },
+   "id": "3054",
+   "properties": {
+    "code": "53022",
+    "desc": "",
+    "id": "3054",
+    "name": "Eastbound Lougheed Hwy @ Westwood St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.781555,
      49.269622
     ],
@@ -43682,24 +43700,6 @@
     "desc": "",
     "id": "3156",
     "name": "Northbound Clarke Rd @ Como Lake Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.884262,
-     49.265996
-    ],
-    "type": "Point"
-   },
-   "id": "3157",
-   "properties": {
-    "code": "53124",
-    "desc": "",
-    "id": "3157",
-    "name": "Northbound Clarke Rd @ Morrison Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -69195,6 +69195,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.928011,
+     49.165062
+    ],
+    "type": "Point"
+   },
+   "id": "5003",
+   "properties": {
+    "code": "54951",
+    "desc": "",
+    "id": "5003",
+    "name": "Westbound River Rd @ Brooke Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.93203,
      49.162663
     ],
@@ -92289,8 +92307,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.184037,
-     49.126494
+     -123.182523,
+     49.126493
     ],
     "type": "Point"
    },
@@ -92299,7 +92317,7 @@
     "code": "56517",
     "desc": "",
     "id": "6578",
-    "name": "Westbound Chatham St @ 2nd Ave",
+    "name": "Westbound Chatham St @ 1st Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -115509,6 +115527,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.18513,
+     49.126357
+    ],
+    "type": "Point"
+   },
+   "id": "8490",
+   "properties": {
+    "code": "58194",
+    "desc": "",
+    "id": "8490",
+    "name": "Eastbound Chatham St @ 3rd Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.132114,
      49.341176
     ],
@@ -126752,6 +126788,24 @@
     "desc": "",
     "id": "9632",
     "name": "Southbound Jackson Rd @ 104 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.186418,
+     49.126361
+    ],
+    "type": "Point"
+   },
+   "id": "9634",
+   "properties": {
+    "code": "59227",
+    "desc": "",
+    "id": "9634",
+    "name": "Eastbound Chatham St @ 4th Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159195,24 +159249,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.185967,
-     49.126362
-    ],
-    "type": "Point"
-   },
-   "id": "12621",
-   "properties": {
-    "code": "60392",
-    "desc": "",
-    "id": "12621",
-    "name": "Eastbound Chatham St @ 3rd Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.090557,
      49.26668
     ],
@@ -159242,24 +159278,6 @@
     "desc": "",
     "id": "12624",
     "name": "Eastbound 105 Ave @ 150 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.787945,
-     49.272258
-    ],
-    "type": "Point"
-   },
-   "id": "12627",
-   "properties": {
-    "code": "60202",
-    "desc": "",
-    "id": "12627",
-    "name": "Eastbound Lougheed Hwy @ Westwood St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
