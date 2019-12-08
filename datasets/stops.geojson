@@ -39549,6 +39549,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.936395,
+     49.260851
+    ],
+    "type": "Point"
+   },
+   "id": "2868",
+   "properties": {
+    "code": "52839",
+    "desc": "",
+    "id": "2868",
+    "name": "Eastbound Broadway @ Lake City Way",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.913354,
      49.252623
     ],
@@ -42951,8 +42969,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.967994,
-     49.240562
+     -122.968023,
+     49.240881
     ],
     "type": "Point"
    },
@@ -45608,24 +45626,6 @@
     "desc": "",
     "id": "3320",
     "name": "Northbound Heritage Mountain Blvd @ Parkglen Place",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.837533,
-     49.292797
-    ],
-    "type": "Point"
-   },
-   "id": "3321",
-   "properties": {
-    "code": "53286",
-    "desc": "",
-    "id": "3321",
-    "name": "Northbound Heritage Mountain Blvd @ Turner Creek Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -58766,24 +58766,6 @@
     "desc": "",
     "id": "4290",
     "name": "Westbound E 29 St @ William Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.055216,
-     49.335634
-    ],
-    "type": "Point"
-   },
-   "id": "4291",
-   "properties": {
-    "code": "54244",
-    "desc": "",
-    "id": "4291",
-    "name": "Westbound E 29 St @ Royal Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -109479,8 +109461,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.774006,
-     49.266595
+     -122.775406,
+     49.267205
     ],
     "type": "Point"
    },
@@ -129614,6 +129596,24 @@
     "desc": "",
     "id": "10106",
     "name": "Southbound Broadway St @ Mary Hill Bypass",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.9278,
+     49.259302
+    ],
+    "type": "Point"
+   },
+   "id": "10110",
+   "properties": {
+    "code": "59486",
+    "desc": "",
+    "id": "10110",
+    "name": "Southbound Underhill Ave @ 2700 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158701,7 +158701,7 @@
     "code": "50159",
     "desc": "",
     "id": "12583",
-    "name": "Oakridge-41st Ave Station @ Bay 5",
+    "name": "Westbound W 41 Ave @ Cambie St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158719,7 +158719,7 @@
     "code": "60350",
     "desc": "",
     "id": "12584",
-    "name": "Oakridge-41st Ave Station @ Bay 4",
+    "name": "Westbound W 41 Ave @ Cambie St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158737,7 +158737,7 @@
     "code": "50137",
     "desc": "",
     "id": "12585",
-    "name": "Oakridge-41st Ave Station @ Bay 2",
+    "name": "Eastbound W 41 Ave @ Cambie St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158755,7 +158755,7 @@
     "code": "60349",
     "desc": "",
     "id": "12586",
-    "name": "Oakridge-41st Ave Station @ Bay 3",
+    "name": "Eastbound W 41 Ave @ Cambie St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159566,6 +159566,42 @@
     "desc": "",
     "id": "12657",
     "name": "Southbound Boundary Bay Rd @ 400 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.046049,
+     49.169957
+    ],
+    "type": "Point"
+   },
+   "id": "12658",
+   "properties": {
+    "code": "60434",
+    "desc": "",
+    "id": "12658",
+    "name": "Westbound Westminster Hwy @ No. 7 Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.053648,
+     49.335623
+    ],
+    "type": "Point"
+   },
+   "id": "12659",
+   "properties": {
+    "code": "60435",
+    "desc": "",
+    "id": "12659",
+    "name": "Westbound E 29th St @ Duchess Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
