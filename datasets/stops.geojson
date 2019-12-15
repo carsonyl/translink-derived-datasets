@@ -28209,24 +28209,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.012057,
-     49.221865
-    ],
-    "type": "Point"
-   },
-   "id": "2012",
-   "properties": {
-    "code": "51995",
-    "desc": "",
-    "id": "2012",
-    "name": "Eastbound Imperial St @ Patterson Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.010415,
      49.224864
     ],
@@ -28256,24 +28238,6 @@
     "desc": "",
     "id": "2016",
     "name": "Metrotown Station @ Bay 3",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.00906,
-     49.223341
-    ],
-    "type": "Point"
-   },
-   "id": "2019",
-   "properties": {
-    "code": "52002",
-    "desc": "",
-    "id": "2019",
-    "name": "Southbound McKay Ave @ Maywood St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -35301,6 +35265,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.95602,
+     49.260983
+    ],
+    "type": "Point"
+   },
+   "id": "2562",
+   "properties": {
+    "code": "52537",
+    "desc": "",
+    "id": "2562",
+    "name": "Southbound Bainbridge Ave @ Broadway",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.955835,
      49.250878
     ],
@@ -35600,6 +35582,24 @@
     "desc": "",
     "id": "2586",
     "name": "Westbound Winston St @ 7200 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.955878,
+     49.259135
+    ],
+    "type": "Point"
+   },
+   "id": "2590",
+   "properties": {
+    "code": "52565",
+    "desc": "",
+    "id": "2590",
+    "name": "Northbound Bainbridge Ave @ Lougheed Hwy",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -45626,6 +45626,24 @@
     "desc": "",
     "id": "3320",
     "name": "Northbound Heritage Mountain Blvd @ Parkglen Place",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.837533,
+     49.292797
+    ],
+    "type": "Point"
+   },
+   "id": "3321",
+   "properties": {
+    "code": "53286",
+    "desc": "",
+    "id": "3321",
+    "name": "Northbound Heritage Mountain Blvd @ Turner Creek Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -57369,6 +57387,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.071639,
+     49.321996
+    ],
+    "type": "Point"
+   },
+   "id": "4191",
+   "properties": {
+    "code": "54147",
+    "desc": "",
+    "id": "4191",
+    "name": "Eastbound E 15th St @ Lonsdale Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.063835,
      49.308596
     ],
@@ -60357,17 +60393,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.071612,
-     49.319894
+     -123.069606,
+     49.322121
     ],
     "type": "Point"
    },
-   "id": "4396",
+   "id": "4397",
    "properties": {
-    "code": "54348",
+    "code": "54349",
     "desc": "",
-    "id": "4396",
-    "name": "Eastbound E 13 St @ Lonsdale Ave",
+    "id": "4397",
+    "name": "Westbound E 15 St @ St. Georges Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -61797,6 +61833,42 @@
   {
    "geometry": {
     "coordinates": [
+     -123.074863,
+     49.322025
+    ],
+    "type": "Point"
+   },
+   "id": "4506",
+   "properties": {
+    "code": "54456",
+    "desc": "",
+    "id": "4506",
+    "name": "Eastbound W 15 St @ Chesterfield Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.068784,
+     49.321965
+    ],
+    "type": "Point"
+   },
+   "id": "4507",
+   "properties": {
+    "code": "54457",
+    "desc": "",
+    "id": "4507",
+    "name": "Eastbound E 15 St @ St. Georges Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.065414,
      49.321934
     ],
@@ -61880,6 +61952,24 @@
     "desc": "",
     "id": "4512",
     "name": "Westbound E 15 St @ Ridgeway Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.066512,
+     49.322067
+    ],
+    "type": "Point"
+   },
+   "id": "4513",
+   "properties": {
+    "code": "54463",
+    "desc": "",
+    "id": "4513",
+    "name": "Westbound E 15 St @ St. Andrews Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -97347,6 +97437,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.147908,
+     49.159513
+    ],
+    "type": "Point"
+   },
+   "id": "6893",
+   "properties": {
+    "code": "56828",
+    "desc": "",
+    "id": "6893",
+    "name": "Southbound Gilbert Rd @ Mang Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.147926,
      49.157333
     ],
@@ -130413,24 +130521,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.003128,
-     49.225157
-    ],
-    "type": "Point"
-   },
-   "id": "10203",
-   "properties": {
-    "code": "59544",
-    "desc": "",
-    "id": "10203",
-    "name": "Metrotown Station @ Bay 9",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.988354,
      49.280441
     ],
@@ -130838,42 +130928,6 @@
     "desc": "",
     "id": "10235",
     "name": "Northbound Patterson Ave @ Rumble St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.008378,
-     49.221879
-    ],
-    "type": "Point"
-   },
-   "id": "10237",
-   "properties": {
-    "code": "59667",
-    "desc": "",
-    "id": "10237",
-    "name": "Eastbound Imperial St @ McKay Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.004707,
-     49.222173
-    ],
-    "type": "Point"
-   },
-   "id": "10238",
-   "properties": {
-    "code": "59666",
-    "desc": "",
-    "id": "10238",
-    "name": "Northbound Sussex Ave @ Imperial St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -144561,8 +144615,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.84699,
-     49.263341
+     -122.846029,
+     49.263329
     ],
     "type": "Point"
    },
@@ -144572,6 +144626,24 @@
     "desc": "",
     "id": "11444",
     "name": "Eastbound Como Lake Ave @ Poirier St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.956096,
+     49.258921
+    ],
+    "type": "Point"
+   },
+   "id": "11450",
+   "properties": {
+    "code": "52538",
+    "desc": "",
+    "id": "11450",
+    "name": "Southbound Bainbridge Ave @ Lougheed Hwy",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -155631,6 +155703,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.892396,
+     49.262816
+    ],
+    "type": "Point"
+   },
+   "id": "12343",
+   "properties": {
+    "code": "59117",
+    "desc": "",
+    "id": "12343",
+    "name": "Eastbound Como Lake Ave @ North Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.851504,
      49.256074
     ],
@@ -159375,42 +159465,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.075582,
-     49.321789
-    ],
-    "type": "Point"
-   },
-   "id": "12643",
-   "properties": {
-    "code": "60425",
-    "desc": "",
-    "id": "12643",
-    "name": "Southbound Chesterfield Ave @ W 15 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.066042,
-     49.320223
-    ],
-    "type": "Point"
-   },
-   "id": "12644",
-   "properties": {
-    "code": "60426",
-    "desc": "",
-    "id": "12644",
-    "name": "Northbound St Andrews Ave @ E 13 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.764773,
      49.118842
     ],
@@ -159458,24 +159512,6 @@
     "desc": "",
     "id": "12647",
     "name": "Coquitlam Central Station @ Bay 14",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.068855,
-     49.319869
-    ],
-    "type": "Point"
-   },
-   "id": "12649",
-   "properties": {
-    "code": "60427",
-    "desc": "",
-    "id": "12649",
-    "name": "Eastbound E 13th St @ St. Georges Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159602,6 +159638,42 @@
     "desc": "",
     "id": "12659",
     "name": "Westbound E 29th St @ Duchess Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.785161,
+     49.260911
+    ],
+    "type": "Point"
+   },
+   "id": "12660",
+   "properties": {
+    "code": "59105",
+    "desc": "",
+    "id": "12660",
+    "name": "Westbound Wilson Ave @ Bury Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.788204,
+     49.260384
+    ],
+    "type": "Point"
+   },
+   "id": "12661",
+   "properties": {
+    "code": "59106",
+    "desc": "",
+    "id": "12661",
+    "name": "Southbound Reeve St @ Wilson Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
