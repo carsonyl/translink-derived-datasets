@@ -247,7 +247,7 @@
     "code": "50031",
     "desc": "",
     "id": "31",
-    "name": "Northbound Burrard St @ W Georgia St",
+    "name": "Burrard Station @ Bay 8",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -1670,6 +1670,24 @@
     "desc": "",
     "id": "134",
     "name": "Eastbound W 41 Ave @ Willow St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.11793,
+     49.233459
+    ],
+    "type": "Point"
+   },
+   "id": "136",
+   "properties": {
+    "code": "59305",
+    "desc": "",
+    "id": "136",
+    "name": "Oakridge-41st Ave Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -9381,8 +9399,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.077716,
-     49.232838
+     -123.077938,
+     49.232845
     ],
     "type": "Point"
    },
@@ -41547,6 +41565,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.003094,
+     49.286146
+    ],
+    "type": "Point"
+   },
+   "id": "3006",
+   "properties": {
+    "code": "52975",
+    "desc": "",
+    "id": "3006",
+    "name": "Southbound N Willingdon Ave @ Cambridge St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.00312,
      49.284404
     ],
@@ -41594,6 +41630,24 @@
     "desc": "",
     "id": "3010",
     "name": "Northbound Willingdon Ave @ Triumph St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.002948,
+     49.2858
+    ],
+    "type": "Point"
+   },
+   "id": "3011",
+   "properties": {
+    "code": "52980",
+    "desc": "",
+    "id": "3011",
+    "name": "Northbound N Willingdon Ave @ Penzance Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -44240,6 +44294,24 @@
     "desc": "",
     "id": "3202",
     "name": "Southbound Pinetree Way @ Glen Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.799039,
+     49.274922
+    ],
+    "type": "Point"
+   },
+   "id": "3204",
+   "properties": {
+    "code": "53170",
+    "desc": "",
+    "id": "3204",
+    "name": "Coquitlam Central Station @ Bay 7",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -57397,7 +57469,7 @@
     "code": "54147",
     "desc": "",
     "id": "4191",
-    "name": "Eastbound E 15th St @ Lonsdale Ave",
+    "name": "Eastbound E 15 St @ Lonsdale Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -81553,7 +81625,7 @@
     "code": "55760",
     "desc": "",
     "id": "5815",
-    "name": "Guildford Exchange @ Bay 3",
+    "name": "Westbound 104 Ave @ 152 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -94711,7 +94783,7 @@
     "code": "56669",
     "desc": "",
     "id": "6732",
-    "name": "Bus Access Rd @ Tsawwassen Ferry Terminal",
+    "name": "Tsawwassen Ferry Terminal @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -108219,8 +108291,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.747264,
-     49.255084
+     -122.748207,
+     49.255522
     ],
     "type": "Point"
    },
@@ -121017,8 +121089,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.102662,
-     49.263049
+     -123.102228,
+     49.263037
     ],
     "type": "Point"
    },
@@ -125545,7 +125617,7 @@
     "code": "50090",
     "desc": "",
     "id": "9502",
-    "name": "Westbound W 41 Ave @ Willow St",
+    "name": "Westbound W 41 Ave @ 900 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -127705,7 +127777,7 @@
     "code": "59237",
     "desc": "",
     "id": "9720",
-    "name": "Guildford Exchange @ Bay 4",
+    "name": "Westbound 105 Ave @ Lincoln Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -137929,7 +138001,7 @@
     "code": "58175",
     "desc": "",
     "id": "10916",
-    "name": "Eastbound Guildford Exchange @ Unloading Only",
+    "name": "Guildford Exchange @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -138146,6 +138218,24 @@
     "desc": "",
     "id": "10960",
     "name": "Eastbound W 16 Ave @ Wesbrook Mall",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.235823,
+     49.255309
+    ],
+    "type": "Point"
+   },
+   "id": "10961",
+   "properties": {
+    "code": "61044",
+    "desc": "",
+    "id": "10961",
+    "name": "Northbound Wesbrook Mall @ W 16 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -143715,6 +143805,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.117317,
+     49.233445
+    ],
+    "type": "Point"
+   },
+   "id": "11353",
+   "properties": {
+    "code": "50136",
+    "desc": "",
+    "id": "11353",
+    "name": "Oakridge-41st Ave Station @ Bay 2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.114283,
      49.263107
     ],
@@ -143995,7 +144103,7 @@
     "code": "56452",
     "desc": "",
     "id": "11385",
-    "name": "Brighouse Station @ Bay 2",
+    "name": "Richmond-Brighouse Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -146721,6 +146829,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.101267,
+     49.233193
+    ],
+    "type": "Point"
+   },
+   "id": "11622",
+   "properties": {
+    "code": "50714",
+    "desc": "",
+    "id": "11622",
+    "name": "Westbound E 41st Ave @ Main St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.053886,
      49.240272
     ],
@@ -147073,7 +147199,7 @@
     "code": "61597",
     "desc": "",
     "id": "11664",
-    "name": "Guildford Exchange @ Bay 5",
+    "name": "Guildford Exchange @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -148657,7 +148783,7 @@
     "code": "58895",
     "desc": "",
     "id": "11792",
-    "name": "UBC Exchange @ Bay 10",
+    "name": "UBC Exchange @ Bay 9",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -148675,7 +148801,7 @@
     "code": "61701",
     "desc": "",
     "id": "11793",
-    "name": "UBC Exchange @ Bay 11",
+    "name": "UBC Exchange @ Bay 10",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -148693,7 +148819,7 @@
     "code": "61702",
     "desc": "",
     "id": "11794",
-    "name": "UBC Exchange @ Bay 12",
+    "name": "UBC Exchange @ Bay 11",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -149323,7 +149449,7 @@
     "code": "61767",
     "desc": "",
     "id": "11852",
-    "name": "Bus Access Rd @ Tsawwassen Ferry Terminal",
+    "name": "Tsawwassen Ferry Terminal @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -153410,24 +153536,6 @@
     "desc": "",
     "id": "12190",
     "name": "Southbound 208 St @ 84 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.645845,
-     49.151252
-    ],
-    "type": "Point"
-   },
-   "id": "12191",
-   "properties": {
-    "code": "58303",
-    "desc": "",
-    "id": "12191",
-    "name": "Southbound 208 St @ 82 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158377,7 +158485,7 @@
     "code": "60267",
     "desc": "",
     "id": "12544",
-    "name": "Southbound Oak St @ W 10th Ave",
+    "name": "Southbound Oak St @ W 10 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159313,7 +159421,7 @@
     "code": "60359",
     "desc": "",
     "id": "12619",
-    "name": "Northbound Macdonald St @ W 13th Ave",
+    "name": "Northbound Macdonald St @ W 13 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159375,6 +159483,42 @@
   {
    "geometry": {
     "coordinates": [
+     -123.184268,
+     49.234694
+    ],
+    "type": "Point"
+   },
+   "id": "12625",
+   "properties": {
+    "code": "60393",
+    "desc": "",
+    "id": "12625",
+    "name": "Eastbound W 41 Ave @ Dunbar St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.186649,
+     49.234836
+    ],
+    "type": "Point"
+   },
+   "id": "12626",
+   "properties": {
+    "code": "60394",
+    "desc": "",
+    "id": "12626",
+    "name": "Westbound W 41st Ave @ Alma St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.154407,
      49.234483
     ],
@@ -159385,7 +159529,7 @@
     "code": "60386",
     "desc": "",
     "id": "12631",
-    "name": "Eastbound E 41 Ave @ East Blvd",
+    "name": "Eastbound W 41 Ave @ East Blvd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159403,7 +159547,7 @@
     "code": "60385",
     "desc": "",
     "id": "12632",
-    "name": "Westbound W 41 Ave @ East Boulevard",
+    "name": "Westbound W 41 Ave @ East Blvd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159422,6 +159566,114 @@
     "desc": "",
     "id": "12634",
     "name": "Northbound 202A St @ 76 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.688442,
+     49.230552
+    ],
+    "type": "Point"
+   },
+   "id": "12635",
+   "properties": {
+    "code": "61304",
+    "desc": "",
+    "id": "12635",
+    "name": "Eastbound Lougheed Hwy @ Harris Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.655981,
+     49.218858
+    ],
+    "type": "Point"
+   },
+   "id": "12636",
+   "properties": {
+    "code": "60372",
+    "desc": "",
+    "id": "12636",
+    "name": "Eastbound Lougheed Hwy @ 203 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.630541,
+     49.216989
+    ],
+    "type": "Point"
+   },
+   "id": "12637",
+   "properties": {
+    "code": "60370",
+    "desc": "",
+    "id": "12637",
+    "name": "Eastbound Lougheed Hwy @ Laity St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.633119,
+     49.217259
+    ],
+    "type": "Point"
+   },
+   "id": "12638",
+   "properties": {
+    "code": "60371",
+    "desc": "",
+    "id": "12638",
+    "name": "Westbound Lougheed Hwy @ Laity St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.658729,
+     49.219587
+    ],
+    "type": "Point"
+   },
+   "id": "12639",
+   "properties": {
+    "code": "60373",
+    "desc": "",
+    "id": "12639",
+    "name": "Westbound Lougheed Hwy @ 203 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.690471,
+     49.23164
+    ],
+    "type": "Point"
+   },
+   "id": "12640",
+   "properties": {
+    "code": "59823",
+    "desc": "",
+    "id": "12640",
+    "name": "Westbound Lougheed Hwy @ Harris Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159547,7 +159799,43 @@
     "code": "60420",
     "desc": "",
     "id": "12651",
-    "name": "Northbound King George Blvd @ 6700 Blk",
+    "name": "Northbound King George Blvd @ 6700 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.243491,
+     49.26369
+    ],
+    "type": "Point"
+   },
+   "id": "12652",
+   "properties": {
+    "code": "60383",
+    "desc": "",
+    "id": "12652",
+    "name": "Southbound Wesbrook Mall @ Agronomy Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.242289,
+     49.262728
+    ],
+    "type": "Point"
+   },
+   "id": "12653",
+   "properties": {
+    "code": "60384",
+    "desc": "",
+    "id": "12653",
+    "name": "Northbound Wesbrook Mall @ Agronomy Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159566,6 +159854,24 @@
     "desc": "",
     "id": "12654",
     "name": "Eastbound Westminster Hwy @ Gilley Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.596382,
+     49.219122
+    ],
+    "type": "Point"
+   },
+   "id": "12655",
+   "properties": {
+    "code": "58592",
+    "desc": "",
+    "id": "12655",
+    "name": "Haney Place @ Bay 9",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159637,7 +159943,7 @@
     "code": "60435",
     "desc": "",
     "id": "12659",
-    "name": "Westbound E 29th St @ Duchess Ave",
+    "name": "Westbound E 29 St @ Duchess Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159674,6 +159980,240 @@
     "desc": "",
     "id": "12661",
     "name": "Southbound Reeve St @ Wilson Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.18071,
+     49.192988
+    ],
+    "type": "Point"
+   },
+   "id": "12662",
+   "properties": {
+    "code": "60436",
+    "desc": "",
+    "id": "12662",
+    "name": "YVR Domestic Departures  @ Level Three",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.173495,
+     49.23467
+    ],
+    "type": "Point"
+   },
+   "id": "12663",
+   "properties": {
+    "code": "60396",
+    "desc": "",
+    "id": "12663",
+    "name": "Eastbound W 41 Ave @ Carnarvon St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.102441,
+     49.232982
+    ],
+    "type": "Point"
+   },
+   "id": "12664",
+   "properties": {
+    "code": "60399",
+    "desc": "",
+    "id": "12664",
+    "name": "Eastbound E 41 Ave @ Main St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.03528,
+     49.234646
+    ],
+    "type": "Point"
+   },
+   "id": "12665",
+   "properties": {
+    "code": "60404",
+    "desc": "",
+    "id": "12665",
+    "name": "Northbound Joyce St @ Church St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.036583,
+     49.233624
+    ],
+    "type": "Point"
+   },
+   "id": "12666",
+   "properties": {
+    "code": "60403",
+    "desc": "",
+    "id": "12666",
+    "name": "Southbound Joyce St @ Kingsway",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.066544,
+     49.232733
+    ],
+    "type": "Point"
+   },
+   "id": "12667",
+   "properties": {
+    "code": "60402",
+    "desc": "",
+    "id": "12667",
+    "name": "Westbound E 41 Ave @ Victoria Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.091581,
+     49.233019
+    ],
+    "type": "Point"
+   },
+   "id": "12668",
+   "properties": {
+    "code": "60400",
+    "desc": "",
+    "id": "12668",
+    "name": "Westbound E 41 Ave @ Fraser St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.129021,
+     49.234095
+    ],
+    "type": "Point"
+   },
+   "id": "12669",
+   "properties": {
+    "code": "60397",
+    "desc": "",
+    "id": "12669",
+    "name": "Westbound W 41 Ave @ Oak St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.141226,
+     49.234437
+    ],
+    "type": "Point"
+   },
+   "id": "12670",
+   "properties": {
+    "code": "60431",
+    "desc": "",
+    "id": "12670",
+    "name": "Westbound W 41 Ave @ Churchill St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.174148,
+     49.234826
+    ],
+    "type": "Point"
+   },
+   "id": "12671",
+   "properties": {
+    "code": "60395",
+    "desc": "",
+    "id": "12671",
+    "name": "Westbound W 41 Ave @ Carnarvon St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.127728,
+     49.233818
+    ],
+    "type": "Point"
+   },
+   "id": "12672",
+   "properties": {
+    "code": "58268",
+    "desc": "",
+    "id": "12672",
+    "name": "Eastbound W 41 Ave @ Oak St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.657041,
+     49.220895
+    ],
+    "type": "Point"
+   },
+   "id": "12673",
+   "properties": {
+    "code": "59615",
+    "desc": "",
+    "id": "12673",
+    "name": "Southbound 203 St @ Dewdney Trunk Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.056701,
+     49.282677
+    ],
+    "type": "Point"
+   },
+   "id": "12674",
+   "properties": {
+    "code": "60438",
+    "desc": "",
+    "id": "12674",
+    "name": "Southbound Nanaimo St @ Franklin St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
