@@ -8769,24 +8769,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.185714,
-     49.264644
-    ],
-    "type": "Point"
-   },
-   "id": "674",
-   "properties": {
-    "code": "50667",
-    "desc": "",
-    "id": "674",
-    "name": "Northbound Alma St @ W Broadway",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.185659,
      49.266385
     ],
@@ -8816,24 +8798,6 @@
     "desc": "",
     "id": "676",
     "name": "Southbound Nanaimo St @ Dundas St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.056723,
-     49.28183
-    ],
-    "type": "Point"
-   },
-   "id": "677",
-   "properties": {
-    "code": "50670",
-    "desc": "",
-    "id": "677",
-    "name": "Southbound Nanaimo St @ Franklin St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -13478,24 +13442,6 @@
     "desc": "",
     "id": "983",
     "name": "Eastbound W Georgia St @ Bute St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.120872,
-     49.284132
-    ],
-    "type": "Point"
-   },
-   "id": "984",
-   "properties": {
-    "code": "50975",
-    "desc": "",
-    "id": "984",
-    "name": "Eastbound W Georgia St @ Burrard St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -27129,24 +27075,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.244574,
-     49.253093
-    ],
-    "type": "Point"
-   },
-   "id": "1897",
-   "properties": {
-    "code": "51883",
-    "desc": "",
-    "id": "1897",
-    "name": "Westbound W 16 Ave @ SW Marine Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.204972,
      49.236996
     ],
@@ -27338,24 +27266,6 @@
     "desc": "",
     "id": "1912",
     "name": "Westbound SW Marine Dr @ Kullahun Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.244214,
-     49.252833
-    ],
-    "type": "Point"
-   },
-   "id": "1914",
-   "properties": {
-    "code": "51900",
-    "desc": "",
-    "id": "1914",
-    "name": "Eastbound W 16 Ave @ SW Marine Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -29498,24 +29408,6 @@
     "desc": "",
     "id": "2126",
     "name": "Eastbound Government St @ Manchester Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.179837,
-     49.193579
-    ],
-    "type": "Point"
-   },
-   "id": "2127",
-   "properties": {
-    "code": "52107",
-    "desc": "",
-    "id": "2127",
-    "name": "Vancouver International Airport @ Level One",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -53042,24 +52934,6 @@
     "desc": "",
     "id": "3886",
     "name": "Westbound Victoria Dr @ 3500 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.745481,
-     49.285776
-    ],
-    "type": "Point"
-   },
-   "id": "3887",
-   "properties": {
-    "code": "53847",
-    "desc": "",
-    "id": "3887",
-    "name": "Westbound Victoria Dr @ Burke Mountain St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -121755,24 +121629,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.120673,
-     49.284015
-    ],
-    "type": "Point"
-   },
-   "id": "9112",
-   "properties": {
-    "code": "58750",
-    "desc": "",
-    "id": "9112",
-    "name": "Eastbound W Georgia St @ Burrard St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.194664,
      49.23468
     ],
@@ -130089,24 +129945,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.234118,
-     49.245373
-    ],
-    "type": "Point"
-   },
-   "id": "10146",
-   "properties": {
-    "code": "59490",
-    "desc": "",
-    "id": "10146",
-    "name": "Westbound SW Marine Dr @ Wesbrook Mall",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.755909,
      49.118797
     ],
@@ -134211,24 +134049,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.801518,
-     49.184285
-    ],
-    "type": "Point"
-   },
-   "id": "10573",
-   "properties": {
-    "code": "59994",
-    "desc": "",
-    "id": "10573",
-    "name": "Westbound 100 Ave @ 152 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.001707,
      49.144143
     ],
@@ -134312,24 +134132,6 @@
     "desc": "",
     "id": "10578",
     "name": "Southbound 6th St @ Royal Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.804248,
-     49.18428
-    ],
-    "type": "Point"
-   },
-   "id": "10579",
-   "properties": {
-    "code": "59993",
-    "desc": "",
-    "id": "10579",
-    "name": "Westbound 100 Ave @ 151 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -138740,24 +138542,6 @@
     "desc": "",
     "id": "11001",
     "name": "Eastbound Broadway @ E Ellerslie Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.215494,
-     49.276328
-    ],
-    "type": "Point"
-   },
-   "id": "11002",
-   "properties": {
-    "code": "61143",
-    "desc": "",
-    "id": "11002",
-    "name": "Bus Stop @ Spanish Banks Loop",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158079,8 +157863,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.856519,
-     49.27665
+     -122.856207,
+     49.276631
     ],
     "type": "Point"
    },
@@ -158918,42 +158702,6 @@
     "desc": "",
     "id": "12584",
     "name": "Westbound W 41 Ave @ Cambie St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.115592,
-     49.2334
-    ],
-    "type": "Point"
-   },
-   "id": "12585",
-   "properties": {
-    "code": "50137",
-    "desc": "",
-    "id": "12585",
-    "name": "Eastbound W 41 Ave @ Cambie St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.115117,
-     49.233392
-    ],
-    "type": "Point"
-   },
-   "id": "12586",
-   "properties": {
-    "code": "60349",
-    "desc": "",
-    "id": "12586",
-    "name": "Eastbound W 41 Ave @ Cambie St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -160214,6 +159962,24 @@
     "desc": "",
     "id": "12674",
     "name": "Southbound Nanaimo St @ Franklin St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.124524,
+     49.286503
+    ],
+    "type": "Point"
+   },
+   "id": "12675",
+   "properties": {
+    "code": "60442",
+    "desc": "",
+    "id": "12675",
+    "name": "Eastbound W Georgia St @ Bute St-",
     "zone": "BUS ZN"
    },
    "type": "Feature"
