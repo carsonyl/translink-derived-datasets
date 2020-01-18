@@ -9219,24 +9219,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.062011,
-     49.243784
-    ],
-    "type": "Point"
-   },
-   "id": "703",
-   "properties": {
-    "code": "50696",
-    "desc": "",
-    "id": "703",
-    "name": "Westbound Kingsway @ Gladstone St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.0653,
      49.244809
     ],
@@ -20955,7 +20937,7 @@
   {
    "geometry": {
     "coordinates": [
-     -123.009658,
+     -123.009258,
      49.281127
     ],
     "type": "Point"
@@ -26913,8 +26895,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.965438,
-     49.280453
+     -122.965315,
+     49.280454
     ],
     "type": "Point"
    },
@@ -52941,6 +52923,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.745481,
+     49.285776
+    ],
+    "type": "Point"
+   },
+   "id": "3887",
+   "properties": {
+    "code": "53847",
+    "desc": "",
+    "id": "3887",
+    "name": "Westbound Victoria Dr @ Burke Mountain St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.752581,
      49.285793
     ],
@@ -58161,8 +58161,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.04984,
-     49.335457
+     -123.049508,
+     49.335461
     ],
     "type": "Point"
    },
@@ -61628,24 +61628,6 @@
     "desc": "",
     "id": "4495",
     "name": "Westbound W Georgia St @ Granville St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.121449,
-     49.284777
-    ],
-    "type": "Point"
-   },
-   "id": "4496",
-   "properties": {
-    "code": "54446",
-    "desc": "",
-    "id": "4496",
-    "name": "Westbound W Georgia St @ Burrard St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -88383,6 +88365,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.80264,
+     49.02051
+    ],
+    "type": "Point"
+   },
+   "id": "6259",
+   "properties": {
+    "code": "56199",
+    "desc": "",
+    "id": "6259",
+    "name": "Westbound Marine Dr @ 15100 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.808973,
      49.022354
     ],
@@ -97358,24 +97358,6 @@
     "desc": "",
     "id": "6890",
     "name": "Southbound Gilbert Rd @ Azure Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147898,
-     49.16209
-    ],
-    "type": "Point"
-   },
-   "id": "6892",
-   "properties": {
-    "code": "56827",
-    "desc": "",
-    "id": "6892",
-    "name": "Southbound Gilbert Rd @ Granville Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -121737,24 +121719,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.121726,
-     49.284954
-    ],
-    "type": "Point"
-   },
-   "id": "9128",
-   "properties": {
-    "code": "58705",
-    "desc": "",
-    "id": "9128",
-    "name": "Westbound W Georgia St @ Burrard St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.117372,
      49.28214
     ],
@@ -126831,8 +126795,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.543302,
-     49.19135
+     -122.542917,
+     49.191349
     ],
     "type": "Point"
    },
@@ -142077,24 +142041,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.127304,
-     49.195053
-    ],
-    "type": "Point"
-   },
-   "id": "11246",
-   "properties": {
-    "code": "61326",
-    "desc": "",
-    "id": "11246",
-    "name": "Bridgeport Station @ Bay 7",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.13555,
      49.168747
     ],
@@ -142502,6 +142448,24 @@
     "desc": "",
     "id": "11270",
     "name": "Bridgeport Station @ Bay 1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.126259,
+     49.195361
+    ],
+    "type": "Point"
+   },
+   "id": "11271",
+   "properties": {
+    "code": "61322",
+    "desc": "",
+    "id": "11271",
+    "name": "Bridgeport Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158709,24 +158673,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.938112,
-     49.254743
-    ],
-    "type": "Point"
-   },
-   "id": "12588",
-   "properties": {
-    "code": "60328",
-    "desc": "",
-    "id": "12588",
-    "name": "Southbound Lake City Way @ Enterprise St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.145425,
      49.162848
     ],
@@ -159980,6 +159926,60 @@
     "desc": "",
     "id": "12675",
     "name": "Eastbound W Georgia St @ Bute St-",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.122777,
+     49.285653
+    ],
+    "type": "Point"
+   },
+   "id": "12676",
+   "properties": {
+    "code": "60440",
+    "desc": "",
+    "id": "12676",
+    "name": "Westbound W Georgia St @ Thurlow St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.936954,
+     49.25546
+    ],
+    "type": "Point"
+   },
+   "id": "12678",
+   "properties": {
+    "code": "58362",
+    "desc": "",
+    "id": "12678",
+    "name": "Eastbound Enterprise St @ Lake City Way",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.061464,
+     49.24353
+    ],
+    "type": "Point"
+   },
+   "id": "12679",
+   "properties": {
+    "code": "60433",
+    "desc": "",
+    "id": "12679",
+    "name": "Westbound Kingsway @ Gladstone",
     "zone": "BUS ZN"
    },
    "type": "Feature"
