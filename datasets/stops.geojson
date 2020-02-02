@@ -2721,24 +2721,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.138406,
-     49.264166
-    ],
-    "type": "Point"
-   },
-   "id": "217",
-   "properties": {
-    "code": "50216",
-    "desc": "",
-    "id": "217",
-    "name": "Northbound Granville St @ W Broadway",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.138349,
      49.265651
     ],
@@ -6908,24 +6890,6 @@
     "desc": "",
     "id": "524",
     "name": "Eastbound E Pender St @ Main St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.119463,
-     49.285361
-    ],
-    "type": "Point"
-   },
-   "id": "534",
-   "properties": {
-    "code": "50530",
-    "desc": "",
-    "id": "534",
-    "name": "Burrard Station @ Bay 7",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -80787,24 +80751,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.834633,
-     49.178386
-    ],
-    "type": "Point"
-   },
-   "id": "5776",
-   "properties": {
-    "code": "55721",
-    "desc": "",
-    "id": "5776",
-    "name": "Southbound 140 St @ Fraser Hwy",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.83468,
      49.176562
     ],
@@ -119343,6 +119289,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.934473,
+     49.260979
+    ],
+    "type": "Point"
+   },
+   "id": "8915",
+   "properties": {
+    "code": "52880",
+    "desc": "",
+    "id": "8915",
+    "name": "Westbound Broadway @ 7900 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.069582,
      49.26342
     ],
@@ -134085,8 +134049,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.911237,
-     49.20583
+     -122.911456,
+     49.205995
     ],
     "type": "Point"
    },
@@ -159951,24 +159915,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.936954,
-     49.25546
-    ],
-    "type": "Point"
-   },
-   "id": "12678",
-   "properties": {
-    "code": "58362",
-    "desc": "",
-    "id": "12678",
-    "name": "Eastbound Enterprise St @ Lake City Way",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.061464,
      49.24353
     ],
@@ -159980,6 +159926,42 @@
     "desc": "",
     "id": "12679",
     "name": "Westbound Kingsway @ Gladstone",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.123546,
+     49.28612
+    ],
+    "type": "Point"
+   },
+   "id": "12680",
+   "properties": {
+    "code": "60445",
+    "desc": "",
+    "id": "12680",
+    "name": "Westbound W Georgia St @ Thurlow St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.118293,
+     49.28616
+    ],
+    "type": "Point"
+   },
+   "id": "12681",
+   "properties": {
+    "code": "53312",
+    "desc": "",
+    "id": "12681",
+    "name": "Northbound Burrard St @ W Pender St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
