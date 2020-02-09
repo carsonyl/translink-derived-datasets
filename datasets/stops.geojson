@@ -143013,24 +143013,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.118874,
-     49.28577
-    ],
-    "type": "Point"
-   },
-   "id": "11304",
-   "properties": {
-    "code": "56558",
-    "desc": "",
-    "id": "11304",
-    "name": "Burrard Station @ Bay 6",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.579718,
      49.24101
     ],
@@ -144579,8 +144561,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.128244,
-     49.275928
+     -123.128375,
+     49.275854
     ],
     "type": "Point"
    },

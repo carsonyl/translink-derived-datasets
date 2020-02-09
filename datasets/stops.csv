@@ -7944,7 +7944,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 11301,61392,YVR-Airport Station Platform 2,,49.194152,-123.178254,CL_AD,,0,99901
 11302,61393,Waterfront Station Canada Line,,49.285139,-123.114206,ZN 1,,0,12034
 11303,61394,Waterfront Station Canada Line,,49.285093,-123.114139,ZN 1,,0,12034
-11304,56558,Burrard Station @ Bay 6,,49.28577,-123.118874,BUS ZN,,0,
 11305,61396,Southbound 232 St @ Fern Cres,,49.24101,-122.579718,BUS ZN,,0,
 11306,61353,Northbound 224 St @ 12200 Block,,49.225496,-122.601234,BUS ZN,,0,
 11307,53212,Southbound North Rd @ Cameron St,,49.252969,-122.893126,BUS ZN,,0,
@@ -8031,7 +8030,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 11471,56454,Lansdowne Station @ Bay 2,,49.173763,-123.135822,BUS ZN,,0,
 11473,51941,Northbound Burrard St @ W 3rd Ave,,49.269179,-123.145428,BUS ZN,,0,
 11474,50533,Southbound Granville St @ Nelson St,,49.278877,-123.123712,BUS ZN,,0,
-11475,50536,Southbound Granville St @ Drake St,,49.275928,-123.128244,BUS ZN,,0,
+11475,50536,Southbound Granville St @ Drake St,,49.275854,-123.128375,BUS ZN,,0,
 11477,50611,Eastbound Robson St @ Bidwell St,,49.29023,-123.133644,BUS ZN,,0,
 11479,50613,Eastbound Robson St @ Jervis St,,49.286773,-123.128301,BUS ZN,,0,
 11480,50614,Eastbound Robson St @ Bute St,,49.285774,-123.126771,BUS ZN,,0,
