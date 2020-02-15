@@ -12711,24 +12711,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.103441,
-     49.281322
-    ],
-    "type": "Point"
-   },
-   "id": "941",
-   "properties": {
-    "code": "50933",
-    "desc": "",
-    "id": "941",
-    "name": "Eastbound E Hastings St @ Carrall St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.099034,
      49.281225
     ],
@@ -13406,24 +13388,6 @@
     "desc": "",
     "id": "985",
     "name": "Eastbound W Georgia St @ Granville St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.082407,
-     49.311218
-    ],
-    "type": "Point"
-   },
-   "id": "989",
-   "properties": {
-    "code": "50980",
-    "desc": "",
-    "id": "989",
-    "name": "Lonsdale Quay @ Bay 10",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -40395,6 +40359,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.104795,
+     49.281469
+    ],
+    "type": "Point"
+   },
+   "id": "2936",
+   "properties": {
+    "code": "52905",
+    "desc": "",
+    "id": "2936",
+    "name": "Eastbound W Hastings St @ Carrall St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.953482,
      49.280065
     ],
@@ -43610,6 +43592,24 @@
     "desc": "",
     "id": "3156",
     "name": "Northbound Clarke Rd @ Como Lake Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.884262,
+     49.265996
+    ],
+    "type": "Point"
+   },
+   "id": "3157",
+   "properties": {
+    "code": "53124",
+    "desc": "",
+    "id": "3157",
+    "name": "Northbound Clarke Rd @ Morrison Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -54219,24 +54219,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.062686,
-     49.308457
-    ],
-    "type": "Point"
-   },
-   "id": "3994",
-   "properties": {
-    "code": "53953",
-    "desc": "",
-    "id": "3994",
-    "name": "Eastbound E 3rd St @ Ridgeway Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.057704,
      49.308546
     ],
@@ -57927,6 +57909,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.082752,
+     49.310753
+    ],
+    "type": "Point"
+   },
+   "id": "4242",
+   "properties": {
+    "code": "54196",
+    "desc": "",
+    "id": "4242",
+    "name": "Lonsdale Quay @ Bay 2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.072182,
      49.322458
     ],
@@ -60753,24 +60753,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.095264,
-     49.32151
-    ],
-    "type": "Point"
-   },
-   "id": "4429",
-   "properties": {
-    "code": "54380",
-    "desc": "",
-    "id": "4429",
-    "name": "Westbound Marine Dr @ Fell Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.097423,
      49.322273
     ],
@@ -61185,24 +61167,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.082739,
-     49.310903
-    ],
-    "type": "Point"
-   },
-   "id": "4459",
-   "properties": {
-    "code": "54410",
-    "desc": "",
-    "id": "4459",
-    "name": "Lonsdale Quay @ Bay 8",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.13825,
      49.326849
     ],
@@ -61358,6 +61322,24 @@
     "desc": "",
     "id": "4470",
     "name": "Southbound Chesterfield Ave @ W 1st St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.082918,
+     49.310597
+    ],
+    "type": "Point"
+   },
+   "id": "4471",
+   "properties": {
+    "code": "54421",
+    "desc": "",
+    "id": "4471",
+    "name": "Lonsdale Quay @ Bay 1 New",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -62636,24 +62618,6 @@
     "desc": "",
     "id": "4567",
     "name": "Southbound Bewicke Ave @ W 14 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.082912,
-     49.310742
-    ],
-    "type": "Point"
-   },
-   "id": "4568",
-   "properties": {
-    "code": "54516",
-    "desc": "",
-    "id": "4568",
-    "name": "Lonsdale Quay @ Bay 7",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -128091,24 +128055,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.094959,
-     49.321178
-    ],
-    "type": "Point"
-   },
-   "id": "9944",
-   "properties": {
-    "code": "54408",
-    "desc": "",
-    "id": "9944",
-    "name": "Eastbound Marine Dr @ Fell Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.815775,
      49.248665
     ],
@@ -137181,17 +137127,35 @@
   {
    "geometry": {
     "coordinates": [
-     -123.082557,
-     49.311066
+     -123.08258,
+     49.310917
     ],
     "type": "Point"
    },
-   "id": "10867",
+   "id": "10865",
    "properties": {
-    "code": "54134",
+    "code": "58724",
     "desc": "",
-    "id": "10867",
-    "name": "Lonsdale Quay @ Bay 9",
+    "id": "10865",
+    "name": "Lonsdale Quay @ Bay 3 New",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.082393,
+     49.3111
+    ],
+    "type": "Point"
+   },
+   "id": "10866",
+   "properties": {
+    "code": "58725",
+    "desc": "",
+    "id": "10866",
+    "name": "Lonsdale Quay @ Bay 4 New",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -150051,8 +150015,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.092219,
-     49.320191
+     -123.091862,
+     49.320065
     ],
     "type": "Point"
    },
@@ -158882,24 +158846,6 @@
     "desc": "",
     "id": "12606",
     "name": "Westbound Oakland St @ Dufferin Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.083631,
-     49.310588
-    ],
-    "type": "Point"
-   },
-   "id": "12607",
-   "properties": {
-    "code": "60374",
-    "desc": "",
-    "id": "12607",
-    "name": "Lonsdale Quay @ Unloading Only",
     "zone": "BUS ZN"
    },
    "type": "Feature"
