@@ -123699,42 +123699,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.819822,
-     49.299631
-    ],
-    "type": "Point"
-   },
-   "id": "9329",
-   "properties": {
-    "code": "58855",
-    "desc": "",
-    "id": "9329",
-    "name": "Eastbound Panorama Dr @ Eagle Mountain Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.818478,
-     49.298537
-    ],
-    "type": "Point"
-   },
-   "id": "9330",
-   "properties": {
-    "code": "58857",
-    "desc": "",
-    "id": "9330",
-    "name": "Eastbound Panorama Dr @ Greenstone Court",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.840415,
      49.297443
     ],
@@ -159195,7 +159159,7 @@
   {
    "geometry": {
     "coordinates": [
-     -122.630541,
+     -122.630123,
      49.216989
     ],
     "type": "Point"
@@ -159890,6 +159854,42 @@
     "desc": "",
     "id": "12681",
     "name": "Northbound Burrard St @ W Pender St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.819247,
+     49.299145
+    ],
+    "type": "Point"
+   },
+   "id": "12689",
+   "properties": {
+    "code": "60462",
+    "desc": "",
+    "id": "12689",
+    "name": "Eastbound Panorama Dr @ Sandstone Cres",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.09659,
+     49.321749
+    ],
+    "type": "Point"
+   },
+   "id": "12692",
+   "properties": {
+    "code": "59261",
+    "desc": "",
+    "id": "12692",
+    "name": "Eastbound Marine Dr @ Fell Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
