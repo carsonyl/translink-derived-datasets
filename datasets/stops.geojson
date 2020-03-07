@@ -43743,8 +43743,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.876894,
-     49.283168
+     -122.876873,
+     49.283212
     ],
     "type": "Point"
    },
@@ -129909,8 +129909,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.833525,
-     49.289154
+     -122.83355,
+     49.289083
     ],
     "type": "Point"
    },
@@ -155012,6 +155012,24 @@
     "desc": "",
     "id": "12309",
     "name": "Westbound Dominion Ave @ 500 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.891445,
+     49.256747
+    ],
+    "type": "Point"
+   },
+   "id": "12311",
+   "properties": {
+    "code": "53276",
+    "desc": "",
+    "id": "12311",
+    "name": "Eastbound Foster Ave @ Whiting Way",
     "zone": "BUS ZN"
    },
    "type": "Feature"
