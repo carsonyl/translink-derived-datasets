@@ -22233,8 +22233,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.034271,
-     49.250668
+     -123.034851,
+     49.250678
     ],
     "type": "Point"
    },
@@ -54219,6 +54219,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.059819,
+     49.308434
+    ],
+    "type": "Point"
+   },
+   "id": "3995",
+   "properties": {
+    "code": "53954",
+    "desc": "",
+    "id": "3995",
+    "name": "Eastbound E 3rd St @ Moody Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.057704,
      49.308546
     ],
@@ -57207,24 +57225,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.075822,
-     49.314476
-    ],
-    "type": "Point"
-   },
-   "id": "4187",
-   "properties": {
-    "code": "54143",
-    "desc": "",
-    "id": "4187",
-    "name": "Northbound Lonsdale Ave @ E 4th St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.073317,
      49.316943
     ],
@@ -57398,24 +57398,6 @@
     "desc": "",
     "id": "4201",
     "name": "Southbound Lonsdale Ave @ W Keith Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.075818,
-     49.31482
-    ],
-    "type": "Point"
-   },
-   "id": "4203",
-   "properties": {
-    "code": "54158",
-    "desc": "",
-    "id": "4203",
-    "name": "Southbound Lonsdale Ave @ W 5th St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -60753,6 +60735,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.095264,
+     49.32151
+    ],
+    "type": "Point"
+   },
+   "id": "4429",
+   "properties": {
+    "code": "54380",
+    "desc": "",
+    "id": "4429",
+    "name": "Westbound Marine Dr @ Fell Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.097423,
      49.322273
     ],
@@ -61527,8 +61527,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.138897,
-     49.327102
+     -123.138911,
+     49.327118
     ],
     "type": "Point"
    },
@@ -64155,8 +64155,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.139101,
-     49.327092
+     -123.139104,
+     49.327109
     ],
     "type": "Point"
    },
@@ -70437,8 +70437,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.911066,
-     49.179013
+     -122.910786,
+     49.179002
     ],
     "type": "Point"
    },
@@ -146109,8 +146109,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.041011,
-     49.307458
+     -123.04116,
+     49.30749
     ],
     "type": "Point"
    },
@@ -149205,8 +149205,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.138308,
-     49.327125
+     -123.138513,
+     49.327137
     ],
     "type": "Point"
    },
@@ -149241,8 +149241,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.141218,
-     49.326681
+     -123.141227,
+     49.326699
     ],
     "type": "Point"
    },
