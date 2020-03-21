@@ -8733,6 +8733,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.185714,
+     49.264644
+    ],
+    "type": "Point"
+   },
+   "id": "674",
+   "properties": {
+    "code": "50667",
+    "desc": "",
+    "id": "674",
+    "name": "Northbound Alma St @ W Broadway",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.185659,
      49.266385
     ],
@@ -61545,8 +61563,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.1155,
-     49.280922
+     -123.115918,
+     49.281193
     ],
     "type": "Point"
    },
@@ -125769,6 +125787,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.88605,
+     49.323873
+    ],
+    "type": "Point"
+   },
+   "id": "9541",
+   "properties": {
+    "code": "53249",
+    "desc": "",
+    "id": "9541",
+    "name": "White Pine Beach Rd @ Norton Court",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.11995,
      49.324033
     ],
@@ -126662,6 +126698,24 @@
     "desc": "",
     "id": "9632",
     "name": "Southbound Jackson Rd @ 104 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.856819,
+     49.33871
+    ],
+    "type": "Point"
+   },
+   "id": "9633",
+   "properties": {
+    "code": "59225",
+    "desc": "",
+    "id": "9633",
+    "name": "Bus Stop @ Buntzen Lake",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -130125,24 +130179,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.848134,
-     49.278926
-    ],
-    "type": "Point"
-   },
-   "id": "10191",
-   "properties": {
-    "code": "59493",
-    "desc": "",
-    "id": "10191",
-    "name": "Westbound Murray St @ Hugh St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.847702,
      49.278797
     ],
@@ -132908,6 +132944,24 @@
     "desc": "",
     "id": "10435",
     "name": "Southbound Station St @ Terminal Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.827603,
+     49.284375
+    ],
+    "type": "Point"
+   },
+   "id": "10436",
+   "properties": {
+    "code": "53228",
+    "desc": "",
+    "id": "10436",
+    "name": "Westbound Ungless Way @ Noons Creek Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -137001,6 +137055,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.855612,
+     49.322425
+    ],
+    "type": "Point"
+   },
+   "id": "10858",
+   "properties": {
+    "code": "61018",
+    "desc": "",
+    "id": "10858",
+    "name": "Northbound @ Anmore Grocery Store (Flag)",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.15681,
      49.339239
     ],
@@ -138405,6 +138477,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.215494,
+     49.276328
+    ],
+    "type": "Point"
+   },
+   "id": "11002",
+   "properties": {
+    "code": "61143",
+    "desc": "",
+    "id": "11002",
+    "name": "Bus Stop @ Spanish Banks Loop",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.922785,
      49.155985
     ],
@@ -139071,6 +139161,78 @@
   {
    "geometry": {
     "coordinates": [
+     -123.203022,
+     49.271904
+    ],
+    "type": "Point"
+   },
+   "id": "11053",
+   "properties": {
+    "code": "51934",
+    "desc": "",
+    "id": "11053",
+    "name": "Westbound NW Marine Dr @ Discovery St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.203426,
+     49.271953
+    ],
+    "type": "Point"
+   },
+   "id": "11054",
+   "properties": {
+    "code": "51910",
+    "desc": "",
+    "id": "11054",
+    "name": "Eastbound NW Marine Dr @ Discovery St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.209135,
+     49.274502
+    ],
+    "type": "Point"
+   },
+   "id": "11055",
+   "properties": {
+    "code": "51937",
+    "desc": "",
+    "id": "11055",
+    "name": "Westbound NW Marine Dr @ Sasamat St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.200827,
+     49.268799
+    ],
+    "type": "Point"
+   },
+   "id": "11056",
+   "properties": {
+    "code": "51912",
+    "desc": "",
+    "id": "11056",
+    "name": "Eastbound NW Marine Dr @ Locarno Cres",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.097295,
      49.240485
     ],
@@ -139215,6 +139377,42 @@
   {
    "geometry": {
     "coordinates": [
+     -123.205593,
+     49.274065
+    ],
+    "type": "Point"
+   },
+   "id": "11065",
+   "properties": {
+    "code": "51935",
+    "desc": "",
+    "id": "11065",
+    "name": "Northbound NW Marine Dr @ Belmont Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.211352,
+     49.274742
+    ],
+    "type": "Point"
+   },
+   "id": "11066",
+   "properties": {
+    "code": "51906",
+    "desc": "",
+    "id": "11066",
+    "name": "Eastbound NW Marine Dr @ Tolmie St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.134406,
      49.257964
     ],
@@ -139233,6 +139431,42 @@
   {
    "geometry": {
     "coordinates": [
+     -123.205803,
+     49.273327
+    ],
+    "type": "Point"
+   },
+   "id": "11068",
+   "properties": {
+    "code": "61133",
+    "desc": "",
+    "id": "11068",
+    "name": "Southbound Trimble St @ Belmont Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.212054,
+     49.275093
+    ],
+    "type": "Point"
+   },
+   "id": "11069",
+   "properties": {
+    "code": "51938",
+    "desc": "",
+    "id": "11069",
+    "name": "Westbound NW Marine Dr @ Tolmie St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.55709,
      49.217262
     ],
@@ -139244,6 +139478,24 @@
     "desc": "",
     "id": "11070",
     "name": "Southbound 240 St @ 118 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.200648,
+     49.268938
+    ],
+    "type": "Point"
+   },
+   "id": "11071",
+   "properties": {
+    "code": "61138",
+    "desc": "",
+    "id": "11071",
+    "name": "Westbound NW Marine Dr @ W 4th Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -141933,6 +142185,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.127304,
+     49.195053
+    ],
+    "type": "Point"
+   },
+   "id": "11246",
+   "properties": {
+    "code": "61326",
+    "desc": "",
+    "id": "11246",
+    "name": "Bridgeport Station @ Bay 7",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.13555,
      49.168747
     ],
@@ -142340,24 +142610,6 @@
     "desc": "",
     "id": "11270",
     "name": "Bridgeport Station @ Bay 1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.126259,
-     49.195361
-    ],
-    "type": "Point"
-   },
-   "id": "11271",
-   "properties": {
-    "code": "61322",
-    "desc": "",
-    "id": "11271",
-    "name": "Bridgeport Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -146127,6 +146379,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.040888,
+     49.307195
+    ],
+    "type": "Point"
+   },
+   "id": "11598",
+   "properties": {
+    "code": "53955",
+    "desc": "",
+    "id": "11598",
+    "name": "Eastbound Cotton Rd @ Brooksbank Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.040448,
      49.312833
     ],
@@ -149252,6 +149522,24 @@
     "desc": "",
     "id": "11868",
     "name": "Eastbound Marine Dr @ South Mall Access",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.14143,
+     49.326706
+    ],
+    "type": "Point"
+   },
+   "id": "11869",
+   "properties": {
+    "code": "61769",
+    "desc": "",
+    "id": "11869",
+    "name": "Eastbound Marine Dr @ South Mall Access Layover",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158763,6 +159051,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.09865,
+     49.273853
+    ],
+    "type": "Point"
+   },
+   "id": "12602",
+   "properties": {
+    "code": "60351",
+    "desc": "",
+    "id": "12602",
+    "name": "Southbound Station St @ National Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.124019,
      49.282359
     ],
@@ -158781,8 +159087,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.081959,
-     49.311266
+     -123.081801,
+     49.311226
     ],
     "type": "Point"
    },
@@ -159825,6 +160131,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.031611,
+     49.205981
+    ],
+    "type": "Point"
+   },
+   "id": "12677",
+   "properties": {
+    "code": "60443",
+    "desc": "",
+    "id": "12677",
+    "name": "Westbound Sawmill Cres @ River District Crossing",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.061464,
      49.24353
     ],
@@ -159879,6 +160203,114 @@
   {
    "geometry": {
     "coordinates": [
+     -123.077751,
+     49.312929
+    ],
+    "type": "Point"
+   },
+   "id": "12682",
+   "properties": {
+    "code": "60380",
+    "desc": "",
+    "id": "12682",
+    "name": "Southbound Lonsdale Ave @ W 3rd St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.121976,
+     49.324309
+    ],
+    "type": "Point"
+   },
+   "id": "12683",
+   "properties": {
+    "code": "60376",
+    "desc": "",
+    "id": "12683",
+    "name": "Westbound Marine Dr @ Capilano Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.106585,
+     49.323766
+    ],
+    "type": "Point"
+   },
+   "id": "12685",
+   "properties": {
+    "code": "60405",
+    "desc": "",
+    "id": "12685",
+    "name": "Eastbound Marine Dr @ Pemberton Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.079648,
+     49.314479
+    ],
+    "type": "Point"
+   },
+   "id": "12686",
+   "properties": {
+    "code": "60407",
+    "desc": "",
+    "id": "12686",
+    "name": "Eastbound W 3rd St @ Chesterfield Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.077479,
+     49.313704
+    ],
+    "type": "Point"
+   },
+   "id": "12687",
+   "properties": {
+    "code": "60406",
+    "desc": "",
+    "id": "12687",
+    "name": "Westbound W 3rd St @ Lonsdale Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.029105,
+     49.305381
+    ],
+    "type": "Point"
+   },
+   "id": "12688",
+   "properties": {
+    "code": "60437",
+    "desc": "",
+    "id": "12688",
+    "name": "Phibbs Exchange @ Bay 12",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.819247,
      49.299145
     ],
@@ -159897,6 +160329,42 @@
   {
    "geometry": {
     "coordinates": [
+     -123.030733,
+     49.208301
+    ],
+    "type": "Point"
+   },
+   "id": "12690",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "12690",
+    "name": "Northbound Matheson Cres @ SE Marine Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.027535,
+     49.210359
+    ],
+    "type": "Point"
+   },
+   "id": "12691",
+   "properties": {
+    "code": "51793",
+    "desc": "",
+    "id": "12691",
+    "name": "Southbound Matheson Cres @ Champlain Cres",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.09659,
      49.321749
     ],
@@ -159908,6 +160376,42 @@
     "desc": "",
     "id": "12692",
     "name": "Eastbound Marine Dr @ Fell Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.082514,
+     49.311537
+    ],
+    "type": "Point"
+   },
+   "id": "12693",
+   "properties": {
+    "code": "60473",
+    "desc": "",
+    "id": "12693",
+    "name": "Lonsdale Quay @ Bay 16",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.082636,
+     49.311385
+    ],
+    "type": "Point"
+   },
+   "id": "12694",
+   "properties": {
+    "code": "60474",
+    "desc": "",
+    "id": "12694",
+    "name": "Lonsdale Quay @ Bay 17",
     "zone": "BUS ZN"
    },
    "type": "Feature"
