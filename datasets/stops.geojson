@@ -61573,7 +61573,7 @@
     "code": "54444",
     "desc": "",
     "id": "4494",
-    "name": "Westbound W Georgia St @ Homer St",
+    "name": "Westbound W Georgia St @ Richards St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -160336,7 +160336,7 @@
    },
    "id": "12690",
    "properties": {
-    "code": "",
+    "code": "51839",
     "desc": "",
     "id": "12690",
     "name": "Northbound Matheson Cres @ SE Marine Dr",
@@ -160412,6 +160412,24 @@
     "desc": "",
     "id": "12694",
     "name": "Lonsdale Quay @ Bay 17",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.845706,
+     49.183693
+    ],
+    "type": "Point"
+   },
+   "id": "12695",
+   "properties": {
+    "code": "60480",
+    "desc": "",
+    "id": "12695",
+    "name": "King George Station @ Bay 5",
     "zone": "BUS ZN"
    },
    "type": "Feature"
