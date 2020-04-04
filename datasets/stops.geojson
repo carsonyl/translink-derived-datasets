@@ -34509,6 +34509,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.003354,
+     49.226172
+    ],
+    "type": "Point"
+   },
+   "id": "2523",
+   "properties": {
+    "code": "52499",
+    "desc": "",
+    "id": "2523",
+    "name": "Metrotown Station @ Bay 8",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.000304,
      49.224203
     ],
@@ -54237,6 +54255,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.062686,
+     49.308457
+    ],
+    "type": "Point"
+   },
+   "id": "3994",
+   "properties": {
+    "code": "53953",
+    "desc": "",
+    "id": "3994",
+    "name": "Eastbound E 3rd St @ Ridgeway Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.059819,
      49.308434
     ],
@@ -57423,8 +57459,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.077514,
-     49.313148
+     -123.07747,
+     49.313219
     ],
     "type": "Point"
    },
@@ -61357,7 +61393,7 @@
     "code": "54421",
     "desc": "",
     "id": "4471",
-    "name": "Lonsdale Quay @ Bay 1 New",
+    "name": "Lonsdale Quay @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -61393,7 +61429,7 @@
     "code": "54423",
     "desc": "",
     "id": "4473",
-    "name": "Capilano University @ Bay 5",
+    "name": "Westbound Purcell Way @ Capilano University",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -132241,7 +132277,7 @@
     "code": "59754",
     "desc": "",
     "id": "10359",
-    "name": "Eastbound W 6th Ave @ Moberly Rd",
+    "name": "Eastbound W 6th Ave @ Heather St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -137173,7 +137209,7 @@
     "code": "58724",
     "desc": "",
     "id": "10865",
-    "name": "Lonsdale Quay @ Bay 3 New",
+    "name": "Lonsdale Quay @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -137191,7 +137227,7 @@
     "code": "58725",
     "desc": "",
     "id": "10866",
-    "name": "Lonsdale Quay @ Bay 4 New",
+    "name": "Lonsdale Quay @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -141475,7 +141511,7 @@
     "code": "61070",
     "desc": "",
     "id": "11196",
-    "name": "Capilano University @ Bay 3",
+    "name": "Capilano University @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -141529,7 +141565,7 @@
     "code": "61071",
     "desc": "",
     "id": "11199",
-    "name": "Capilano University @ Bay 4",
+    "name": "Capilano University @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -149522,24 +149558,6 @@
     "desc": "",
     "id": "11868",
     "name": "Eastbound Marine Dr @ South Mall Access",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.14143,
-     49.326706
-    ],
-    "type": "Point"
-   },
-   "id": "11869",
-   "properties": {
-    "code": "61769",
-    "desc": "",
-    "id": "11869",
-    "name": "Eastbound Marine Dr @ South Mall Access Layover",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159043,7 +159061,7 @@
     "code": "59351",
     "desc": "",
     "id": "12601",
-    "name": "Northbound Nanaimo St @ E 24th Ave",
+    "name": "Northbound Nanaimo St @ E 24 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159223,7 +159241,7 @@
     "code": "60306",
     "desc": "",
     "id": "12614",
-    "name": "Westbound Blundell Rd @ No. 8th Rd",
+    "name": "Westbound Blundell Rd @ No. 8 Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159241,7 +159259,7 @@
     "code": "60298",
     "desc": "",
     "id": "12615",
-    "name": "Eastbound Blundell Rd @ No. 8th Rd",
+    "name": "Eastbound Blundell Rd @ No. 8 Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
