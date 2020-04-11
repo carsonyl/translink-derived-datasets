@@ -1740,36 +1740,6 @@
      -123.029017,
      49.305482
     ]
-   ],
-   [
-    [
-     -123.029017,
-     49.305482
-    ],
-    [
-     -123.029217,
-     49.305737
-    ]
-   ],
-   [
-    [
-     -123.029217,
-     49.305737
-    ],
-    [
-     -123.02922,
-     49.305856
-    ]
-   ],
-   [
-    [
-     -123.02922,
-     49.305856
-    ],
-    [
-     -123.029146,
-     49.305945
-    ]
    ]
   ],
   "type": "MultiLineString"
@@ -1780,7 +1750,7 @@
   "name": "028-N1",
   "operating-company": "CMBC",
   "pattern-number": "N1",
-  "route-name": "CAP UNIVERSIT/PHIBBS EXCH/JOYCE STN",
+  "route-name": "PHIBBS EXCH/JOYCE STN",
   "route-number": "028",
   "stroke": "#267cff",
   "stroke-width": 3.0
