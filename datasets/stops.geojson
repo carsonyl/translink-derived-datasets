@@ -13395,6 +13395,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.120872,
+     49.284132
+    ],
+    "type": "Point"
+   },
+   "id": "984",
+   "properties": {
+    "code": "50975",
+    "desc": "",
+    "id": "984",
+    "name": "Eastbound W Georgia St @ Burrard St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.118529,
      49.28264
     ],
@@ -20559,8 +20577,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.961484,
-     49.239085
+     -122.961114,
+     49.238982
     ],
     "type": "Point"
    },
@@ -25221,24 +25239,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.031376,
-     49.306044
-    ],
-    "type": "Point"
-   },
-   "id": "1762",
-   "properties": {
-    "code": "51748",
-    "desc": "",
-    "id": "1762",
-    "name": "Westbound Oxford St @ Mountain Hwy",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.031976,
      49.309148
     ],
@@ -25311,24 +25311,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.025195,
-     49.312987
-    ],
-    "type": "Point"
-   },
-   "id": "1770",
-   "properties": {
-    "code": "51756",
-    "desc": "",
-    "id": "1770",
-    "name": "Southbound Lillooet Rd @ Mt Seymour Parkway",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.032716,
      49.311044
     ],
@@ -25376,24 +25358,6 @@
     "desc": "",
     "id": "1773",
     "name": "Southbound Mountain Hwy @ Rupert St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.03147,
-     49.305957
-    ],
-    "type": "Point"
-   },
-   "id": "1774",
-   "properties": {
-    "code": "51760",
-    "desc": "",
-    "id": "1774",
-    "name": "Eastbound Oxford St @ Mountain Hwy",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -57657,24 +57621,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.056946,
-     49.319875
-    ],
-    "type": "Point"
-   },
-   "id": "4222",
-   "properties": {
-    "code": "54177",
-    "desc": "",
-    "id": "4222",
-    "name": "Westbound E 13 St @ Grand Blvd East",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.05669,
      49.321838
     ],
@@ -61628,6 +61574,24 @@
     "desc": "",
     "id": "4495",
     "name": "Westbound W Georgia St @ Granville St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.121449,
+     49.284777
+    ],
+    "type": "Point"
+   },
+   "id": "4496",
+   "properties": {
+    "code": "54446",
+    "desc": "",
+    "id": "4496",
+    "name": "Westbound W Georgia St @ Burrard St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -88322,24 +88286,6 @@
     "desc": "",
     "id": "6258",
     "name": "Westbound Marine Dr @ Dolphin St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.80264,
-     49.02051
-    ],
-    "type": "Point"
-   },
-   "id": "6259",
-   "properties": {
-    "code": "56199",
-    "desc": "",
-    "id": "6259",
-    "name": "Westbound Marine Dr @ 15100 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -120855,24 +120801,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.077053,
-     49.057453
-    ],
-    "type": "Point"
-   },
-   "id": "9046",
-   "properties": {
-    "code": "57411",
-    "desc": "",
-    "id": "9046",
-    "name": "Southbound 53 St @ 3000 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.932394,
      49.175883
     ],
@@ -121593,6 +121521,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.120673,
+     49.284015
+    ],
+    "type": "Point"
+   },
+   "id": "9112",
+   "properties": {
+    "code": "58750",
+    "desc": "",
+    "id": "9112",
+    "name": "Eastbound W Georgia St @ Burrard St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.194664,
      49.23468
     ],
@@ -121694,6 +121640,24 @@
     "desc": "",
     "id": "9127",
     "name": "Westbound Foster Ave @ Midvale St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.121726,
+     49.284954
+    ],
+    "type": "Point"
+   },
+   "id": "9128",
+   "properties": {
+    "code": "58705",
+    "desc": "",
+    "id": "9128",
+    "name": "Westbound W Georgia St @ Burrard St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -130964,42 +130928,6 @@
     "desc": "",
     "id": "10252",
     "name": "Eastbound 64 Ave @ 186 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.700371,
-     49.118908
-    ],
-    "type": "Point"
-   },
-   "id": "10253",
-   "properties": {
-    "code": "60797",
-    "desc": "",
-    "id": "10253",
-    "name": "Eastbound 64 Ave @ 188 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.695869,
-     49.118979
-    ],
-    "type": "Point"
-   },
-   "id": "10255",
-   "properties": {
-    "code": "60798",
-    "desc": "",
-    "id": "10255",
-    "name": "Eastbound 64 Ave @ 190 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -141483,24 +141411,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.018939,
-     49.319206
-    ],
-    "type": "Point"
-   },
-   "id": "11195",
-   "properties": {
-    "code": "61069",
-    "desc": "",
-    "id": "11195",
-    "name": "Capilano University @ Bay 2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.018759,
      49.319395
     ],
@@ -146444,24 +146354,6 @@
     "desc": "",
     "id": "11600",
     "name": "Southbound Brooksbank Ave @ E Keith Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.04466,
-     49.308399
-    ],
-    "type": "Point"
-   },
-   "id": "11601",
-   "properties": {
-    "code": "53959",
-    "desc": "",
-    "id": "11601",
-    "name": "Westbound E 3rd St @ Gladstone Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156261,24 +156153,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.779098,
-     49.049613
-    ],
-    "type": "Point"
-   },
-   "id": "12387",
-   "properties": {
-    "code": "58781",
-    "desc": "",
-    "id": "12387",
-    "name": "Northbound 160 St @ 26 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.779079,
      49.053111
     ],
@@ -156441,8 +156315,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.779253,
-     49.05952
+     -122.780488,
+     49.060033
     ],
     "type": "Point"
    },
@@ -156451,25 +156325,7 @@
     "code": "58982",
     "desc": "",
     "id": "12398",
-    "name": "Southbound 160 St @ 32 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.779237,
-     49.052374
-    ],
-    "type": "Point"
-   },
-   "id": "12400",
-   "properties": {
-    "code": "58828",
-    "desc": "",
-    "id": "12400",
-    "name": "Southbound 160 St @ 28 Ave",
+    "name": "Eastbound 32 Ave @ 160 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158583,24 +158439,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.025034,
-     49.313239
-    ],
-    "type": "Point"
-   },
-   "id": "12553",
-   "properties": {
-    "code": "60311",
-    "desc": "",
-    "id": "12553",
-    "name": "Southbound Lillooet Rd @ Old Lillooet Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.0568,
      49.248992
     ],
@@ -159098,24 +158936,6 @@
     "desc": "",
     "id": "12603",
     "name": "Northbound Burrard St @ Smithe St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.081801,
-     49.311226
-    ],
-    "type": "Point"
-   },
-   "id": "12604",
-   "properties": {
-    "code": "60360",
-    "desc": "",
-    "id": "12604",
-    "name": "Lonsdale Quay @ Bay 14",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -160113,42 +159933,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.124524,
-     49.286503
-    ],
-    "type": "Point"
-   },
-   "id": "12675",
-   "properties": {
-    "code": "60442",
-    "desc": "",
-    "id": "12675",
-    "name": "Eastbound W Georgia St @ Bute St-",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.122777,
-     49.285653
-    ],
-    "type": "Point"
-   },
-   "id": "12676",
-   "properties": {
-    "code": "60440",
-    "desc": "",
-    "id": "12676",
-    "name": "Westbound W Georgia St @ Thurlow St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.031611,
      49.205981
     ],
@@ -160178,24 +159962,6 @@
     "desc": "",
     "id": "12679",
     "name": "Westbound Kingsway @ Gladstone",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.123546,
-     49.28612
-    ],
-    "type": "Point"
-   },
-   "id": "12680",
-   "properties": {
-    "code": "60445",
-    "desc": "",
-    "id": "12680",
-    "name": "Westbound W Georgia St @ Thurlow St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -160448,6 +160214,78 @@
     "desc": "",
     "id": "12695",
     "name": "King George Station @ Bay 5",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.056272,
+     49.322113
+    ],
+    "type": "Point"
+   },
+   "id": "12696",
+   "properties": {
+    "code": "60477",
+    "desc": "",
+    "id": "12696",
+    "name": "Northbound Grand Blvd East @ E 15 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.056323,
+     49.320103
+    ],
+    "type": "Point"
+   },
+   "id": "12697",
+   "properties": {
+    "code": "60476",
+    "desc": "",
+    "id": "12697",
+    "name": "Northbound Grand Blvd East @ E 13 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.780025,
+     49.052875
+    ],
+    "type": "Point"
+   },
+   "id": "12698",
+   "properties": {
+    "code": "60485",
+    "desc": "",
+    "id": "12698",
+    "name": "Westbound 28 Ave @ 160 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.780182,
+     49.049279
+    ],
+    "type": "Point"
+   },
+   "id": "12699",
+   "properties": {
+    "code": "60486",
+    "desc": "",
+    "id": "12699",
+    "name": "Westbound 26 Ave @ 160 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
