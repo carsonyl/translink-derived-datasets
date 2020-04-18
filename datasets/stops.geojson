@@ -3,114 +3,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.142673,
-     49.285864
-    ],
-    "type": "Point"
-   },
-   "id": "2",
-   "properties": {
-    "code": "50002",
-    "desc": "",
-    "id": "2",
-    "name": "Eastbound Beach Ave @ Burnaby St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.141656,
-     49.282864
-    ],
-    "type": "Point"
-   },
-   "id": "3",
-   "properties": {
-    "code": "50003",
-    "desc": "",
-    "id": "3",
-    "name": "Eastbound Beach Ave @ Cardero St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.140426,
-     49.282078
-    ],
-    "type": "Point"
-   },
-   "id": "4",
-   "properties": {
-    "code": "50004",
-    "desc": "",
-    "id": "4",
-    "name": "Eastbound Beach Ave @ Nicola St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.138296,
-     49.280306
-    ],
-    "type": "Point"
-   },
-   "id": "5",
-   "properties": {
-    "code": "50005",
-    "desc": "",
-    "id": "5",
-    "name": "Eastbound Beach Ave @ Jervis St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.136907,
-     49.278937
-    ],
-    "type": "Point"
-   },
-   "id": "6",
-   "properties": {
-    "code": "50006",
-    "desc": "",
-    "id": "6",
-    "name": "Eastbound Beach Ave @ Bute St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.135251,
-     49.277297
-    ],
-    "type": "Point"
-   },
-   "id": "7",
-   "properties": {
-    "code": "50007",
-    "desc": "",
-    "id": "7",
-    "name": "Eastbound Beach Ave @ Thurlow St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.126971,
      49.27755
     ],
@@ -914,24 +806,6 @@
     "desc": "",
     "id": "78",
     "name": "Eastbound W Pender St @ Seymour St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.112358,
-     49.282963
-    ],
-    "type": "Point"
-   },
-   "id": "79",
-   "properties": {
-    "code": "50079",
-    "desc": "",
-    "id": "79",
-    "name": "Eastbound W Pender St @ Richards St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -8787,6 +8661,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.056723,
+     49.28183
+    ],
+    "type": "Point"
+   },
+   "id": "677",
+   "properties": {
+    "code": "50670",
+    "desc": "",
+    "id": "677",
+    "name": "Southbound Nanaimo St @ Franklin St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.056725,
      49.280782
     ],
@@ -8870,24 +8762,6 @@
     "desc": "",
     "id": "683",
     "name": "Southbound Nanaimo St @ Kitchener St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.056729,
-     49.270068
-    ],
-    "type": "Point"
-   },
-   "id": "684",
-   "properties": {
-    "code": "50677",
-    "desc": "",
-    "id": "684",
-    "name": "Southbound Nanaimo St @ Graveley St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -9194,6 +9068,24 @@
     "desc": "",
     "id": "702",
     "name": "Westbound Kingsway @ Nanaimo St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.062011,
+     49.243784
+    ],
+    "type": "Point"
+   },
+   "id": "703",
+   "properties": {
+    "code": "50696",
+    "desc": "",
+    "id": "703",
+    "name": "Westbound Kingsway @ Gladstone St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -9698,6 +9590,24 @@
     "desc": "",
     "id": "734",
     "name": "Northbound Nanaimo St @ Napier St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.056382,
+     49.280521
+    ],
+    "type": "Point"
+   },
+   "id": "736",
+   "properties": {
+    "code": "50729",
+    "desc": "",
+    "id": "736",
+    "name": "Northbound Nanaimo St @ E Pender St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -36355,7 +36265,7 @@
     "code": "52621",
     "desc": "",
     "id": "2646",
-    "name": "Northbound 12 St @ 6th Ave",
+    "name": "Northbound 12 St @ Nanaimo St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -85233,6 +85143,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.812191,
+     49.183668
+    ],
+    "type": "Point"
+   },
+   "id": "6064",
+   "properties": {
+    "code": "56006",
+    "desc": "",
+    "id": "6064",
+    "name": "Southbound 148 St @ 100 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.81225,
      49.180174
     ],
@@ -97268,6 +97196,24 @@
     "desc": "",
     "id": "6890",
     "name": "Southbound Gilbert Rd @ Azure Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.14789,
+     49.164437
+    ],
+    "type": "Point"
+   },
+   "id": "6891",
+   "properties": {
+    "code": "56826",
+    "desc": "",
+    "id": "6891",
+    "name": "Southbound Gilbert Rd @ 6800 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -140007,42 +139953,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.097555,
-     49.031895
-    ],
-    "type": "Point"
-   },
-   "id": "11115",
-   "properties": {
-    "code": "61229",
-    "desc": "",
-    "id": "11115",
-    "name": "Southbound Tsawwassen Dr N @ Eagle Way",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.097435,
-     49.03175
-    ],
-    "type": "Point"
-   },
-   "id": "11116",
-   "properties": {
-    "code": "61230",
-    "desc": "",
-    "id": "11116",
-    "name": "Northbound Tsawwassen Dr N @ Eagle Way",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.688831,
      49.227391
     ],
@@ -140529,24 +140439,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.097204,
-     49.034601
-    ],
-    "type": "Point"
-   },
-   "id": "11146",
-   "properties": {
-    "code": "61228",
-    "desc": "",
-    "id": "11146",
-    "name": "Northbound Tsawwassen Dr N @ 1700 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.079626,
      49.032523
     ],
@@ -140637,24 +140529,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.097337,
-     49.03453
-    ],
-    "type": "Point"
-   },
-   "id": "11152",
-   "properties": {
-    "code": "61227",
-    "desc": "",
-    "id": "11152",
-    "name": "Southbound Tsawwassen Dr N @ 1700 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.839451,
      49.118962
     ],
@@ -140666,24 +140540,6 @@
     "desc": "",
     "id": "11153",
     "name": "Eastbound 64 Ave @ 138 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.097914,
-     49.039553
-    ],
-    "type": "Point"
-   },
-   "id": "11154",
-   "properties": {
-    "code": "61226",
-    "desc": "",
-    "id": "11154",
-    "name": "Northbound Tsawwassen Dr N @ 1900 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -145137,24 +144993,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.096495,
-     49.02956
-    ],
-    "type": "Point"
-   },
-   "id": "11510",
-   "properties": {
-    "code": "61479",
-    "desc": "",
-    "id": "11510",
-    "name": "Southbound Hwy 17 @ Tsawwassen Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.550454,
      49.187397
     ],
@@ -145886,24 +145724,6 @@
     "desc": "",
     "id": "11568",
     "name": "Westbound 57 Ave @ 177B St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.132556,
-     49.275128
-    ],
-    "type": "Point"
-   },
-   "id": "11569",
-   "properties": {
-    "code": "59394",
-    "desc": "",
-    "id": "11569",
-    "name": "Eastbound Beach Ave @ Hornby St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -149439,8 +149259,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.141227,
-     49.326699
+     -123.141381,
+     49.32669
     ],
     "type": "Point"
    },
@@ -149990,24 +149810,6 @@
     "desc": "",
     "id": "11913",
     "name": "Northbound King George Blvd @ 58A Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.141641,
-     49.287686
-    ],
-    "type": "Point"
-   },
-   "id": "11915",
-   "properties": {
-    "code": "61824",
-    "desc": "",
-    "id": "11915",
-    "name": "Eastbound Morton Ave @ Beach Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159915,24 +159717,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.056701,
-     49.282677
-    ],
-    "type": "Point"
-   },
-   "id": "12674",
-   "properties": {
-    "code": "60438",
-    "desc": "",
-    "id": "12674",
-    "name": "Southbound Nanaimo St @ Franklin St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.031611,
      49.205981
     ],
@@ -159944,24 +159728,6 @@
     "desc": "",
     "id": "12677",
     "name": "Westbound Sawmill Cres @ River District Crossing",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.061464,
-     49.24353
-    ],
-    "type": "Point"
-   },
-   "id": "12679",
-   "properties": {
-    "code": "60433",
-    "desc": "",
-    "id": "12679",
-    "name": "Westbound Kingsway @ Gladstone",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -160286,6 +160052,42 @@
     "desc": "",
     "id": "12699",
     "name": "Westbound 26 Ave @ 160 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.056738,
+     49.270892
+    ],
+    "type": "Point"
+   },
+   "id": "12700",
+   "properties": {
+    "code": "60439",
+    "desc": "",
+    "id": "12700",
+    "name": "Southbound Nanaimo St @ Grant St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.14065,
+     49.286412
+    ],
+    "type": "Point"
+   },
+   "id": "12701",
+   "properties": {
+    "code": "60487",
+    "desc": "",
+    "id": "12701",
+    "name": "Eastbound Davie St @ Bidwell St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
