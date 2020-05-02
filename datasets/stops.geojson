@@ -273,24 +273,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.133574,
-     49.282009
-    ],
-    "type": "Point"
-   },
-   "id": "50",
-   "properties": {
-    "code": "50050",
-    "desc": "",
-    "id": "50",
-    "name": "Westbound Davie St @ Bute St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.135121,
      49.283006
     ],
@@ -6116,6 +6098,24 @@
     "desc": "",
     "id": "470",
     "name": "Westbound W Broadway @ Hemlock St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.114831,
+     49.260758
+    ],
+    "type": "Point"
+   },
+   "id": "485",
+   "properties": {
+    "code": "50481",
+    "desc": "",
+    "id": "485",
+    "name": "Northbound Cambie St @ W 12 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -22622,24 +22622,6 @@
     "desc": "",
     "id": "1613",
     "name": "Northbound Wesbrook Mall @ Thunderbird Blvd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.243949,
-     49.264762
-    ],
-    "type": "Point"
-   },
-   "id": "1614",
-   "properties": {
-    "code": "58606",
-    "desc": "",
-    "id": "1614",
-    "name": "Northbound Wesbrook Mall @ 2100 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -41259,8 +41241,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.968023,
-     49.240881
+     -122.967981,
+     49.240608
     ],
     "type": "Point"
    },
@@ -63381,24 +63363,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.145795,
-     49.334333
-    ],
-    "type": "Point"
-   },
-   "id": "4711",
-   "properties": {
-    "code": "54659",
-    "desc": "",
-    "id": "4711",
-    "name": "Northbound 11 St @ Inglewood Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.146257,
      49.338188
     ],
@@ -63464,636 +63428,6 @@
     "desc": "",
     "id": "4716",
     "name": "Westbound Mathers Ave @ 15 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.159459,
-     49.341875
-    ],
-    "type": "Point"
-   },
-   "id": "4719",
-   "properties": {
-    "code": "54667",
-    "desc": "",
-    "id": "4719",
-    "name": "Westbound Queens Ave @ 17 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.163435,
-     49.341907
-    ],
-    "type": "Point"
-   },
-   "id": "4720",
-   "properties": {
-    "code": "54668",
-    "desc": "",
-    "id": "4720",
-    "name": "Westbound Queens Ave @ 18 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.165651,
-     49.341892
-    ],
-    "type": "Point"
-   },
-   "id": "4721",
-   "properties": {
-    "code": "54669",
-    "desc": "",
-    "id": "4721",
-    "name": "Westbound Queens Ave @ 19 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.168635,
-     49.341901
-    ],
-    "type": "Point"
-   },
-   "id": "4722",
-   "properties": {
-    "code": "54670",
-    "desc": "",
-    "id": "4722",
-    "name": "Westbound Queens Ave @ 21 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.171034,
-     49.341909
-    ],
-    "type": "Point"
-   },
-   "id": "4723",
-   "properties": {
-    "code": "54671",
-    "desc": "",
-    "id": "4723",
-    "name": "Westbound Queens Ave @ 22 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.173683,
-     49.342219
-    ],
-    "type": "Point"
-   },
-   "id": "4724",
-   "properties": {
-    "code": "54672",
-    "desc": "",
-    "id": "4724",
-    "name": "Westbound Queens Ave @ Orchard Way",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.174348,
-     49.342226
-    ],
-    "type": "Point"
-   },
-   "id": "4725",
-   "properties": {
-    "code": "54673",
-    "desc": "",
-    "id": "4725",
-    "name": "Westbound Queens Ave @ Orchard Way",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.17903,
-     49.342292
-    ],
-    "type": "Point"
-   },
-   "id": "4726",
-   "properties": {
-    "code": "54674",
-    "desc": "",
-    "id": "4726",
-    "name": "Westbound Queens Ave @ 2400 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.182572,
-     49.342343
-    ],
-    "type": "Point"
-   },
-   "id": "4727",
-   "properties": {
-    "code": "54675",
-    "desc": "",
-    "id": "4727",
-    "name": "Westbound Queens Ave @ 2500 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.185164,
-     49.34238
-    ],
-    "type": "Point"
-   },
-   "id": "4728",
-   "properties": {
-    "code": "54676",
-    "desc": "",
-    "id": "4728",
-    "name": "Westbound Queens Ave @ 26 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.188567,
-     49.343781
-    ],
-    "type": "Point"
-   },
-   "id": "4729",
-   "properties": {
-    "code": "54677",
-    "desc": "",
-    "id": "4729",
-    "name": "Westbound Queens Ave @ 27 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.189253,
-     49.343004
-    ],
-    "type": "Point"
-   },
-   "id": "4730",
-   "properties": {
-    "code": "54678",
-    "desc": "",
-    "id": "4730",
-    "name": "Southbound 27 St @ 28 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.18874,
-     49.341
-    ],
-    "type": "Point"
-   },
-   "id": "4731",
-   "properties": {
-    "code": "54679",
-    "desc": "",
-    "id": "4731",
-    "name": "Southbound 27 St @ Palmerston Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.18886,
-     49.339568
-    ],
-    "type": "Point"
-   },
-   "id": "4732",
-   "properties": {
-    "code": "54680",
-    "desc": "",
-    "id": "4732",
-    "name": "Southbound 27 St @ Nelson Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.18883,
-     49.33827
-    ],
-    "type": "Point"
-   },
-   "id": "4733",
-   "properties": {
-    "code": "54681",
-    "desc": "",
-    "id": "4733",
-    "name": "Southbound 27 St @ Mathers Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.188886,
-     49.33671
-    ],
-    "type": "Point"
-   },
-   "id": "4734",
-   "properties": {
-    "code": "54682",
-    "desc": "",
-    "id": "4734",
-    "name": "Southbound 27 St @ Marine Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.160111,
-     49.330913
-    ],
-    "type": "Point"
-   },
-   "id": "4736",
-   "properties": {
-    "code": "54684",
-    "desc": "",
-    "id": "4736",
-    "name": "Northbound 17 St @ Esquimalt Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.157226,
-     49.331479
-    ],
-    "type": "Point"
-   },
-   "id": "4737",
-   "properties": {
-    "code": "54685",
-    "desc": "",
-    "id": "4737",
-    "name": "Eastbound Fulton Ave @ 15 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.153752,
-     49.331426
-    ],
-    "type": "Point"
-   },
-   "id": "4738",
-   "properties": {
-    "code": "54686",
-    "desc": "",
-    "id": "4738",
-    "name": "Eastbound Fulton Ave @ 14 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.151038,
-     49.331398
-    ],
-    "type": "Point"
-   },
-   "id": "4739",
-   "properties": {
-    "code": "54687",
-    "desc": "",
-    "id": "4739",
-    "name": "Eastbound Fulton Ave @ 13 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.148297,
-     49.331353
-    ],
-    "type": "Point"
-   },
-   "id": "4740",
-   "properties": {
-    "code": "54688",
-    "desc": "",
-    "id": "4740",
-    "name": "Eastbound Fulton Ave @ 12 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.145817,
-     49.33168
-    ],
-    "type": "Point"
-   },
-   "id": "4741",
-   "properties": {
-    "code": "54689",
-    "desc": "",
-    "id": "4741",
-    "name": "Northbound 11 St @ Fulton Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.14581,
-     49.332674
-    ],
-    "type": "Point"
-   },
-   "id": "4742",
-   "properties": {
-    "code": "54690",
-    "desc": "",
-    "id": "4742",
-    "name": "Northbound 11 St @ Gordon Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.148767,
-     49.334585
-    ],
-    "type": "Point"
-   },
-   "id": "4743",
-   "properties": {
-    "code": "54691",
-    "desc": "",
-    "id": "4743",
-    "name": "Westbound Inglewood Ave @ 12 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.15175,
-     49.33458
-    ],
-    "type": "Point"
-   },
-   "id": "4744",
-   "properties": {
-    "code": "54692",
-    "desc": "",
-    "id": "4744",
-    "name": "Westbound Inglewood Ave @ 13 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.154566,
-     49.33462
-    ],
-    "type": "Point"
-   },
-   "id": "4745",
-   "properties": {
-    "code": "54693",
-    "desc": "",
-    "id": "4745",
-    "name": "Westbound Inglewood Ave @ 14 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.16051,
-     49.3346
-    ],
-    "type": "Point"
-   },
-   "id": "4747",
-   "properties": {
-    "code": "54695",
-    "desc": "",
-    "id": "4747",
-    "name": "Westbound Inglewood Ave @ 17 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.166502,
-     49.334657
-    ],
-    "type": "Point"
-   },
-   "id": "4748",
-   "properties": {
-    "code": "54696",
-    "desc": "",
-    "id": "4748",
-    "name": "Westbound Inglewood Ave @ 20 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.166585,
-     49.336681
-    ],
-    "type": "Point"
-   },
-   "id": "4749",
-   "properties": {
-    "code": "54697",
-    "desc": "",
-    "id": "4749",
-    "name": "Northbound 20 St @ Kings Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.166908,
-     49.338261
-    ],
-    "type": "Point"
-   },
-   "id": "4750",
-   "properties": {
-    "code": "54698",
-    "desc": "",
-    "id": "4750",
-    "name": "Westbound Mathers Ave @ 20 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.171156,
-     49.338316
-    ],
-    "type": "Point"
-   },
-   "id": "4751",
-   "properties": {
-    "code": "54699",
-    "desc": "",
-    "id": "4751",
-    "name": "Westbound Mathers Ave @ 22 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.17516,
-     49.338384
-    ],
-    "type": "Point"
-   },
-   "id": "4752",
-   "properties": {
-    "code": "54700",
-    "desc": "",
-    "id": "4752",
-    "name": "Westbound Mathers Ave @ 23 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.179475,
-     49.338442
-    ],
-    "type": "Point"
-   },
-   "id": "4753",
-   "properties": {
-    "code": "54701",
-    "desc": "",
-    "id": "4753",
-    "name": "Westbound Mathers Ave @ 24 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.18239,
-     49.338122
-    ],
-    "type": "Point"
-   },
-   "id": "4754",
-   "properties": {
-    "code": "54702",
-    "desc": "",
-    "id": "4754",
-    "name": "Southbound 25 St @ Mathers Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.182475,
-     49.336764
-    ],
-    "type": "Point"
-   },
-   "id": "4755",
-   "properties": {
-    "code": "54703",
-    "desc": "",
-    "id": "4755",
-    "name": "Southbound 25 St @ Kings Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -86655,6 +85989,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.80264,
+     49.02051
+    ],
+    "type": "Point"
+   },
+   "id": "6259",
+   "properties": {
+    "code": "56199",
+    "desc": "",
+    "id": "6259",
+    "name": "Westbound Marine Dr @ 15100 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.808973,
      49.022354
     ],
@@ -90597,8 +89949,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.182523,
-     49.126493
+     -123.184059,
+     49.126496
     ],
     "type": "Point"
    },
@@ -112377,42 +111729,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.157301,
-     49.341882
-    ],
-    "type": "Point"
-   },
-   "id": "8127",
-   "properties": {
-    "code": "54666",
-    "desc": "",
-    "id": "8127",
-    "name": "Westbound Queens Ave @ 15 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.157371,
-     49.334624
-    ],
-    "type": "Point"
-   },
-   "id": "8128",
-   "properties": {
-    "code": "54694",
-    "desc": "",
-    "id": "8128",
-    "name": "Westbound Inglewood Ave @ 15 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.026025,
      49.281562
     ],
@@ -113295,150 +112611,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.157429,
-     49.341742
-    ],
-    "type": "Point"
-   },
-   "id": "8454",
-   "properties": {
-    "code": "60908",
-    "desc": "",
-    "id": "8454",
-    "name": "Eastbound Queens Ave @ 1500 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.18873,
-     49.337782
-    ],
-    "type": "Point"
-   },
-   "id": "8455",
-   "properties": {
-    "code": "60893",
-    "desc": "",
-    "id": "8455",
-    "name": "Northbound 27 St @ 1400 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.188716,
-     49.338735
-    ],
-    "type": "Point"
-   },
-   "id": "8456",
-   "properties": {
-    "code": "60892",
-    "desc": "",
-    "id": "8456",
-    "name": "Northbound 27 St @ 1500 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.188621,
-     49.340754
-    ],
-    "type": "Point"
-   },
-   "id": "8457",
-   "properties": {
-    "code": "60891",
-    "desc": "",
-    "id": "8457",
-    "name": "Northbound 27 St @ 1700 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.185041,
-     49.342274
-    ],
-    "type": "Point"
-   },
-   "id": "8459",
-   "properties": {
-    "code": "60895",
-    "desc": "",
-    "id": "8459",
-    "name": "Eastbound Queens Ave @ 2500 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.175671,
-     49.342148
-    ],
-    "type": "Point"
-   },
-   "id": "8460",
-   "properties": {
-    "code": "60899",
-    "desc": "",
-    "id": "8460",
-    "name": "Eastbound Queens Ave @ 2300 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.156633,
-     49.338115
-    ],
-    "type": "Point"
-   },
-   "id": "8464",
-   "properties": {
-    "code": "60910",
-    "desc": "",
-    "id": "8464",
-    "name": "Eastbound Mathers Ave @ 15 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.151198,
-     49.338095
-    ],
-    "type": "Point"
-   },
-   "id": "8465",
-   "properties": {
-    "code": "60911",
-    "desc": "",
-    "id": "8465",
-    "name": "Eastbound Mathers Ave @ 1200 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.14597,
      49.334271
     ],
@@ -113486,168 +112658,6 @@
     "desc": "",
     "id": "8469",
     "name": "Westbound Fulton Ave @ 1300 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.157323,
-     49.33161
-    ],
-    "type": "Point"
-   },
-   "id": "8470",
-   "properties": {
-    "code": "60914",
-    "desc": "",
-    "id": "8470",
-    "name": "Westbound Fulton Ave @ 1500 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.160315,
-     49.329372
-    ],
-    "type": "Point"
-   },
-   "id": "8471",
-   "properties": {
-    "code": "60913",
-    "desc": "",
-    "id": "8471",
-    "name": "Southbound 17 St @ 500 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.156357,
-     49.334506
-    ],
-    "type": "Point"
-   },
-   "id": "8472",
-   "properties": {
-    "code": "60915",
-    "desc": "",
-    "id": "8472",
-    "name": "Eastbound Inglewood Ave @ 1400 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.150858,
-     49.334487
-    ],
-    "type": "Point"
-   },
-   "id": "8473",
-   "properties": {
-    "code": "60916",
-    "desc": "",
-    "id": "8473",
-    "name": "Eastbound Inglewood Ave @ 1200 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.17396,
-     49.338233
-    ],
-    "type": "Point"
-   },
-   "id": "8476",
-   "properties": {
-    "code": "60900",
-    "desc": "",
-    "id": "8476",
-    "name": "Eastbound Mathers Ave @ 2200 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.166698,
-     49.337912
-    ],
-    "type": "Point"
-   },
-   "id": "8477",
-   "properties": {
-    "code": "60902",
-    "desc": "",
-    "id": "8477",
-    "name": "Southbound 20 St @ Mathers Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.166107,
-     49.334548
-    ],
-    "type": "Point"
-   },
-   "id": "8478",
-   "properties": {
-    "code": "60903",
-    "desc": "",
-    "id": "8478",
-    "name": "Eastbound Inglewood Ave @ 1900 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.162505,
-     49.334525
-    ],
-    "type": "Point"
-   },
-   "id": "8479",
-   "properties": {
-    "code": "60905",
-    "desc": "",
-    "id": "8479",
-    "name": "Eastbound Inglewood Ave @ 1700 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.158293,
-     49.334491
-    ],
-    "type": "Point"
-   },
-   "id": "8480",
-   "properties": {
-    "code": "60912",
-    "desc": "",
-    "id": "8480",
-    "name": "Eastbound Inglewood Ave @ 1500 Block (Flag)",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -115394,24 +114404,6 @@
     "desc": "",
     "id": "8650",
     "name": "Richmond-Brighouse Station @ Bay 6A",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.163501,
-     49.334618
-    ],
-    "type": "Point"
-   },
-   "id": "8651",
-   "properties": {
-    "code": "60904",
-    "desc": "",
-    "id": "8651",
-    "name": "Westbound Inglewood Ave @ Sinclair St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -133851,78 +132843,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.146219,
-     49.338072
-    ],
-    "type": "Point"
-   },
-   "id": "10761",
-   "properties": {
-    "code": "60969",
-    "desc": "",
-    "id": "10761",
-    "name": "Eastbound Mathers Ave @ 11 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.154757,
-     49.331576
-    ],
-    "type": "Point"
-   },
-   "id": "10762",
-   "properties": {
-    "code": "60965",
-    "desc": "",
-    "id": "10762",
-    "name": "Westbound Fulton Ave @ 1400 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.153657,
-     49.334493
-    ],
-    "type": "Point"
-   },
-   "id": "10763",
-   "properties": {
-    "code": "60966",
-    "desc": "",
-    "id": "10763",
-    "name": "Eastbound Inglewood Ave @ 1300 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.167739,
-     49.338154
-    ],
-    "type": "Point"
-   },
-   "id": "10764",
-   "properties": {
-    "code": "60967",
-    "desc": "",
-    "id": "10764",
-    "name": "Eastbound Mathers Ave @ 2000 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.13938,
      49.351835
     ],
@@ -134859,24 +133779,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.15681,
-     49.339239
-    ],
-    "type": "Point"
-   },
-   "id": "10859",
-   "properties": {
-    "code": "54665",
-    "desc": "",
-    "id": "10859",
-    "name": "Northbound 15 St @ Nelson Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.84529,
      49.277676
     ],
@@ -135147,6 +134049,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.59727,
+     49.219451
+    ],
+    "type": "Point"
+   },
+   "id": "10886",
+   "properties": {
+    "code": "61063",
+    "desc": "",
+    "id": "10886",
+    "name": "Haney Place @ Bay 2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.596908,
      49.21945
     ],
@@ -135201,35 +134121,17 @@
   {
    "geometry": {
     "coordinates": [
-     -122.596741,
-     49.2195
+     -122.597301,
+     49.219502
     ],
     "type": "Point"
    },
-   "id": "10890",
+   "id": "10892",
    "properties": {
-    "code": "61059",
+    "code": "61057",
     "desc": "",
-    "id": "10890",
-    "name": "Haney Place @ Bay 6",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.597034,
-     49.219505
-    ],
-    "type": "Point"
-   },
-   "id": "10891",
-   "properties": {
-    "code": "61058",
-    "desc": "",
-    "id": "10891",
-    "name": "Haney Place @ Bay 7",
+    "id": "10892",
+    "name": "Haney Place @ Bay 8",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -138261,6 +137163,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.097914,
+     49.039553
+    ],
+    "type": "Point"
+   },
+   "id": "11154",
+   "properties": {
+    "code": "61226",
+    "desc": "",
+    "id": "11154",
+    "name": "Northbound Tsawwassen Dr N @ 1900 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.873924,
      49.119261
     ],
@@ -141062,6 +139982,24 @@
     "desc": "",
     "id": "11337",
     "name": "Yaletown-Roundhouse Station @ Bay 3",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.114655,
+     49.262759
+    ],
+    "type": "Point"
+   },
+   "id": "11352",
+   "properties": {
+    "code": "61027",
+    "desc": "",
+    "id": "11352",
+    "name": "Broadway-City Hall Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -149007,24 +147945,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.18853,
-     49.34369
-    ],
-    "type": "Point"
-   },
-   "id": "12049",
-   "properties": {
-    "code": "61949",
-    "desc": "",
-    "id": "12049",
-    "name": "Eastbound Queens Ave @ 27 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.055375,
      49.23952
     ],
@@ -149090,24 +148010,6 @@
     "desc": "",
     "id": "12053",
     "name": "Westbound 54 Ave @ 192 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.16867,
-     49.34182
-    ],
-    "type": "Point"
-   },
-   "id": "12054",
-   "properties": {
-    "code": "61951",
-    "desc": "",
-    "id": "12054",
-    "name": "Eastbound Queens Ave @ 21 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -150134,24 +149036,6 @@
     "desc": "",
     "id": "12155",
     "name": "King George Station @ Bay 4",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.162543,
-     49.341768
-    ],
-    "type": "Point"
-   },
-   "id": "12160",
-   "properties": {
-    "code": "59425",
-    "desc": "",
-    "id": "12160",
-    "name": "Eastbound Queens Ave @ 18 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -153093,24 +151977,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.779079,
-     49.053111
-    ],
-    "type": "Point"
-   },
-   "id": "12388",
-   "properties": {
-    "code": "58783",
-    "desc": "",
-    "id": "12388",
-    "name": "Northbound 160 St @ 28 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.779779,
      49.060162
     ],
@@ -155271,6 +154137,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.11511,
+     49.261999
+    ],
+    "type": "Point"
+   },
+   "id": "12548",
+   "properties": {
+    "code": "60307",
+    "desc": "",
+    "id": "12548",
+    "name": "Broadway-City Hall Station @ Bay 3",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.354759,
      49.387519
     ],
@@ -157136,6 +156020,240 @@
     "desc": "",
     "id": "12701",
     "name": "Eastbound Davie St @ Bidwell St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.133052,
+     49.281672
+    ],
+    "type": "Point"
+   },
+   "id": "12702",
+   "properties": {
+    "code": "60489",
+    "desc": "",
+    "id": "12702",
+    "name": "Westbound Davie St @ Bute St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.152113,
+     49.260922
+    ],
+    "type": "Point"
+   },
+   "id": "12703",
+   "properties": {
+    "code": "60408",
+    "desc": "",
+    "id": "12703",
+    "name": "Eastbound W 12th Ave @ Arbutus St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147849,
+     49.260863
+    ],
+    "type": "Point"
+   },
+   "id": "12704",
+   "properties": {
+    "code": "60409",
+    "desc": "",
+    "id": "12704",
+    "name": "Eastbound W 12th Ave @ Cypress St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.148612,
+     49.260992
+    ],
+    "type": "Point"
+   },
+   "id": "12705",
+   "properties": {
+    "code": "60410",
+    "desc": "",
+    "id": "12705",
+    "name": "Westbound W 12th Ave @ Cypress St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.143122,
+     49.260786
+    ],
+    "type": "Point"
+   },
+   "id": "12706",
+   "properties": {
+    "code": "60411",
+    "desc": "",
+    "id": "12706",
+    "name": "Eastbound W 12 Ave @ Pine St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.143876,
+     49.260917
+    ],
+    "type": "Point"
+   },
+   "id": "12707",
+   "properties": {
+    "code": "60412",
+    "desc": "",
+    "id": "12707",
+    "name": "Westbound W 12th Ave @ Pine St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.12604,
+     49.260482
+    ],
+    "type": "Point"
+   },
+   "id": "12708",
+   "properties": {
+    "code": "60413",
+    "desc": "",
+    "id": "12708",
+    "name": "Eastbound W 12 Ave @ Oak St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.12392,
+     49.260473
+    ],
+    "type": "Point"
+   },
+   "id": "12709",
+   "properties": {
+    "code": "60414",
+    "desc": "",
+    "id": "12709",
+    "name": "Eastbound W 12th Ave @ Laurel St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.124667,
+     49.260622
+    ],
+    "type": "Point"
+   },
+   "id": "12710",
+   "properties": {
+    "code": "60415",
+    "desc": "",
+    "id": "12710",
+    "name": "Westbound W 12th Ave @ Laurel St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.120306,
+     49.260394
+    ],
+    "type": "Point"
+   },
+   "id": "12711",
+   "properties": {
+    "code": "60416",
+    "desc": "",
+    "id": "12711",
+    "name": "Eastbound W 12th Ave @ Heather St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.12041,
+     49.260557
+    ],
+    "type": "Point"
+   },
+   "id": "12712",
+   "properties": {
+    "code": "60417",
+    "desc": "",
+    "id": "12712",
+    "name": "Westbound W 12th Ave @ Heather St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.11559,
+     49.260482
+    ],
+    "type": "Point"
+   },
+   "id": "12713",
+   "properties": {
+    "code": "60418",
+    "desc": "",
+    "id": "12713",
+    "name": "Westbound W 12th Ave @ Cambie St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.777615,
+     49.052763
+    ],
+    "type": "Point"
+   },
+   "id": "12714",
+   "properties": {
+    "code": "60490",
+    "desc": "",
+    "id": "12714",
+    "name": "Eastbound 28 Ave @ 160 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
