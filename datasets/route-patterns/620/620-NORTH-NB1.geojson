@@ -1895,7 +1895,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "BRIDGEPORT STN VIA LADNER EXCH",
+  "destination": "BRIDGEPORT STN EXPRESS",
   "direction": "NORTH",
   "name": "620-NB1",
   "operating-company": "CMBC",

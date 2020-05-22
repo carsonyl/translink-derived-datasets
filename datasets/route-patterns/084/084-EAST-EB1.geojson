@@ -1905,7 +1905,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "VCC-CLARK STN",
+  "destination": "VCC-CLARK STN  EXPRESS",
   "direction": "EAST",
   "name": "084-EB1",
   "operating-company": "CMBC",

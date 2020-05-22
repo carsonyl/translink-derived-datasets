@@ -1955,7 +1955,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "BRIGHOUSE STN",
+  "destination": "BRIGHOUSE STN EXPRESS",
   "direction": "WEST",
   "name": "430-WB1",
   "operating-company": "CMBC",
