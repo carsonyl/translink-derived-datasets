@@ -9723,78 +9723,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.130146,
-     49.207164
-    ],
-    "type": "Point"
-   },
-   "id": "748",
-   "properties": {
-    "code": "50741",
-    "desc": "",
-    "id": "748",
-    "name": "Northbound Oak St @ W 71 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.13011,
-     49.208777
-    ],
-    "type": "Point"
-   },
-   "id": "749",
-   "properties": {
-    "code": "50742",
-    "desc": "",
-    "id": "749",
-    "name": "Northbound Oak St @ W 70 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.130033,
-     49.211074
-    ],
-    "type": "Point"
-   },
-   "id": "750",
-   "properties": {
-    "code": "50743",
-    "desc": "",
-    "id": "750",
-    "name": "Northbound Oak St @ W 67 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.129963,
-     49.213261
-    ],
-    "type": "Point"
-   },
-   "id": "751",
-   "properties": {
-    "code": "50744",
-    "desc": "",
-    "id": "751",
-    "name": "Northbound Oak St @ W 64 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.129909,
      49.214711
     ],
@@ -41097,42 +41025,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.013693,
-     49.287363
-    ],
-    "type": "Point"
-   },
-   "id": "3001",
-   "properties": {
-    "code": "52970",
-    "desc": "",
-    "id": "3001",
-    "name": "Eastbound Eton St @ N Gilmore Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.010734,
-     49.287342
-    ],
-    "type": "Point"
-   },
-   "id": "3002",
-   "properties": {
-    "code": "52971",
-    "desc": "",
-    "id": "3002",
-    "name": "Eastbound Eton St @ N Carleton Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.003094,
      49.286146
     ],
@@ -41216,42 +41108,6 @@
     "desc": "",
     "id": "3011",
     "name": "Northbound N Willingdon Ave @ Penzance Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.008917,
-     49.287403
-    ],
-    "type": "Point"
-   },
-   "id": "3014",
-   "properties": {
-    "code": "52983",
-    "desc": "",
-    "id": "3014",
-    "name": "Westbound Eton St @ N Madison Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.011609,
-     49.287419
-    ],
-    "type": "Point"
-   },
-   "id": "3015",
-   "properties": {
-    "code": "52984",
-    "desc": "",
-    "id": "3015",
-    "name": "Westbound Eton St @ N Carleton Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -44247,8 +44103,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.877246,
-     49.282803
+     -122.877971,
+     49.282564
     ],
     "type": "Point"
    },
@@ -56919,6 +56775,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.075822,
+     49.314476
+    ],
+    "type": "Point"
+   },
+   "id": "4187",
+   "properties": {
+    "code": "54143",
+    "desc": "",
+    "id": "4187",
+    "name": "Northbound Lonsdale Ave @ E 4th St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.073317,
      49.316943
     ],
@@ -57092,6 +56966,24 @@
     "desc": "",
     "id": "4201",
     "name": "Southbound Lonsdale Ave @ W Keith Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.075818,
+     49.31482
+    ],
+    "type": "Point"
+   },
+   "id": "4203",
+   "properties": {
+    "code": "54158",
+    "desc": "",
+    "id": "4203",
+    "name": "Southbound Lonsdale Ave @ W 5th St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -127562,6 +127454,24 @@
     "desc": "",
     "id": "9947",
     "name": "Westbound Fraser Hwy @ 159 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.914936,
+     49.200769
+    ],
+    "type": "Point"
+   },
+   "id": "9948",
+   "properties": {
+    "code": "59848",
+    "desc": "",
+    "id": "9948",
+    "name": "Eastbound Carnarvon St @ Quayside Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
