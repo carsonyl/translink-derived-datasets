@@ -115455,24 +115455,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.143517,
-     49.338146
-    ],
-    "type": "Point"
-   },
-   "id": "8528",
-   "properties": {
-    "code": "60925",
-    "desc": "",
-    "id": "8528",
-    "name": "Westbound Mathers Ave @ 1000 Block (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.14595,
      49.336132
     ],
@@ -116258,24 +116240,6 @@
     "desc": "",
     "id": "8629",
     "name": "Southbound Nelson Ave @ 6400 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.156881,
-     49.329417
-    ],
-    "type": "Point"
-   },
-   "id": "8633",
-   "properties": {
-    "code": "54779",
-    "desc": "",
-    "id": "8633",
-    "name": "Southbound 15 St @ Duchess Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -130251,24 +130215,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.697661,
-     49.119112
-    ],
-    "type": "Point"
-   },
-   "id": "10257",
-   "properties": {
-    "code": "60799",
-    "desc": "",
-    "id": "10257",
-    "name": "Westbound 64 Ave @ 190 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.702518,
      49.119036
     ],
@@ -133394,24 +133340,6 @@
     "desc": "",
     "id": "10588",
     "name": "Eastbound 64 Ave @ 173A St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.112669,
-     49.279637
-    ],
-    "type": "Point"
-   },
-   "id": "10589",
-   "properties": {
-    "code": "59550",
-    "desc": "",
-    "id": "10589",
-    "name": "Northbound Cambie St @ W Georgia St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156974,24 +156902,6 @@
     "desc": "",
     "id": "12513",
     "name": "Eastbound E Broadway @ Fraser St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.692402,
-     49.118734
-    ],
-    "type": "Point"
-   },
-   "id": "12516",
-   "properties": {
-    "code": "61186",
-    "desc": "",
-    "id": "12516",
-    "name": "Westbound 64 Ave @ Fraser Hwy",
     "zone": "BUS ZN"
    },
    "type": "Feature"
