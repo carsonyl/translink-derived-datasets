@@ -1029,8 +1029,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.161774,
-     49.272749
+     -123.160216,
+     49.272731
     ],
     "type": "Point"
    },
@@ -20829,24 +20829,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.243748,
-     49.264
-    ],
-    "type": "Point"
-   },
-   "id": "1491",
-   "properties": {
-    "code": "51479",
-    "desc": "",
-    "id": "1491",
-    "name": "Southbound Wesbrook Mall @ Agronomy Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.237949,
      49.257295
     ],
@@ -30614,6 +30596,24 @@
     "desc": "",
     "id": "2241",
     "name": "Westbound SW Marine Dr @ Laurel St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.134696,
+     49.203574
+    ],
+    "type": "Point"
+   },
+   "id": "2242",
+   "properties": {
+    "code": "52220",
+    "desc": "",
+    "id": "2242",
+    "name": "Marpole Loop @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -41313,6 +41313,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.912574,
+     49.278447
+    ],
+    "type": "Point"
+   },
+   "id": "3029",
+   "properties": {
+    "code": "52998",
+    "desc": "",
+    "id": "3029",
+    "name": "SFU Transit Exchange @ Bay 4",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.883104,
      49.263393
     ],
@@ -42267,6 +42285,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.889692,
+     49.263168
+    ],
+    "type": "Point"
+   },
+   "id": "3092",
+   "properties": {
+    "code": "59003",
+    "desc": "",
+    "id": "3092",
+    "name": "Westbound Como Lake Ave @ Elmwood St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.993592,
      49.229848
     ],
@@ -42422,24 +42458,6 @@
     "desc": "",
     "id": "3102",
     "name": "Northbound Deer Lake Ave @ Heritage Village",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.97213,
-     49.241855
-    ],
-    "type": "Point"
-   },
-   "id": "3103",
-   "properties": {
-    "code": "53070",
-    "desc": "",
-    "id": "3103",
-    "name": "Westbound Deer Lake Ave @ Rowan Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -53931,24 +53949,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.037917,
-     49.330731
-    ],
-    "type": "Point"
-   },
-   "id": "4009",
-   "properties": {
-    "code": "53968",
-    "desc": "",
-    "id": "4009",
-    "name": "Northbound Mountain Hwy @ E 24 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.037816,
      49.332733
     ],
@@ -54518,24 +54518,6 @@
     "desc": "",
     "id": "4045",
     "name": "Southbound Mountain Hwy @ E 27 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.038147,
-     49.330105
-    ],
-    "type": "Point"
-   },
-   "id": "4046",
-   "properties": {
-    "code": "54005",
-    "desc": "",
-    "id": "4046",
-    "name": "Southbound Mountain Hwy @ Emery Place",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -61113,6 +61095,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.115491,
+     49.280921
+    ],
+    "type": "Point"
+   },
+   "id": "4494",
+   "properties": {
+    "code": "54444",
+    "desc": "",
+    "id": "4494",
+    "name": "Westbound W Georgia St @ Richards St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.117661,
      49.28232
     ],
@@ -67028,6 +67028,24 @@
     "desc": "",
     "id": "4887",
     "name": "Southbound Granville St @ W Cloverleaf",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.13058,
+     49.20687
+    ],
+    "type": "Point"
+   },
+   "id": "4889",
+   "properties": {
+    "code": "54837",
+    "desc": "",
+    "id": "4889",
+    "name": "Eastbound W 71 Ave @ Oak St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -82227,24 +82245,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.850689,
-     49.192053
-    ],
-    "type": "Point"
-   },
-   "id": "5892",
-   "properties": {
-    "code": "55837",
-    "desc": "",
-    "id": "5892",
-    "name": "Northbound University Dr @ 104 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.850734,
      49.1948
     ],
@@ -90284,24 +90284,6 @@
     "desc": "",
     "id": "6480",
     "name": "Westbound Fraser Hwy @ 140 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.842303,
-     49.180787
-    ],
-    "type": "Point"
-   },
-   "id": "6481",
-   "properties": {
-    "code": "56420",
-    "desc": "",
-    "id": "6481",
-    "name": "Westbound Fraser Hwy @ Whalley Blvd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -139827,6 +139809,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.097914,
+     49.039553
+    ],
+    "type": "Point"
+   },
+   "id": "11154",
+   "properties": {
+    "code": "61226",
+    "desc": "",
+    "id": "11154",
+    "name": "Northbound Tsawwassen Dr N @ 1900 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.873924,
      49.119261
     ],
@@ -142041,8 +142041,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.136498,
-     49.173616
+     -123.136507,
+     49.174762
     ],
     "type": "Point"
    },
@@ -142059,8 +142059,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.13645,
-     49.173623
+     -123.136322,
+     49.174766
     ],
     "type": "Point"
    },
@@ -142077,8 +142077,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.136396,
-     49.167942
+     -123.136247,
+     49.168092
     ],
     "type": "Point"
    },
@@ -142095,8 +142095,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.13631,
-     49.167932
+     -123.136174,
+     49.168092
     ],
     "type": "Point"
    },
@@ -147513,24 +147513,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116757,
-     49.28174
-    ],
-    "type": "Point"
-   },
-   "id": "11774",
-   "properties": {
-    "code": "61032",
-    "desc": "",
-    "id": "11774",
-    "name": "Westbound W Georgia St @ Seymour St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.668931,
      49.103889
     ],
@@ -152787,6 +152769,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.890197,
+     49.261316
+    ],
+    "type": "Point"
+   },
+   "id": "12212",
+   "properties": {
+    "code": "53122",
+    "desc": "",
+    "id": "12212",
+    "name": "Burquitlam Station @ Bay 4",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.729332,
      49.258459
     ],
@@ -154641,6 +154641,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.89219,
+     49.26305
+    ],
+    "type": "Point"
+   },
+   "id": "12338",
+   "properties": {
+    "code": "59124",
+    "desc": "",
+    "id": "12338",
+    "name": "Westbound Como Lake Ave @ Tyndall St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.957497,
      49.281183
     ],
@@ -154652,6 +154670,24 @@
     "desc": "",
     "id": "12342",
     "name": "Northbound Inlet Dr @ Hastings St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.892396,
+     49.262816
+    ],
+    "type": "Point"
+   },
+   "id": "12343",
+   "properties": {
+    "code": "59117",
+    "desc": "",
+    "id": "12343",
+    "name": "Eastbound Como Lake Ave @ North Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -154886,6 +154922,24 @@
     "desc": "",
     "id": "12361",
     "name": "UBC Exchange @ Bay 4",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.247589,
+     49.26715
+    ],
+    "type": "Point"
+   },
+   "id": "12362",
+   "properties": {
+    "code": "60163",
+    "desc": "",
+    "id": "12362",
+    "name": "UBC Exchange @ Bay 5",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158475,24 +158529,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.243491,
-     49.26369
-    ],
-    "type": "Point"
-   },
-   "id": "12652",
-   "properties": {
-    "code": "60383",
-    "desc": "",
-    "id": "12652",
-    "name": "Southbound Wesbrook Mall @ Agronomy Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.968634,
      49.176733
     ],
@@ -159224,6 +159260,204 @@
     "desc": "",
     "id": "12702",
     "name": "Westbound Davie St @ Bute St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.152113,
+     49.260922
+    ],
+    "type": "Point"
+   },
+   "id": "12703",
+   "properties": {
+    "code": "60408",
+    "desc": "",
+    "id": "12703",
+    "name": "Eastbound W 12th Ave @ Arbutus St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147849,
+     49.260863
+    ],
+    "type": "Point"
+   },
+   "id": "12704",
+   "properties": {
+    "code": "60409",
+    "desc": "",
+    "id": "12704",
+    "name": "Eastbound W 12th Ave @ Cypress St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.148612,
+     49.260992
+    ],
+    "type": "Point"
+   },
+   "id": "12705",
+   "properties": {
+    "code": "60410",
+    "desc": "",
+    "id": "12705",
+    "name": "Westbound W 12th Ave @ Cypress St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.143122,
+     49.260786
+    ],
+    "type": "Point"
+   },
+   "id": "12706",
+   "properties": {
+    "code": "60411",
+    "desc": "",
+    "id": "12706",
+    "name": "Eastbound W 12 Ave @ Pine St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.143876,
+     49.260917
+    ],
+    "type": "Point"
+   },
+   "id": "12707",
+   "properties": {
+    "code": "60412",
+    "desc": "",
+    "id": "12707",
+    "name": "Westbound W 12th Ave @ Pine St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.12604,
+     49.260482
+    ],
+    "type": "Point"
+   },
+   "id": "12708",
+   "properties": {
+    "code": "60413",
+    "desc": "",
+    "id": "12708",
+    "name": "Eastbound W 12 Ave @ Oak St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.12392,
+     49.260473
+    ],
+    "type": "Point"
+   },
+   "id": "12709",
+   "properties": {
+    "code": "60414",
+    "desc": "",
+    "id": "12709",
+    "name": "Eastbound W 12th Ave @ Laurel St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.124667,
+     49.260622
+    ],
+    "type": "Point"
+   },
+   "id": "12710",
+   "properties": {
+    "code": "60415",
+    "desc": "",
+    "id": "12710",
+    "name": "Westbound W 12th Ave @ Laurel St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.120306,
+     49.260394
+    ],
+    "type": "Point"
+   },
+   "id": "12711",
+   "properties": {
+    "code": "60416",
+    "desc": "",
+    "id": "12711",
+    "name": "Eastbound W 12th Ave @ Heather St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.12041,
+     49.260557
+    ],
+    "type": "Point"
+   },
+   "id": "12712",
+   "properties": {
+    "code": "60417",
+    "desc": "",
+    "id": "12712",
+    "name": "Westbound W 12th Ave @ Heather St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.11559,
+     49.260482
+    ],
+    "type": "Point"
+   },
+   "id": "12713",
+   "properties": {
+    "code": "60418",
+    "desc": "",
+    "id": "12713",
+    "name": "Westbound W 12th Ave @ Cambie St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
