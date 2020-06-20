@@ -4179,6 +4179,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.126817,
+     49.260309
+    ],
+    "type": "Point"
+   },
+   "id": "335",
+   "properties": {
+    "code": "50331",
+    "desc": "",
+    "id": "335",
+    "name": "Southbound Oak St @ W 12 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.126896,
      49.258518
     ],
@@ -8895,6 +8913,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.055476,
+     49.248412
+    ],
+    "type": "Point"
+   },
+   "id": "695",
+   "properties": {
+    "code": "50688",
+    "desc": "",
+    "id": "695",
+    "name": "Nanaimo Station @ Bay 3",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.100688,
      49.280463
     ],
@@ -13215,6 +13251,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.082407,
+     49.311218
+    ],
+    "type": "Point"
+   },
+   "id": "989",
+   "properties": {
+    "code": "50980",
+    "desc": "",
+    "id": "989",
+    "name": "Lonsdale Quay @ Bay 5",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.116588,
      49.229514
     ],
@@ -14846,6 +14900,24 @@
     "desc": "",
     "id": "1104",
     "name": "Southbound Arbutus St @ W 14 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.153045,
+     49.256894
+    ],
+    "type": "Point"
+   },
+   "id": "1105",
+   "properties": {
+    "code": "51096",
+    "desc": "",
+    "id": "1105",
+    "name": "Southbound Arbutus St @ W 16 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -22117,7 +22189,7 @@
     "code": "51560",
     "desc": "",
     "id": "1572",
-    "name": "Nanaimo Station @ Bay 3",
+    "name": "Nanaimo Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -22784,6 +22856,24 @@
     "desc": "",
     "id": "1610",
     "name": "Westbound W 16 Ave @ Pacific Spirit Park",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.241873,
+     49.262267
+    ],
+    "type": "Point"
+   },
+   "id": "1613",
+   "properties": {
+    "code": "59715",
+    "desc": "",
+    "id": "1613",
+    "name": "Northbound Wesbrook Mall @ Thunderbird Blvd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -60681,6 +60771,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.082739,
+     49.310903
+    ],
+    "type": "Point"
+   },
+   "id": "4459",
+   "properties": {
+    "code": "54410",
+    "desc": "",
+    "id": "4459",
+    "name": "Lonsdale Quay @ Bay 7",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.13825,
      49.326849
     ],
@@ -62150,6 +62258,24 @@
     "desc": "",
     "id": "4567",
     "name": "Southbound Bewicke Ave @ W 14 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.082912,
+     49.310742
+    ],
+    "type": "Point"
+   },
+   "id": "4568",
+   "properties": {
+    "code": "54516",
+    "desc": "",
+    "id": "4568",
+    "name": "Lonsdale Quay @ Bay 8",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -133527,24 +133653,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.136777,
-     49.176886
-    ],
-    "type": "Point"
-   },
-   "id": "10612",
-   "properties": {
-    "code": "56567",
-    "desc": "",
-    "id": "10612",
-    "name": "Southbound No. 3 Rd @ Alderbridge Way",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.687502,
      49.104403
     ],
@@ -136310,6 +136418,24 @@
     "desc": "",
     "id": "10866",
     "name": "Lonsdale Quay @ Bay 4",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.082557,
+     49.311066
+    ],
+    "type": "Point"
+   },
+   "id": "10867",
+   "properties": {
+    "code": "54134",
+    "desc": "",
+    "id": "10867",
+    "name": "Lonsdale Quay @ Bay 6",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -157351,7 +157477,7 @@
     "code": "60314",
     "desc": "",
     "id": "12556",
-    "name": "Northbound Nanaimo St @ E 24 Ave",
+    "name": "Nanaimo Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -157917,6 +158043,42 @@
   {
    "geometry": {
     "coordinates": [
+     -122.80576,
+     49.184086
+    ],
+    "type": "Point"
+   },
+   "id": "12610",
+   "properties": {
+    "code": "60377",
+    "desc": "",
+    "id": "12610",
+    "name": "Eastbound 100 Ave @ 150 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.809814,
+     49.176775
+    ],
+    "type": "Point"
+   },
+   "id": "12611",
+   "properties": {
+    "code": "60378",
+    "desc": "",
+    "id": "12611",
+    "name": "Eastbound 96 Ave @ 148 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.039901,
      49.155249
     ],
@@ -158072,6 +158234,24 @@
     "desc": "",
     "id": "12622",
     "name": "Eastbound Great Northern Way @ Carolina St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.807802,
+     49.176936
+    ],
+    "type": "Point"
+   },
+   "id": "12623",
+   "properties": {
+    "code": "60379",
+    "desc": "",
+    "id": "12623",
+    "name": "Westbound 96 Ave @ 150 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158414,6 +158594,24 @@
     "desc": "",
     "id": "12651",
     "name": "Northbound King George Blvd @ 6700 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.242289,
+     49.262728
+    ],
+    "type": "Point"
+   },
+   "id": "12653",
+   "properties": {
+    "code": "60384",
+    "desc": "",
+    "id": "12653",
+    "name": "Northbound Wesbrook Mall @ Agronomy Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159375,17 +159573,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.153167,
-     49.257964
+     -123.104634,
+     49.282442
     ],
     "type": "Point"
    },
-   "id": "12719",
+   "id": "12720",
    "properties": {
-    "code": "60493",
+    "code": "60492",
     "desc": "",
-    "id": "12719",
-    "name": "Southbound Arbutus St @ W 15th Ave",
+    "id": "12720",
+    "name": "Eastbound W Cordova St @ Carrall St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
