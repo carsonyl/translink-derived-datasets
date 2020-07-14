@@ -1391,6 +1391,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1766,51752,Northbound Lillooet Rd @ 1000 Block,,49.315778,-123.023902,BUS ZN,,0,
 1767,51753,Eastbound Purcell Way @ Lillooet Rd,,49.317472,-123.023477,BUS ZN,,0,
 1769,51755,Southbound Lillooet Rd @ Purcell Way,,49.317205,-123.024083,BUS ZN,,0,
+1770,51756,Southbound Lillooet Rd @ Mt Seymour Parkway,,49.312987,-123.025195,BUS ZN,,0,
 1771,51757,Southbound Mountain Hwy @ Fern St,,49.311044,-123.032716,BUS ZN,,0,
 1772,51758,Southbound Mountain Hwy @ Charlotte Rd,,49.309442,-123.032289,BUS ZN,,0,
 1773,51759,Southbound Mountain Hwy @ Rupert St,,49.307703,-123.032056,BUS ZN,,0,

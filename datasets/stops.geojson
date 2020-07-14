@@ -25059,6 +25059,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.025195,
+     49.312987
+    ],
+    "type": "Point"
+   },
+   "id": "1770",
+   "properties": {
+    "code": "51756",
+    "desc": "",
+    "id": "1770",
+    "name": "Southbound Lillooet Rd @ Mt Seymour Parkway",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.032716,
      49.311044
     ],
