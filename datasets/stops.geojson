@@ -19533,8 +19533,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.974252,
-     49.245156
+     -122.974083,
+     49.245055
     ],
     "type": "Point"
    },
@@ -41619,8 +41619,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.777747,
-     49.260805
+     -122.778798,
+     49.260817
     ],
     "type": "Point"
    },
@@ -42836,24 +42836,6 @@
     "desc": "",
     "id": "3143",
     "name": "Northbound E Columbia St @ Alberta St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.892761,
-     49.226166
-    ],
-    "type": "Point"
-   },
-   "id": "3144",
-   "properties": {
-    "code": "53111",
-    "desc": "",
-    "id": "3144",
-    "name": "Northbound E Columbia St @ Keary St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -55526,24 +55508,6 @@
     "desc": "",
     "id": "4116",
     "name": "Westbound Mt Seymour Parkway @ Riverside Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.021752,
-     49.312087
-    ],
-    "type": "Point"
-   },
-   "id": "4118",
-   "properties": {
-    "code": "54076",
-    "desc": "",
-    "id": "4118",
-    "name": "Westbound Mt Seymour Parkway @ Seymour Blvd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -107877,6 +107841,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.596206,
+     49.217426
+    ],
+    "type": "Point"
+   },
+   "id": "7712",
+   "properties": {
+    "code": "57639",
+    "desc": "",
+    "id": "7712",
+    "name": "Northbound 226 St @ Lougheed Hwy",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.608115,
      49.220575
     ],
@@ -158378,6 +158360,42 @@
     "desc": "",
     "id": "12725",
     "name": "Northbound Clark Dr @ E 6th Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.893302,
+     49.225608
+    ],
+    "type": "Point"
+   },
+   "id": "12726",
+   "properties": {
+    "code": "60499",
+    "desc": "",
+    "id": "12726",
+    "name": "Westbound Keary St @ E Columbia St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.893384,
+     49.227958
+    ],
+    "type": "Point"
+   },
+   "id": "12727",
+   "properties": {
+    "code": "60308",
+    "desc": "",
+    "id": "12727",
+    "name": "Westbound Sherbrooke St @ E Columbia St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
