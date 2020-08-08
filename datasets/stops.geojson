@@ -26481,6 +26481,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.920119,
+     49.279957
+    ],
+    "type": "Point"
+   },
+   "id": "1877",
+   "properties": {
+    "code": "51863",
+    "desc": "",
+    "id": "1877",
+    "name": "SFU Transportation Centre @ Bay 1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.928277,
      49.281238
     ],
@@ -123969,24 +123987,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.014452,
-     49.264143
-    ],
-    "type": "Point"
-   },
-   "id": "9505",
-   "properties": {
-    "code": "58346",
-    "desc": "",
-    "id": "9505",
-    "name": "Southbound Gilmore Ave @ Henning Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.90798,
      49.26024
     ],
@@ -142491,24 +142491,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.127092,
-     49.276487
-    ],
-    "type": "Point"
-   },
-   "id": "11426",
-   "properties": {
-    "code": "58593",
-    "desc": "",
-    "id": "11426",
-    "name": "Northbound Granville St @ Drake St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.126905,
      49.276786
     ],
@@ -142887,24 +142869,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.128301,
-     49.286773
-    ],
-    "type": "Point"
-   },
-   "id": "11479",
-   "properties": {
-    "code": "50613",
-    "desc": "",
-    "id": "11479",
-    "name": "Eastbound Robson St @ Jervis St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.126771,
      49.285774
     ],
@@ -142934,24 +142898,6 @@
     "desc": "",
     "id": "11481",
     "name": "Westbound Robson St @ Burrard St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.125037,
-     49.28483
-    ],
-    "type": "Point"
-   },
-   "id": "11482",
-   "properties": {
-    "code": "50625",
-    "desc": "",
-    "id": "11482",
-    "name": "Westbound Robson St @ Thurlow St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -145094,24 +145040,6 @@
     "desc": "",
     "id": "11664",
     "name": "Guildford Exchange @ Bay 4",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.124658,
-     49.284394
-    ],
-    "type": "Point"
-   },
-   "id": "11666",
-   "properties": {
-    "code": "50615",
-    "desc": "",
-    "id": "11666",
-    "name": "Eastbound Robson St @ Thurlow St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156308,24 +156236,6 @@
     "desc": "",
     "id": "12558",
     "name": "Westbound Marine Dr @ 14900 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.921004,
-     49.280328
-    ],
-    "type": "Point"
-   },
-   "id": "12559",
-   "properties": {
-    "code": "60015",
-    "desc": "",
-    "id": "12559",
-    "name": "SFU Transportation Centre @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
