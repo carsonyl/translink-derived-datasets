@@ -7779,42 +7779,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.140382,
-     49.2881
-    ],
-    "type": "Point"
-   },
-   "id": "614",
-   "properties": {
-    "code": "50608",
-    "desc": "",
-    "id": "614",
-    "name": "Northbound Denman St @ Pendrell St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.138254,
-     49.289517
-    ],
-    "type": "Point"
-   },
-   "id": "615",
-   "properties": {
-    "code": "50609",
-    "desc": "",
-    "id": "615",
-    "name": "Northbound Denman St @ Nelson St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.136163,
      49.290911
     ],
@@ -42771,24 +42735,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.892923,
-     49.227569
-    ],
-    "type": "Point"
-   },
-   "id": "3134",
-   "properties": {
-    "code": "53101",
-    "desc": "",
-    "id": "3134",
-    "name": "Southbound E Columbia St @ Sherbrooke St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.89612,
      49.212727
     ],
@@ -49107,42 +49053,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.898006,
-     49.226461
-    ],
-    "type": "Point"
-   },
-   "id": "3635",
-   "properties": {
-    "code": "53596",
-    "desc": "",
-    "id": "3635",
-    "name": "Eastbound Hospital St @ Richmond St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.893957,
-     49.226413
-    ],
-    "type": "Point"
-   },
-   "id": "3636",
-   "properties": {
-    "code": "53597",
-    "desc": "",
-    "id": "3636",
-    "name": "Eastbound Hospital St @ E Columbia St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.867437,
      49.238202
     ],
@@ -49352,42 +49262,6 @@
     "desc": "",
     "id": "3651",
     "name": "Westbound Alderson Ave @ Nelson St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.893384,
-     49.226514
-    ],
-    "type": "Point"
-   },
-   "id": "3652",
-   "properties": {
-    "code": "53613",
-    "desc": "",
-    "id": "3652",
-    "name": "Westbound Hospital St @ E Columbia St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.897813,
-     49.226559
-    ],
-    "type": "Point"
-   },
-   "id": "3653",
-   "properties": {
-    "code": "53614",
-    "desc": "",
-    "id": "3653",
-    "name": "Westbound Hospital St @ Blair Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -65307,6 +65181,132 @@
   {
    "geometry": {
     "coordinates": [
+     -123.202663,
+     49.341274
+    ],
+    "type": "Point"
+   },
+   "id": "4765",
+   "properties": {
+    "code": "54713",
+    "desc": "",
+    "id": "4765",
+    "name": "Northbound 31 St @ Dickinson Cres",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.203429,
+     49.342342
+    ],
+    "type": "Point"
+   },
+   "id": "4766",
+   "properties": {
+    "code": "54714",
+    "desc": "",
+    "id": "4766",
+    "name": "Westbound Mathers Ave @ 31 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.205458,
+     49.343256
+    ],
+    "type": "Point"
+   },
+   "id": "4767",
+   "properties": {
+    "code": "54715",
+    "desc": "",
+    "id": "4767",
+    "name": "Westbound Thompson Cres @ Mathers Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.207076,
+     49.345283
+    ],
+    "type": "Point"
+   },
+   "id": "4768",
+   "properties": {
+    "code": "54716",
+    "desc": "",
+    "id": "4768",
+    "name": "Westbound Westmount Rd @ Benbow Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.21024,
+     49.34558
+    ],
+    "type": "Point"
+   },
+   "id": "4769",
+   "properties": {
+    "code": "54717",
+    "desc": "",
+    "id": "4769",
+    "name": "Westbound Westmount Rd @ 3300 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.21395,
+     49.34562
+    ],
+    "type": "Point"
+   },
+   "id": "4770",
+   "properties": {
+    "code": "54718",
+    "desc": "",
+    "id": "4770",
+    "name": "Westbound Westmount Rd @ Rockview Place",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.21663,
+     49.34564
+    ],
+    "type": "Point"
+   },
+   "id": "4771",
+   "properties": {
+    "code": "54719",
+    "desc": "",
+    "id": "4771",
+    "name": "Westbound Westmount Rd @ Cedaridge Place",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.219099,
      49.345848
     ],
@@ -76064,6 +76064,24 @@
     "desc": "",
     "id": "5538",
     "name": "Southbound 152 St @ 19 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.803621,
+     49.034509
+    ],
+    "type": "Point"
+   },
+   "id": "5539",
+   "properties": {
+    "code": "55485",
+    "desc": "",
+    "id": "5539",
+    "name": "Southbound Martin Dr @ E Southmere Cres",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -116067,6 +116085,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.206384,
+     49.344086
+    ],
+    "type": "Point"
+   },
+   "id": "8668",
+   "properties": {
+    "code": "60889",
+    "desc": "",
+    "id": "8668",
+    "name": "Northbound Thompson Cres @ Thompson Place",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.235382,
      49.347592
     ],
@@ -129423,6 +129459,42 @@
   {
    "geometry": {
     "coordinates": [
+     -122.697661,
+     49.119112
+    ],
+    "type": "Point"
+   },
+   "id": "10257",
+   "properties": {
+    "code": "60799",
+    "desc": "",
+    "id": "10257",
+    "name": "Westbound 64 Ave @ 190 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.702518,
+     49.119036
+    ],
+    "type": "Point"
+   },
+   "id": "10258",
+   "properties": {
+    "code": "60772",
+    "desc": "",
+    "id": "10258",
+    "name": "Westbound 64 Ave @ 188 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.708121,
      49.118909
     ],
@@ -132728,6 +132800,24 @@
     "desc": "",
     "id": "10611",
     "name": "Northbound Main St @ E 22 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.136777,
+     49.176886
+    ],
+    "type": "Point"
+   },
+   "id": "10612",
+   "properties": {
+    "code": "56567",
+    "desc": "",
+    "id": "10612",
+    "name": "Southbound No. 3 Rd @ Alderbridge Way",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -155775,6 +155865,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.692402,
+     49.118734
+    ],
+    "type": "Point"
+   },
+   "id": "12516",
+   "properties": {
+    "code": "61186",
+    "desc": "",
+    "id": "12516",
+    "name": "Westbound 64 Ave @ Fraser Hwy",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.135556,
      49.20317
     ],
@@ -158306,6 +158414,24 @@
     "desc": "",
     "id": "12727",
     "name": "Westbound Sherbrooke St @ E Columbia St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.139345,
+     49.288812
+    ],
+    "type": "Point"
+   },
+   "id": "12730",
+   "properties": {
+    "code": "60502",
+    "desc": "",
+    "id": "12730",
+    "name": "Northbound Denman St @ Comox St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
