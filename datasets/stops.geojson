@@ -4053,8 +4053,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.140408,
-     49.263517
+     -123.140516,
+     49.263525
     ],
     "type": "Point"
    },
@@ -4118,6 +4118,24 @@
     "desc": "",
     "id": "333",
     "name": "Eastbound W Broadway @ Oak St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.126842,
+     49.260251
+    ],
+    "type": "Point"
+   },
+   "id": "335",
+   "properties": {
+    "code": "50331",
+    "desc": "",
+    "id": "335",
+    "name": "Southbound Oak St @ W 12 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -13197,24 +13215,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.118529,
-     49.28264
-    ],
-    "type": "Point"
-   },
-   "id": "985",
-   "properties": {
-    "code": "50976",
-    "desc": "",
-    "id": "985",
-    "name": "Eastbound W Georgia St @ Granville St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.082407,
      49.311218
     ],
@@ -15044,6 +15044,24 @@
     "desc": "",
     "id": "1118",
     "name": "Southbound West Blvd @ W 45 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.155874,
+     49.228691
+    ],
+    "type": "Point"
+   },
+   "id": "1119",
+   "properties": {
+    "code": "51110",
+    "desc": "",
+    "id": "1119",
+    "name": "Southbound W Boulevard @ W 47 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -42735,6 +42753,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.892923,
+     49.227569
+    ],
+    "type": "Point"
+   },
+   "id": "3134",
+   "properties": {
+    "code": "53101",
+    "desc": "",
+    "id": "3134",
+    "name": "Southbound E Columbia St @ Sherbrooke St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.89612,
      49.212727
     ],
@@ -44204,24 +44240,6 @@
     "desc": "",
     "id": "3251",
     "name": "Southbound E Columbia St @ Holmes St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.892976,
-     49.225301
-    ],
-    "type": "Point"
-   },
-   "id": "3252",
-   "properties": {
-    "code": "53218",
-    "desc": "",
-    "id": "3252",
-    "name": "Southbound E Columbia St @ Keary St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -49053,6 +49071,42 @@
   {
    "geometry": {
     "coordinates": [
+     -122.898006,
+     49.226461
+    ],
+    "type": "Point"
+   },
+   "id": "3635",
+   "properties": {
+    "code": "53596",
+    "desc": "",
+    "id": "3635",
+    "name": "Eastbound Hospital St @ Richmond St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.893957,
+     49.226413
+    ],
+    "type": "Point"
+   },
+   "id": "3636",
+   "properties": {
+    "code": "53597",
+    "desc": "",
+    "id": "3636",
+    "name": "Eastbound Hospital St @ E Columbia St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.867437,
      49.238202
     ],
@@ -49262,6 +49316,42 @@
     "desc": "",
     "id": "3651",
     "name": "Westbound Alderson Ave @ Nelson St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.893384,
+     49.226514
+    ],
+    "type": "Point"
+   },
+   "id": "3652",
+   "properties": {
+    "code": "53613",
+    "desc": "",
+    "id": "3652",
+    "name": "Westbound Hospital St @ E Columbia St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.897813,
+     49.226559
+    ],
+    "type": "Point"
+   },
+   "id": "3653",
+   "properties": {
+    "code": "53614",
+    "desc": "",
+    "id": "3653",
+    "name": "Westbound Hospital St @ Blair Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -51278,6 +51368,24 @@
     "desc": "",
     "id": "3822",
     "name": "Port Coquitlam Station @ Bay 3",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.747793,
+     49.263782
+    ],
+    "type": "Point"
+   },
+   "id": "3823",
+   "properties": {
+    "code": "53784",
+    "desc": "",
+    "id": "3823",
+    "name": "Eastbound Riverwood Gate @ Terry Fox Secondary",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -55245,8 +55353,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.975041,
-     49.31586
+     -122.976011,
+     49.315833
     ],
     "type": "Point"
    },
@@ -82335,6 +82443,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.789992,
+     49.148622
+    ],
+    "type": "Point"
+   },
+   "id": "5922",
+   "properties": {
+    "code": "55866",
+    "desc": "",
+    "id": "5922",
+    "name": "Northbound 156 St @ 80 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.790673,
      49.155582
     ],
@@ -82382,6 +82508,24 @@
     "desc": "",
     "id": "5925",
     "name": "Eastbound 84 Ave @ 152 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.807316,
+     49.155589
+    ],
+    "type": "Point"
+   },
+   "id": "5926",
+   "properties": {
+    "code": "55870",
+    "desc": "",
+    "id": "5926",
+    "name": "Westbound 84 Ave @ 150 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -82695,6 +82839,60 @@
   {
    "geometry": {
     "coordinates": [
+     -122.811953,
+     49.155446
+    ],
+    "type": "Point"
+   },
+   "id": "5945",
+   "properties": {
+    "code": "55889",
+    "desc": "",
+    "id": "5945",
+    "name": "Eastbound 84 Ave @ 148 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.806588,
+     49.155465
+    ],
+    "type": "Point"
+   },
+   "id": "5946",
+   "properties": {
+    "code": "55890",
+    "desc": "",
+    "id": "5946",
+    "name": "Eastbound 84 Ave @ 150 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.802014,
+     49.155603
+    ],
+    "type": "Point"
+   },
+   "id": "5947",
+   "properties": {
+    "code": "55891",
+    "desc": "",
+    "id": "5947",
+    "name": "Westbound 84 Ave @ 152 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.796138,
      49.155458
     ],
@@ -82868,6 +83066,24 @@
     "desc": "",
     "id": "5957",
     "name": "Southbound 148 St @ Spenser Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.789355,
+     49.14819
+    ],
+    "type": "Point"
+   },
+   "id": "5958",
+   "properties": {
+    "code": "55902",
+    "desc": "",
+    "id": "5958",
+    "name": "Eastbound 80 Ave @ 156 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -88815,6 +89031,42 @@
   {
    "geometry": {
     "coordinates": [
+     -122.868821,
+     49.04583
+    ],
+    "type": "Point"
+   },
+   "id": "6366",
+   "properties": {
+    "code": "56306",
+    "desc": "",
+    "id": "6366",
+    "name": "Westbound 24 Ave @ 128 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.87619,
+     49.04584
+    ],
+    "type": "Point"
+   },
+   "id": "6367",
+   "properties": {
+    "code": "56307",
+    "desc": "",
+    "id": "6367",
+    "name": "Westbound 24 Ave @ 124B St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.878496,
      49.045527
     ],
@@ -89258,6 +89510,132 @@
     "desc": "",
     "id": "6403",
     "name": "Northbound 160 St @ 20 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.851445,
+     49.045844
+    ],
+    "type": "Point"
+   },
+   "id": "6425",
+   "properties": {
+    "code": "56365",
+    "desc": "",
+    "id": "6425",
+    "name": "Westbound 24 Ave @ 134 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.856816,
+     49.045834
+    ],
+    "type": "Point"
+   },
+   "id": "6426",
+   "properties": {
+    "code": "56366",
+    "desc": "",
+    "id": "6426",
+    "name": "Westbound 24 Ave @ 132 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.861486,
+     49.045834
+    ],
+    "type": "Point"
+   },
+   "id": "6427",
+   "properties": {
+    "code": "56367",
+    "desc": "",
+    "id": "6427",
+    "name": "Westbound 24 Ave @ 130 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.866177,
+     49.045703
+    ],
+    "type": "Point"
+   },
+   "id": "6428",
+   "properties": {
+    "code": "56368",
+    "desc": "",
+    "id": "6428",
+    "name": "Eastbound 24 Ave @ 128 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.860782,
+     49.045704
+    ],
+    "type": "Point"
+   },
+   "id": "6429",
+   "properties": {
+    "code": "56369",
+    "desc": "",
+    "id": "6429",
+    "name": "Eastbound 24 Ave @ 130 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.855979,
+     49.045706
+    ],
+    "type": "Point"
+   },
+   "id": "6430",
+   "properties": {
+    "code": "56370",
+    "desc": "",
+    "id": "6430",
+    "name": "Eastbound 24 Ave @ 132 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.850534,
+     49.045684
+    ],
+    "type": "Point"
+   },
+   "id": "6431",
+   "properties": {
+    "code": "56371",
+    "desc": "",
+    "id": "6431",
+    "name": "Eastbound 24 Ave @ 134 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -90356,24 +90734,6 @@
     "desc": "",
     "id": "6523",
     "name": "Eastbound Bridgeport Rd @ Sexsmith Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.119918,
-     49.19194
-    ],
-    "type": "Point"
-   },
-   "id": "6525",
-   "properties": {
-    "code": "56464",
-    "desc": "",
-    "id": "6525",
-    "name": "Eastbound Bridgeport Rd @ Gage Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -91616,24 +91976,6 @@
     "desc": "",
     "id": "6605",
     "name": "Northbound No. 3 Rd @ Bennett Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.1364,
-     49.167053
-    ],
-    "type": "Point"
-   },
-   "id": "6607",
-   "properties": {
-    "code": "56546",
-    "desc": "",
-    "id": "6607",
-    "name": "Richmond-Brighouse Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -99417,6 +99759,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.661315,
+     49.144835
+    ],
+    "type": "Point"
+   },
+   "id": "7107",
+   "properties": {
+    "code": "57039",
+    "desc": "",
+    "id": "7107",
+    "name": "Northbound 202A St @ 7800 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.668046,
      49.134251
     ],
@@ -99716,6 +100076,42 @@
     "desc": "",
     "id": "7132",
     "name": "Southbound 200 St @ 9200 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.666432,
+     49.148143
+    ],
+    "type": "Point"
+   },
+   "id": "7136",
+   "properties": {
+    "code": "57068",
+    "desc": "",
+    "id": "7136",
+    "name": "Eastbound 80 Ave @ 200 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.66158,
+     49.142742
+    ],
+    "type": "Point"
+   },
+   "id": "7137",
+   "properties": {
+    "code": "57069",
+    "desc": "",
+    "id": "7137",
+    "name": "Southbound 202A St @ 7700 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -111657,6 +112053,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.081606,
+     49.328504
+    ],
+    "type": "Point"
+   },
+   "id": "8018",
+   "properties": {
+    "code": "57943",
+    "desc": "",
+    "id": "8018",
+    "name": "Southbound Jones Ave @ W 21 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.11158,
      49.286053
     ],
@@ -113000,6 +113414,24 @@
     "desc": "",
     "id": "8283",
     "name": "Southbound Hwy 99 Offramp @ Steveston Hwy",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.970149,
+     49.277492
+    ],
+    "type": "Point"
+   },
+   "id": "8288",
+   "properties": {
+    "code": "58379",
+    "desc": "",
+    "id": "8288",
+    "name": "Southbound Kensington Ave @ Hammarskjold Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -115340,6 +115772,24 @@
     "desc": "",
     "id": "8589",
     "name": "Eastbound Deer Lake Parkway @ Willingdon Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.751944,
+     49.258466
+    ],
+    "type": "Point"
+   },
+   "id": "8592",
+   "properties": {
+    "code": "53831",
+    "desc": "",
+    "id": "8592",
+    "name": "Westbound Dominion Ave @ Archbishop Carney Secondary",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -118065,6 +118515,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.800512,
+     49.168347
+    ],
+    "type": "Point"
+   },
+   "id": "8917",
+   "properties": {
+    "code": "58515",
+    "desc": "",
+    "id": "8917",
+    "name": "Westbound 91 Ave @ 152 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.956525,
      49.25166
     ],
@@ -120315,6 +120783,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.974395,
+     49.244496
+    ],
+    "type": "Point"
+   },
+   "id": "9126",
+   "properties": {
+    "code": "58729",
+    "desc": "",
+    "id": "9126",
+    "name": "Southbound Deer Lake Parkway @ Canada Way",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.83835,
      49.256088
     ],
@@ -120380,6 +120866,24 @@
     "desc": "",
     "id": "9131",
     "name": "Westbound W Georgia St @ Bute St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.84726,
+     49.045679
+    ],
+    "type": "Point"
+   },
+   "id": "9132",
+   "properties": {
+    "code": "56372",
+    "desc": "",
+    "id": "9132",
+    "name": "Eastbound 24 Ave @ 136 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -125643,6 +126147,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.556573,
+     49.200484
+    ],
+    "type": "Point"
+   },
+   "id": "9672",
+   "properties": {
+    "code": "59193",
+    "desc": "",
+    "id": "9672",
+    "name": "Northbound 240 St @ 109 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.557778,
      49.20587
     ],
@@ -128919,17 +129441,35 @@
   {
    "geometry": {
     "coordinates": [
-     -123.123173,
-     49.191931
+     -122.556596,
+     49.206124
     ],
     "type": "Point"
    },
-   "id": "10209",
+   "id": "10210",
    "properties": {
-    "code": "59704",
+    "code": "59697",
     "desc": "",
-    "id": "10209",
-    "name": "Eastbound Bridgeport Rd @ Great Canadian Way",
+    "id": "10210",
+    "name": "Northbound 240 St @ 112 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.556692,
+     49.212037
+    ],
+    "type": "Point"
+   },
+   "id": "10211",
+   "properties": {
+    "code": "59695",
+    "desc": "",
+    "id": "10211",
+    "name": "Northbound 240 St @ 11500 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -128966,6 +129506,60 @@
     "desc": "",
     "id": "10213",
     "name": "Westbound Holly Park Dr @ 62 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.557188,
+     49.219802
+    ],
+    "type": "Point"
+   },
+   "id": "10215",
+   "properties": {
+    "code": "59692",
+    "desc": "",
+    "id": "10215",
+    "name": "Southbound 240 St @ Dewdney Trunk Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.556883,
+     49.211555
+    ],
+    "type": "Point"
+   },
+   "id": "10217",
+   "properties": {
+    "code": "59696",
+    "desc": "",
+    "id": "10217",
+    "name": "Southbound 240 St @ 11500 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.55685,
+     49.21665
+    ],
+    "type": "Point"
+   },
+   "id": "10218",
+   "properties": {
+    "code": "59693",
+    "desc": "",
+    "id": "10218",
+    "name": "Northbound 240 St @ 118 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -136191,6 +136785,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.00393,
+     49.243038
+    ],
+    "type": "Point"
+   },
+   "id": "10928",
+   "properties": {
+    "code": "60859",
+    "desc": "",
+    "id": "10928",
+    "name": "Westbound Moscrop St @ Willingdon Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.949711,
      49.199857
     ],
@@ -137840,6 +138452,24 @@
     "desc": "",
     "id": "11069",
     "name": "Westbound NW Marine Dr @ Tolmie St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.55709,
+     49.217262
+    ],
+    "type": "Point"
+   },
+   "id": "11070",
+   "properties": {
+    "code": "59713",
+    "desc": "",
+    "id": "11070",
+    "name": "Southbound 240 St @ 118 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -140511,6 +141141,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.749983,
+     49.258336
+    ],
+    "type": "Point"
+   },
+   "id": "11249",
+   "properties": {
+    "code": "61273",
+    "desc": "",
+    "id": "11249",
+    "name": "Eastbound Dominion Ave @ Archbishop Carney Secondary",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.126551,
      49.195229
     ],
@@ -142898,24 +143546,6 @@
     "desc": "",
     "id": "11471",
     "name": "Lansdowne Station @ Bay 2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.123712,
-     49.278877
-    ],
-    "type": "Point"
-   },
-   "id": "11474",
-   "properties": {
-    "code": "50533",
-    "desc": "",
-    "id": "11474",
-    "name": "Southbound Granville St @ Nelson St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -155973,24 +156603,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.100348,
-     49.338483
-    ],
-    "type": "Point"
-   },
-   "id": "12524",
-   "properties": {
-    "code": "60270",
-    "desc": "",
-    "id": "12524",
-    "name": "Southbound Highland Blvd @ Canfield Cres",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.001829,
      49.085464
     ],
@@ -157100,6 +157712,24 @@
     "desc": "",
     "id": "12632",
     "name": "Westbound W 41 Ave @ East Blvd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.661347,
+     49.140984
+    ],
+    "type": "Point"
+   },
+   "id": "12634",
+   "properties": {
+    "code": "60389",
+    "desc": "",
+    "id": "12634",
+    "name": "Northbound 202A St @ 76 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158277,6 +158907,42 @@
   {
    "geometry": {
     "coordinates": [
+     -123.136073,
+     49.167722
+    ],
+    "type": "Point"
+   },
+   "id": "12716",
+   "properties": {
+    "code": "60483",
+    "desc": "",
+    "id": "12716",
+    "name": "Richmond-Brighouse Station @ Bay 1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.135746,
+     49.167576
+    ],
+    "type": "Point"
+   },
+   "id": "12717",
+   "properties": {
+    "code": "60482",
+    "desc": "",
+    "id": "12717",
+    "name": "Richmond-Brighouse Station @ Bay 2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.104634,
      49.282442
     ],
@@ -158313,8 +158979,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.122033,
-     49.279986
+     -123.12295,
+     49.27941
     ],
     "type": "Point"
    },
@@ -158323,7 +158989,7 @@
     "code": "50532",
     "desc": "",
     "id": "12722",
-    "name": "Southbound Granville St @ Smithe St",
+    "name": "Southbound Granville St @ Nelson St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158385,24 +159051,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.893302,
-     49.225608
-    ],
-    "type": "Point"
-   },
-   "id": "12726",
-   "properties": {
-    "code": "60499",
-    "desc": "",
-    "id": "12726",
-    "name": "Westbound Keary St @ E Columbia St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.893384,
      49.227958
     ],
@@ -158421,6 +159069,42 @@
   {
    "geometry": {
     "coordinates": [
+     -122.599236,
+     49.141737
+    ],
+    "type": "Point"
+   },
+   "id": "12728",
+   "properties": {
+    "code": "60500",
+    "desc": "",
+    "id": "12728",
+    "name": "Eastbound University Dr @ Mattson Centre",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.597548,
+     49.141825
+    ],
+    "type": "Point"
+   },
+   "id": "12729",
+   "properties": {
+    "code": "60501",
+    "desc": "",
+    "id": "12729",
+    "name": "Westbound University Dr @ East Road",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.139345,
      49.288812
     ],
@@ -158432,6 +159116,24 @@
     "desc": "",
     "id": "12730",
     "name": "Northbound Denman St @ Comox St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.116813,
+     49.281514
+    ],
+    "type": "Point"
+   },
+   "id": "12731",
+   "properties": {
+    "code": "60503",
+    "desc": "",
+    "id": "12731",
+    "name": "Eastbound W Georgia St @ Seymour St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
