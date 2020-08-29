@@ -2199,6 +2199,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.114877,
+     49.282177
+    ],
+    "type": "Point"
+   },
+   "id": "190",
+   "properties": {
+    "code": "50190",
+    "desc": "",
+    "id": "190",
+    "name": "Southbound Richards St @ Dunsmuir St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.119551,
      49.28128
     ],
@@ -20804,6 +20822,24 @@
     "desc": "",
     "id": "1488",
     "name": "Westbound W Georgia St @ Gilford St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.243748,
+     49.264
+    ],
+    "type": "Point"
+   },
+   "id": "1491",
+   "properties": {
+    "code": "51479",
+    "desc": "",
+    "id": "1491",
+    "name": "Southbound Wesbrook Mall @ Agronomy Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -59385,8 +59421,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.05138,
-     49.313365
+     -123.051554,
+     49.313372
     ],
     "type": "Point"
    },
@@ -74156,24 +74192,6 @@
     "desc": "",
     "id": "5379",
     "name": "Northbound Willowbrook Dr @ 19600 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.67695,
-     49.117257
-    ],
-    "type": "Point"
-   },
-   "id": "5380",
-   "properties": {
-    "code": "55327",
-    "desc": "",
-    "id": "5380",
-    "name": "Northbound 197 St @ Willowbrook Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -91976,6 +91994,24 @@
     "desc": "",
     "id": "6605",
     "name": "Northbound No. 3 Rd @ Bennett Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.1364,
+     49.167053
+    ],
+    "type": "Point"
+   },
+   "id": "6607",
+   "properties": {
+    "code": "56546",
+    "desc": "",
+    "id": "6607",
+    "name": "Richmond-Brighouse Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -124455,8 +124491,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.677038,
-     49.115168
+     -122.674599,
+     49.115568
     ],
     "type": "Point"
    },
@@ -154335,24 +154371,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.117674,
-     49.280299
-    ],
-    "type": "Point"
-   },
-   "id": "12351",
-   "properties": {
-    "code": "61918",
-    "desc": "",
-    "id": "12351",
-    "name": "Southbound Richards St @ Robson St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.995601,
      49.195504
     ],
@@ -157971,6 +157989,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.243491,
+     49.26369
+    ],
+    "type": "Point"
+   },
+   "id": "12652",
+   "properties": {
+    "code": "60383",
+    "desc": "",
+    "id": "12652",
+    "name": "Southbound Wesbrook Mall @ Agronomy Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.242289,
      49.262728
     ],
@@ -158907,24 +158943,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.136073,
-     49.167722
-    ],
-    "type": "Point"
-   },
-   "id": "12716",
-   "properties": {
-    "code": "60483",
-    "desc": "",
-    "id": "12716",
-    "name": "Richmond-Brighouse Station @ Bay 1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.135746,
      49.167576
     ],
@@ -159134,6 +159152,24 @@
     "desc": "",
     "id": "12731",
     "name": "Eastbound W Georgia St @ Seymour St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.129709,
+     49.287679
+    ],
+    "type": "Point"
+   },
+   "id": "12732",
+   "properties": {
+    "code": "60504",
+    "desc": "",
+    "id": "12732",
+    "name": "Eastbound Robson St @ Broughton St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
