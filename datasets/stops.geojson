@@ -157,7 +157,7 @@
     "code": "50035",
     "desc": "",
     "id": "35",
-    "name": "Eastbound W Cordova St @ Seymour St",
+    "name": "Waterfront Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -229,7 +229,7 @@
     "code": "50040",
     "desc": "",
     "id": "40",
-    "name": "Westbound W Cordova St @ Seymour St",
+    "name": "Waterfront Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -2083,7 +2083,7 @@
     "code": "50181",
     "desc": "",
     "id": "181",
-    "name": "Northbound Main St @ Terminal Ave",
+    "name": "Main Street-Science World Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -2199,8 +2199,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.114877,
-     49.282177
+     -123.115253,
+     49.281944
     ],
     "type": "Point"
    },
@@ -2695,7 +2695,7 @@
     "code": "50233",
     "desc": "",
     "id": "235",
-    "name": "Southbound Main St @ Terminal Ave",
+    "name": "Main Street-Science World Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -3235,7 +3235,7 @@
     "code": "50273",
     "desc": "",
     "id": "276",
-    "name": "Blanca Loop @ Blanca St",
+    "name": "Blanca Loop @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -3649,7 +3649,7 @@
     "code": "50298",
     "desc": "",
     "id": "301",
-    "name": "Northbound Dunbar St @ W 41 Ave",
+    "name": "Dunbar Loop @ Bay 6",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -7717,7 +7717,7 @@
     "code": "50600",
     "desc": "",
     "id": "606",
-    "name": "Southbound Blanca St @ W 8th Ave",
+    "name": "Blanca Loop @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -8059,7 +8059,7 @@
     "code": "50640",
     "desc": "",
     "id": "646",
-    "name": "Dunbar St @ Dunbar Loop",
+    "name": "Dunbar Loop @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -9607,7 +9607,7 @@
     "code": "50737",
     "desc": "",
     "id": "744",
-    "name": "Southbound Dunbar St @ W 41 Ave",
+    "name": "Dunbar Loop @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -13063,7 +13063,7 @@
     "code": "50963",
     "desc": "",
     "id": "972",
-    "name": "Southbound Commercial Dr @ E Broadway",
+    "name": "Commercial-Broadway Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -14611,7 +14611,7 @@
     "code": "51082",
     "desc": "",
     "id": "1091",
-    "name": "Northbound Renfrew St @ Hebb Ave",
+    "name": "Renfrew Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -16807,7 +16807,7 @@
     "code": "58327",
     "desc": "",
     "id": "1231",
-    "name": "Commercial Dr @ Broadway",
+    "name": "Commercial-Broadway Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -26833,7 +26833,7 @@
     "code": "51893",
     "desc": "",
     "id": "1907",
-    "name": "Westbound W 41 Ave @ Dunbar St",
+    "name": "Dunbar Loop @ Bay 5",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -37515,24 +37515,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.012026,
-     49.25662
-    ],
-    "type": "Point"
-   },
-   "id": "2757",
-   "properties": {
-    "code": "52732",
-    "desc": "",
-    "id": "2757",
-    "name": "Southbound Gilmore Diversion @ Manor St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.010799,
      49.25259
     ],
@@ -42980,6 +42962,24 @@
     "desc": "",
     "id": "3152",
     "name": "Northbound North Rd @ 600 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.89284,
+     49.257159
+    ],
+    "type": "Point"
+   },
+   "id": "3153",
+   "properties": {
+    "code": "53120",
+    "desc": "",
+    "id": "3153",
+    "name": "Northbound North Rd @ Foster Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -60583,7 +60583,7 @@
     "code": "54411",
     "desc": "",
     "id": "4461",
-    "name": "Eastbound Marine Dr @ Park Royal South",
+    "name": "Park Royal @ Bay 5",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -60943,7 +60943,7 @@
     "code": "54441",
     "desc": "",
     "id": "4491",
-    "name": "Westbound Marine Dr @ Park Royal North",
+    "name": "Park Royal @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -63607,7 +63607,7 @@
     "code": "54608",
     "desc": "",
     "id": "4660",
-    "name": "Westbound Marine Dr @ Park Royal North",
+    "name": "Park Royal @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -67585,7 +67585,7 @@
     "code": "54876",
     "desc": "",
     "id": "4928",
-    "name": "Hwy 10 @ Matthews Exchange",
+    "name": "Westbound Hwy 10 @ 96 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -67603,7 +67603,7 @@
     "code": "54877",
     "desc": "",
     "id": "4929",
-    "name": "Hwy 10 @ Matthews Exchange",
+    "name": "Eastbound Hwy 10 @ Hornby Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -90193,7 +90193,7 @@
     "code": "56421",
     "desc": "",
     "id": "6482",
-    "name": "Eastbound Chatham St @ 2nd Ave",
+    "name": "Steveston Exchange @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -91507,7 +91507,7 @@
     "code": "56517",
     "desc": "",
     "id": "6578",
-    "name": "Westbound Chatham St @ 2nd Ave",
+    "name": "Steveston Exchange @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -114763,7 +114763,7 @@
     "code": "58194",
     "desc": "",
     "id": "8490",
-    "name": "Eastbound Chatham St @ 3rd Ave",
+    "name": "Steveston Exchange @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -118291,7 +118291,7 @@
     "code": "58130",
     "desc": "",
     "id": "8860",
-    "name": "Northbound Rupert St @ Rupert Station",
+    "name": "Rupert Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -118417,7 +118417,7 @@
     "code": "58401",
     "desc": "",
     "id": "8907",
-    "name": "Southbound Renfrew St @ E 12 Ave",
+    "name": "Renfrew Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -127363,7 +127363,7 @@
     "code": "60979",
     "desc": "",
     "id": "9956",
-    "name": "Eastbound N Railway Ave @ Mission City Station",
+    "name": "Mission City Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -132007,7 +132007,7 @@
     "code": "59929",
     "desc": "",
     "id": "10435",
-    "name": "Southbound Station St @ Terminal Ave",
+    "name": "Main Street-Science World Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -138811,7 +138811,7 @@
     "code": "58129",
     "desc": "",
     "id": "11095",
-    "name": "Southbound Rupert St @ Rupert Station",
+    "name": "Rupert Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -144949,7 +144949,7 @@
     "code": "52102",
     "desc": "",
     "id": "11588",
-    "name": "Eastbound E Broadway @ Commercial Dr",
+    "name": "Commercial-Broadway Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -144967,7 +144967,7 @@
     "code": "52094",
     "desc": "",
     "id": "11589",
-    "name": "Commercial-Broadway Station @ Bay 1",
+    "name": "Commercial-Broadway Station @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -145219,7 +145219,7 @@
     "code": "50913",
     "desc": "",
     "id": "11606",
-    "name": "Commercial-Broadway Station @ Bay 2",
+    "name": "Commercial-Broadway Station @ Bay 5",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -148153,7 +148153,7 @@
     "code": "61772",
     "desc": "",
     "id": "11866",
-    "name": "Westbound Marine Dr @ Park Royal",
+    "name": "Park Royal @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -148171,7 +148171,7 @@
     "code": "61782",
     "desc": "",
     "id": "11867",
-    "name": "Eastbound Marine Dr @ Park Royal South",
+    "name": "Park Royal @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -149072,24 +149072,6 @@
     "desc": "",
     "id": "11944",
     "name": "Westbound River Rd @ 6400 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.89283,
-     49.256333
-    ],
-    "type": "Point"
-   },
-   "id": "11946",
-   "properties": {
-    "code": "59996",
-    "desc": "",
-    "id": "11946",
-    "name": "Northbound North Rd @ Foster Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -151807,7 +151789,7 @@
     "code": "60745",
     "desc": "",
     "id": "12168",
-    "name": "Eastbound W 41 Ave @ Alma St",
+    "name": "Dunbar Loop @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -157675,7 +157657,7 @@
     "code": "60393",
     "desc": "",
     "id": "12625",
-    "name": "Eastbound W 41 Ave @ Dunbar St",
+    "name": "Dunbar Loop @ Bay 7",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -157693,7 +157675,7 @@
     "code": "60394",
     "desc": "",
     "id": "12626",
-    "name": "Westbound W 41st Ave @ Alma St",
+    "name": "Dunbar Loop @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -159170,6 +159152,24 @@
     "desc": "",
     "id": "12732",
     "name": "Eastbound Robson St @ Broughton St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.133731,
+     49.27881
+    ],
+    "type": "Point"
+   },
+   "id": "12734",
+   "properties": {
+    "code": "60505",
+    "desc": "",
+    "id": "12734",
+    "name": "Southbound Thurlow St @ Harwood St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
