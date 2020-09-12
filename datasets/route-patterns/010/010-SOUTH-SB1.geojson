@@ -1655,7 +1655,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "GRANVILLE",
+  "destination": "GRANVILLE TO MARINE DR STN",
   "direction": "SOUTH",
   "name": "010-SB1",
   "operating-company": "CMBC",

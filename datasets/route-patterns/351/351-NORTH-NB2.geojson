@@ -2487,9 +2487,9 @@
  "properties": {
   "destination": "BRIDGEPORT STN",
   "direction": "NORTH",
-  "name": "351-NB1",
+  "name": "351-NB2",
   "operating-company": "CMBC",
-  "pattern-number": "NB1",
+  "pattern-number": "NB2",
   "route-name": "WHITE ROCK CTR/BRIDGEPORT STN",
   "route-number": "351",
   "stroke": "#267cff",

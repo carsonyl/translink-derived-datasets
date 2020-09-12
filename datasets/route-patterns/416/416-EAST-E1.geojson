@@ -3,12 +3,12 @@
   "coordinates": [
    [
     [
-     -123.133718,
-     49.163493
-    ],
-    [
      -123.13652,
      49.163475
+    ],
+    [
+     -123.133718,
+     49.163493
     ]
    ],
    [
@@ -897,9 +897,9 @@
  "properties": {
   "destination": "EAST CAMBIE",
   "direction": "EAST",
-  "name": "416-EB1",
+  "name": "416-E1",
   "operating-company": "CMBC",
-  "pattern-number": "EB1",
+  "pattern-number": "E1",
   "route-name": "EAST CAMBIE/BRIGHOUSE STATION",
   "route-number": "416",
   "stroke": "#267cff",
