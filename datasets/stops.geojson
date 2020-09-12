@@ -1587,24 +1587,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.101393,
-     49.211021
-    ],
-    "type": "Point"
-   },
-   "id": "141",
-   "properties": {
-    "code": "50141",
-    "desc": "",
-    "id": "141",
-    "name": "Westbound SE Marine Dr @ Main St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.102035,
      49.211565
     ],
@@ -5241,24 +5223,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.148176,
-     49.267965
-    ],
-    "type": "Point"
-   },
-   "id": "403",
-   "properties": {
-    "code": "50399",
-    "desc": "",
-    "id": "403",
-    "name": "Eastbound W 4th Ave @ Cypress St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.145082,
      49.26793
     ],
@@ -8492,24 +8456,6 @@
     "desc": "",
     "id": "673",
     "name": "Westbound E 22 Ave @ Kamloops St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.185714,
-     49.264644
-    ],
-    "type": "Point"
-   },
-   "id": "674",
-   "properties": {
-    "code": "50667",
-    "desc": "",
-    "id": "674",
-    "name": "Northbound Alma St @ W Broadway",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -39783,8 +39729,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.970593,
-     49.275281
+     -122.971445,
+     49.27526
     ],
     "type": "Point"
    },
@@ -42584,42 +42530,6 @@
     "desc": "",
     "id": "3119",
     "name": "Southbound Sperling Ave @ Hummel St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.972366,
-     49.241745
-    ],
-    "type": "Point"
-   },
-   "id": "3120",
-   "properties": {
-    "code": "53087",
-    "desc": "",
-    "id": "3120",
-    "name": "Eastbound Deer Lake Ave @ Rowan Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.968103,
-     49.240017
-    ],
-    "type": "Point"
-   },
-   "id": "3121",
-   "properties": {
-    "code": "53088",
-    "desc": "",
-    "id": "3121",
-    "name": "Southbound Deer Lake Ave @ Shadbolt Centre",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -83703,6 +83613,42 @@
   {
    "geometry": {
     "coordinates": [
+     -122.812183,
+     49.170621
+    ],
+    "type": "Point"
+   },
+   "id": "6006",
+   "properties": {
+    "code": "55950",
+    "desc": "",
+    "id": "6006",
+    "name": "Northbound 148 St @ Fraser Hwy",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.812177,
+     49.173763
+    ],
+    "type": "Point"
+   },
+   "id": "6007",
+   "properties": {
+    "code": "55951",
+    "desc": "",
+    "id": "6007",
+    "name": "Northbound 148 St @ 94 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.812115,
      49.177292
     ],
@@ -84578,6 +84524,42 @@
     "desc": "",
     "id": "6065",
     "name": "Southbound 148 St @ 98 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.812367,
+     49.176413
+    ],
+    "type": "Point"
+   },
+   "id": "6066",
+   "properties": {
+    "code": "56008",
+    "desc": "",
+    "id": "6066",
+    "name": "Southbound 148 St @ 96 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.812362,
+     49.173155
+    ],
+    "type": "Point"
+   },
+   "id": "6067",
+   "properties": {
+    "code": "56009",
+    "desc": "",
+    "id": "6067",
+    "name": "Southbound 148 St @ 94 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -87051,60 +87033,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.812442,
-     49.050289
-    ],
-    "type": "Point"
-   },
-   "id": "6227",
-   "properties": {
-    "code": "56167",
-    "desc": "",
-    "id": "6227",
-    "name": "Southbound 148 St @ 26 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.812446,
-     49.045155
-    ],
-    "type": "Point"
-   },
-   "id": "6228",
-   "properties": {
-    "code": "56168",
-    "desc": "",
-    "id": "6228",
-    "name": "Southbound 148 St @ 24 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.812293,
-     49.041583
-    ],
-    "type": "Point"
-   },
-   "id": "6229",
-   "properties": {
-    "code": "56169",
-    "desc": "",
-    "id": "6229",
-    "name": "Southbound 148 St @ 21A Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.812794,
      49.038515
     ],
@@ -87123,96 +87051,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.823385,
-     49.037667
-    ],
-    "type": "Point"
-   },
-   "id": "6231",
-   "properties": {
-    "code": "56171",
-    "desc": "",
-    "id": "6231",
-    "name": "Southbound 144 St @ 19A Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.823413,
-     49.03441
-    ],
-    "type": "Point"
-   },
-   "id": "6232",
-   "properties": {
-    "code": "56172",
-    "desc": "",
-    "id": "6232",
-    "name": "Southbound 144 St @ 18 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.823198,
-     49.031821
-    ],
-    "type": "Point"
-   },
-   "id": "6233",
-   "properties": {
-    "code": "56173",
-    "desc": "",
-    "id": "6233",
-    "name": "Northbound 144 St @ 16A Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.823218,
-     49.035039
-    ],
-    "type": "Point"
-   },
-   "id": "6234",
-   "properties": {
-    "code": "56174",
-    "desc": "",
-    "id": "6234",
-    "name": "Northbound 144 St @ 18 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.823222,
-     49.037533
-    ],
-    "type": "Point"
-   },
-   "id": "6235",
-   "properties": {
-    "code": "56175",
-    "desc": "",
-    "id": "6235",
-    "name": "Northbound 144 St @ 19A Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.816906,
      49.038347
     ],
@@ -87224,60 +87062,6 @@
     "desc": "",
     "id": "6236",
     "name": "Eastbound 20 Ave @ Rotary Way",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.812137,
-     49.040908
-    ],
-    "type": "Point"
-   },
-   "id": "6237",
-   "properties": {
-    "code": "56177",
-    "desc": "",
-    "id": "6237",
-    "name": "Northbound 148 St @ 21A Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.812151,
-     49.046055
-    ],
-    "type": "Point"
-   },
-   "id": "6238",
-   "properties": {
-    "code": "56178",
-    "desc": "",
-    "id": "6238",
-    "name": "Northbound 148 St @ 24 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.812141,
-     49.050047
-    ],
-    "type": "Point"
-   },
-   "id": "6239",
-   "properties": {
-    "code": "56179",
-    "desc": "",
-    "id": "6239",
-    "name": "Northbound 148 St @ 26 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -108273,8 +108057,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.598915,
-     49.211268
+     -122.598909,
+     49.211463
     ],
     "type": "Point"
    },
@@ -113457,24 +113241,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.970149,
-     49.277492
-    ],
-    "type": "Point"
-   },
-   "id": "8288",
-   "properties": {
-    "code": "58379",
-    "desc": "",
-    "id": "8288",
-    "name": "Southbound Kensington Ave @ Hammarskjold Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.105515,
      49.279294
     ],
@@ -118562,24 +118328,6 @@
     "desc": "",
     "id": "8917",
     "name": "Westbound 91 Ave @ 152 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.956525,
-     49.25166
-    ],
-    "type": "Point"
-   },
-   "id": "8919",
-   "properties": {
-    "code": "58511",
-    "desc": "",
-    "id": "8919",
-    "name": "Westbound Winston St @ Bainbridge Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -124545,24 +124293,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.126031,
-     49.233984
-    ],
-    "type": "Point"
-   },
-   "id": "9502",
-   "properties": {
-    "code": "50090",
-    "desc": "",
-    "id": "9502",
-    "name": "Westbound W 41 Ave @ 900 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.90798,
      49.26024
     ],
@@ -124970,24 +124700,6 @@
     "desc": "",
     "id": "9540",
     "name": "Northbound 152 St @ 93 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.88605,
-     49.323873
-    ],
-    "type": "Point"
-   },
-   "id": "9541",
-   "properties": {
-    "code": "53249",
-    "desc": "",
-    "id": "9541",
-    "name": "White Pine Beach Rd @ Norton Court",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -125895,24 +125607,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.856819,
-     49.33871
-    ],
-    "type": "Point"
-   },
-   "id": "9633",
-   "properties": {
-    "code": "59225",
-    "desc": "",
-    "id": "9633",
-    "name": "Bus Stop @ Buntzen Lake",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.186418,
      49.126361
     ],
@@ -126651,8 +126345,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.599215,
-     49.211048
+     -122.599046,
+     49.21141
     ],
     "type": "Point"
    },
@@ -132015,24 +131709,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.827603,
-     49.284375
-    ],
-    "type": "Point"
-   },
-   "id": "10436",
-   "properties": {
-    "code": "53228",
-    "desc": "",
-    "id": "10436",
-    "name": "Westbound Ungless Way @ Noons Creek Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.822421,
      49.07214
     ],
@@ -132800,24 +132476,6 @@
     "desc": "",
     "id": "10550",
     "name": "Westbound Dewdney Trunk Rd @ 223 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.112535,
-     49.28481
-    ],
-    "type": "Point"
-   },
-   "id": "10553",
-   "properties": {
-    "code": "50408",
-    "desc": "",
-    "id": "10553",
-    "name": "Northbound Seymour St @ W Hastings St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -136065,24 +135723,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.855612,
-     49.322425
-    ],
-    "type": "Point"
-   },
-   "id": "10858",
-   "properties": {
-    "code": "61018",
-    "desc": "",
-    "id": "10858",
-    "name": "Northbound @ Anmore Grocery Store (Flag)",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.15681,
      49.339239
     ],
@@ -137505,24 +137145,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.215494,
-     49.276328
-    ],
-    "type": "Point"
-   },
-   "id": "11002",
-   "properties": {
-    "code": "61143",
-    "desc": "",
-    "id": "11002",
-    "name": "Bus Stop @ Spanish Banks Loop",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.922785,
      49.155985
     ],
@@ -138189,78 +137811,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.203022,
-     49.271904
-    ],
-    "type": "Point"
-   },
-   "id": "11053",
-   "properties": {
-    "code": "51934",
-    "desc": "",
-    "id": "11053",
-    "name": "Westbound NW Marine Dr @ Discovery St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.203426,
-     49.271953
-    ],
-    "type": "Point"
-   },
-   "id": "11054",
-   "properties": {
-    "code": "51910",
-    "desc": "",
-    "id": "11054",
-    "name": "Eastbound NW Marine Dr @ Discovery St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.209135,
-     49.274502
-    ],
-    "type": "Point"
-   },
-   "id": "11055",
-   "properties": {
-    "code": "51937",
-    "desc": "",
-    "id": "11055",
-    "name": "Westbound NW Marine Dr @ Sasamat St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.200827,
-     49.268799
-    ],
-    "type": "Point"
-   },
-   "id": "11056",
-   "properties": {
-    "code": "51912",
-    "desc": "",
-    "id": "11056",
-    "name": "Eastbound NW Marine Dr @ Locarno Cres",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.097295,
      49.240485
     ],
@@ -138405,42 +137955,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.205593,
-     49.274065
-    ],
-    "type": "Point"
-   },
-   "id": "11065",
-   "properties": {
-    "code": "51935",
-    "desc": "",
-    "id": "11065",
-    "name": "Northbound NW Marine Dr @ Belmont Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.211352,
-     49.274742
-    ],
-    "type": "Point"
-   },
-   "id": "11066",
-   "properties": {
-    "code": "51906",
-    "desc": "",
-    "id": "11066",
-    "name": "Eastbound NW Marine Dr @ Tolmie St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.134406,
      49.257964
     ],
@@ -138459,42 +137973,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.205803,
-     49.273327
-    ],
-    "type": "Point"
-   },
-   "id": "11068",
-   "properties": {
-    "code": "61133",
-    "desc": "",
-    "id": "11068",
-    "name": "Southbound Trimble St @ Belmont Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.212054,
-     49.275093
-    ],
-    "type": "Point"
-   },
-   "id": "11069",
-   "properties": {
-    "code": "51938",
-    "desc": "",
-    "id": "11069",
-    "name": "Westbound NW Marine Dr @ Tolmie St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.55709,
      49.217262
     ],
@@ -138506,24 +137984,6 @@
     "desc": "",
     "id": "11070",
     "name": "Southbound 240 St @ 118 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.200648,
-     49.268938
-    ],
-    "type": "Point"
-   },
-   "id": "11071",
-   "properties": {
-    "code": "61138",
-    "desc": "",
-    "id": "11071",
-    "name": "Westbound NW Marine Dr @ W 4th Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -157449,24 +156909,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.809814,
-     49.176775
-    ],
-    "type": "Point"
-   },
-   "id": "12611",
-   "properties": {
-    "code": "60378",
-    "desc": "",
-    "id": "12611",
-    "name": "Eastbound 96 Ave @ 148 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.039901,
      49.155249
     ],
@@ -159170,6 +158612,24 @@
     "desc": "",
     "id": "12734",
     "name": "Southbound Thurlow St @ Harwood St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.124174,
+     49.233946
+    ],
+    "type": "Point"
+   },
+   "id": "12737",
+   "properties": {
+    "code": "50133",
+    "desc": "",
+    "id": "12737",
+    "name": "Westbound W 41st Ave @ Willow St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
