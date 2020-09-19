@@ -237,24 +237,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.121677,
-     49.284178
-    ],
-    "type": "Point"
-   },
-   "id": "44",
-   "properties": {
-    "code": "50044",
-    "desc": "",
-    "id": "44",
-    "name": "Southbound Burrard St @ Alberni St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.123336,
      49.283087
     ],
@@ -471,24 +453,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.168097,
-     49.263469
-    ],
-    "type": "Point"
-   },
-   "id": "59",
-   "properties": {
-    "code": "50059",
-    "desc": "",
-    "id": "59",
-    "name": "Northbound Macdonald St @ W 10 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.168174,
      49.264458
     ],
@@ -518,24 +482,6 @@
     "desc": "",
     "id": "61",
     "name": "Northbound Macdonald St @ W 7th Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.16824,
-     49.267795
-    ],
-    "type": "Point"
-   },
-   "id": "62",
-   "properties": {
-    "code": "50062",
-    "desc": "",
-    "id": "62",
-    "name": "Northbound Macdonald St @ W 5th Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -579,42 +525,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.161651,
-     49.272616
-    ],
-    "type": "Point"
-   },
-   "id": "66",
-   "properties": {
-    "code": "50066",
-    "desc": "",
-    "id": "66",
-    "name": "Eastbound Cornwall Ave @ Larch St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.156958,
-     49.272548
-    ],
-    "type": "Point"
-   },
-   "id": "68",
-   "properties": {
-    "code": "50068",
-    "desc": "",
-    "id": "68",
-    "name": "Eastbound Cornwall Ave @ Vine St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.154568,
      49.272507
     ],
@@ -644,24 +554,6 @@
     "desc": "",
     "id": "70",
     "name": "Eastbound Cornwall Ave @ Arbutus St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.149829,
-     49.272432
-    ],
-    "type": "Point"
-   },
-   "id": "71",
-   "properties": {
-    "code": "50071",
-    "desc": "",
-    "id": "71",
-    "name": "Eastbound Cornwall Ave @ Maple St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -975,24 +867,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.150628,
-     49.272566
-    ],
-    "type": "Point"
-   },
-   "id": "102",
-   "properties": {
-    "code": "50102",
-    "desc": "",
-    "id": "102",
-    "name": "Westbound Cornwall Ave @ Maple St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.152989,
      49.272608
     ],
@@ -1083,24 +957,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.168389,
-     49.268877
-    ],
-    "type": "Point"
-   },
-   "id": "108",
-   "properties": {
-    "code": "50108",
-    "desc": "",
-    "id": "108",
-    "name": "Southbound Macdonald St @ W 3rd Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.168483,
      49.266274
     ],
@@ -1148,24 +1004,6 @@
     "desc": "",
     "id": "111",
     "name": "Southbound Macdonald St @ W 11 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.168418,
-     49.260198
-    ],
-    "type": "Point"
-   },
-   "id": "112",
-   "properties": {
-    "code": "50112",
-    "desc": "",
-    "id": "112",
-    "name": "Southbound Macdonald St @ W 13 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -1245,24 +1083,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.167862,
-     49.255207
-    ],
-    "type": "Point"
-   },
-   "id": "118",
-   "properties": {
-    "code": "50118",
-    "desc": "",
-    "id": "118",
-    "name": "Southbound Macdonald St @ W 19 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.16787,
      49.253375
     ],
@@ -1274,24 +1094,6 @@
     "desc": "",
     "id": "119",
     "name": "Southbound Macdonald St @ W 21 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.167891,
-     49.251598
-    ],
-    "type": "Point"
-   },
-   "id": "120",
-   "properties": {
-    "code": "50120",
-    "desc": "",
-    "id": "120",
-    "name": "Southbound Macdonald St @ W 23 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -1371,24 +1173,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.17076,
-     49.248207
-    ],
-    "type": "Point"
-   },
-   "id": "125",
-   "properties": {
-    "code": "50125",
-    "desc": "",
-    "id": "125",
-    "name": "Southbound Quesnel Dr @ W 27 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.170308,
      49.245848
     ],
@@ -1400,24 +1184,6 @@
     "desc": "",
     "id": "126",
     "name": "Southbound Mackenzie St @ W 29 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.170323,
-     49.243935
-    ],
-    "type": "Point"
-   },
-   "id": "127",
-   "properties": {
-    "code": "50127",
-    "desc": "",
-    "id": "127",
-    "name": "Southbound Mackenzie St @ W 31 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -1443,24 +1209,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.170352,
-     49.240126
-    ],
-    "type": "Point"
-   },
-   "id": "129",
-   "properties": {
-    "code": "50129",
-    "desc": "",
-    "id": "129",
-    "name": "Southbound Mackenzie St @ W 35 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.170377,
      49.238254
     ],
@@ -1472,24 +1220,6 @@
     "desc": "",
     "id": "130",
     "name": "Southbound Mackenzie St @ W 37 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.170382,
-     49.236401
-    ],
-    "type": "Point"
-   },
-   "id": "131",
-   "properties": {
-    "code": "50131",
-    "desc": "",
-    "id": "131",
-    "name": "Southbound Mackenzie St @ W 39 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -1526,24 +1256,6 @@
     "desc": "",
     "id": "134",
     "name": "Eastbound W 41 Ave @ Willow St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.11793,
-     49.233459
-    ],
-    "type": "Point"
-   },
-   "id": "136",
-   "properties": {
-    "code": "59305",
-    "desc": "",
-    "id": "136",
-    "name": "Oakridge-41st Ave Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -3560,24 +3272,6 @@
     "desc": "",
     "id": "297",
     "name": "Westbound W 41 Ave @ Carnarvon St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.17724,
-     49.234827
-    ],
-    "type": "Point"
-   },
-   "id": "298",
-   "properties": {
-    "code": "50295",
-    "desc": "",
-    "id": "298",
-    "name": "Westbound W 41 Ave @ Balaclava St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -13197,6 +12891,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.116561,
+     49.231397
+    ],
+    "type": "Point"
+   },
+   "id": "991",
+   "properties": {
+    "code": "50982",
+    "desc": "",
+    "id": "991",
+    "name": "Southbound Cambie St @ W 43 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.116588,
      49.229514
     ],
@@ -17283,24 +16995,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.170167,
-     49.239815
-    ],
-    "type": "Point"
-   },
-   "id": "1270",
-   "properties": {
-    "code": "51260",
-    "desc": "",
-    "id": "1270",
-    "name": "Northbound Mackenzie St @ W 36 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.170144,
      49.241595
     ],
@@ -17319,24 +17013,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.170137,
-     49.243116
-    ],
-    "type": "Point"
-   },
-   "id": "1272",
-   "properties": {
-    "code": "51262",
-    "desc": "",
-    "id": "1272",
-    "name": "Northbound Mackenzie St @ W 32 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.17011,
      49.245547
     ],
@@ -17348,24 +17024,6 @@
     "desc": "",
     "id": "1273",
     "name": "Northbound Mackenzie St @ W 30 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.170103,
-     49.247424
-    ],
-    "type": "Point"
-   },
-   "id": "1274",
-   "properties": {
-    "code": "51264",
-    "desc": "",
-    "id": "1274",
-    "name": "Northbound Mackenzie St @ W 28 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -17427,24 +17085,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.167706,
-     49.251268
-    ],
-    "type": "Point"
-   },
-   "id": "1278",
-   "properties": {
-    "code": "51268",
-    "desc": "",
-    "id": "1278",
-    "name": "Northbound Macdonald St @ W 24 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.167687,
      49.253089
     ],
@@ -17456,42 +17096,6 @@
     "desc": "",
     "id": "1279",
     "name": "Northbound Macdonald St @ W 22 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.167662,
-     49.254882
-    ],
-    "type": "Point"
-   },
-   "id": "1280",
-   "properties": {
-    "code": "51270",
-    "desc": "",
-    "id": "1280",
-    "name": "Northbound Macdonald St @ W 20 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.168016,
-     49.256681
-    ],
-    "type": "Point"
-   },
-   "id": "1281",
-   "properties": {
-    "code": "51271",
-    "desc": "",
-    "id": "1281",
-    "name": "Northbound Macdonald St @ W 18 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -44186,24 +43790,6 @@
     "desc": "",
     "id": "3251",
     "name": "Southbound E Columbia St @ Holmes St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.893032,
-     49.223325
-    ],
-    "type": "Point"
-   },
-   "id": "3253",
-   "properties": {
-    "code": "53219",
-    "desc": "",
-    "id": "3253",
-    "name": "Southbound E Columbia St @ Alberta St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -116769,24 +116355,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.903693,
-     49.250978
-    ],
-    "type": "Point"
-   },
-   "id": "8713",
-   "properties": {
-    "code": "58348",
-    "desc": "",
-    "id": "8713",
-    "name": "Eastbound Lougheed Hwy @ Bell Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.905113,
      49.251475
     ],
@@ -118130,24 +117698,6 @@
     "desc": "",
     "id": "8897",
     "name": "Eastbound Broadway @ Duthie Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.900121,
-     49.249751
-    ],
-    "type": "Point"
-   },
-   "id": "8898",
-   "properties": {
-    "code": "52105",
-    "desc": "",
-    "id": "8898",
-    "name": "Eastbound Lougheed Hwy @ Government St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -121892,24 +121442,6 @@
     "desc": "",
     "id": "9256",
     "name": "Northbound 224 St @ 121 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.775158,
-     49.271505
-    ],
-    "type": "Point"
-   },
-   "id": "9257",
-   "properties": {
-    "code": "58775",
-    "desc": "",
-    "id": "9257",
-    "name": "Northbound Shaughnessy St @ Prairie Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -128865,6 +128397,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.879043,
+     49.108911
+    ],
+    "type": "Point"
+   },
+   "id": "10174",
+   "properties": {
+    "code": "59573",
+    "desc": "",
+    "id": "10174",
+    "name": "Northbound 124 St @ 58A Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.867983,
      49.11234
     ],
@@ -128876,6 +128426,42 @@
     "desc": "",
     "id": "10175",
     "name": "Southbound 128 St @ 60 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.872683,
+     49.111737
+    ],
+    "type": "Point"
+   },
+   "id": "10178",
+   "properties": {
+    "code": "59572",
+    "desc": "",
+    "id": "10178",
+    "name": "Eastbound 60 Ave @ 126 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.879193,
+     49.110572
+    ],
+    "type": "Point"
+   },
+   "id": "10179",
+   "properties": {
+    "code": "59575",
+    "desc": "",
+    "id": "10179",
+    "name": "Southbound 124 St @ 59A Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -130622,6 +130208,24 @@
     "desc": "",
     "id": "10326",
     "name": "Eastbound Murray St @ Klahanie Dr East",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.879218,
+     49.108542
+    ],
+    "type": "Point"
+   },
+   "id": "10327",
+   "properties": {
+    "code": "59733",
+    "desc": "",
+    "id": "10327",
+    "name": "Southbound 124 St @ 58A Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -140835,6 +140439,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.088428,
+     49.325675
+    ],
+    "type": "Point"
+   },
+   "id": "11261",
+   "properties": {
+    "code": "61336",
+    "desc": "",
+    "id": "11261",
+    "name": "Eastbound Larson Rd @ Fir St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.130464,
      49.205381
     ],
@@ -142052,24 +141674,6 @@
     "desc": "",
     "id": "11352",
     "name": "Broadway-City Hall Station @ Bay 2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.117317,
-     49.233445
-    ],
-    "type": "Point"
-   },
-   "id": "11353",
-   "properties": {
-    "code": "50136",
-    "desc": "",
-    "id": "11353",
-    "name": "Oakridge-41st Ave Station @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -150015,6 +149619,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.879004,
+     49.111528
+    ],
+    "type": "Point"
+   },
+   "id": "12044",
+   "properties": {
+    "code": "61926",
+    "desc": "",
+    "id": "12044",
+    "name": "Northbound 124 St @ 60 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.867965,
      49.131129
     ],
@@ -156639,6 +156261,42 @@
   {
    "geometry": {
     "coordinates": [
+     -123.115592,
+     49.2334
+    ],
+    "type": "Point"
+   },
+   "id": "12585",
+   "properties": {
+    "code": "50137",
+    "desc": "",
+    "id": "12585",
+    "name": "Eastbound W 41 Ave @ Cambie St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.115117,
+     49.233392
+    ],
+    "type": "Point"
+   },
+   "id": "12586",
+   "properties": {
+    "code": "60349",
+    "desc": "",
+    "id": "12586",
+    "name": "Eastbound W 41 Ave @ Cambie St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.145425,
      49.162848
     ],
@@ -156819,24 +156477,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.09865,
-     49.273853
-    ],
-    "type": "Point"
-   },
-   "id": "12602",
-   "properties": {
-    "code": "60351",
-    "desc": "",
-    "id": "12602",
-    "name": "Southbound Station St @ National Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.124019,
      49.282359
     ],
@@ -157010,24 +156650,6 @@
     "desc": "",
     "id": "12617",
     "name": "Westbound Blundell Rd @ 16100 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.168213,
-     49.260307
-    ],
-    "type": "Point"
-   },
-   "id": "12619",
-   "properties": {
-    "code": "60359",
-    "desc": "",
-    "id": "12619",
-    "name": "Northbound Macdonald St @ W 13 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -157989,24 +157611,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.09659,
-     49.321749
-    ],
-    "type": "Point"
-   },
-   "id": "12692",
-   "properties": {
-    "code": "59261",
-    "desc": "",
-    "id": "12692",
-    "name": "Eastbound Marine Dr @ Fell Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.845706,
      49.183693
     ],
@@ -158493,24 +158097,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.893384,
-     49.227958
-    ],
-    "type": "Point"
-   },
-   "id": "12727",
-   "properties": {
-    "code": "60308",
-    "desc": "",
-    "id": "12727",
-    "name": "Westbound Sherbrooke St @ E Columbia St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.599236,
      49.141737
     ],
@@ -158612,6 +158198,24 @@
     "desc": "",
     "id": "12734",
     "name": "Southbound Thurlow St @ Harwood St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.040377,
+     49.333436
+    ],
+    "type": "Point"
+   },
+   "id": "12735",
+   "properties": {
+    "code": "58314",
+    "desc": "",
+    "id": "12735",
+    "name": "Westbound E 27 St @ 1200 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
