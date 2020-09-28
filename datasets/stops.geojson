@@ -4485,24 +4485,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.185425,
-     49.238349
-    ],
-    "type": "Point"
-   },
-   "id": "376",
-   "properties": {
-    "code": "50372",
-    "desc": "",
-    "id": "376",
-    "name": "Southbound Dunbar St @ W 37 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.18543,
      49.236105
     ],
@@ -7491,8 +7473,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116411,
-     49.233991
+     -123.116397,
+     49.234585
     ],
     "type": "Point"
    },
@@ -26661,8 +26643,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.158463,
-     49.227138
+     -123.15842,
+     49.227149
     ],
     "type": "Point"
    },
@@ -41853,42 +41835,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.964769,
-     49.239331
-    ],
-    "type": "Point"
-   },
-   "id": "3101",
-   "properties": {
-    "code": "53068",
-    "desc": "",
-    "id": "3101",
-    "name": "Southbound Sperling Ave @ Canada Way",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.967981,
-     49.240608
-    ],
-    "type": "Point"
-   },
-   "id": "3102",
-   "properties": {
-    "code": "53069",
-    "desc": "",
-    "id": "3102",
-    "name": "Northbound Deer Lake Ave @ Heritage Village",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.964546,
      49.261977
     ],
@@ -42285,24 +42231,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.892923,
-     49.227569
-    ],
-    "type": "Point"
-   },
-   "id": "3134",
-   "properties": {
-    "code": "53101",
-    "desc": "",
-    "id": "3134",
-    "name": "Southbound E Columbia St @ Sherbrooke St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.89612,
      49.212727
     ],
@@ -42314,24 +42242,6 @@
     "desc": "",
     "id": "3135",
     "name": "Westbound E Columbia St @ McBride Blvd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.892716,
-     49.228133
-    ],
-    "type": "Point"
-   },
-   "id": "3139",
-   "properties": {
-    "code": "53106",
-    "desc": "",
-    "id": "3139",
-    "name": "Northbound E Columbia St @ Sherbrooke St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -42555,8 +42465,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.884262,
-     49.265996
+     -122.884903,
+     49.265491
     ],
     "type": "Point"
    },
@@ -48603,42 +48513,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.898006,
-     49.226461
-    ],
-    "type": "Point"
-   },
-   "id": "3635",
-   "properties": {
-    "code": "53596",
-    "desc": "",
-    "id": "3635",
-    "name": "Eastbound Hospital St @ Richmond St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.893957,
-     49.226413
-    ],
-    "type": "Point"
-   },
-   "id": "3636",
-   "properties": {
-    "code": "53597",
-    "desc": "",
-    "id": "3636",
-    "name": "Eastbound Hospital St @ E Columbia St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.867437,
      49.238202
     ],
@@ -48848,42 +48722,6 @@
     "desc": "",
     "id": "3651",
     "name": "Westbound Alderson Ave @ Nelson St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.893384,
-     49.226514
-    ],
-    "type": "Point"
-   },
-   "id": "3652",
-   "properties": {
-    "code": "53613",
-    "desc": "",
-    "id": "3652",
-    "name": "Westbound Hospital St @ E Columbia St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.897813,
-     49.226559
-    ],
-    "type": "Point"
-   },
-   "id": "3653",
-   "properties": {
-    "code": "53614",
-    "desc": "",
-    "id": "3653",
-    "name": "Westbound Hospital St @ Blair Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -97311,6 +97149,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.968243,
+     49.177436
+    ],
+    "type": "Point"
+   },
+   "id": "6971",
+   "properties": {
+    "code": "56906",
+    "desc": "",
+    "id": "6971",
+    "name": "Eastbound Westminster Hwy @ Gilley Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.966712,
      49.180019
     ],
@@ -141645,24 +141501,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116464,
-     49.233092
-    ],
-    "type": "Point"
-   },
-   "id": "11350",
-   "properties": {
-    "code": "50981",
-    "desc": "",
-    "id": "11350",
-    "name": "Oakridge-41st Ave Station @ Bay 1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.114655,
      49.262759
     ],
@@ -156243,8 +156081,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115113,
-     49.233615
+     -123.115209,
+     49.233625
     ],
     "type": "Point"
    },
@@ -156261,8 +156099,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115592,
-     49.2334
+     -123.115618,
+     49.233415
     ],
     "type": "Point"
    },
@@ -156279,8 +156117,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115117,
-     49.233392
+     -123.11497,
+     49.233382
     ],
     "type": "Point"
    },
@@ -157064,24 +156902,6 @@
     "desc": "",
     "id": "12653",
     "name": "Northbound Wesbrook Mall @ Agronomy Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.968634,
-     49.176733
-    ],
-    "type": "Point"
-   },
-   "id": "12654",
-   "properties": {
-    "code": "60430",
-    "desc": "",
-    "id": "12654",
-    "name": "Eastbound Westminster Hwy @ Gilley Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158097,6 +157917,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.893384,
+     49.227958
+    ],
+    "type": "Point"
+   },
+   "id": "12727",
+   "properties": {
+    "code": "60308",
+    "desc": "",
+    "id": "12727",
+    "name": "Westbound Sherbrooke St @ E Columbia St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.599236,
      49.141737
     ],
@@ -158234,6 +158072,24 @@
     "desc": "",
     "id": "12737",
     "name": "Westbound W 41st Ave @ Willow St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.893312,
+     49.227851
+    ],
+    "type": "Point"
+   },
+   "id": "12738",
+   "properties": {
+    "code": "60507",
+    "desc": "",
+    "id": "12738",
+    "name": "Eastbound Sherbrooke St @ E Columbia St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
