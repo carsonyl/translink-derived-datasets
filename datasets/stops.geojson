@@ -8229,6 +8229,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.056711,
+     49.277149
+    ],
+    "type": "Point"
+   },
+   "id": "680",
+   "properties": {
+    "code": "50673",
+    "desc": "",
+    "id": "680",
+    "name": "Southbound Nanaimo St @ Adanac St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.056723,
      49.275303
     ],
@@ -9104,6 +9122,24 @@
     "desc": "",
     "id": "734",
     "name": "Northbound Nanaimo St @ Napier St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.056428,
+     49.277801
+    ],
+    "type": "Point"
+   },
+   "id": "735",
+   "properties": {
+    "code": "50728",
+    "desc": "",
+    "id": "735",
+    "name": "Northbound Nanaimo St @ Adanac St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -12884,24 +12920,6 @@
     "desc": "",
     "id": "991",
     "name": "Southbound Cambie St @ W 43 Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.116588,
-     49.229514
-    ],
-    "type": "Point"
-   },
-   "id": "992",
-   "properties": {
-    "code": "50983",
-    "desc": "",
-    "id": "992",
-    "name": "Southbound Cambie St @ W 45 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -27957,24 +27975,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.160541,
-     49.22729
-    ],
-    "type": "Point"
-   },
-   "id": "2063",
-   "properties": {
-    "code": "52046",
-    "desc": "",
-    "id": "2063",
-    "name": "Westbound W 49 Ave @ Vine St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.163563,
      49.227329
     ],
@@ -29623,7 +29623,7 @@
     "code": "52183",
     "desc": "",
     "id": "2203",
-    "name": "22nd St Station @ Bay 8",
+    "name": "22nd Street Station @ Bay 8",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -30199,7 +30199,7 @@
     "code": "52230",
     "desc": "",
     "id": "2252",
-    "name": "22nd St Station @ Bay 4",
+    "name": "22nd Street Station @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -32125,7 +32125,7 @@
     "code": "52373",
     "desc": "",
     "id": "2397",
-    "name": "22nd St Station @ Bay 5",
+    "name": "22nd Street Station @ Bay 5",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -47155,7 +47155,7 @@
     "code": "53497",
     "desc": "",
     "id": "3535",
-    "name": "22nd St Station @ Bay 3",
+    "name": "22nd Street Station @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -59359,7 +59359,7 @@
     "code": "54373",
     "desc": "",
     "id": "4422",
-    "name": "Northbound Nancy Greene Way @ Grousewoods Dr",
+    "name": "Northbound Nancy Greene Way @ S Grousewoods Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -59377,7 +59377,7 @@
     "code": "54374",
     "desc": "",
     "id": "4423",
-    "name": "Northbound Nancy Greene Way @ Grousewoods Dr",
+    "name": "Northbound Nancy Greene Way @ N Grousewoods Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -70285,7 +70285,7 @@
     "code": "55096",
     "desc": "",
     "id": "5148",
-    "name": "Scott Rd Station @ Bay 7",
+    "name": "Scott Road Station @ Bay 7",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -74577,6 +74577,96 @@
   {
    "geometry": {
     "coordinates": [
+     -122.844106,
+     49.126139
+    ],
+    "type": "Point"
+   },
+   "id": "5458",
+   "properties": {
+    "code": "55405",
+    "desc": "",
+    "id": "5458",
+    "name": "Eastbound 68 Ave @ King George Blvd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.841079,
+     49.12659
+    ],
+    "type": "Point"
+   },
+   "id": "5459",
+   "properties": {
+    "code": "55406",
+    "desc": "",
+    "id": "5459",
+    "name": "Northbound 138 St @ Hyland Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.83952,
+     49.127726
+    ],
+    "type": "Point"
+   },
+   "id": "5460",
+   "properties": {
+    "code": "55407",
+    "desc": "",
+    "id": "5460",
+    "name": "Northbound 138 St @ 68 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.838491,
+     49.130265
+    ],
+    "type": "Point"
+   },
+   "id": "5461",
+   "properties": {
+    "code": "55408",
+    "desc": "",
+    "id": "5461",
+    "name": "Northbound 138 St @ 70 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.838498,
+     49.132071
+    ],
+    "type": "Point"
+   },
+   "id": "5462",
+   "properties": {
+    "code": "55409",
+    "desc": "",
+    "id": "5462",
+    "name": "Northbound 138 St @ 7100 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.839219,
      49.133676
     ],
@@ -75099,6 +75189,78 @@
   {
    "geometry": {
     "coordinates": [
+     -122.838766,
+     49.133131
+    ],
+    "type": "Point"
+   },
+   "id": "5510",
+   "properties": {
+    "code": "55457",
+    "desc": "",
+    "id": "5510",
+    "name": "Southbound 138 St @ 72 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.838774,
+     49.131503
+    ],
+    "type": "Point"
+   },
+   "id": "5511",
+   "properties": {
+    "code": "55458",
+    "desc": "",
+    "id": "5511",
+    "name": "Southbound 138 St @ 7100 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.838773,
+     49.129624
+    ],
+    "type": "Point"
+   },
+   "id": "5512",
+   "properties": {
+    "code": "55459",
+    "desc": "",
+    "id": "5512",
+    "name": "Southbound 138 St @ 70 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.840933,
+     49.126964
+    ],
+    "type": "Point"
+   },
+   "id": "5513",
+   "properties": {
+    "code": "55460",
+    "desc": "",
+    "id": "5513",
+    "name": "Southbound 138 St @ 6800 Block",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.845723,
      49.125328
     ],
@@ -75596,24 +75758,6 @@
     "desc": "",
     "id": "5542",
     "name": "White Rock Centre @ Bay 10",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.800556,
-     49.031023
-    ],
-    "type": "Point"
-   },
-   "id": "5543",
-   "properties": {
-    "code": "55489",
-    "desc": "",
-    "id": "5543",
-    "name": "White Rock Centre @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -81355,7 +81499,7 @@
     "code": "55835",
     "desc": "",
     "id": "5890",
-    "name": "Scott Rd Station @ Bay 9",
+    "name": "Scott Road Station @ Bay 9",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -82777,7 +82921,7 @@
     "code": "55933",
     "desc": "",
     "id": "5989",
-    "name": "22nd St Station @ Bay 6",
+    "name": "22nd Street Station @ Bay 6",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -87404,114 +87548,6 @@
     "desc": "",
     "id": "6297",
     "name": "Eastbound Marine Dr @ Elm St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.807478,
-     49.021811
-    ],
-    "type": "Point"
-   },
-   "id": "6298",
-   "properties": {
-    "code": "56238",
-    "desc": "",
-    "id": "6298",
-    "name": "Eastbound Marine Dr @ Martin St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.803855,
-     49.020745
-    ],
-    "type": "Point"
-   },
-   "id": "6299",
-   "properties": {
-    "code": "56239",
-    "desc": "",
-    "id": "6299",
-    "name": "Eastbound Marine Dr @ 15000 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.800901,
-     49.019905
-    ],
-    "type": "Point"
-   },
-   "id": "6300",
-   "properties": {
-    "code": "56240",
-    "desc": "",
-    "id": "6300",
-    "name": "Eastbound Marine Dr @ Fir St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.798086,
-     49.019037
-    ],
-    "type": "Point"
-   },
-   "id": "6301",
-   "properties": {
-    "code": "56241",
-    "desc": "",
-    "id": "6301",
-    "name": "Eastbound Marine Dr @ Dolphin St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.794239,
-     49.017817
-    ],
-    "type": "Point"
-   },
-   "id": "6302",
-   "properties": {
-    "code": "56242",
-    "desc": "",
-    "id": "6302",
-    "name": "Eastbound Marine Dr @ Balsam St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.789729,
-     49.016529
-    ],
-    "type": "Point"
-   },
-   "id": "6303",
-   "properties": {
-    "code": "56243",
-    "desc": "",
-    "id": "6303",
-    "name": "Eastbound Marine Dr @ Finlay St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -97231,7 +97267,7 @@
     "code": "56919",
     "desc": "",
     "id": "6984",
-    "name": "22nd St Station @ Bay 7",
+    "name": "22nd Street Station @ Bay 7",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -106465,7 +106501,7 @@
     "code": "57566",
     "desc": "",
     "id": "7639",
-    "name": "Scott Rd Station @ Bay 8",
+    "name": "Scott Road Station @ Bay 8",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -108679,7 +108715,7 @@
     "code": "57715",
     "desc": "",
     "id": "7789",
-    "name": "Southbound 207 St @ River Road West",
+    "name": "Southbound 207 St @ River Rd West",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -111703,7 +111739,7 @@
     "code": "57964",
     "desc": "",
     "id": "8039",
-    "name": "Waterfront Station Platform 2",
+    "name": "Waterfront Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -111721,7 +111757,7 @@
     "code": "60826",
     "desc": "",
     "id": "8040",
-    "name": "Burrard Station Platform 2",
+    "name": "Burrard Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -111739,7 +111775,7 @@
     "code": "57966",
     "desc": "",
     "id": "8041",
-    "name": "Granville Station Platform 2",
+    "name": "Granville Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -111757,7 +111793,7 @@
     "code": "57967",
     "desc": "",
     "id": "8042",
-    "name": "Stadium-Chinatown Station Platform 2",
+    "name": "Stadium-Chinatown Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -111775,7 +111811,7 @@
     "code": "57968",
     "desc": "",
     "id": "8043",
-    "name": "Main Street-Science World Station Platform 2",
+    "name": "Main Street-Science World Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -111793,7 +111829,7 @@
     "code": "57969",
     "desc": "",
     "id": "8044",
-    "name": "Commercial-Broadway Station Platform 4",
+    "name": "Commercial-Broadway Station @ Platform 4",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -111811,7 +111847,7 @@
     "code": "57970",
     "desc": "",
     "id": "8045",
-    "name": "Nanaimo Station Platform 2",
+    "name": "Nanaimo Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -111829,7 +111865,7 @@
     "code": "57971",
     "desc": "",
     "id": "8046",
-    "name": "29th Avenue Station Platform 2",
+    "name": "29th Avenue Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -111847,7 +111883,7 @@
     "code": "57972",
     "desc": "",
     "id": "8047",
-    "name": "Joyce-Collingwood Station Platform 2",
+    "name": "Joyce-Collingwood Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -111865,7 +111901,7 @@
     "code": "57973",
     "desc": "",
     "id": "8048",
-    "name": "Patterson Station Platform 2",
+    "name": "Patterson Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -111883,7 +111919,7 @@
     "code": "57974",
     "desc": "",
     "id": "8049",
-    "name": "Metrotown Station Platform 2",
+    "name": "Metrotown Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -111901,7 +111937,7 @@
     "code": "57975",
     "desc": "",
     "id": "8050",
-    "name": "Royal Oak Station Platform 2",
+    "name": "Royal Oak Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -111919,7 +111955,7 @@
     "code": "57976",
     "desc": "",
     "id": "8051",
-    "name": "Edmonds Station Platform 2",
+    "name": "Edmonds Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -111937,7 +111973,7 @@
     "code": "57977",
     "desc": "",
     "id": "8052",
-    "name": "22nd Street Station Platform 2",
+    "name": "22nd Street Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -111955,7 +111991,7 @@
     "code": "57978",
     "desc": "",
     "id": "8053",
-    "name": "New Westminster Station Platform 2",
+    "name": "New Westminster Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -111973,7 +112009,7 @@
     "code": "57979",
     "desc": "",
     "id": "8054",
-    "name": "Columbia Station Platform 2",
+    "name": "Columbia Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -111991,7 +112027,7 @@
     "code": "57980",
     "desc": "",
     "id": "8055",
-    "name": "Scott Road Station Platform 2",
+    "name": "Scott Road Station @ Platform 2",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -112009,7 +112045,7 @@
     "code": "57981",
     "desc": "",
     "id": "8056",
-    "name": "Gateway Station Platform 2",
+    "name": "Gateway Station @ Platform 2",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -112027,7 +112063,7 @@
     "code": "57982",
     "desc": "",
     "id": "8057",
-    "name": "Surrey Central Station Platform 2",
+    "name": "Surrey Central Station @ Platform 2",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -112045,7 +112081,7 @@
     "code": "57983",
     "desc": "",
     "id": "8058",
-    "name": "King George Station Platform 2",
+    "name": "King George Station @ Platform 2",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -112063,7 +112099,7 @@
     "code": "57984",
     "desc": "",
     "id": "8059",
-    "name": "King George Station Platform 1",
+    "name": "King George Station @ Platform 1",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -112081,7 +112117,7 @@
     "code": "57985",
     "desc": "",
     "id": "8060",
-    "name": "Surrey Central Station Platform 1",
+    "name": "Surrey Central Station @ Platform 1",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -112099,7 +112135,7 @@
     "code": "57986",
     "desc": "",
     "id": "8061",
-    "name": "Gateway Station Platform 1",
+    "name": "Gateway Station @ Platform 1",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -112117,7 +112153,7 @@
     "code": "57987",
     "desc": "",
     "id": "8062",
-    "name": "Scott Road Station Platform 1",
+    "name": "Scott Road Station @ Platform 1",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -112135,7 +112171,7 @@
     "code": "57988",
     "desc": "",
     "id": "8063",
-    "name": "Columbia Station Platform 1",
+    "name": "Columbia Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -112153,7 +112189,7 @@
     "code": "57989",
     "desc": "",
     "id": "8064",
-    "name": "New Westminster Station Platform 1",
+    "name": "New Westminster Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -112171,7 +112207,7 @@
     "code": "57990",
     "desc": "",
     "id": "8065",
-    "name": "22nd Street Station Platform 1",
+    "name": "22nd Street Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -112189,7 +112225,7 @@
     "code": "57991",
     "desc": "",
     "id": "8066",
-    "name": "Edmonds Station Platform 1",
+    "name": "Edmonds Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -112207,7 +112243,7 @@
     "code": "57992",
     "desc": "",
     "id": "8067",
-    "name": "Royal Oak Station Platform 1",
+    "name": "Royal Oak Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -112225,7 +112261,7 @@
     "code": "57993",
     "desc": "",
     "id": "8068",
-    "name": "Metrotown Station Platform 1",
+    "name": "Metrotown Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -112243,7 +112279,7 @@
     "code": "57994",
     "desc": "",
     "id": "8069",
-    "name": "Patterson Station Platform 1",
+    "name": "Patterson Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -112261,7 +112297,7 @@
     "code": "57995",
     "desc": "",
     "id": "8070",
-    "name": "Joyce-Collingwood Station Platform 1",
+    "name": "Joyce-Collingwood Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -112279,7 +112315,7 @@
     "code": "57996",
     "desc": "",
     "id": "8071",
-    "name": "29th Avenue Station Platform 1",
+    "name": "29th Avenue Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -112297,7 +112333,7 @@
     "code": "57997",
     "desc": "",
     "id": "8072",
-    "name": "Nanaimo Station Platform 1",
+    "name": "Nanaimo Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -112315,7 +112351,7 @@
     "code": "57998",
     "desc": "",
     "id": "8073",
-    "name": "Commercial-Broadway Station Platform 3",
+    "name": "Commercial-Broadway Station @ Platform 3",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -112333,7 +112369,7 @@
     "code": "57999",
     "desc": "",
     "id": "8074",
-    "name": "Main Street-Science World Station Platform 1",
+    "name": "Main Street-Science World Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -112351,7 +112387,7 @@
     "code": "58000",
     "desc": "",
     "id": "8075",
-    "name": "Stadium-Chinatown Station Platform 1",
+    "name": "Stadium-Chinatown Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -112369,7 +112405,7 @@
     "code": "58001",
     "desc": "",
     "id": "8076",
-    "name": "Granville Station Platform 1",
+    "name": "Granville Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -112387,7 +112423,7 @@
     "code": "58002",
     "desc": "",
     "id": "8077",
-    "name": "Burrard Station Platform 1",
+    "name": "Burrard Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -112405,7 +112441,7 @@
     "code": "58003",
     "desc": "",
     "id": "8078",
-    "name": "Waterfront Station Platform 1",
+    "name": "Waterfront Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -114889,7 +114925,7 @@
     "code": "60802",
     "desc": "",
     "id": "8577",
-    "name": "Braid Station Platform 1",
+    "name": "Braid Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -114907,7 +114943,7 @@
     "code": "60803",
     "desc": "",
     "id": "8578",
-    "name": "Braid Station Platform 2",
+    "name": "Braid Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -114925,7 +114961,7 @@
     "code": "60800",
     "desc": "",
     "id": "8579",
-    "name": "Sapperton Station Platform 1",
+    "name": "Sapperton Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -114943,7 +114979,7 @@
     "code": "60801",
     "desc": "",
     "id": "8580",
-    "name": "Sapperton Station Platform 2",
+    "name": "Sapperton Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -116419,7 +116455,7 @@
     "code": "60804",
     "desc": "",
     "id": "8746",
-    "name": "Lougheed Town Centre Station Platform 2",
+    "name": "Lougheed Town Centre Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -116437,7 +116473,7 @@
     "code": "60806",
     "desc": "",
     "id": "8747",
-    "name": "Production Way-University Station Platform 1",
+    "name": "Production Way-University Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -116455,7 +116491,7 @@
     "code": "60810",
     "desc": "",
     "id": "8748",
-    "name": "Sperling-Burnaby Lake Station Platform 1",
+    "name": "Sperling-Burnaby Lake Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -116473,7 +116509,7 @@
     "code": "60812",
     "desc": "",
     "id": "8749",
-    "name": "Holdom Station Platform 1",
+    "name": "Holdom Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -116491,7 +116527,7 @@
     "code": "60814",
     "desc": "",
     "id": "8750",
-    "name": "Brentwood Town Centre Station Platform 1",
+    "name": "Brentwood Town Centre Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -116509,7 +116545,7 @@
     "code": "60816",
     "desc": "",
     "id": "8751",
-    "name": "Gilmore Station Platform 1",
+    "name": "Gilmore Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -116527,7 +116563,7 @@
     "code": "60818",
     "desc": "",
     "id": "8752",
-    "name": "Rupert Station Platform 1",
+    "name": "Rupert Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -116545,7 +116581,7 @@
     "code": "60820",
     "desc": "",
     "id": "8753",
-    "name": "Renfrew Station Platform 1",
+    "name": "Renfrew Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -116563,7 +116599,7 @@
     "code": "60822",
     "desc": "",
     "id": "8754",
-    "name": "Commercial-Broadway Station Platform 1",
+    "name": "Commercial-Broadway Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -116581,7 +116617,7 @@
     "code": "60805",
     "desc": "",
     "id": "8755",
-    "name": "Lougheed Town Centre Station Platform 1",
+    "name": "Lougheed Town Centre Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -116599,7 +116635,7 @@
     "code": "60807",
     "desc": "",
     "id": "8756",
-    "name": "Production Way-University Station Platform 2",
+    "name": "Production Way-University Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -116617,7 +116653,7 @@
     "code": "60811",
     "desc": "",
     "id": "8757",
-    "name": "Sperling-Burnaby Lake Station Platform 2",
+    "name": "Sperling-Burnaby Lake Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -116635,7 +116671,7 @@
     "code": "60813",
     "desc": "",
     "id": "8758",
-    "name": "Holdom Station Platform 2",
+    "name": "Holdom Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -116653,7 +116689,7 @@
     "code": "60815",
     "desc": "",
     "id": "8759",
-    "name": "Brentwood Town Centre Station Platform 2",
+    "name": "Brentwood Town Centre Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -116671,7 +116707,7 @@
     "code": "60817",
     "desc": "",
     "id": "8760",
-    "name": "Gilmore Station Platform 2",
+    "name": "Gilmore Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -116689,7 +116725,7 @@
     "code": "60819",
     "desc": "",
     "id": "8761",
-    "name": "Rupert Station Platform 2",
+    "name": "Rupert Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -116707,7 +116743,7 @@
     "code": "60821",
     "desc": "",
     "id": "8762",
-    "name": "Renfrew Station Platform 2",
+    "name": "Renfrew Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -116725,7 +116761,7 @@
     "code": "60823",
     "desc": "",
     "id": "8763",
-    "name": "Commercial-Broadway Station Platform 2",
+    "name": "Commercial-Broadway Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -123709,7 +123745,7 @@
     "code": "60808",
     "desc": "",
     "id": "9510",
-    "name": "Lake City Way Station Platform 1",
+    "name": "Lake City Way Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -123727,7 +123763,7 @@
     "code": "60809",
     "desc": "",
     "id": "9511",
-    "name": "Lake City Way Station Platform 2",
+    "name": "Lake City Way Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -130621,7 +130657,7 @@
     "code": "60825",
     "desc": "",
     "id": "10374",
-    "name": "VCC-Clark Station Platform 2",
+    "name": "VCC-Clark Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -130639,7 +130675,7 @@
     "code": "60824",
     "desc": "",
     "id": "10375",
-    "name": "VCC-Clark Station Platform 1",
+    "name": "VCC-Clark Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -135841,7 +135877,7 @@
     "code": "58173",
     "desc": "",
     "id": "10915",
-    "name": "22nd St Station @ Bay 1",
+    "name": "22nd Street Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -136003,7 +136039,7 @@
     "code": "53104",
     "desc": "",
     "id": "10948",
-    "name": "Scott Rd Station @ Bay 1",
+    "name": "Scott Road Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -140485,7 +140521,7 @@
     "code": "61363",
     "desc": "",
     "id": "11272",
-    "name": "Vancouver City Centre Station Platform 1",
+    "name": "Vancouver City Centre Station @ Platform 2 Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140503,7 +140539,7 @@
     "code": "61364",
     "desc": "",
     "id": "11273",
-    "name": "Vancouver City Centre Station Platform 2",
+    "name": "Vancouver City Centre Station @ Platform 1 Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140521,7 +140557,7 @@
     "code": "61365",
     "desc": "",
     "id": "11274",
-    "name": "Yaletown-Roundhouse Station Platform 1",
+    "name": "Yaletown-Roundhouse Station @ Platform 2 Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140539,7 +140575,7 @@
     "code": "61366",
     "desc": "",
     "id": "11275",
-    "name": "Yaletown-Roundhouse Station Platform 2",
+    "name": "Yaletown-Roundhouse Station @ Platform 1 Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140557,7 +140593,7 @@
     "code": "61367",
     "desc": "",
     "id": "11276",
-    "name": "Olympic Village Station Platform 1",
+    "name": "Olympic Village Station @ Platform 2 Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140575,7 +140611,7 @@
     "code": "61368",
     "desc": "",
     "id": "11277",
-    "name": "Olympic Village Station Platform 2",
+    "name": "Olympic Village Station @ Platform 1 Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140593,7 +140629,7 @@
     "code": "61369",
     "desc": "",
     "id": "11278",
-    "name": "Broadway-City Hall Station Platform 1",
+    "name": "Broadway-City Hall Station @ Platform 2 Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140611,7 +140647,7 @@
     "code": "61370",
     "desc": "",
     "id": "11279",
-    "name": "Broadway-City Hall Station Platform 2",
+    "name": "Broadway-City Hall Station @ Platform 1 Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140629,7 +140665,7 @@
     "code": "61371",
     "desc": "",
     "id": "11280",
-    "name": "King Edward Station Platform 1",
+    "name": "King Edward Station @ Platform 2 Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140647,7 +140683,7 @@
     "code": "61372",
     "desc": "",
     "id": "11281",
-    "name": "King Edward Station Platform 2",
+    "name": "King Edward Station @ Platform 1 Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140665,7 +140701,7 @@
     "code": "61373",
     "desc": "",
     "id": "11282",
-    "name": "Oakridge-41st Avenue Station Platform 1",
+    "name": "Oakridge-41st Avenue Station @ Platform 2 Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140683,7 +140719,7 @@
     "code": "61374",
     "desc": "",
     "id": "11283",
-    "name": "Oakridge-41st Avenue Station Platform 2",
+    "name": "Oakridge-41st Avenue Station @ Platform 1 Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140701,7 +140737,7 @@
     "code": "61375",
     "desc": "",
     "id": "11284",
-    "name": "Langara-49th Avenue Station Platform 1",
+    "name": "Langara-49th Avenue Station @ Platform 2 Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140719,7 +140755,7 @@
     "code": "61376",
     "desc": "",
     "id": "11285",
-    "name": "Langara-49th Avenue Station Platform 2",
+    "name": "Langara-49th Avenue Station @ Platform 1 Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140737,7 +140773,7 @@
     "code": "61377",
     "desc": "",
     "id": "11286",
-    "name": "Marine Drive Station Platform 1",
+    "name": "Marine Drive Station @ Platform 2 Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140755,7 +140791,7 @@
     "code": "61378",
     "desc": "",
     "id": "11287",
-    "name": "Marine Drive Station Platform 2",
+    "name": "Marine Drive Station @ Platform 1 Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140773,7 +140809,7 @@
     "code": "61379",
     "desc": "",
     "id": "11288",
-    "name": "Bridgeport Station Platform 1",
+    "name": "Bridgeport Station @ Platform 2 Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140791,7 +140827,7 @@
     "code": "61380",
     "desc": "",
     "id": "11289",
-    "name": "Bridgeport Station Platform 2",
+    "name": "Bridgeport Station @ Platform 1 Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140809,7 +140845,7 @@
     "code": "61381",
     "desc": "",
     "id": "11290",
-    "name": "Aberdeen Station Platform 1",
+    "name": "Aberdeen Station @ Platform 2 Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140827,7 +140863,7 @@
     "code": "61382",
     "desc": "",
     "id": "11291",
-    "name": "Aberdeen Station Platform 2",
+    "name": "Aberdeen Station @ Platform 1 Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140845,7 +140881,7 @@
     "code": "61383",
     "desc": "",
     "id": "11292",
-    "name": "Lansdowne Station Platform 1",
+    "name": "Lansdowne Station @ Platform 2 Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140863,7 +140899,7 @@
     "code": "61384",
     "desc": "",
     "id": "11293",
-    "name": "Lansdowne Station Platform 2",
+    "name": "Lansdowne Station @ Platform 1 Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140881,7 +140917,7 @@
     "code": "61385",
     "desc": "",
     "id": "11294",
-    "name": "Richmond-Brighouse Station Platform 1",
+    "name": "Richmond-Brighouse Station @ Canada Line Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140899,7 +140935,7 @@
     "code": "61386",
     "desc": "",
     "id": "11295",
-    "name": "Richmond-Brighouse Station Platform 2",
+    "name": "Richmond-Brighouse Station @ Platform 1 Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140917,7 +140953,7 @@
     "code": "61387",
     "desc": "",
     "id": "11296",
-    "name": "Templeton Station Platform 1",
+    "name": "Templeton Station @ Platform 2 Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140935,7 +140971,7 @@
     "code": "61388",
     "desc": "",
     "id": "11297",
-    "name": "Templeton Station Platform 2",
+    "name": "Templeton Station @ Platform 1 Platform 2",
     "zone": "CL_AD"
    },
    "type": "Feature"
@@ -140953,7 +140989,7 @@
     "code": "61389",
     "desc": "",
     "id": "11298",
-    "name": "Sea Island Centre Station Platform 1",
+    "name": "Sea Island Centre Station @ Platform 2 Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140971,7 +141007,7 @@
     "code": "61390",
     "desc": "",
     "id": "11299",
-    "name": "Sea Island Centre Station Platform 2",
+    "name": "Sea Island Centre Station @ Platform 1 Platform 2",
     "zone": "CL_AD"
    },
    "type": "Feature"
@@ -140989,7 +141025,7 @@
     "code": "61391",
     "desc": "",
     "id": "11300",
-    "name": "YVR-Airport Station Platform 1",
+    "name": "YVR-Airport Station @ Canada Line Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -141007,7 +141043,7 @@
     "code": "61392",
     "desc": "",
     "id": "11301",
-    "name": "YVR-Airport Station Platform 2",
+    "name": "YVR-Airport Station @ Platform 1 Platform 2",
     "zone": "CL_AD"
    },
    "type": "Feature"
@@ -141025,7 +141061,7 @@
     "code": "61393",
     "desc": "",
     "id": "11302",
-    "name": "Waterfront Station Canada Line",
+    "name": "Waterfront Station Canada Line @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -141043,7 +141079,7 @@
     "code": "61394",
     "desc": "",
     "id": "11303",
-    "name": "Waterfront Station Canada Line",
+    "name": "Waterfront Station @ Canada Line",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -151519,7 +151555,7 @@
     "code": "60084",
     "desc": "",
     "id": "12227",
-    "name": "Lougheed Town Centre Station Platform 3",
+    "name": "Lougheed Town Centre Station @ Platform 3",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -151537,7 +151573,7 @@
     "code": "60085",
     "desc": "",
     "id": "12228",
-    "name": "Burquitlam Station Platform 1",
+    "name": "Burquitlam Station @ Platform 1",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -151555,7 +151591,7 @@
     "code": "60086",
     "desc": "",
     "id": "12229",
-    "name": "Burquitlam Station Platform 2",
+    "name": "Burquitlam Station @ Platform 2",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -151573,7 +151609,7 @@
     "code": "60087",
     "desc": "",
     "id": "12230",
-    "name": "Moody Centre Station Platform 1",
+    "name": "Moody Centre Station @ Platform 1",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -151591,7 +151627,7 @@
     "code": "60088",
     "desc": "",
     "id": "12231",
-    "name": "Moody Centre Station Platform 2",
+    "name": "Moody Centre Station @ Platform 2",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -151609,7 +151645,7 @@
     "code": "60089",
     "desc": "",
     "id": "12232",
-    "name": "Inlet Centre Station Platform 1",
+    "name": "Inlet Centre Station @ Platform 1",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -151627,7 +151663,7 @@
     "code": "60090",
     "desc": "",
     "id": "12233",
-    "name": "Inlet Centre Station Platform 2",
+    "name": "Inlet Centre Station @ Platform 2",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -151645,7 +151681,7 @@
     "code": "60091",
     "desc": "",
     "id": "12234",
-    "name": "Coquitlam Central Station Platform 1",
+    "name": "Coquitlam Central Station @ Platform 1",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -151663,7 +151699,7 @@
     "code": "60092",
     "desc": "",
     "id": "12235",
-    "name": "Coquitlam Central Station Platform 2",
+    "name": "Coquitlam Central Station @ Platform 2",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -151681,7 +151717,7 @@
     "code": "60093",
     "desc": "",
     "id": "12236",
-    "name": "Lincoln Station Platform 1",
+    "name": "Lincoln Station @ Platform 1",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -151699,7 +151735,7 @@
     "code": "60094",
     "desc": "",
     "id": "12237",
-    "name": "Lincoln Station Platform 2",
+    "name": "Lincoln Station @ Platform 2",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -151717,7 +151753,7 @@
     "code": "60095",
     "desc": "",
     "id": "12238",
-    "name": "Lafarge Lake-Douglas Station Platform 1",
+    "name": "Lafarge Lake-Douglas Station @ Platform 1",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -151735,7 +151771,7 @@
     "code": "60096",
     "desc": "",
     "id": "12239",
-    "name": "Lafarge Lake-Douglas Station Platform 2",
+    "name": "Lafarge Lake-Douglas Station @ Platform 2",
     "zone": "ZN 3"
    },
    "type": "Feature"
@@ -155703,6 +155739,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.799229,
+     49.031015
+    ],
+    "type": "Point"
+   },
+   "id": "12543",
+   "properties": {
+    "code": "60292",
+    "desc": "",
+    "id": "12543",
+    "name": "White Rock Centre @ Bay 4",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.890274,
      49.104989
     ],
@@ -156099,8 +156153,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115618,
-     49.233415
+     -123.114518,
+     49.23337
     ],
     "type": "Point"
    },
@@ -157953,24 +158007,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.597548,
-     49.141825
-    ],
-    "type": "Point"
-   },
-   "id": "12729",
-   "properties": {
-    "code": "60501",
-    "desc": "",
-    "id": "12729",
-    "name": "Westbound University Dr @ East Road",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.139345,
      49.288812
     ],
@@ -158090,6 +158126,96 @@
     "desc": "",
     "id": "12738",
     "name": "Eastbound Sherbrooke St @ E Columbia St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.805165,
+     49.021881
+    ],
+    "type": "Point"
+   },
+   "id": "12739",
+   "properties": {
+    "code": "60509",
+    "desc": "",
+    "id": "12739",
+    "name": "Eastbound Victoria Ave @ Martin St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.800871,
+     49.020855
+    ],
+    "type": "Point"
+   },
+   "id": "12740",
+   "properties": {
+    "code": "60510",
+    "desc": "",
+    "id": "12740",
+    "name": "Eastbound Victoria Ave @ Fir St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.797271,
+     49.019546
+    ],
+    "type": "Point"
+   },
+   "id": "12742",
+   "properties": {
+    "code": "60511",
+    "desc": "",
+    "id": "12742",
+    "name": "Eastbound Victoria Ave @ Dolphin St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.792788,
+     49.018145
+    ],
+    "type": "Point"
+   },
+   "id": "12743",
+   "properties": {
+    "code": "60512",
+    "desc": "",
+    "id": "12743",
+    "name": "Eastbound Victoria Ave @ Balsam St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.159273,
+     49.227274
+    ],
+    "type": "Point"
+   },
+   "id": "12744",
+   "properties": {
+    "code": "60746",
+    "desc": "",
+    "id": "12744",
+    "name": "Westbound W 49th Ave @ Yew St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
