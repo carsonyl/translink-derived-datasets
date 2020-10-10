@@ -12891,6 +12891,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.118529,
+     49.28264
+    ],
+    "type": "Point"
+   },
+   "id": "985",
+   "properties": {
+    "code": "50976",
+    "desc": "",
+    "id": "985",
+    "name": "Eastbound W Georgia St @ Granville St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.082407,
      49.311218
     ],
@@ -23738,6 +23756,24 @@
     "desc": "",
     "id": "1699",
     "name": "Northbound Rupert St @ E 5th Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.033576,
+     49.267805
+    ],
+    "type": "Point"
+   },
+   "id": "1700",
+   "properties": {
+    "code": "51686",
+    "desc": "",
+    "id": "1700",
+    "name": "Northbound Rupert St @ E 3rd Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -35319,60 +35355,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.953152,
-     49.210392
-    ],
-    "type": "Point"
-   },
-   "id": "2632",
-   "properties": {
-    "code": "52607",
-    "desc": "",
-    "id": "2632",
-    "name": "Eastbound 14 Ave @ Griffiths Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.950256,
-     49.212612
-    ],
-    "type": "Point"
-   },
-   "id": "2633",
-   "properties": {
-    "code": "52608",
-    "desc": "",
-    "id": "2633",
-    "name": "Eastbound 14 Ave @ 7100 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.947328,
-     49.214153
-    ],
-    "type": "Point"
-   },
-   "id": "2634",
-   "properties": {
-    "code": "52609",
-    "desc": "",
-    "id": "2634",
-    "name": "Westbound 14 Ave @ 15 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.943021,
      49.21627
     ],
@@ -35672,24 +35654,6 @@
     "desc": "",
     "id": "2654",
     "name": "Eastbound 14 Ave @ 15 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.953538,
-     49.210182
-    ],
-    "type": "Point"
-   },
-   "id": "2656",
-   "properties": {
-    "code": "52631",
-    "desc": "",
-    "id": "2656",
-    "name": "Westbound 14 Ave @ Griffiths Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -41421,8 +41385,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.814289,
-     49.266083
+     -122.814324,
+     49.26599
     ],
     "type": "Point"
    },
@@ -89985,24 +89949,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.12663,
-     49.191911
-    ],
-    "type": "Point"
-   },
-   "id": "6523",
-   "properties": {
-    "code": "56462",
-    "desc": "",
-    "id": "6523",
-    "name": "Eastbound Bridgeport Rd @ Sexsmith Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.114305,
      49.191877
     ],
@@ -121341,6 +121287,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.775158,
+     49.271505
+    ],
+    "type": "Point"
+   },
+   "id": "9257",
+   "properties": {
+    "code": "58775",
+    "desc": "",
+    "id": "9257",
+    "name": "Northbound Shaughnessy St @ Prairie Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.779039,
      49.299226
     ],
@@ -122313,8 +122277,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.742338,
-     49.264587
+     -122.742347,
+     49.264273
     ],
     "type": "Point"
    },
@@ -134697,6 +134661,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.033871,
+     49.267232
+    ],
+    "type": "Point"
+   },
+   "id": "10815",
+   "properties": {
+    "code": "51704",
+    "desc": "",
+    "id": "10815",
+    "name": "Southbound Rupert St @ E 3rd Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.101068,
      49.256943
     ],
@@ -140521,7 +140503,7 @@
     "code": "61363",
     "desc": "",
     "id": "11272",
-    "name": "Vancouver City Centre Station @ Platform 2 Platform 1",
+    "name": "Vancouver City Centre Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140539,7 +140521,7 @@
     "code": "61364",
     "desc": "",
     "id": "11273",
-    "name": "Vancouver City Centre Station @ Platform 1 Platform 2",
+    "name": "Vancouver City Centre Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140557,7 +140539,7 @@
     "code": "61365",
     "desc": "",
     "id": "11274",
-    "name": "Yaletown-Roundhouse Station @ Platform 2 Platform 1",
+    "name": "Yaletown-Roundhouse Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140575,7 +140557,7 @@
     "code": "61366",
     "desc": "",
     "id": "11275",
-    "name": "Yaletown-Roundhouse Station @ Platform 1 Platform 2",
+    "name": "Yaletown-Roundhouse Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140593,7 +140575,7 @@
     "code": "61367",
     "desc": "",
     "id": "11276",
-    "name": "Olympic Village Station @ Platform 2 Platform 1",
+    "name": "Olympic Village Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140611,7 +140593,7 @@
     "code": "61368",
     "desc": "",
     "id": "11277",
-    "name": "Olympic Village Station @ Platform 1 Platform 2",
+    "name": "Olympic Village Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140629,7 +140611,7 @@
     "code": "61369",
     "desc": "",
     "id": "11278",
-    "name": "Broadway-City Hall Station @ Platform 2 Platform 1",
+    "name": "Broadway-City Hall Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140647,7 +140629,7 @@
     "code": "61370",
     "desc": "",
     "id": "11279",
-    "name": "Broadway-City Hall Station @ Platform 1 Platform 2",
+    "name": "Broadway-City Hall Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140665,7 +140647,7 @@
     "code": "61371",
     "desc": "",
     "id": "11280",
-    "name": "King Edward Station @ Platform 2 Platform 1",
+    "name": "King Edware Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140683,7 +140665,7 @@
     "code": "61372",
     "desc": "",
     "id": "11281",
-    "name": "King Edward Station @ Platform 1 Platform 2",
+    "name": "King Edware Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140701,7 +140683,7 @@
     "code": "61373",
     "desc": "",
     "id": "11282",
-    "name": "Oakridge-41st Avenue Station @ Platform 2 Platform 1",
+    "name": "Oakridge-41st Avenue Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140719,7 +140701,7 @@
     "code": "61374",
     "desc": "",
     "id": "11283",
-    "name": "Oakridge-41st Avenue Station @ Platform 1 Platform 2",
+    "name": "Oakridge-41st Avenue Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140737,7 +140719,7 @@
     "code": "61375",
     "desc": "",
     "id": "11284",
-    "name": "Langara-49th Avenue Station @ Platform 2 Platform 1",
+    "name": "Langara-49th Avenue Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140755,7 +140737,7 @@
     "code": "61376",
     "desc": "",
     "id": "11285",
-    "name": "Langara-49th Avenue Station @ Platform 1 Platform 2",
+    "name": "Langara-49th Avenue Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140773,7 +140755,7 @@
     "code": "61377",
     "desc": "",
     "id": "11286",
-    "name": "Marine Drive Station @ Platform 2 Platform 1",
+    "name": "Marine Drive Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140791,7 +140773,7 @@
     "code": "61378",
     "desc": "",
     "id": "11287",
-    "name": "Marine Drive Station @ Platform 1 Platform 2",
+    "name": "Marine Drive Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140809,7 +140791,7 @@
     "code": "61379",
     "desc": "",
     "id": "11288",
-    "name": "Bridgeport Station @ Platform 2 Platform 1",
+    "name": "Bridgeport Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140827,7 +140809,7 @@
     "code": "61380",
     "desc": "",
     "id": "11289",
-    "name": "Bridgeport Station @ Platform 1 Platform 2",
+    "name": "Bridgeport Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140845,7 +140827,7 @@
     "code": "61381",
     "desc": "",
     "id": "11290",
-    "name": "Aberdeen Station @ Platform 2 Platform 1",
+    "name": "Aberdeen Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140863,7 +140845,7 @@
     "code": "61382",
     "desc": "",
     "id": "11291",
-    "name": "Aberdeen Station @ Platform 1 Platform 2",
+    "name": "Aberdeen Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140881,7 +140863,7 @@
     "code": "61383",
     "desc": "",
     "id": "11292",
-    "name": "Lansdowne Station @ Platform 2 Platform 1",
+    "name": "Landsdowne Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140899,7 +140881,7 @@
     "code": "61384",
     "desc": "",
     "id": "11293",
-    "name": "Lansdowne Station @ Platform 1 Platform 2",
+    "name": "Landsdowne Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140917,7 +140899,7 @@
     "code": "61385",
     "desc": "",
     "id": "11294",
-    "name": "Richmond-Brighouse Station @ Canada Line Platform 1",
+    "name": "Richmond-Brighouse Station @ Canada Line",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140935,7 +140917,7 @@
     "code": "61386",
     "desc": "",
     "id": "11295",
-    "name": "Richmond-Brighouse Station @ Platform 1 Platform 2",
+    "name": "Richmond-Brighouse Station @ Platform 1",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140953,7 +140935,7 @@
     "code": "61387",
     "desc": "",
     "id": "11296",
-    "name": "Templeton Station @ Platform 2 Platform 1",
+    "name": "Templeton Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -140971,7 +140953,7 @@
     "code": "61388",
     "desc": "",
     "id": "11297",
-    "name": "Templeton Station @ Platform 1 Platform 2",
+    "name": "Templeton Station @ Platform 1",
     "zone": "CL_AD"
    },
    "type": "Feature"
@@ -140989,7 +140971,7 @@
     "code": "61389",
     "desc": "",
     "id": "11298",
-    "name": "Sea Island Centre Station @ Platform 2 Platform 1",
+    "name": "Sea Island Centre Station @ Platform 2",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -141007,7 +140989,7 @@
     "code": "61390",
     "desc": "",
     "id": "11299",
-    "name": "Sea Island Centre Station @ Platform 1 Platform 2",
+    "name": "Sea Island Centre Station @ Platform 1",
     "zone": "CL_AD"
    },
    "type": "Feature"
@@ -141025,7 +141007,7 @@
     "code": "61391",
     "desc": "",
     "id": "11300",
-    "name": "YVR-Airport Station @ Canada Line Platform 1",
+    "name": "YVR-Airport Station @ Canada Line",
     "zone": "ZN 2"
    },
    "type": "Feature"
@@ -141043,7 +141025,7 @@
     "code": "61392",
     "desc": "",
     "id": "11301",
-    "name": "YVR-Airport Station @ Platform 1 Platform 2",
+    "name": "YVR-Airport Station @ Platform 1",
     "zone": "CL_AD"
    },
    "type": "Feature"
@@ -158025,24 +158007,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116813,
-     49.281514
-    ],
-    "type": "Point"
-   },
-   "id": "12731",
-   "properties": {
-    "code": "60503",
-    "desc": "",
-    "id": "12731",
-    "name": "Eastbound W Georgia St @ Seymour St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.129709,
      49.287679
     ],
@@ -158234,7 +158198,7 @@
     "desc": "",
     "id": "99901",
     "name": "YVR-Airport Station",
-    "zone": "ZN 2"
+    "zone": "CL_AD"
    },
    "type": "Feature"
   },
@@ -158252,7 +158216,7 @@
     "desc": "",
     "id": "99902",
     "name": "Sea Island Centre Station",
-    "zone": "ZN 2"
+    "zone": "CL_AD"
    },
    "type": "Feature"
   },
@@ -158270,7 +158234,7 @@
     "desc": "",
     "id": "99903",
     "name": "Templeton Station",
-    "zone": "ZN 2"
+    "zone": "CL_AD"
    },
    "type": "Feature"
   },

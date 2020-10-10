@@ -715,6 +715,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 982,50973,Eastbound W Georgia St @ Broughton St,,49.288694,-123.127919,BUS ZN,,0,
 983,50974,Eastbound W Georgia St @ Bute St,,49.286717,-123.124885,BUS ZN,,0,
 984,50975,Eastbound W Georgia St @ Burrard St,,49.284132,-123.120872,BUS ZN,,0,
+985,50976,Eastbound W Georgia St @ Granville St,,49.28264,-123.118529,BUS ZN,,0,
 989,50980,Lonsdale Quay @ Bay 5,,49.311218,-123.082407,BUS ZN,,0,
 991,50982,Southbound Cambie St @ W 43 Ave,,49.231397,-123.116561,BUS ZN,,0,
 994,50985,Langara-49th Station @ Bay 4,,49.225846,-123.116731,BUS ZN,,0,
@@ -1318,6 +1319,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 1697,51683,Northbound Rupert St @ E Broadway,,49.262245,-123.033587,BUS ZN,,0,
 1698,51684,Northbound Rupert St @ E 7th Ave,,49.264088,-123.033609,BUS ZN,,0,
 1699,51685,Northbound Rupert St @ E 5th Ave,,49.265981,-123.033605,BUS ZN,,0,
+1700,51686,Northbound Rupert St @ E 3rd Ave,,49.267805,-123.033576,BUS ZN,,0,
 1701,51687,Northbound Rupert St @ Graveley St,,49.270822,-123.033606,BUS ZN,,0,
 1702,51688,Northbound Rupert St @ Kitchener St,,49.272547,-123.033591,BUS ZN,,0,
 1703,51689,Northbound Rupert St @ William St,,49.274384,-123.03354,BUS ZN,,0,
@@ -1961,9 +1963,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2627,52602,Westbound Central Blvd @ 4500 Block,,49.224507,-123.000438,BUS ZN,,0,
 2630,52605,Edmonds Station @ Bay 5,,49.212185,-122.95867,BUS ZN,,0,
 2631,52606,Southbound Griffiths Dr @ Southpoint Dr,,49.210902,-122.955497,BUS ZN,,0,
-2632,52607,Eastbound 14 Ave @ Griffiths Dr,,49.210392,-122.953152,BUS ZN,,0,
-2633,52608,Eastbound 14 Ave @ 7100 Block,,49.212612,-122.950256,BUS ZN,,0,
-2634,52609,Westbound 14 Ave @ 15 St,,49.214153,-122.947328,BUS ZN,,0,
 2635,52610,Eastbound 14 Ave @ Kingsway,,49.21627,-122.943021,BUS ZN,,0,
 2637,52612,Southbound Kingsway @ 12 Ave,,49.214565,-122.939633,BUS ZN,,0,
 2638,52613,Southbound 12 St @ London St,,49.212449,-122.936713,BUS ZN,,0,
@@ -1981,7 +1980,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 2651,52626,Northbound Kingsway @ 12 Ave,,49.214394,-122.939099,BUS ZN,,0,
 2653,52628,Westbound 14 Ave @ Kingsway,,49.216172,-122.94345,BUS ZN,,0,
 2654,52629,Eastbound 14 Ave @ 15 St,,49.214391,-122.946489,BUS ZN,,0,
-2656,52631,Westbound 14 Ave @ Griffiths Dr,,49.210182,-122.953538,BUS ZN,,0,
 2657,52632,Northbound Griffiths Dr @ Southpoint Dr,,49.211497,-122.955798,BUS ZN,,0,
 2660,52635,Northbound Nelson Ave @ Carson Place,,49.209736,-122.994325,BUS ZN,,0,
 2661,52636,Northbound Nelson Ave @ McKee Place,,49.211114,-122.993842,BUS ZN,,0,
@@ -2300,7 +2298,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 3072,53040,Westbound Mariner Way @ Windward Dr,,49.272539,-122.812721,BUS ZN,,0,
 3073,53041,Southbound Mariner Way @ Hawser Ave,,49.270574,-122.81474,BUS ZN,,0,
 3074,53042,Southbound Mariner Way @ Daybreak Ave,,49.267856,-122.813894,BUS ZN,,0,
-3075,53043,Southbound Mariner Way @ 2900 Block,,49.266083,-122.814289,BUS ZN,,0,
+3075,53043,Southbound Mariner Way @ 2900 Block,,49.26599,-122.814324,BUS ZN,,0,
 3076,53044,Southbound Mariner Way @ Lighthouse Court,,49.263978,-122.816975,BUS ZN,,0,
 3077,53045,Westbound Como Lake Ave @ 2500 Block,,49.263283,-122.823035,BUS ZN,,0,
 3078,53046,Westbound Como Lake Ave @ Seymour Dr,,49.263331,-122.830605,BUS ZN,,0,
@@ -4998,7 +4996,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 6510,56449,Eastbound Westminster Hwy @ Minoru Blvd,,49.170114,-123.139363,BUS ZN,,0,
 6512,56451,Eastbound Cook Rd @ No. 3 Rd,,49.166453,-123.135795,BUS ZN,,0,
 6519,56458,Eastbound Alderbridge Way @ Kwantlen St,,49.177223,-123.128124,BUS ZN,,0,
-6523,56462,Eastbound Bridgeport Rd @ Sexsmith Rd,,49.191911,-123.12663,BUS ZN,,0,
 6526,56465,Eastbound Bridgeport Rd @ No. 4 Rd,,49.191877,-123.114305,BUS ZN,,0,
 6531,56470,Southbound Garden City Rd @ Capstan Way,,49.188049,-123.125007,BUS ZN,,0,
 6532,56471,Southbound Garden City Rd @ Cambie Rd,,49.183992,-123.124786,BUS ZN,,0,
@@ -6740,6 +6737,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 9254,58840,Southbound Parkway Blvd @ Tanglewood Lane,,49.298479,-122.80902,BUS ZN,,0,
 9255,58838,Southbound Parkway Blvd @ Panorama Dr,,49.29721,-122.809435,BUS ZN,,0,
 9256,58905,Northbound 224 St @ 121 Ave,,49.222928,-122.601267,BUS ZN,,0,
+9257,58775,Northbound Shaughnessy St @ Prairie Ave,,49.271505,-122.775158,BUS ZN,,0,
 9259,58818,Westbound Robson Dr @ Kenney St,,49.299226,-122.779039,BUS ZN,,0,
 9260,58817,Southbound Robson Dr @ Blackwater Place,,49.298216,-122.781306,BUS ZN,,0,
 9261,58822,Westbound Robson Dr @ Purcell Dr,,49.297263,-122.783865,BUS ZN,,0,
@@ -6794,7 +6792,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 9350,58681,Eastbound Prairie Ave @ Fremont St,,49.271212,-122.734269,BUS ZN,,0,
 9352,58697,Southbound Fremont St @ Riverside Dr,,49.267662,-122.73389,BUS ZN,,0,
 9354,58691,Westbound Riverside Dr @ Skeena St,,49.267321,-122.737235,BUS ZN,,0,
-9355,58987,Southbound Riverside Dr @ Riverwood Gate,,49.264587,-122.742338,BUS ZN,,0,
+9355,58987,Southbound Riverside Dr @ Riverwood Gate,,49.264273,-122.742347,BUS ZN,,0,
 9356,58777,Southbound Ottawa St @ Riverside Dr,,49.260389,-122.746578,BUS ZN,,0,
 9357,58763,Eastbound Riverside Dr @ Ottawa St,,49.260693,-122.745572,BUS ZN,,0,
 9358,58764,Eastbound Riverside Dr @ Nile Gate,,49.261037,-122.743262,BUS ZN,,0,
@@ -7482,6 +7480,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 10811,60995,Eastbound Chippendale Rd @ Westhill Dr (Flag),,49.349419,-123.163179,BUS ZN,,0,
 10812,59583,Southbound Main St @ E 49 Ave,,49.225333,-123.10178,BUS ZN,,0,
 10813,51703,Southbound Rupert St @ E 1st Ave,,49.269052,-123.033883,BUS ZN,,0,
+10815,51704,Southbound Rupert St @ E 3rd Ave,,49.267232,-123.033871,BUS ZN,,0,
 10816,59581,Northbound Main St @ E 16 Ave,,49.256943,-123.101068,BUS ZN,,0,
 10818,60998,Northbound 21 St @ Inglewood Ave (Flag),,49.334773,-123.167977,BUS ZN,,0,
 10819,60999,Northbound On 21 St @ Ottawa Ave (Flag),,49.340168,-123.16795,BUS ZN,,0,
@@ -7805,36 +7804,36 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 11268,61330,Bridgeport Station @ Bay 11,,49.195565,-123.126212,BUS ZN,,0,
 11269,61331,Bridgeport Station @ Bay 12,,49.195652,-123.125982,BUS ZN,,0,
 11270,61321,Bridgeport Station @ Bay 1,,49.195515,-123.125911,BUS ZN,,0,
-11272,61363,Vancouver City Centre Station @ Platform 2 Platform 1,,49.282462,-123.118283,ZN 1,,0,99915
-11273,61364,Vancouver City Centre Station @ Platform 1 Platform 2,,49.282352,-123.118143,ZN 1,,0,99915
-11274,61365,Yaletown-Roundhouse Station @ Platform 2 Platform 1,,49.274467,-123.122124,ZN 1,,0,99914
-11275,61366,Yaletown-Roundhouse Station @ Platform 1 Platform 2,,49.274508,-123.122015,ZN 1,,0,99914
-11276,61367,Olympic Village Station @ Platform 2 Platform 1,,49.266616,-123.115218,ZN 1,,0,99913
-11277,61368,Olympic Village Station @ Platform 1 Platform 2,,49.266557,-123.115527,ZN 1,,0,99913
-11278,61369,Broadway-City Hall Station @ Platform 2 Platform 1,,49.262684,-123.114856,ZN 1,,0,99912
-11279,61370,Broadway-City Hall Station @ Platform 1 Platform 2,,49.262725,-123.114753,ZN 1,,0,99912
-11280,61371,King Edward Station @ Platform 2 Platform 1,,49.249186,-123.115716,ZN 1,,0,99911
-11281,61372,King Edward Station @ Platform 1 Platform 2,,49.249172,-123.115228,ZN 1,,0,99911
-11282,61373,Oakridge-41st Avenue Station @ Platform 2 Platform 1,,49.233747,-123.116422,ZN 1,,0,99910
-11283,61374,Oakridge-41st Avenue Station @ Platform 1 Platform 2,,49.233731,-123.116176,ZN 1,,0,99910
-11284,61375,Langara-49th Avenue Station @ Platform 2 Platform 1,,49.225743,-123.116752,ZN 1,,0,99909
-11285,61376,Langara-49th Avenue Station @ Platform 1 Platform 2,,49.225709,-123.116289,ZN 1,,0,99909
-11286,61377,Marine Drive Station @ Platform 2 Platform 1,,49.209661,-123.117078,ZN 1,,0,99908
-11287,61378,Marine Drive Station @ Platform 1 Platform 2,,49.209663,-123.116921,ZN 1,,0,99908
-11288,61379,Bridgeport Station @ Platform 2 Platform 1,,49.195558,-123.126076,ZN 2,,0,99907
-11289,61380,Bridgeport Station @ Platform 1 Platform 2,,49.195514,-123.126006,ZN 2,,0,99907
-11290,61381,Aberdeen Station @ Platform 2 Platform 1,,49.184,-123.136398,ZN 2,,0,99906
-11291,61382,Aberdeen Station @ Platform 1 Platform 2,,49.183991,-123.13622,ZN 2,,0,99906
-11292,61383,Lansdowne Station @ Platform 2 Platform 1,,49.174762,-123.136507,ZN 2,,0,99905
-11293,61384,Lansdowne Station @ Platform 1 Platform 2,,49.174766,-123.136322,ZN 2,,0,99905
-11294,61385,Richmond-Brighouse Station @ Canada Line Platform 1,,49.168092,-123.136247,ZN 2,,0,99904
-11295,61386,Richmond-Brighouse Station @ Platform 1 Platform 2,,49.168092,-123.136174,ZN 2,,0,99904
-11296,61387,Templeton Station @ Platform 2 Platform 1,,49.196715,-123.146335,ZN 2,,0,99903
-11297,61388,Templeton Station @ Platform 1 Platform 2,,49.196655,-123.146307,CL_AD,,0,99903
-11298,61389,Sea Island Centre Station @ Platform 2 Platform 1,,49.193053,-123.157851,ZN 2,,0,99902
-11299,61390,Sea Island Centre Station @ Platform 1 Platform 2,,49.19293,-123.157884,CL_AD,,0,99902
-11300,61391,YVR-Airport Station @ Canada Line Platform 1,,49.194189,-123.178251,ZN 2,,0,99901
-11301,61392,YVR-Airport Station @ Platform 1 Platform 2,,49.194152,-123.178254,CL_AD,,0,99901
+11272,61363,Vancouver City Centre Station @ Platform 2,,49.282462,-123.118283,ZN 1,,0,99915
+11273,61364,Vancouver City Centre Station @ Platform 1,,49.282352,-123.118143,ZN 1,,0,99915
+11274,61365,Yaletown-Roundhouse Station @ Platform 2,,49.274467,-123.122124,ZN 1,,0,99914
+11275,61366,Yaletown-Roundhouse Station @ Platform 1,,49.274508,-123.122015,ZN 1,,0,99914
+11276,61367,Olympic Village Station @ Platform 2,,49.266616,-123.115218,ZN 1,,0,99913
+11277,61368,Olympic Village Station @ Platform 1,,49.266557,-123.115527,ZN 1,,0,99913
+11278,61369,Broadway-City Hall Station @ Platform 2,,49.262684,-123.114856,ZN 1,,0,99912
+11279,61370,Broadway-City Hall Station @ Platform 1,,49.262725,-123.114753,ZN 1,,0,99912
+11280,61371,King Edware Station @ Platform 2,,49.249186,-123.115716,ZN 1,,0,99911
+11281,61372,King Edware Station @ Platform 1,,49.249172,-123.115228,ZN 1,,0,99911
+11282,61373,Oakridge-41st Avenue Station @ Platform 2,,49.233747,-123.116422,ZN 1,,0,99910
+11283,61374,Oakridge-41st Avenue Station @ Platform 1,,49.233731,-123.116176,ZN 1,,0,99910
+11284,61375,Langara-49th Avenue Station @ Platform 2,,49.225743,-123.116752,ZN 1,,0,99909
+11285,61376,Langara-49th Avenue Station @ Platform 1,,49.225709,-123.116289,ZN 1,,0,99909
+11286,61377,Marine Drive Station @ Platform 2,,49.209661,-123.117078,ZN 1,,0,99908
+11287,61378,Marine Drive Station @ Platform 1,,49.209663,-123.116921,ZN 1,,0,99908
+11288,61379,Bridgeport Station @ Platform 2,,49.195558,-123.126076,ZN 2,,0,99907
+11289,61380,Bridgeport Station @ Platform 1,,49.195514,-123.126006,ZN 2,,0,99907
+11290,61381,Aberdeen Station @ Platform 2,,49.184,-123.136398,ZN 2,,0,99906
+11291,61382,Aberdeen Station @ Platform 1,,49.183991,-123.13622,ZN 2,,0,99906
+11292,61383,Landsdowne Station @ Platform 2,,49.174762,-123.136507,ZN 2,,0,99905
+11293,61384,Landsdowne Station @ Platform 1,,49.174766,-123.136322,ZN 2,,0,99905
+11294,61385,Richmond-Brighouse Station @ Canada Line,,49.168092,-123.136247,ZN 2,,0,99904
+11295,61386,Richmond-Brighouse Station @ Platform 1,,49.168092,-123.136174,ZN 2,,0,99904
+11296,61387,Templeton Station @ Platform 2,,49.196715,-123.146335,ZN 2,,0,99903
+11297,61388,Templeton Station @ Platform 1,,49.196655,-123.146307,CL_AD,,0,99903
+11298,61389,Sea Island Centre Station @ Platform 2,,49.193053,-123.157851,ZN 2,,0,99902
+11299,61390,Sea Island Centre Station @ Platform 1,,49.19293,-123.157884,CL_AD,,0,99902
+11300,61391,YVR-Airport Station @ Canada Line,,49.194189,-123.178251,ZN 2,,0,99901
+11301,61392,YVR-Airport Station @ Platform 1,,49.194152,-123.178254,CL_AD,,0,99901
 11302,61393,Waterfront Station Canada Line @ Platform 2,,49.285139,-123.114206,ZN 1,,0,12034
 11303,61394,Waterfront Station @ Canada Line,,49.285093,-123.114139,ZN 1,,0,12034
 11305,61396,Southbound 232 St @ Fern Cres,,49.24101,-122.579718,BUS ZN,,0,
@@ -8778,7 +8777,6 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 12727,60308,Westbound Sherbrooke St @ E Columbia St,,49.227958,-122.893384,BUS ZN,,0,
 12728,60500,Eastbound University Dr @ Mattson Centre,,49.141737,-122.599236,BUS ZN,,0,
 12730,60502,Northbound Denman St @ Comox St,,49.288812,-123.139345,BUS ZN,,0,
-12731,60503,Eastbound W Georgia St @ Seymour St,,49.281514,-123.116813,BUS ZN,,0,
 12732,60504,Eastbound Robson St @ Broughton St,,49.287679,-123.129709,BUS ZN,,0,
 12734,60505,Southbound Thurlow St @ Harwood St,,49.27881,-123.133731,BUS ZN,,0,
 12735,58314,Westbound E 27 St @ 1200 Block,,49.333436,-123.040377,BUS ZN,,0,
@@ -8789,9 +8787,9 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 12742,60511,Eastbound Victoria Ave @ Dolphin St,,49.019546,-122.797271,BUS ZN,,0,
 12743,60512,Eastbound Victoria Ave @ Balsam St,,49.018145,-122.792788,BUS ZN,,0,
 12744,60746,Westbound W 49th Ave @ Yew St,,49.227274,-123.159273,BUS ZN,,0,
-99901,,YVR-Airport Station,,49.194174,-123.178269,ZN 2,,1,
-99902,,Sea Island Centre Station,,49.192986,-123.157887,ZN 2,,1,
-99903,,Templeton Station,,49.196688,-123.146337,ZN 2,,1,
+99901,,YVR-Airport Station,,49.194174,-123.178269,CL_AD,,1,
+99902,,Sea Island Centre Station,,49.192986,-123.157887,CL_AD,,1,
+99903,,Templeton Station,,49.196688,-123.146337,CL_AD,,1,
 99904,,Richmond-Brighouse Station,,49.167943,-123.136372,ZN 2,,1,
 99905,,Lansdowne Station,,49.174665,-123.136475,ZN 2,,1,
 99906,,Aberdeen Station,,49.184000,-123.136325,ZN 2,,1,
