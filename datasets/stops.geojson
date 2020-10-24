@@ -4953,8 +4953,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.120358,
-     49.286027
+     -123.12117,
+     49.286156
     ],
     "type": "Point"
    },
@@ -14133,8 +14133,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.043113,
-     49.24347
+     -123.043266,
+     49.243327
     ],
     "type": "Point"
    },
@@ -30891,24 +30891,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.914361,
-     49.249633
-    ],
-    "type": "Point"
-   },
-   "id": "2302",
-   "properties": {
-    "code": "52280",
-    "desc": "",
-    "id": "2302",
-    "name": "Southbound Cariboo Rd @ Cariboo Place",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.911482,
      49.245468
     ],
@@ -41133,8 +41115,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.778798,
-     49.260817
+     -122.779236,
+     49.260819
     ],
     "type": "Point"
    },
@@ -91201,7 +91183,7 @@
     "code": "56546",
     "desc": "",
     "id": "6607",
-    "name": "Richmond-Brighouse Station @ Bay 1",
+    "name": "Northbound No. 3rd Rd @ Cook Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -91237,7 +91219,7 @@
     "code": "56549",
     "desc": "",
     "id": "6610",
-    "name": "Richmond-Brighouse Station @ Bay 7",
+    "name": "Southbound No. 3rd Rd @ Cook Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -126633,24 +126615,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.91415,
-     49.249825
-    ],
-    "type": "Point"
-   },
-   "id": "9986",
-   "properties": {
-    "code": "59577",
-    "desc": "",
-    "id": "9986",
-    "name": "Northbound Cariboo Rd @ Cariboo Place",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.040479,
      49.224659
     ],
@@ -128289,6 +128253,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.873913,
+     49.111851
+    ],
+    "type": "Point"
+   },
+   "id": "10176",
+   "properties": {
+    "code": "59571",
+    "desc": "",
+    "id": "10176",
+    "name": "Westbound 60 Ave @ 126 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.872683,
      49.111737
     ],
@@ -129272,6 +129254,24 @@
     "desc": "",
     "id": "10259",
     "name": "Westbound 64 Ave @ 186 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.712983,
+     49.118828
+    ],
+    "type": "Point"
+   },
+   "id": "10260",
+   "properties": {
+    "code": "60789",
+    "desc": "",
+    "id": "10260",
+    "name": "Westbound 64 Ave @ 184 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -140647,7 +140647,7 @@
     "code": "61371",
     "desc": "",
     "id": "11280",
-    "name": "King Edware Station @ Platform 2",
+    "name": "King Edward Station @ Platform 2",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -140665,7 +140665,7 @@
     "code": "61372",
     "desc": "",
     "id": "11281",
-    "name": "King Edware Station @ Platform 1",
+    "name": "King Edward Station @ Platform 1",
     "zone": "ZN 1"
    },
    "type": "Feature"
@@ -155973,42 +155973,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.135154,
-     49.171943
-    ],
-    "type": "Point"
-   },
-   "id": "12568",
-   "properties": {
-    "code": "60333",
-    "desc": "",
-    "id": "12568",
-    "name": "Eastbound Ackroyd Rd @ No. 3rd Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.134305,
-     49.171933
-    ],
-    "type": "Point"
-   },
-   "id": "12569",
-   "properties": {
-    "code": "60334",
-    "desc": "",
-    "id": "12569",
-    "name": "Eastbound Ackroyd Rd @ No. 3rd Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.104633,
      49.248771
     ],
@@ -156092,42 +156056,6 @@
     "desc": "",
     "id": "12580",
     "name": "Port Haney Station @ Bay 3",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.115566,
-     49.233634
-    ],
-    "type": "Point"
-   },
-   "id": "12583",
-   "properties": {
-    "code": "50159",
-    "desc": "",
-    "id": "12583",
-    "name": "Westbound W 41 Ave @ Cambie St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.115209,
-     49.233625
-    ],
-    "type": "Point"
-   },
-   "id": "12584",
-   "properties": {
-    "code": "60350",
-    "desc": "",
-    "id": "12584",
-    "name": "Westbound W 41 Ave @ Cambie St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -157467,6 +157395,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.09659,
+     49.321749
+    ],
+    "type": "Point"
+   },
+   "id": "12692",
+   "properties": {
+    "code": "59261",
+    "desc": "",
+    "id": "12692",
+    "name": "Eastbound Marine Dr @ Fell Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.845706,
      49.183693
     ],
@@ -157827,6 +157773,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.136073,
+     49.167722
+    ],
+    "type": "Point"
+   },
+   "id": "12716",
+   "properties": {
+    "code": "60483",
+    "desc": "",
+    "id": "12716",
+    "name": "Richmond-Brighouse Station @ Bay 1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.135746,
      49.167576
     ],
@@ -158180,6 +158144,42 @@
     "desc": "",
     "id": "12744",
     "name": "Westbound W 49th Ave @ Yew St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.113868,
+     49.233538
+    ],
+    "type": "Point"
+   },
+   "id": "12745",
+   "properties": {
+    "code": "60584",
+    "desc": "",
+    "id": "12745",
+    "name": "Westbound W 41st Ave @ Alberta St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.945786,
+     49.213415
+    ],
+    "type": "Point"
+   },
+   "id": "12746",
+   "properties": {
+    "code": "60513",
+    "desc": "",
+    "id": "12746",
+    "name": "Southbound 15 St @ 14 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
