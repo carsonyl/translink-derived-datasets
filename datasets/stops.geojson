@@ -12927,17 +12927,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116561,
-     49.231397
+     -123.116588,
+     49.229514
     ],
     "type": "Point"
    },
-   "id": "991",
+   "id": "992",
    "properties": {
-    "code": "50982",
+    "code": "50983",
     "desc": "",
-    "id": "991",
-    "name": "Southbound Cambie St @ W 43 Ave",
+    "id": "992",
+    "name": "Southbound Cambie St @ W 45 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -36993,6 +36993,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.012026,
+     49.25662
+    ],
+    "type": "Point"
+   },
+   "id": "2757",
+   "properties": {
+    "code": "52732",
+    "desc": "",
+    "id": "2757",
+    "name": "Southbound Gilmore Diversion @ Manor St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.010799,
      49.25259
     ],
@@ -53203,7 +53221,7 @@
     "code": "53977",
     "desc": "",
     "id": "4018",
-    "name": "Northbound Mountain Hwy @ Lynn Valley Rd",
+    "name": "Lynn Valley @ Bay 3",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -56335,7 +56353,7 @@
     "code": "54182",
     "desc": "",
     "id": "4228",
-    "name": "Westbound Lynn Valley Rd @ Mountain Hwy",
+    "name": "Lynn Valley @ Bay 2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -97203,24 +97221,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.968315,
-     49.177607
-    ],
-    "type": "Point"
-   },
-   "id": "6985",
-   "properties": {
-    "code": "56920",
-    "desc": "",
-    "id": "6985",
-    "name": "Westbound Westminster Hwy @ Fraserside Gate",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.972303,
      49.171162
     ],
@@ -123663,6 +123663,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.014452,
+     49.264143
+    ],
+    "type": "Point"
+   },
+   "id": "9505",
+   "properties": {
+    "code": "58346",
+    "desc": "",
+    "id": "9505",
+    "name": "Southbound Gilmore Ave @ Henning Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.90798,
      49.26024
     ],
@@ -135463,7 +135481,7 @@
     "code": "54003",
     "desc": "",
     "id": "10879",
-    "name": "Southbound Mountain Hwy @ Lynn Valley Rd",
+    "name": "Lynn Valley @ Bay 4",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -135517,7 +135535,7 @@
     "code": "59526",
     "desc": "",
     "id": "10882",
-    "name": "Eastbound Lynn Valley Rd @ Mountain Hwy",
+    "name": "Lynn Valley @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -141512,6 +141530,24 @@
     "desc": "",
     "id": "11349",
     "name": "Langara-49th Station @ Bay 1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.116464,
+     49.233092
+    ],
+    "type": "Point"
+   },
+   "id": "11350",
+   "properties": {
+    "code": "50981",
+    "desc": "",
+    "id": "11350",
+    "name": "Oakridge-41st Ave Station @ Bay 1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158017,6 +158053,24 @@
     "code": "58314",
     "desc": "",
     "id": "12735",
+    "name": "Lynn Valley @ Bay 5",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.039947,
+     49.333441
+    ],
+    "type": "Point"
+   },
+   "id": "12736",
+   "properties": {
+    "code": "60479",
+    "desc": "",
+    "id": "12736",
     "name": "Westbound E 27 St @ 1200 Block",
     "zone": "BUS ZN"
    },
