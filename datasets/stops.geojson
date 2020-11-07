@@ -1011,6 +1011,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.168421,
+     49.260226
+    ],
+    "type": "Point"
+   },
+   "id": "112",
+   "properties": {
+    "code": "50112",
+    "desc": "",
+    "id": "112",
+    "name": "Southbound Macdonald St @ W 13 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.168496,
      49.257315
     ],
@@ -91191,24 +91209,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.1364,
-     49.167053
-    ],
-    "type": "Point"
-   },
-   "id": "6607",
-   "properties": {
-    "code": "56546",
-    "desc": "",
-    "id": "6607",
-    "name": "Northbound No. 3rd Rd @ Cook Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.136003,
      49.162607
     ],
@@ -141537,8 +141537,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116464,
-     49.233092
+     -123.116502,
+     49.232527
     ],
     "type": "Point"
    },
@@ -150529,7 +150529,7 @@
     "code": "57893",
     "desc": "",
     "id": "12138",
-    "name": "W Waterfront Rd @ SkyTrain",
+    "name": "Waterfront Station @ West Coast Express",
     "zone": "WCE1A"
    },
    "type": "Feature"
@@ -156495,6 +156495,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.168239,
+     49.260225
+    ],
+    "type": "Point"
+   },
+   "id": "12619",
+   "properties": {
+    "code": "60359",
+    "desc": "",
+    "id": "12619",
+    "name": "Northbound Macdonald St @ W 13 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.04604,
      49.169853
     ],
@@ -157946,24 +157964,6 @@
     "desc": "",
     "id": "12725",
     "name": "Northbound Clark Dr @ E 6th Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.893384,
-     49.227958
-    ],
-    "type": "Point"
-   },
-   "id": "12727",
-   "properties": {
-    "code": "60308",
-    "desc": "",
-    "id": "12727",
-    "name": "Westbound Sherbrooke St @ E Columbia St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
