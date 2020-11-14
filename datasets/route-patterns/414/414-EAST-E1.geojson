@@ -607,8 +607,8 @@
      49.167603
     ],
     [
-     -123.136474,
-     49.168831
+     -123.135704,
+     49.167596
     ]
    ]
   ],
@@ -617,9 +617,9 @@
  "properties": {
   "destination": "BRIGHOUSE STN",
   "direction": "EAST",
-  "name": "414-EB1",
+  "name": "414-E1",
   "operating-company": "CMBC",
-  "pattern-number": "EB1",
+  "pattern-number": "E1",
   "route-name": "RICHMOND OVAL/BRIGHOUSE STN",
   "route-number": "414",
   "stroke": "#267cff",
