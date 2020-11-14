@@ -35355,6 +35355,42 @@
   {
    "geometry": {
     "coordinates": [
+     -122.953152,
+     49.210392
+    ],
+    "type": "Point"
+   },
+   "id": "2632",
+   "properties": {
+    "code": "52607",
+    "desc": "",
+    "id": "2632",
+    "name": "Eastbound 14 Ave @ Griffiths Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.947328,
+     49.214153
+    ],
+    "type": "Point"
+   },
+   "id": "2634",
+   "properties": {
+    "code": "52609",
+    "desc": "",
+    "id": "2634",
+    "name": "Westbound 14 Ave @ 15 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.943021,
      49.21627
     ],
@@ -35654,6 +35690,24 @@
     "desc": "",
     "id": "2654",
     "name": "Eastbound 14 Ave @ 15 St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.953538,
+     49.210182
+    ],
+    "type": "Point"
+   },
+   "id": "2656",
+   "properties": {
+    "code": "52631",
+    "desc": "",
+    "id": "2656",
+    "name": "Westbound 14 Ave @ Griffiths Dr",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -51321,60 +51375,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.77538,
-     49.27075
-    ],
-    "type": "Point"
-   },
-   "id": "3868",
-   "properties": {
-    "code": "53829",
-    "desc": "",
-    "id": "3868",
-    "name": "Southbound Shaughnessy St @ Prairie Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.775442,
-     49.268912
-    ],
-    "type": "Point"
-   },
-   "id": "3869",
-   "properties": {
-    "code": "53830",
-    "desc": "",
-    "id": "3869",
-    "name": "Southbound Shaughnessy St @ Fraser Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.775187,
-     49.269579
-    ],
-    "type": "Point"
-   },
-   "id": "3872",
-   "properties": {
-    "code": "53832",
-    "desc": "",
-    "id": "3872",
-    "name": "Northbound Shaughnessy St @ Fraser Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.766778,
      49.271089
     ],
@@ -58982,24 +58982,6 @@
     "desc": "",
     "id": "4395",
     "name": "Westbound E Keith Rd @ St. Georges Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.070017,
-     49.322118
-    ],
-    "type": "Point"
-   },
-   "id": "4397",
-   "properties": {
-    "code": "54349",
-    "desc": "",
-    "id": "4397",
-    "name": "Westbound E 15 St @ St. Georges Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -121269,24 +121251,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.775158,
-     49.271505
-    ],
-    "type": "Point"
-   },
-   "id": "9257",
-   "properties": {
-    "code": "58775",
-    "desc": "",
-    "id": "9257",
-    "name": "Northbound Shaughnessy St @ Prairie Ave",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.779039,
      49.299226
     ],
@@ -153687,6 +153651,42 @@
   {
    "geometry": {
     "coordinates": [
+     -122.779079,
+     49.053111
+    ],
+    "type": "Point"
+   },
+   "id": "12388",
+   "properties": {
+    "code": "58783",
+    "desc": "",
+    "id": "12388",
+    "name": "Northbound 160 St @ 28 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.779095,
+     49.056772
+    ],
+    "type": "Point"
+   },
+   "id": "12389",
+   "properties": {
+    "code": "58897",
+    "desc": "",
+    "id": "12389",
+    "name": "Northbound 160 St @ 30 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.779779,
      49.060162
     ],
@@ -153831,8 +153831,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.780488,
-     49.060033
+     -122.779302,
+     49.059501
     ],
     "type": "Point"
    },
@@ -153841,7 +153841,43 @@
     "code": "58982",
     "desc": "",
     "id": "12398",
-    "name": "Eastbound 32 Ave @ 160 St",
+    "name": "Southbound 160 St @ 32 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.779238,
+     49.055954
+    ],
+    "type": "Point"
+   },
+   "id": "12399",
+   "properties": {
+    "code": "58927",
+    "desc": "",
+    "id": "12399",
+    "name": "Southbound 160 St @ 30 Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.779237,
+     49.052374
+    ],
+    "type": "Point"
+   },
+   "id": "12400",
+   "properties": {
+    "code": "58828",
+    "desc": "",
+    "id": "12400",
+    "name": "Southbound 160 St @ 28 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -153975,8 +154011,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.003451,
-     49.225701
+     -123.003278,
+     49.225643
     ],
     "type": "Point"
    },
@@ -156099,6 +156135,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.115209,
+     49.233625
+    ],
+    "type": "Point"
+   },
+   "id": "12584",
+   "properties": {
+    "code": "60350",
+    "desc": "",
+    "id": "12584",
+    "name": "Westbound W 41 Ave @ Cambie St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.114518,
      49.23337
     ],
@@ -157521,24 +157575,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.778015,
-     49.052892
-    ],
-    "type": "Point"
-   },
-   "id": "12698",
-   "properties": {
-    "code": "60485",
-    "desc": "",
-    "id": "12698",
-    "name": "Westbound 28 Ave @ 160 St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.056738,
      49.270892
     ],
@@ -157784,24 +157820,6 @@
     "desc": "",
     "id": "12713",
     "name": "Westbound W 12th Ave @ Cambie St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.777615,
-     49.052763
-    ],
-    "type": "Point"
-   },
-   "id": "12714",
-   "properties": {
-    "code": "60490",
-    "desc": "",
-    "id": "12714",
-    "name": "Eastbound 28 Ave @ 160 St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158198,42 +158216,6 @@
     "desc": "",
     "id": "12744",
     "name": "Westbound W 49th Ave @ Yew St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.113868,
-     49.233538
-    ],
-    "type": "Point"
-   },
-   "id": "12745",
-   "properties": {
-    "code": "60584",
-    "desc": "",
-    "id": "12745",
-    "name": "Westbound W 41st Ave @ Alberta St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.945786,
-     49.213415
-    ],
-    "type": "Point"
-   },
-   "id": "12746",
-   "properties": {
-    "code": "60513",
-    "desc": "",
-    "id": "12746",
-    "name": "Southbound 15 St @ 14 Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
