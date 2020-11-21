@@ -24277,7 +24277,7 @@
     "code": "51722",
     "desc": "",
     "id": "1736",
-    "name": "Joyce Station @ Unload Only",
+    "name": "Joyce Station @ Unloading Only",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -42249,24 +42249,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.89282,
-     49.231132
-    ],
-    "type": "Point"
-   },
-   "id": "3133",
-   "properties": {
-    "code": "53100",
-    "desc": "",
-    "id": "3133",
-    "name": "Southbound E Columbia St @ Braid St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.89612,
      49.212727
     ],
@@ -42296,42 +42278,6 @@
     "desc": "",
     "id": "3140",
     "name": "Northbound E Columbia St @ Braid St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.892813,
-     49.223416
-    ],
-    "type": "Point"
-   },
-   "id": "3143",
-   "properties": {
-    "code": "53110",
-    "desc": "",
-    "id": "3143",
-    "name": "Northbound E Columbia St @ Alberta St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.892653,
-     49.230458
-    ],
-    "type": "Point"
-   },
-   "id": "3145",
-   "properties": {
-    "code": "61533",
-    "desc": "",
-    "id": "3145",
-    "name": "Northbound E Columbia St @ Cedar St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -66621,8 +66567,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.95883,
-     49.153273
+     -122.957707,
+     49.153116
     ],
     "type": "Point"
    },
@@ -88969,7 +88915,7 @@
     "code": "56395",
     "desc": "",
     "id": "6456",
-    "name": "Surrey Central Station @ Bay 1",
+    "name": "Surrey Central Station @ Bay 1 Unloading Only",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -120351,8 +120297,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.907002,
-     49.205862
+     -122.907044,
+     49.205888
     ],
     "type": "Point"
    },
@@ -120865,7 +120811,7 @@
     "code": "58832",
     "desc": "",
     "id": "9231",
-    "name": "Northbound Pinetree Way @ College Access Rd",
+    "name": "Northbound Pinetree Way @ Douglas College",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -123079,7 +123025,7 @@
     "code": "58831",
     "desc": "",
     "id": "9418",
-    "name": "Southbound Pinetree Way @ College Access Rd",
+    "name": "Southbound Pinetree Way @ Douglas College",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -134347,7 +134293,7 @@
     "code": "60872",
     "desc": "",
     "id": "10795",
-    "name": "Eastbound Admiral Way @ Admiral Blvd",
+    "name": "Eastbound Admiral Way @ 5300 Block",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -135211,7 +135157,7 @@
     "code": "58945",
     "desc": "",
     "id": "10860",
-    "name": "Moody Centre Station @ Bay 1",
+    "name": "Moody Centre Station @ Bay 1 Unloading Only",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -140467,7 +140413,7 @@
     "code": "61321",
     "desc": "",
     "id": "11270",
-    "name": "Bridgeport Station @ Bay 1",
+    "name": "Bridgeport Station @ Bay 1 Unloading Only",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -146029,7 +145975,7 @@
     "code": "61678",
     "desc": "",
     "id": "11765",
-    "name": "New Westminster Station @ Unload Only",
+    "name": "New Westminster Station @ Unloading Only",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -146389,7 +146335,7 @@
     "code": "61709",
     "desc": "",
     "id": "11805",
-    "name": "Carvolth Exchange @ Bay 1",
+    "name": "Carvolth Exchange @ Bay 1 Unloading Only",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -152517,24 +152463,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.89837,
-     49.220487
-    ],
-    "type": "Point"
-   },
-   "id": "12291",
-   "properties": {
-    "code": "60079",
-    "desc": "",
-    "id": "12291",
-    "name": "Eastbound Cumberland St @ Richmond St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.077667,
      49.053907
     ],
@@ -153428,42 +153356,6 @@
     "desc": "",
     "id": "12367",
     "name": "Westbound W 2nd Ave @ Manitoba St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.895443,
-     49.220434
-    ],
-    "type": "Point"
-   },
-   "id": "12369",
-   "properties": {
-    "code": "60166",
-    "desc": "",
-    "id": "12369",
-    "name": "Eastbound Cumberland St @ Miner St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.894757,
-     49.220538
-    ],
-    "type": "Point"
-   },
-   "id": "12372",
-   "properties": {
-    "code": "60167",
-    "desc": "",
-    "id": "12372",
-    "name": "Westbound Cumberland St  @ Sapper St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -155641,7 +155533,7 @@
     "code": "61784",
     "desc": "",
     "id": "12530",
-    "name": "Eastbound Westminster Hwy @ No. 8 Rd",
+    "name": "Eastbound Westminster Hwy @ No. 8th Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156487,7 +156379,7 @@
     "code": "60306",
     "desc": "",
     "id": "12614",
-    "name": "Westbound Blundell Rd @ No. 8 Rd",
+    "name": "Westbound Blundell Rd @ No. 8th Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156505,7 +156397,7 @@
     "code": "60298",
     "desc": "",
     "id": "12615",
-    "name": "Eastbound Blundell Rd @ No. 8 Rd",
+    "name": "Eastbound Blundell Rd @ No. 8th Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158115,24 +158007,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.893312,
-     49.227851
-    ],
-    "type": "Point"
-   },
-   "id": "12738",
-   "properties": {
-    "code": "60507",
-    "desc": "",
-    "id": "12738",
-    "name": "Eastbound Sherbrooke St @ E Columbia St",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.805165,
      49.021881
     ],
@@ -158215,7 +158089,7 @@
     "code": "60746",
     "desc": "",
     "id": "12744",
-    "name": "Westbound W 49th Ave @ Yew St",
+    "name": "Westbound W 49 Ave @ Yew St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
