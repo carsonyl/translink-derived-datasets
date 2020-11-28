@@ -30909,6 +30909,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.914361,
+     49.249633
+    ],
+    "type": "Point"
+   },
+   "id": "2302",
+   "properties": {
+    "code": "52280",
+    "desc": "",
+    "id": "2302",
+    "name": "Southbound Cariboo Rd @ Cariboo Place",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.911482,
      49.245468
     ],
@@ -40521,6 +40539,60 @@
   {
    "geometry": {
     "coordinates": [
+     -123.013693,
+     49.287363
+    ],
+    "type": "Point"
+   },
+   "id": "3001",
+   "properties": {
+    "code": "52970",
+    "desc": "",
+    "id": "3001",
+    "name": "Eastbound Eton St @ N Gilmore Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.010734,
+     49.287342
+    ],
+    "type": "Point"
+   },
+   "id": "3002",
+   "properties": {
+    "code": "52971",
+    "desc": "",
+    "id": "3002",
+    "name": "Eastbound Eton St @ N Carleton Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.008078,
+     49.287303
+    ],
+    "type": "Point"
+   },
+   "id": "3003",
+   "properties": {
+    "code": "52972",
+    "desc": "",
+    "id": "3003",
+    "name": "Eastbound Eton St @ N Madison Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.003094,
      49.286146
     ],
@@ -40586,6 +40658,42 @@
     "desc": "",
     "id": "3011",
     "name": "Northbound N Willingdon Ave @ Penzance Dr",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.008917,
+     49.287403
+    ],
+    "type": "Point"
+   },
+   "id": "3014",
+   "properties": {
+    "code": "52983",
+    "desc": "",
+    "id": "3014",
+    "name": "Westbound Eton St @ N Madison Ave",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.011609,
+     49.287419
+    ],
+    "type": "Point"
+   },
+   "id": "3015",
+   "properties": {
+    "code": "52984",
+    "desc": "",
+    "id": "3015",
+    "name": "Westbound Eton St @ N Carleton Ave",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -43934,42 +44042,6 @@
     "desc": "",
     "id": "3277",
     "name": "Northbound Sunnyside Rd @ East Rd",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.855614,
-     49.318242
-    ],
-    "type": "Point"
-   },
-   "id": "3278",
-   "properties": {
-    "code": "53243",
-    "desc": "",
-    "id": "3278",
-    "name": "Northbound Sunnyside Rd @ Eaglecrest Dr",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.855772,
-     49.318666
-    ],
-    "type": "Point"
-   },
-   "id": "3280",
-   "properties": {
-    "code": "53245",
-    "desc": "",
-    "id": "3280",
-    "name": "Southbound Sunnyside Rd @ Anmore Creek Way",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -89895,6 +89967,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.119918,
+     49.19194
+    ],
+    "type": "Point"
+   },
+   "id": "6525",
+   "properties": {
+    "code": "56464",
+    "desc": "",
+    "id": "6525",
+    "name": "Eastbound Bridgeport Rd @ Gage Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.114305,
      49.191877
     ],
@@ -91165,7 +91255,7 @@
     "code": "56549",
     "desc": "",
     "id": "6610",
-    "name": "Southbound No. 3rd Rd @ Cook Rd",
+    "name": "Southbound No. 3 Rd @ Cook Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -97203,8 +97293,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.069705,
-     49.184791
+     -123.070044,
+     49.184784
     ],
     "type": "Point"
    },
@@ -115419,6 +115509,24 @@
   {
    "geometry": {
     "coordinates": [
+     -123.135068,
+     49.166445
+    ],
+    "type": "Point"
+   },
+   "id": "8650",
+   "properties": {
+    "code": "58279",
+    "desc": "",
+    "id": "8650",
+    "name": "Eastbound Cook Rd @ No. 3 Rd",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.163501,
      49.334618
     ],
@@ -126543,6 +126651,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.91415,
+     49.249825
+    ],
+    "type": "Point"
+   },
+   "id": "9986",
+   "properties": {
+    "code": "59577",
+    "desc": "",
+    "id": "9986",
+    "name": "Northbound Cariboo Rd @ Cariboo Place",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.040479,
      49.224659
     ],
@@ -127245,24 +127371,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.135356,
-     49.164769
-    ],
-    "type": "Point"
-   },
-   "id": "10052",
-   "properties": {
-    "code": "59729",
-    "desc": "",
-    "id": "10052",
-    "name": "Westbound Park Rd @ 8000 Block",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.142696,
      49.284878
     ],
@@ -127436,6 +127544,24 @@
     "desc": "",
     "id": "10070",
     "name": "Eastbound Davie St @ Broughton St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.003044,
+     49.282191
+    ],
+    "type": "Point"
+   },
+   "id": "10071",
+   "properties": {
+    "code": "52978",
+    "desc": "",
+    "id": "10071",
+    "name": "Northbound Willingdon Ave @ Albert St",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -128343,6 +128469,24 @@
   {
    "geometry": {
     "coordinates": [
+     -122.848134,
+     49.278926
+    ],
+    "type": "Point"
+   },
+   "id": "10191",
+   "properties": {
+    "code": "59493",
+    "desc": "",
+    "id": "10191",
+    "name": "Westbound Murray St @ Hugh St",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.847702,
      49.278797
     ],
@@ -128516,6 +128660,24 @@
     "desc": "",
     "id": "10208",
     "name": "Southbound Tower Rd @ University High Street",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.123173,
+     49.191931
+    ],
+    "type": "Point"
+   },
+   "id": "10209",
+   "properties": {
+    "code": "59704",
+    "desc": "",
+    "id": "10209",
+    "name": "Eastbound Bridgeport Rd @ Great Canadian Way",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -155533,7 +155695,7 @@
     "code": "61784",
     "desc": "",
     "id": "12530",
-    "name": "Eastbound Westminster Hwy @ No. 8th Rd",
+    "name": "Eastbound Westminster Hwy @ No. 8 Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156379,7 +156541,7 @@
     "code": "60306",
     "desc": "",
     "id": "12614",
-    "name": "Westbound Blundell Rd @ No. 8th Rd",
+    "name": "Westbound Blundell Rd @ No. 8 Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156397,7 +156559,7 @@
     "code": "60298",
     "desc": "",
     "id": "12615",
-    "name": "Eastbound Blundell Rd @ No. 8th Rd",
+    "name": "Eastbound Blundell Rd @ No. 8 Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -156469,7 +156631,7 @@
     "code": "60367",
     "desc": "",
     "id": "12620",
-    "name": "Eastbound Westminster Hwy @ No. 7th Rd",
+    "name": "Eastbound Westminster Hwy @ No. 7 Rd",
     "zone": "BUS ZN"
    },
    "type": "Feature"
