@@ -885,7 +885,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "BRAID STN",
+  "destination": "BRAID STN VIA HOSPITAL",
   "direction": "EAST",
   "name": "155-EB1",
   "operating-company": "CMBC",

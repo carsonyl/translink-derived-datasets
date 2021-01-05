@@ -1315,7 +1315,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "LADNER",
+  "destination": "LADNER EXCH",
   "direction": "WEST",
   "name": "310-WB1",
   "operating-company": "CMBC",

@@ -3245,7 +3245,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "DOWNTOWN VIA YVR NIGHTBUS",
+  "destination": "DOWNTOWN via YVR NIGHTBUS",
   "direction": "NORTH",
   "name": "N10-NB1",
   "operating-company": "CMBC",

@@ -1245,10 +1245,10 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "CLAYTON HTS",
+  "destination": "CLAYTON HEIGHTS",
   "direction": "WEST",
   "name": "372-WB1",
-  "operating-company": "First Transit",
+  "operating-company": "CMBC",
   "pattern-number": "WB1",
   "route-name": "CLAYTON HEIGHTS/LANGLEY CENTRE",
   "route-number": "372",

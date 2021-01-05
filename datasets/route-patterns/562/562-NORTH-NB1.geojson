@@ -1725,10 +1725,10 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "WALNUT GROVE",
+  "destination": "WALNUT GROVE ",
   "direction": "NORTH",
   "name": "562-NB1",
-  "operating-company": "First Transit",
+  "operating-company": "CMBC",
   "pattern-number": "NB1",
   "route-name": "LANGLEY CENTRE/WALNUT GROVE",
   "route-number": "562",

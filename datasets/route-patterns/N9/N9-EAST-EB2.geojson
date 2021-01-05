@@ -1695,7 +1695,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "COQ STN NIGHTBUS",
+  "destination": "COQ CTRL STN",
   "direction": "EAST",
   "name": "N9-EB2",
   "operating-company": "CMBC",

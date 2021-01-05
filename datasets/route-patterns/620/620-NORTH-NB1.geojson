@@ -1895,7 +1895,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "BRIDGEPORT STN EXPRESS",
+  "destination": "BRIDGEPORT EXPRESS",
   "direction": "NORTH",
   "name": "620-NB1",
   "operating-company": "CMBC",

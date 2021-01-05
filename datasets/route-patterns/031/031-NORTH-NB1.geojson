@@ -885,7 +885,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "METROTOWN STN",
+  "destination": "METROTOWN STATION",
   "direction": "NORTH",
   "name": "031-NB1",
   "operating-company": "CMBC",

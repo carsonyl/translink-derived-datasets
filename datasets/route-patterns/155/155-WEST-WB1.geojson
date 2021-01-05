@@ -865,7 +865,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "22ND ST STN",
+  "destination": "22ND ST STN VIA HOSPITAL",
   "direction": "WEST",
   "name": "155-WB1",
   "operating-company": "CMBC",

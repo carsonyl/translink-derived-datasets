@@ -4025,7 +4025,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "DOWNTOWN NIGHTBUS",
+  "destination": "DOWNTOWN",
   "direction": "WEST",
   "name": "N9-WB1",
   "operating-company": "CMBC",

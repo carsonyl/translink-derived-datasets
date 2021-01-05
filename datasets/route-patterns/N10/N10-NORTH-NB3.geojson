@@ -1055,7 +1055,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "GRANVILLE TO 71ST",
+  "destination": "GRANVILLE TO 71",
   "direction": "NORTH",
   "name": "N10-NB3",
   "operating-company": "CMBC",

@@ -1335,7 +1335,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "MARINE DR TO PARK ROYAL",
+  "destination": "PARK ROYAL",
   "direction": "WEST",
   "name": "0R2-W1",
   "operating-company": "CMBC",

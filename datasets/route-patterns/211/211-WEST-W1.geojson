@@ -2415,7 +2415,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "BURRARD STN",
+  "destination": "BURRARD STATION",
   "direction": "WEST",
   "name": "211-W1",
   "operating-company": "CMBC",

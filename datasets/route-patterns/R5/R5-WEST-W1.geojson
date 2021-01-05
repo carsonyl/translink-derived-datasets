@@ -1905,7 +1905,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "HASTINGS ST TO BURRARD STN",
+  "destination": "BURRARD STN",
   "direction": "WEST",
   "name": "0R5-W1",
   "operating-company": "CMBC",

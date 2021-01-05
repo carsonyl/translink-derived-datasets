@@ -685,7 +685,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "PHIBBS EXCH",
+  "destination": "PHIBBS EXCHANGE",
   "direction": "WEST",
   "name": "245-W1",
   "operating-company": "CMBC",

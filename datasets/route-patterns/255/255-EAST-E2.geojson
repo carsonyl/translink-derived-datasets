@@ -1355,10 +1355,10 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "PARK ROYAL VIA 15TH AND LONSDALE",
+  "destination": "CAPILANO UNIVERSITY - VIA 15TH ST & LONSDALE",
   "direction": "EAST",
   "name": "255-E2",
-  "operating-company": "West Vancouver",
+  "operating-company": "CMBC",
   "pattern-number": "E2",
   "route-name": "DUNDARAVE/CAPILANO UNIVERSITY",
   "route-number": "255",

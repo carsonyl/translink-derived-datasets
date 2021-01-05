@@ -655,7 +655,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "PT COQ STN",
+  "destination": "PORT COQ STN",
   "direction": "NORTH",
   "name": "170-NB1",
   "operating-company": "CMBC",

@@ -505,7 +505,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "SCOTT & 96 AVENUE",
+  "destination": "SCOTT AND 96 AVENUE",
   "direction": "WEST",
   "name": "314-WB1",
   "operating-company": "CMBC",

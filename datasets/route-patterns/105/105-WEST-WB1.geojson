@@ -745,7 +745,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "NEW WEST STN",
+  "destination": "NEW WEST STATION",
   "direction": "WEST",
   "name": "105-WB1",
   "operating-company": "CMBC",

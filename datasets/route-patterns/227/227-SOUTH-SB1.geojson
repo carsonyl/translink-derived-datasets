@@ -865,10 +865,10 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "PHIBBS EXCH VIA LYNN CANYON PARK",
+  "destination": "PHIBBS EXCHANGE",
   "direction": "SOUTH",
   "name": "227-SB1",
-  "operating-company": "West Vancouver",
+  "operating-company": "CMBC",
   "pattern-number": "SB1",
   "route-name": "LYNN VALLEY CENTRE/PHIBBS EXCHANGE",
   "route-number": "227",

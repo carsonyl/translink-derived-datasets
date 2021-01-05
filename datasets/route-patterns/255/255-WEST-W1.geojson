@@ -1915,10 +1915,10 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "DUNDARAVE - TO 25TH & MARINE",
+  "destination": "DUNDARAVE - TO 25TH AND MARINE",
   "direction": "WEST",
   "name": "255-W1",
-  "operating-company": "West Vancouver",
+  "operating-company": "CMBC",
   "pattern-number": "W1",
   "route-name": "DUNDARAVE/CAPILANO UNIVERSITY",
   "route-number": "255",

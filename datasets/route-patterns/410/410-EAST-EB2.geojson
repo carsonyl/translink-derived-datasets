@@ -1485,7 +1485,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "BOUNDARY RD",
+  "destination": "TO BOUNDARY RD",
   "direction": "EAST",
   "name": "410-EB2",
   "operating-company": "CMBC",

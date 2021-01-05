@@ -905,7 +905,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "COQ CTRL STN",
+  "destination": "COQUITLAM CTRL STN",
   "direction": "SOUTH",
   "name": "191-SB1",
   "operating-company": "CMBC",

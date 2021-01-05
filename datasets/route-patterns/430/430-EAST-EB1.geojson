@@ -2075,7 +2075,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "METROTOWN STN EXPRESS",
+  "destination": "METROTOWN STN",
   "direction": "EAST",
   "name": "430-EB1",
   "operating-company": "CMBC",

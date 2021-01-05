@@ -1185,7 +1185,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "UBC EXCH",
+  "destination": "UBC EXCHANGE",
   "direction": "NORTH",
   "name": "068-NB1",
   "operating-company": "CMBC",

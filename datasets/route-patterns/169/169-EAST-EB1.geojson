@@ -1625,7 +1625,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "COQ CTRL STN",
+  "destination": "COQ CTRL STN ",
   "direction": "EAST",
   "name": "169-EB1",
   "operating-company": "CMBC",

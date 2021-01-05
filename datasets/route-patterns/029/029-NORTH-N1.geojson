@@ -555,7 +555,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "29TH AVE STN",
+  "destination": "TH AVE STN",
   "direction": "NORTH",
   "name": "029-N1",
   "operating-company": "CMBC",

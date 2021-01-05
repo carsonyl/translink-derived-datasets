@@ -545,7 +545,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "GRAND BLVD & 15 ST",
+  "destination": "GRAND BLVD AND 15 ST",
   "direction": "SOUTH",
   "name": "228-S2A",
   "operating-company": "CMBC",

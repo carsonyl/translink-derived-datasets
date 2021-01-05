@@ -1375,7 +1375,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "MACDONALD NIGHTBUS",
+  "destination": "MACDONALD",
   "direction": "SOUTH",
   "name": "N22-SB1",
   "operating-company": "CMBC",

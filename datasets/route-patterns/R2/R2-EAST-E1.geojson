@@ -1055,7 +1055,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "MARINE DR TO PHIBBS EXCH",
+  "destination": "PHIBBS EXCH",
   "direction": "EAST",
   "name": "0R2-E1",
   "operating-company": "CMBC",
