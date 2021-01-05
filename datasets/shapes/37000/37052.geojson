@@ -1,0 +1,21 @@
+{
+ "geometry": {
+  "coordinates": [
+   [
+    -122.57854,
+    49.19965
+   ],
+   [
+    -122.57854,
+    49.19965
+   ]
+  ],
+  "type": "LineString"
+ },
+ "id": "37052",
+ "properties": {
+  "id": "37052",
+  "stroke-width": 3.0
+ },
+ "type": "Feature"
+}
