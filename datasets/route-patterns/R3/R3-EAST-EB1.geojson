@@ -985,7 +985,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "HANEY PLACE ",
+  "destination": "HANEY PLACE",
   "direction": "EAST",
   "name": "0R3-EB1",
   "operating-company": "CMBC",

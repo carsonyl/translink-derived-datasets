@@ -1145,7 +1145,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "METROTOWN STN ",
+  "destination": "METROTOWN STN",
   "direction": "EAST",
   "name": "049-EB6",
   "operating-company": "CMBC",
