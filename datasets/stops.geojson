@@ -896,25 +896,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.148302,
-     49.272539
-    ],
-    "type": "Point"
-   },
-   "id": "101",
-   "properties": {
-    "code": "50101",
-    "desc": "",
-    "id": "101",
-    "name": "WB CORNWALL AVE FS CYPRESS ST",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.152989,
      49.272608
     ],
@@ -39542,63 +39523,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.957677,
-     49.223304
-    ],
-    "type": "Point"
-   },
-   "id": "2796",
-   "properties": {
-    "code": "52768",
-    "desc": "",
-    "id": "2796",
-    "name": "SB SALISBURY AVE FS IMPERIAL ST",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.957641,
-     49.220907
-    ],
-    "type": "Point"
-   },
-   "id": "2797",
-   "properties": {
-    "code": "52769",
-    "desc": "",
-    "id": "2797",
-    "name": "SB SALISBURY AVE FS ELWELL ST",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.957618,
-     49.21902
-    ],
-    "type": "Point"
-   },
-   "id": "2798",
-   "properties": {
-    "code": "52770",
-    "desc": "",
-    "id": "2798",
-    "name": "SB SALISBURY AVE FS ARCOLA ST",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.958484,
      49.21197
     ],
@@ -39610,44 +39534,6 @@
     "desc": "",
     "id": "2799",
     "name": "EDMONDS STN BAY 4",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.957436,
-     49.218855
-    ],
-    "type": "Point"
-   },
-   "id": "2800",
-   "properties": {
-    "code": "52772",
-    "desc": "",
-    "id": "2800",
-    "name": "NB SALISBURY AVE FS KINGSWAY",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.957497,
-     49.222373
-    ],
-    "type": "Point"
-   },
-   "id": "2802",
-   "properties": {
-    "code": "52774",
-    "desc": "",
-    "id": "2802",
-    "name": "NB SALISBURY AVE FS MCBRIDE ST",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -42707,6 +42593,25 @@
     "desc": "",
     "id": "3007",
     "name": "SB WILLINGDON AVE FS DUNDAS ST",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.003139,
+     49.28262
+    ],
+    "type": "Point"
+   },
+   "id": "3008",
+   "properties": {
+    "code": "52977",
+    "desc": "",
+    "id": "3008",
+    "name": "SB WILLINGDON AVE FS PANDORA ST",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -48388,25 +48293,6 @@
     "desc": "",
     "id": "3431",
     "name": "EB AUSTIN AVE AT 500 BLOCK",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.885449,
-     49.248406
-    ],
-    "type": "Point"
-   },
-   "id": "3432",
-   "properties": {
-    "code": "53395",
-    "desc": "",
-    "id": "3432",
-    "name": "SB GUILBY ST FS AUSTIN AVE",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -73772,6 +73658,25 @@
     "desc": "",
     "id": "5120",
     "name": "EB OLD YALE RD FS 132 ST",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.851544,
+     49.186513
+    ],
+    "type": "Point"
+   },
+   "id": "5121",
+   "properties": {
+    "code": "55069",
+    "desc": "",
+    "id": "5121",
+    "name": "NB UNIVERSITY DR FS OLD YALE RD",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -126125,6 +126030,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.077068,
+     49.057459
+    ],
+    "type": "Point"
+   },
+   "id": "9046",
+   "properties": {
+    "code": "57411",
+    "desc": "",
+    "id": "9046",
+    "name": "SB 53 ST AT 3000 BLOCK",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.932409,
      49.175888
     ],
@@ -150388,6 +150312,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.127092,
+     49.276487
+    ],
+    "type": "Point"
+   },
+   "id": "11426",
+   "properties": {
+    "code": "58593",
+    "desc": "",
+    "id": "11426",
+    "name": "NB GRANVILLE ST FS DRAKE ST",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.126905,
      49.276786
     ],
@@ -153572,6 +153515,25 @@
     "desc": "",
     "id": "11705",
     "name": "WB 96 AVE FS 176 ST",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.118524,
+     49.282879
+    ],
+    "type": "Point"
+   },
+   "id": "11706",
+   "properties": {
+    "code": "61031",
+    "desc": "",
+    "id": "11706",
+    "name": "WB W GEORGIA ST FS GRANVILLE ST",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -161294,6 +161256,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.898385,
+     49.220492
+    ],
+    "type": "Point"
+   },
+   "id": "12291",
+   "properties": {
+    "code": "60079",
+    "desc": "",
+    "id": "12291",
+    "name": "EB CUMBERLAND ST FS RICHMOND ST",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.077682,
      49.053912
     ],
@@ -162236,6 +162217,44 @@
     "desc": "",
     "id": "12367",
     "name": "WB W 2 AVE FS MANITOBA ST",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.895459,
+     49.22044
+    ],
+    "type": "Point"
+   },
+   "id": "12369",
+   "properties": {
+    "code": "60166",
+    "desc": "",
+    "id": "12369",
+    "name": "EB CUMBERLAND ST FS MINER ST",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.894772,
+     49.220543
+    ],
+    "type": "Point"
+   },
+   "id": "12372",
+   "properties": {
+    "code": "60167",
+    "desc": "",
+    "id": "12372",
+    "name": "WB CUMBERLAND ST FS SAPPER ST",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -167089,6 +167108,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.892733,
+     49.227716
+    ],
+    "type": "Point"
+   },
+   "id": "12738",
+   "properties": {
+    "code": "60507",
+    "desc": "",
+    "id": "12738",
+    "name": "NB E COLUMBIA ST NS SHERBROOKE ST",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.159273,
      49.227274
     ],
@@ -167157,6 +167195,101 @@
     "desc": "",
     "id": "12750",
     "name": "EB LAMEY'S MILL RD FS ANDERSON ST",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.961025,
+     49.21835
+    ],
+    "type": "Point"
+   },
+   "id": "12751",
+   "properties": {
+    "code": "60520",
+    "desc": "",
+    "id": "12751",
+    "name": "SB GRIFFITHS DR FS KINGSWAY",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.9609,
+     49.218605
+    ],
+    "type": "Point"
+   },
+   "id": "12752",
+   "properties": {
+    "code": "60522",
+    "desc": "",
+    "id": "12752",
+    "name": "NB GRIFFITHS AVE FS KINGSWAY",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.961025,
+     49.221138
+    ],
+    "type": "Point"
+   },
+   "id": "12753",
+   "properties": {
+    "code": "60523",
+    "desc": "",
+    "id": "12753",
+    "name": "SB GRIFFITHS AVE NS ELWELL ST",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.96095,
+     49.221394
+    ],
+    "type": "Point"
+   },
+   "id": "12754",
+   "properties": {
+    "code": "60524",
+    "desc": "",
+    "id": "12754",
+    "name": "NB GRIFFITHS AVE FS ELWELL ST",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.149094,
+     49.27252
+    ],
+    "type": "Point"
+   },
+   "id": "12755",
+   "properties": {
+    "code": "60519",
+    "desc": "",
+    "id": "12755",
+    "name": "WB CORNWALL AVE FS WALNUT ST",
     "wheelchair_boarding": "0",
     "zone": ""
    },
