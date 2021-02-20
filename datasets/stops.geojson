@@ -13370,7 +13370,7 @@
     "code": "50963",
     "desc": "",
     "id": "972",
-    "name": "COMMERCIAL-BROADWAY STN BAY 2 NEW",
+    "name": "COMMERCIAL-BROADWAY STN BAY 2",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -13580,6 +13580,25 @@
     "desc": "",
     "id": "989",
     "name": "LONSDALE QUAY BAY 5",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.116561,
+     49.231397
+    ],
+    "type": "Point"
+   },
+   "id": "991",
+   "properties": {
+    "code": "50982",
+    "desc": "",
+    "id": "991",
+    "name": "SB CAMBIE ST FS W 43 AVE",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -17341,7 +17360,7 @@
     "code": "58327",
     "desc": "",
     "id": "1231",
-    "name": "COMMERCIAL-BROADWAY STN BAY 3 NEW",
+    "name": "COMMERCIAL-BROADWAY STN BAY 3",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -36141,25 +36160,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.956019,
-     49.260983
-    ],
-    "type": "Point"
-   },
-   "id": "2562",
-   "properties": {
-    "code": "52537",
-    "desc": "",
-    "id": "2562",
-    "name": "SB BAINBRIDGE AVE FS BROADWAY",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.955834,
      49.250877
     ],
@@ -36475,25 +36475,6 @@
     "desc": "",
     "id": "2586",
     "name": "WB WINSTON ST AT 7200 BLOCK",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.955877,
-     49.259134
-    ],
-    "type": "Point"
-   },
-   "id": "2590",
-   "properties": {
-    "code": "52565",
-    "desc": "",
-    "id": "2590",
-    "name": "NB BAINBRIDGE AVE FS LOUGHEED HWY",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -40378,44 +40359,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.948215,
-     49.261184
-    ],
-    "type": "Point"
-   },
-   "id": "2866",
-   "properties": {
-    "code": "52837",
-    "desc": "",
-    "id": "2866",
-    "name": "EB BROADWAY AT PHILLIPS PL",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.940876,
-     49.260859
-    ],
-    "type": "Point"
-   },
-   "id": "2867",
-   "properties": {
-    "code": "52838",
-    "desc": "",
-    "id": "2867",
-    "name": "EB BROADWAY FS LAWRENCE DR",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.936394,
      49.260851
     ],
@@ -41130,25 +41073,6 @@
     "desc": "",
     "id": "2911",
     "name": "WB BROADWAY NS LAWRENCE DR",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.948951,
-     49.261263
-    ],
-    "type": "Point"
-   },
-   "id": "2912",
-   "properties": {
-    "code": "52882",
-    "desc": "",
-    "id": "2912",
-    "name": "WB BROADWAY FS PHILLIPS AVE",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -44501,25 +44425,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.911572,
-     49.252106
-    ],
-    "type": "Point"
-   },
-   "id": "3130",
-   "properties": {
-    "code": "53097",
-    "desc": "",
-    "id": "3130",
-    "name": "EB LOUGHEED HWY FS GAGLARDI WAY",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.892819,
      49.231131
     ],
@@ -46127,6 +46032,25 @@
     "desc": "",
     "id": "3251",
     "name": "SB E COLUMBIA ST FS HOLMES ST",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.892975,
+     49.225301
+    ],
+    "type": "Point"
+   },
+   "id": "3252",
+   "properties": {
+    "code": "53218",
+    "desc": "",
+    "id": "3252",
+    "name": "SB E COLUMBIA ST FS KEARY ST",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -122762,44 +122686,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.937831,
-     49.255847
-    ],
-    "type": "Point"
-   },
-   "id": "8703",
-   "properties": {
-    "code": "58363",
-    "desc": "",
-    "id": "8703",
-    "name": "NB LAKE CITY WAY FS ENTERPRISE ST",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.937815,
-     49.258128
-    ],
-    "type": "Point"
-   },
-   "id": "8704",
-   "properties": {
-    "code": "58364",
-    "desc": "",
-    "id": "8704",
-    "name": "NB LAKE CITY WAY FS VENTURE ST",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.916944,
      49.257296
     ],
@@ -122811,25 +122697,6 @@
     "desc": "",
     "id": "8710",
     "name": "SB PRODUCTION WAY FS EASTLAKE DR",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.903692,
-     49.250977
-    ],
-    "type": "Point"
-   },
-   "id": "8713",
-   "properties": {
-    "code": "58348",
-    "desc": "",
-    "id": "8713",
-    "name": "EB LOUGHEED HWY FS BELL AVE",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -124035,25 +123902,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.937447,
-     49.260185
-    ],
-    "type": "Point"
-   },
-   "id": "8846",
-   "properties": {
-    "code": "58460",
-    "desc": "",
-    "id": "8846",
-    "name": "NB LAKE CITY WAY FS EXPRESS ST",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.852352,
      49.249301
     ],
@@ -124236,25 +124084,6 @@
     "desc": "",
     "id": "8896",
     "name": "EB HASTINGS ST FS INLET DR",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.952747,
-     49.261034
-    ],
-    "type": "Point"
-   },
-   "id": "8897",
-   "properties": {
-    "code": "58451",
-    "desc": "",
-    "id": "8897",
-    "name": "EB BROADWAY FS DUTHIE AVE",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -135047,25 +134876,6 @@
     "desc": "",
     "id": "10106",
     "name": "SB BROADWAY ST NS MARY HILL BYPASS",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.9278,
-     49.259301
-    ],
-    "type": "Point"
-   },
-   "id": "10110",
-   "properties": {
-    "code": "59486",
-    "desc": "",
-    "id": "10110",
-    "name": "SB UNDERHILL AVE AT 2700 BLOCK",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -149590,25 +149400,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116527,
-     49.232527
-    ],
-    "type": "Point"
-   },
-   "id": "11350",
-   "properties": {
-    "code": "50981",
-    "desc": "",
-    "id": "11350",
-    "name": "OAKRIDGE-41ST AVE STN BAY 1",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.114655,
      49.262759
     ],
@@ -152108,7 +151899,7 @@
     "code": "52102",
     "desc": "",
     "id": "11588",
-    "name": "COMMERCIAL-BROADWAY STN BAY 1 NEW",
+    "name": "COMMERCIAL-BROADWAY STN BAY 1",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -152127,7 +151918,7 @@
     "code": "52094",
     "desc": "",
     "id": "11589",
-    "name": "COMMERCIAL-BROADWAY STN BAY 4 NEW",
+    "name": "COMMERCIAL-BROADWAY STN BAY 4",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -152393,7 +152184,7 @@
     "code": "50913",
     "desc": "",
     "id": "11606",
-    "name": "COMMERCIAL-BROADWAY STN BAY 5 NEW",
+    "name": "COMMERCIAL-BROADWAY STN BAY 5",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -164686,7 +164477,7 @@
     "code": "60292",
     "desc": "",
     "id": "12543",
-    "name": "WHITE ROCK CENTRE BAY 4 NEW",
+    "name": "WHITE ROCK CENTRE BAY 4",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -165086,6 +164877,25 @@
     "desc": "",
     "id": "12586",
     "name": "EB W 41 AVE FS CAMBIE ST--",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.938112,
+     49.254743
+    ],
+    "type": "Point"
+   },
+   "id": "12588",
+   "properties": {
+    "code": "60328",
+    "desc": "",
+    "id": "12588",
+    "name": "SB LAKE CITY WAY NS LOUGHEED HWY",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -166852,7 +166662,7 @@
     "code": "60483",
     "desc": "",
     "id": "12716",
-    "name": "RICHMOND-BRIGHOUSE STN BAY 1 NEW",
+    "name": "RICHMOND-BRIGHOUSE STN BAY 1",
     "wheelchair_boarding": "0",
     "zone": ""
    },
