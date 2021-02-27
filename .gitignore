@@ -2,9 +2,11 @@ __pycache__/
 *.py[cod]
 
 .venv/
+venv/
 .idea/
 .vscode/
 *.code-workspace
 .env
 .pytest_cache
 gtfs/
+.run/
