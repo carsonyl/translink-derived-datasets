@@ -40359,25 +40359,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.936394,
-     49.260851
-    ],
-    "type": "Point"
-   },
-   "id": "2868",
-   "properties": {
-    "code": "52839",
-    "desc": "",
-    "id": "2868",
-    "name": "EB BROADWAY FS LAKE CITY WAY",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.913354,
      49.252623
     ],
@@ -41035,44 +41016,6 @@
     "desc": "",
     "id": "2908",
     "name": "WB FOREST GROVE DR NS UNDERHILL AVE",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.928104,
-     49.26117
-    ],
-    "type": "Point"
-   },
-   "id": "2909",
-   "properties": {
-    "code": "52879",
-    "desc": "",
-    "id": "2909",
-    "name": "SB UNDERHILL AVE NS BROADWAY",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.940798,
-     49.260944
-    ],
-    "type": "Point"
-   },
-   "id": "2911",
-   "properties": {
-    "code": "52881",
-    "desc": "",
-    "id": "2911",
-    "name": "WB BROADWAY NS LAWRENCE DR",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -54145,6 +54088,63 @@
     "desc": "",
     "id": "3867",
     "name": "SB SHAUGHNESSY ST NS DORSET AVE",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.775379,
+     49.27075
+    ],
+    "type": "Point"
+   },
+   "id": "3868",
+   "properties": {
+    "code": "53829",
+    "desc": "",
+    "id": "3868",
+    "name": "SB SHAUGHNESSY ST FS PRAIRIE AVE",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.775442,
+     49.268911
+    ],
+    "type": "Point"
+   },
+   "id": "3869",
+   "properties": {
+    "code": "53830",
+    "desc": "",
+    "id": "3869",
+    "name": "SB SHAUGHNESSY ST FS FRASER AVE",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.775187,
+     49.269579
+    ],
+    "type": "Point"
+   },
+   "id": "3872",
+   "properties": {
+    "code": "53832",
+    "desc": "",
+    "id": "3872",
+    "name": "NB SHAUGHNESSY ST FS FRASER AVE",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -77515,6 +77515,25 @@
     "desc": "",
     "id": "5379",
     "name": "NB WILLOWBROOK DR AT 19600 BLOCK",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.67695,
+     49.117256
+    ],
+    "type": "Point"
+   },
+   "id": "5380",
+   "properties": {
+    "code": "55327",
+    "desc": "",
+    "id": "5380",
+    "name": "NB 197 ST FS WILLOWBROOK DR",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -122686,6 +122705,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.937831,
+     49.255847
+    ],
+    "type": "Point"
+   },
+   "id": "8703",
+   "properties": {
+    "code": "58363",
+    "desc": "",
+    "id": "8703",
+    "name": "NB LAKE CITY WAY FS ENTERPRISE ST",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.937815,
+     49.258128
+    ],
+    "type": "Point"
+   },
+   "id": "8704",
+   "properties": {
+    "code": "58364",
+    "desc": "",
+    "id": "8704",
+    "name": "NB LAKE CITY WAY FS VENTURE ST",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.916944,
      49.257296
     ],
@@ -124236,25 +124293,6 @@
     "desc": "",
     "id": "8913",
     "name": "SB COMMERCIAL DR FS N GRANDVIEW HWY",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.934473,
-     49.260978
-    ],
-    "type": "Point"
-   },
-   "id": "8915",
-   "properties": {
-    "code": "52880",
-    "desc": "",
-    "id": "8915",
-    "name": "WB BROADWAY AT 7900 BLOCK",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -128082,6 +128120,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.775157,
+     49.271504
+    ],
+    "type": "Point"
+   },
+   "id": "9257",
+   "properties": {
+    "code": "58775",
+    "desc": "",
+    "id": "9257",
+    "name": "NB SHAUGHNESSY ST FS PRAIRIE AVE",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.779039,
      49.299225
     ],
@@ -130457,7 +130514,7 @@
   {
    "geometry": {
     "coordinates": [
-     -122.674699,
+     -122.677,
      49.115568
     ],
     "type": "Point"
@@ -134876,6 +134933,25 @@
     "desc": "",
     "id": "10106",
     "name": "SB BROADWAY ST NS MARY HILL BYPASS",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.9278,
+     49.259301
+    ],
+    "type": "Point"
+   },
+   "id": "10110",
+   "properties": {
+    "code": "59486",
+    "desc": "",
+    "id": "10110",
+    "name": "SB UNDERHILL AVE AT 2700 BLOCK",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -150350,25 +150426,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.95607,
-     49.258892
-    ],
-    "type": "Point"
-   },
-   "id": "11450",
-   "properties": {
-    "code": "52538",
-    "desc": "",
-    "id": "11450",
-    "name": "SB BAINBRIDGE AVE NS LOUGHEED HWY",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.956938,
      49.258861
     ],
@@ -165322,25 +165379,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.090558,
-     49.266679
-    ],
-    "type": "Point"
-   },
-   "id": "12622",
-   "properties": {
-    "code": "60391",
-    "desc": "",
-    "id": "12622",
-    "name": "EB GREAT NORTHERN WAY FS CAROLINA ST",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.805793,
      49.194116
     ],
@@ -167108,6 +167146,63 @@
   {
    "geometry": {
     "coordinates": [
+     -122.937311,
+     49.260736
+    ],
+    "type": "Point"
+   },
+   "id": "12756",
+   "properties": {
+    "code": "58367",
+    "desc": "",
+    "id": "12756",
+    "name": "SB LAKE CITY WAY FS BROADWAY",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.801046,
+     49.147881
+    ],
+    "type": "Point"
+   },
+   "id": "12757",
+   "properties": {
+    "code": "60295",
+    "desc": "",
+    "id": "12757",
+    "name": "NB 152 ST AT 7900 BLOCK",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.091234,
+     49.266689
+    ],
+    "type": "Point"
+   },
+   "id": "12759",
+   "properties": {
+    "code": "60531",
+    "desc": "",
+    "id": "12759",
+    "name": "EB GREAT NORTHERN WAY NS CAROLINA ST",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.178269,
      49.194174
     ],
@@ -167118,7 +167213,7 @@
     "code": "",
     "desc": "",
     "id": "99901",
-    "name": "YVR-Airport Station",
+    "name": "YVR-AIRPORT STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167137,7 +167232,7 @@
     "code": "",
     "desc": "",
     "id": "99902",
-    "name": "Sea Island Centre Station",
+    "name": "SEA ISLAND CENTRE STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167156,7 +167251,7 @@
     "code": "",
     "desc": "",
     "id": "99903",
-    "name": "Templeton Station",
+    "name": "TEMPLETON STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167175,7 +167270,7 @@
     "code": "",
     "desc": "",
     "id": "99904",
-    "name": "Richmond-Brighouse Station",
+    "name": "RICHMOND-BRIGHOUSE STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167194,7 +167289,7 @@
     "code": "",
     "desc": "",
     "id": "99905",
-    "name": "Lansdowne Station",
+    "name": "LANSDOWNE STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167213,7 +167308,7 @@
     "code": "",
     "desc": "",
     "id": "99906",
-    "name": "Aberdeen Station",
+    "name": "ABERDEEN STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167232,7 +167327,7 @@
     "code": "",
     "desc": "",
     "id": "99907",
-    "name": "Bridgeport Station",
+    "name": "BRIDGEPORT STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167251,7 +167346,7 @@
     "code": "",
     "desc": "",
     "id": "99908",
-    "name": "Marine Drive Station",
+    "name": "MARINE DRIVE STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167270,7 +167365,7 @@
     "code": "",
     "desc": "",
     "id": "99909",
-    "name": "Langara-49th Avenue Station",
+    "name": "LANGARA-49TH AVENUE STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167289,7 +167384,7 @@
     "code": "",
     "desc": "",
     "id": "99910",
-    "name": "Oakridge-41st Avenue Station",
+    "name": "OAKRIDGE-41ST AVENUE STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167308,7 +167403,7 @@
     "code": "",
     "desc": "",
     "id": "99911",
-    "name": "King Edward Station",
+    "name": "KING EDWARD STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167327,7 +167422,7 @@
     "code": "",
     "desc": "",
     "id": "99912",
-    "name": "Broadway-City Hall Station",
+    "name": "BROADWAY-CITY HALL STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167346,7 +167441,7 @@
     "code": "",
     "desc": "",
     "id": "99913",
-    "name": "Olympic Village Station",
+    "name": "OLYMPIC VILLAGE STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167365,7 +167460,7 @@
     "code": "",
     "desc": "",
     "id": "99914",
-    "name": "Yaletown-Roundhouse Station",
+    "name": "YALETOWN-ROUNDHOUSE STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167384,7 +167479,7 @@
     "code": "",
     "desc": "",
     "id": "99915",
-    "name": "Vancouver City Centre Station",
+    "name": "VANCOUVER CITY CENTRE STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167403,7 +167498,7 @@
     "code": "",
     "desc": "",
     "id": "99916",
-    "name": "VCC-Clark Station",
+    "name": "VCC-CLARK STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167422,7 +167517,7 @@
     "code": "",
     "desc": "",
     "id": "99917",
-    "name": "Commercial-Broadway Station",
+    "name": "COMMERCIAL-BROADWAY STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167441,7 +167536,7 @@
     "code": "",
     "desc": "",
     "id": "99918",
-    "name": "Renfrew Station",
+    "name": "RENFREW STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167460,7 +167555,7 @@
     "code": "",
     "desc": "",
     "id": "99919",
-    "name": "Rupert Station",
+    "name": "RUPERT STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167479,7 +167574,7 @@
     "code": "",
     "desc": "",
     "id": "99920",
-    "name": "Gilmore Station",
+    "name": "GILMORE STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167498,7 +167593,7 @@
     "code": "",
     "desc": "",
     "id": "99921",
-    "name": "Brentwood Town Centre Station",
+    "name": "BRENTWOOD TOWN CENTRE STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167517,7 +167612,7 @@
     "code": "",
     "desc": "",
     "id": "99922",
-    "name": "Holdom Station",
+    "name": "HOLDOM STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167536,7 +167631,7 @@
     "code": "",
     "desc": "",
     "id": "99923",
-    "name": "Sperling-Burnaby Lake Station",
+    "name": "SPERLING-BURNABY LAKE STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167555,7 +167650,7 @@
     "code": "",
     "desc": "",
     "id": "99924",
-    "name": "Lake City Way Station",
+    "name": "LAKE CITY WAY STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167574,7 +167669,7 @@
     "code": "",
     "desc": "",
     "id": "99925",
-    "name": "Production Way-University Station",
+    "name": "PRODUCTION WAY-UNIVERSITY STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167593,7 +167688,7 @@
     "code": "",
     "desc": "",
     "id": "99926",
-    "name": "Lougheed Town Centre Station",
+    "name": "LOUGHEED TOWN CENTRE STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167612,7 +167707,7 @@
     "code": "",
     "desc": "",
     "id": "99927",
-    "name": "Burquitlam Station",
+    "name": "BURQUITLAM STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167631,7 +167726,7 @@
     "code": "",
     "desc": "",
     "id": "99928",
-    "name": "Moody Centre Station",
+    "name": "MOODY CENTRE STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167650,7 +167745,7 @@
     "code": "",
     "desc": "",
     "id": "99929",
-    "name": "Inlet Centre Station",
+    "name": "INLET CENTRE STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167669,7 +167764,7 @@
     "code": "",
     "desc": "",
     "id": "99930",
-    "name": "Coquitlam Central Station",
+    "name": "COQUITLAM CENTRAL STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167688,7 +167783,7 @@
     "code": "",
     "desc": "",
     "id": "99931",
-    "name": "Lincoln Station",
+    "name": "LINCOLN STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167707,7 +167802,7 @@
     "code": "",
     "desc": "",
     "id": "99932",
-    "name": "Lafarge Lake-Douglas Station",
+    "name": "LAFARGE LAKE-DOUGLAS STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167726,7 +167821,7 @@
     "code": "",
     "desc": "",
     "id": "99933",
-    "name": "Burrard Station",
+    "name": "BURRARD STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167745,7 +167840,7 @@
     "code": "",
     "desc": "",
     "id": "99934",
-    "name": "Granville Station",
+    "name": "GRANVILLE STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167764,7 +167859,7 @@
     "code": "",
     "desc": "",
     "id": "99935",
-    "name": "Stadium-Chinatown Station",
+    "name": "STADIUM-CHINATOWN STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167783,7 +167878,7 @@
     "code": "",
     "desc": "",
     "id": "99936",
-    "name": "Main Street-Science World Station",
+    "name": "MAIN STREET-SCIENCE WORLD STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167802,7 +167897,7 @@
     "code": "",
     "desc": "",
     "id": "99937",
-    "name": "Nanaimo Station",
+    "name": "NANAIMO STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167821,7 +167916,7 @@
     "code": "",
     "desc": "",
     "id": "99938",
-    "name": "29th Avenue Station",
+    "name": "29TH AVENUE STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167840,7 +167935,7 @@
     "code": "",
     "desc": "",
     "id": "99939",
-    "name": "Joyce-Collingwood Station",
+    "name": "JOYCE-COLLINGWOOD STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167859,7 +167954,7 @@
     "code": "",
     "desc": "",
     "id": "99940",
-    "name": "Patterson Station",
+    "name": "PATTERSON STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167878,7 +167973,7 @@
     "code": "",
     "desc": "",
     "id": "99941",
-    "name": "Metrotown Station",
+    "name": "METROTOWN STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167897,7 +167992,7 @@
     "code": "",
     "desc": "",
     "id": "99942",
-    "name": "Royal Oak Station",
+    "name": "ROYAL OAK STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167916,7 +168011,7 @@
     "code": "",
     "desc": "",
     "id": "99943",
-    "name": "Edmonds Station",
+    "name": "EDMONDS STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167935,7 +168030,7 @@
     "code": "",
     "desc": "",
     "id": "99944",
-    "name": "22nd Street Station",
+    "name": "22ND STREET STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167954,7 +168049,7 @@
     "code": "",
     "desc": "",
     "id": "99945",
-    "name": "New Westminster Station",
+    "name": "NEW WESTMINSTER STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167973,7 +168068,7 @@
     "code": "",
     "desc": "",
     "id": "99946",
-    "name": "Columbia Station",
+    "name": "COLUMBIA STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -167992,7 +168087,7 @@
     "code": "",
     "desc": "",
     "id": "99947",
-    "name": "Sapperton Station",
+    "name": "SAPPERTON STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -168011,7 +168106,7 @@
     "code": "",
     "desc": "",
     "id": "99948",
-    "name": "Braid Station",
+    "name": "BRAID STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -168030,7 +168125,7 @@
     "code": "",
     "desc": "",
     "id": "99949",
-    "name": "Scott Road Station",
+    "name": "SCOTT ROAD STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -168049,7 +168144,7 @@
     "code": "",
     "desc": "",
     "id": "99950",
-    "name": "Gateway Station",
+    "name": "GATEWAY STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -168068,7 +168163,7 @@
     "code": "",
     "desc": "",
     "id": "99951",
-    "name": "Surrey Central Station",
+    "name": "SURREY CENTRAL STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -168087,7 +168182,7 @@
     "code": "",
     "desc": "",
     "id": "99952",
-    "name": "King George Station",
+    "name": "KING GEORGE STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -168106,7 +168201,7 @@
     "code": "",
     "desc": "",
     "id": "99953",
-    "name": "Port Coquitlam Station",
+    "name": "PORT COQUITLAM STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -168125,7 +168220,7 @@
     "code": "",
     "desc": "",
     "id": "99954",
-    "name": "Pitt Meadows Station",
+    "name": "PITT MEADOWS STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -168144,7 +168239,7 @@
     "code": "",
     "desc": "",
     "id": "99955",
-    "name": "Maple Meadows Station",
+    "name": "MAPLE MEADOWS STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -168163,7 +168258,7 @@
     "code": "",
     "desc": "",
     "id": "99956",
-    "name": "Port Haney Station",
+    "name": "PORT HANEY STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -168182,7 +168277,7 @@
     "code": "",
     "desc": "",
     "id": "99957",
-    "name": "Mission City Station",
+    "name": "MISSION CITY STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
@@ -168201,7 +168296,7 @@
     "code": "",
     "desc": "",
     "id": "99958",
-    "name": "Lonsdale Quay Station",
+    "name": "LONSDALE QUAY STATION",
     "wheelchair_boarding": "",
     "zone": ""
    },
