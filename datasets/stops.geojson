@@ -4240,25 +4240,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.214363,
-     49.269015
-    ],
-    "type": "Point"
-   },
-   "id": "350",
-   "properties": {
-    "code": "50346",
-    "desc": "",
-    "id": "350",
-    "name": "EB W 4 AVE FS BLANCA ST",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.21149,
      49.268974
     ],
@@ -95041,6 +95022,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.126645,
+     49.191916
+    ],
+    "type": "Point"
+   },
+   "id": "6523",
+   "properties": {
+    "code": "56462",
+    "desc": "",
+    "id": "6523",
+    "name": "EB BRIDGEPORT RD FS SEXSMITH RD",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.119933,
      49.191945
     ],
@@ -162464,25 +162464,6 @@
     "desc": "",
     "id": "12396",
     "name": "EB 32 AVE FS CROYDON DR",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.789572,
-     49.060032
-    ],
-    "type": "Point"
-   },
-   "id": "12397",
-   "properties": {
-    "code": "59110",
-    "desc": "",
-    "id": "12397",
-    "name": "EB 32 AVE FS 156A ST",
     "wheelchair_boarding": "0",
     "zone": ""
    },
