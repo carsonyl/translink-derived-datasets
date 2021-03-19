@@ -383,8 +383,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.138432,
-     49.285167
+     -123.138808,
+     49.285425
     ],
     "type": "Point"
    },
@@ -393,7 +393,7 @@
     "code": "50053",
     "desc": "",
     "id": "53",
-    "name": "WB DAVIE ST NS CARDERO ST",
+    "name": "WB DAVIE ST FS CARDERO ST",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -4213,25 +4213,6 @@
     "desc": "",
     "id": "348",
     "name": "NB BLANCA ST FS W 8 AVE",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.214948,
-     49.26769
-    ],
-    "type": "Point"
-   },
-   "id": "349",
-   "properties": {
-    "code": "50345",
-    "desc": "",
-    "id": "349",
-    "name": "NB BLANCA ST FS W 6 AVE",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -122686,25 +122667,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.985665,
-     49.263236
-    ],
-    "type": "Point"
-   },
-   "id": "8701",
-   "properties": {
-    "code": "58384",
-    "desc": "",
-    "id": "8701",
-    "name": "WB GORING ST NS DOUGLAS RD",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.937831,
      49.255847
     ],
@@ -129062,6 +129024,25 @@
     "desc": "",
     "id": "9348",
     "name": "SB RIVERSIDE DR FS PARANA DR",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.73385,
+     49.271051
+    ],
+    "type": "Point"
+   },
+   "id": "9350",
+   "properties": {
+    "code": "58681",
+    "desc": "",
+    "id": "9350",
+    "name": "SB FREMONT ST FS PRAIRIE AVE",
     "wheelchair_boarding": "0",
     "zone": ""
    },
@@ -150692,25 +150673,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.789624,
-     49.192019
-    ],
-    "type": "Point"
-   },
-   "id": "11490",
-   "properties": {
-    "code": "61494",
-    "desc": "",
-    "id": "11490",
-    "name": "NB 156 ST FS 104 AVE",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.78323,
      49.198763
     ],
@@ -166101,25 +166063,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.031611,
-     49.205981
-    ],
-    "type": "Point"
-   },
-   "id": "12677",
-   "properties": {
-    "code": "60443",
-    "desc": "",
-    "id": "12677",
-    "name": "WB SAWMILL CRES FS RIVER DISTRICT CROSSING",
-    "wheelchair_boarding": "0",
-    "zone": ""
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.118294,
      49.28616
     ],
@@ -167176,6 +167119,44 @@
     "desc": "",
     "id": "12759",
     "name": "EB GREAT NORTHERN WAY NS CAROLINA ST",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.030485,
+     49.20585
+    ],
+    "type": "Point"
+   },
+   "id": "12761",
+   "properties": {
+    "code": "60472",
+    "desc": "",
+    "id": "12761",
+    "name": "EB SAWMILL CRES NS RIVER DISTRICT CROSSING",
+    "wheelchair_boarding": "0",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.21495,
+     49.268417
+    ],
+    "type": "Point"
+   },
+   "id": "12762",
+   "properties": {
+    "code": "60533",
+    "desc": "",
+    "id": "12762",
+    "name": "NB BLANCA ST FS W 5 AVE",
     "wheelchair_boarding": "0",
     "zone": ""
    },
