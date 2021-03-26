@@ -162415,8 +162415,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.797249,
-     49.060376
+     -122.797717,
+     49.060683
     ],
     "type": "Point"
    },
@@ -162425,7 +162425,7 @@
     "code": "59177",
     "desc": "",
     "id": "12396",
-    "name": "EB 32 AVE FS CROYDON DR",
+    "name": "EB 32 AVE NS CROYDON DR",
     "wheelchair_boarding": "0",
     "zone": ""
    },
