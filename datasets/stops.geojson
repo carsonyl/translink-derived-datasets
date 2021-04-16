@@ -2027,7 +2027,7 @@
     "code": "50190",
     "desc": "",
     "id": "190",
-    "name": "Southbound Richards St @ Dunsmuir",
+    "name": "Southbound Richards St @ Dunsmuir St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -168153,8 +168153,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.14909,
-     49.27252
+     -123.14996,
+     49.27257
     ],
     "type": "Point"
    },
@@ -168163,7 +168163,7 @@
     "code": "60519",
     "desc": "",
     "id": "12755",
-    "name": "Westbound Cornwall Ave @ Walnut St",
+    "name": "Westbound Cornwall Ave @ Maple St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -168297,6 +168297,25 @@
     "desc": "",
     "id": "12765",
     "name": "Westound SW Marine Dr @ Columbia St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.13115,
+     49.19039
+    ],
+    "type": "Point"
+   },
+   "id": "12766",
+   "properties": {
+    "code": "60537",
+    "desc": "",
+    "id": "12766",
+    "name": "Southbound No. 3 Rd @ Sea Island Way",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
