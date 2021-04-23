@@ -3670,25 +3670,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.18501,
-     49.255
-    ],
-    "type": "Point"
-   },
-   "id": "312",
-   "properties": {
-    "code": "50309",
-    "desc": "",
-    "id": "312",
-    "name": "Northbound Dunbar St @ W 20 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.185,
      49.25675
     ],
@@ -4012,25 +3993,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.12689,
-     49.25851
-    ],
-    "type": "Point"
-   },
-   "id": "336",
-   "properties": {
-    "code": "50332",
-    "desc": "",
-    "id": "336",
-    "name": "Southbound Oak St @ W 14 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.12735,
      49.25675
     ],
@@ -4175,25 +4137,6 @@
     "desc": "",
     "id": "346",
     "name": "Southbound Oak St @ W 37 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.12818,
-     49.23488
-    ],
-    "type": "Point"
-   },
-   "id": "347",
-   "properties": {
-    "code": "50343",
-    "desc": "",
-    "id": "347",
-    "name": "Southbound Oak St @ 5600 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -4488,25 +4431,6 @@
    "geometry": {
     "coordinates": [
      -123.18526,
-     49.25526
-    ],
-    "type": "Point"
-   },
-   "id": "367",
-   "properties": {
-    "code": "50363",
-    "desc": "",
-    "id": "367",
-    "name": "Southbound Dunbar St @ W 19 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.18526,
      49.25344
     ],
     "type": "Point"
@@ -4517,25 +4441,6 @@
     "desc": "",
     "id": "368",
     "name": "Southbound Dunbar St @ W 21 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.1853,
-     49.25168
-    ],
-    "type": "Point"
-   },
-   "id": "369",
-   "properties": {
-    "code": "50365",
-    "desc": "",
-    "id": "369",
-    "name": "Southbound Dunbar St @ W 23 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -5836,25 +5741,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.12777,
-     49.23925
-    ],
-    "type": "Point"
-   },
-   "id": "456",
-   "properties": {
-    "code": "50452",
-    "desc": "",
-    "id": "456",
-    "name": "Northbound Oak St @ 5100 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.12769,
      49.24174
     ],
@@ -5980,25 +5866,6 @@
     "desc": "",
     "id": "463",
     "name": "Northbound Oak St @ W 17 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.12663,
-     49.25912
-    ],
-    "type": "Point"
-   },
-   "id": "464",
-   "properties": {
-    "code": "50460",
-    "desc": "",
-    "id": "464",
-    "name": "Northbound Oak St @ W 14 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -8515,25 +8382,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.05506,
-     49.25074
-    ],
-    "type": "Point"
-   },
-   "id": "673",
-   "properties": {
-    "code": "50666",
-    "desc": "",
-    "id": "673",
-    "name": "Westbound E 22 Ave @ Kamloops St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.18571,
      49.26464
     ],
@@ -8944,25 +8792,6 @@
     "desc": "",
     "id": "697",
     "name": "Eastbound E 22 Ave @ Nanaimo St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.05175,
-     49.25056
-    ],
-    "type": "Point"
-   },
-   "id": "698",
-   "properties": {
-    "code": "50691",
-    "desc": "",
-    "id": "698",
-    "name": "Eastbound E 22 Ave @ Penticton St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -9807,25 +9636,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.13014,
-     49.20716
-    ],
-    "type": "Point"
-   },
-   "id": "748",
-   "properties": {
-    "code": "50741",
-    "desc": "",
-    "id": "748",
-    "name": "Northbound Oak St @ W 71 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.13011,
      49.20877
     ],
@@ -9856,25 +9666,6 @@
     "desc": "",
     "id": "750",
     "name": "Northbound Oak St @ W 67 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.12996,
-     49.21326
-    ],
-    "type": "Point"
-   },
-   "id": "751",
-   "properties": {
-    "code": "50744",
-    "desc": "",
-    "id": "751",
-    "name": "Northbound Oak St @ W 64 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -9959,44 +9750,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.12832,
-     49.22304
-    ],
-    "type": "Point"
-   },
-   "id": "756",
-   "properties": {
-    "code": "50749",
-    "desc": "",
-    "id": "756",
-    "name": "Northbound Oak St @ W 53 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.12825,
-     49.225
-    ],
-    "type": "Point"
-   },
-   "id": "757",
-   "properties": {
-    "code": "50750",
-    "desc": "",
-    "id": "757",
-    "name": "Northbound Oak St @ W 51 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.12815,
      49.22686
     ],
@@ -10027,44 +9780,6 @@
     "desc": "",
     "id": "759",
     "name": "Northbound Oak St @ W 46 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.128,
-     49.23234
-    ],
-    "type": "Point"
-   },
-   "id": "760",
-   "properties": {
-    "code": "50753",
-    "desc": "",
-    "id": "760",
-    "name": "Northbound Oak St @ W 43 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.12793,
-     49.23366
-    ],
-    "type": "Point"
-   },
-   "id": "761",
-   "properties": {
-    "code": "50754",
-    "desc": "",
-    "id": "761",
-    "name": "Northbound Oak St @ W 41 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -10985,25 +10700,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.12827,
-     49.23177
-    ],
-    "type": "Point"
-   },
-   "id": "813",
-   "properties": {
-    "code": "50806",
-    "desc": "",
-    "id": "813",
-    "name": "Southbound Oak St @ W 43 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.12837,
      49.22904
     ],
@@ -11034,25 +10730,6 @@
     "desc": "",
     "id": "815",
     "name": "Southbound Oak St @ W 49 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.12854,
-     49.22366
-    ],
-    "type": "Point"
-   },
-   "id": "816",
-   "properties": {
-    "code": "50809",
-    "desc": "",
-    "id": "816",
-    "name": "Southbound Oak St @ W 52 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -11129,25 +10806,6 @@
     "desc": "",
     "id": "820",
     "name": "Southbound Oak St @ Park Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.13024,
-     49.21273
-    ],
-    "type": "Point"
-   },
-   "id": "821",
-   "properties": {
-    "code": "50814",
-    "desc": "",
-    "id": "821",
-    "name": "Southbound Oak St @ W 64 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -19098,25 +18756,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.07709,
-     49.2257
-    ],
-    "type": "Point"
-   },
-   "id": "1343",
-   "properties": {
-    "code": "51332",
-    "desc": "",
-    "id": "1343",
-    "name": "Northbound Knight St @ E 49 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.07706,
      49.22797
     ],
@@ -21625,25 +21264,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.19975,
-     49.25801
-    ],
-    "type": "Point"
-   },
-   "id": "1501",
-   "properties": {
-    "code": "51489",
-    "desc": "",
-    "id": "1501",
-    "name": "Eastbound W 16 Ave @ Courtenay St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.19749,
      49.25798
     ],
@@ -21720,25 +21340,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.18138,
-     49.2499
-    ],
-    "type": "Point"
-   },
-   "id": "1506",
-   "properties": {
-    "code": "51494",
-    "desc": "",
-    "id": "1506",
-    "name": "Eastbound W King Edward Ave @ Collingwood St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.17812,
      49.24989
     ],
@@ -21750,25 +21351,6 @@
     "desc": "",
     "id": "1507",
     "name": "Eastbound W King Edward Ave @ Blenheim St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.17526,
-     49.24988
-    ],
-    "type": "Point"
-   },
-   "id": "1508",
-   "properties": {
-    "code": "51496",
-    "desc": "",
-    "id": "1508",
-    "name": "Eastbound W King Edward Ave @ Balaclava St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -21948,25 +21530,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.1411,
-     49.2493
-    ],
-    "type": "Point"
-   },
-   "id": "1518",
-   "properties": {
-    "code": "51506",
-    "desc": "",
-    "id": "1518",
-    "name": "Eastbound W King Edward Ave @ Alexandra St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.13867,
      49.24926
     ],
@@ -22005,25 +21568,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.12938,
-     49.24912
-    ],
-    "type": "Point"
-   },
-   "id": "1521",
-   "properties": {
-    "code": "51509",
-    "desc": "",
-    "id": "1521",
-    "name": "Eastbound W King Edward Ave @ Osler St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.127,
      49.24909
     ],
@@ -22054,25 +21598,6 @@
     "desc": "",
     "id": "1523",
     "name": "Eastbound W King Edward Ave @ Willow St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.11794,
-     49.24891
-    ],
-    "type": "Point"
-   },
-   "id": "1524",
-   "properties": {
-    "code": "51512",
-    "desc": "",
-    "id": "1524",
-    "name": "Eastbound W King Edward Ave @ Ash St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -22233,25 +21758,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.07772,
-     49.24842
-    ],
-    "type": "Point"
-   },
-   "id": "1536",
-   "properties": {
-    "code": "51524",
-    "desc": "",
-    "id": "1536",
-    "name": "Eastbound E King Edward Ave @ Clark Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.07567,
      49.24842
     ],
@@ -22309,25 +21815,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.0565,
-     49.24658
-    ],
-    "type": "Point"
-   },
-   "id": "1540",
-   "properties": {
-    "code": "51528",
-    "desc": "",
-    "id": "1540",
-    "name": "Northbound Nanaimo St @ E 27 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.04911,
      49.25056
     ],
@@ -22339,25 +21826,6 @@
     "desc": "",
     "id": "1542",
     "name": "Eastbound E 22 Ave @ Slocan St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.04661,
-     49.25054
-    ],
-    "type": "Point"
-   },
-   "id": "1543",
-   "properties": {
-    "code": "51531",
-    "desc": "",
-    "id": "1543",
-    "name": "Eastbound E 22 Ave @ Kaslo St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -22822,25 +22290,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.04199,
-     49.25068
-    ],
-    "type": "Point"
-   },
-   "id": "1569",
-   "properties": {
-    "code": "51557",
-    "desc": "",
-    "id": "1569",
-    "name": "Westbound E 22 Ave @ Nootka St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.04361,
      49.25069
     ],
@@ -22852,25 +22301,6 @@
     "desc": "",
     "id": "1570",
     "name": "Westbound E 22 Ave @ Renfrew St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.04758,
-     49.25073
-    ],
-    "type": "Point"
-   },
-   "id": "1571",
-   "properties": {
-    "code": "51559",
-    "desc": "",
-    "id": "1571",
-    "name": "Westbound E 22 Ave @ Kaslo St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -23221,25 +22651,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.13704,
-     49.24952
-    ],
-    "type": "Point"
-   },
-   "id": "1591",
-   "properties": {
-    "code": "51579",
-    "desc": "",
-    "id": "1591",
-    "name": "Westbound W King Edward Ave @ Cartier St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.13958,
      49.24956
     ],
@@ -23373,25 +22784,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.16286,
-     49.24854
-    ],
-    "type": "Point"
-   },
-   "id": "1599",
-   "properties": {
-    "code": "51587",
-    "desc": "",
-    "id": "1599",
-    "name": "Westbound W King Edward Ave @ Brakenridge St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.16582,
      49.24821
     ],
@@ -23441,25 +22833,6 @@
     "desc": "",
     "id": "1602",
     "name": "Westbound W King Edward Ave @ Blenheim St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.18222,
-     49.25018
-    ],
-    "type": "Point"
-   },
-   "id": "1603",
-   "properties": {
-    "code": "51591",
-    "desc": "",
-    "id": "1603",
-    "name": "Westbound W King Edward Ave @ Collingwood St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -30403,25 +29776,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.12568,
-     49.20643
-    ],
-    "type": "Point"
-   },
-   "id": "2145",
-   "properties": {
-    "code": "52125",
-    "desc": "",
-    "id": "2145",
-    "name": "Eastbound SW Marine Dr @ Laurel St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.12386,
      49.20717
     ],
@@ -30433,25 +29787,6 @@
     "desc": "",
     "id": "2146",
     "name": "Eastbound SW Marine Dr @ Heather St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.11858,
-     49.20939
-    ],
-    "type": "Point"
-   },
-   "id": "2148",
-   "properties": {
-    "code": "52128",
-    "desc": "",
-    "id": "2148",
-    "name": "Eastbound SW Marine Dr @ Ash St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -31668,25 +31003,6 @@
     "desc": "",
     "id": "2227",
     "name": "Westbound SE Marine Dr @ Knight St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.08071,
-     49.2112
-    ],
-    "type": "Point"
-   },
-   "id": "2228",
-   "properties": {
-    "code": "52206",
-    "desc": "",
-    "id": "2228",
-    "name": "Westbound SE Marine Dr @ Inverness St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -39059,25 +38375,6 @@
     "desc": "",
     "id": "2757",
     "name": "Southbound Gilmore Diversion @ Manor St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.01079,
-     49.25258
-    ],
-    "type": "Point"
-   },
-   "id": "2759",
-   "properties": {
-    "code": "52734",
-    "desc": "",
-    "id": "2759",
-    "name": "Southbound Gilmore Way @ 3500 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -57470,25 +56767,6 @@
     "desc": "",
     "id": "4082",
     "name": "Eastbound Mt Seymour Parkway @ 4000 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.95741,
-     49.31526
-    ],
-    "type": "Point"
-   },
-   "id": "4083",
-   "properties": {
-    "code": "54042",
-    "desc": "",
-    "id": "4083",
-    "name": "Southbound Fairway Dr @ Mt Seymour Parkway",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
