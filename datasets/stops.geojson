@@ -3,6 +3,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.14042,
+     49.28645
+    ],
+    "type": "Point"
+   },
+   "id": "1",
+   "properties": {
+    "code": "50001",
+    "desc": "",
+    "id": "1",
+    "name": "Westbound Davie St @ Bidwell St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.12697,
      49.27755
     ],
@@ -1781,25 +1800,6 @@
     "desc": "",
     "id": "174",
     "name": "Northbound Main St @ E 12 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.10079,
-     49.26323
-    ],
-    "type": "Point"
-   },
-   "id": "176",
-   "properties": {
-    "code": "50176",
-    "desc": "",
-    "id": "176",
-    "name": "Northbound Main St @ E Broadway",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -29179,6 +29179,25 @@
     "desc": "",
     "id": "2082",
     "name": "Eastbound W 2nd Ave @ Fir St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.13836,
+     49.26946
+    ],
+    "type": "Point"
+   },
+   "id": "2083",
+   "properties": {
+    "code": "58661",
+    "desc": "",
+    "id": "2083",
+    "name": "Eastbound W 2nd Ave @ Anderson St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -134257,44 +134276,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.14097,
-     49.28261
-    ],
-    "type": "Point"
-   },
-   "id": "10051",
-   "properties": {
-    "code": "59388",
-    "desc": "",
-    "id": "10051",
-    "name": "Westbound Beach Ave @ Nicola St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.14269,
-     49.28487
-    ],
-    "type": "Point"
-   },
-   "id": "10053",
-   "properties": {
-    "code": "59387",
-    "desc": "",
-    "id": "10053",
-    "name": "Westbound Beach Ave @ Bidwell St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.12708,
      49.27362
     ],
@@ -141012,7 +140993,7 @@
     "code": "60734",
     "desc": "",
     "id": "10715",
-    "name": "Eastbound 111 Ave @ 12300 Block",
+    "name": "Eastbound 111A Ave @ 12300 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -141050,7 +141031,7 @@
     "code": "60737",
     "desc": "",
     "id": "10718",
-    "name": "Westbound 111 Ave @ 12300 Block",
+    "name": "Westbound 111A Ave @ 12300 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -167184,25 +167165,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.13373,
-     49.27881
-    ],
-    "type": "Point"
-   },
-   "id": "12734",
-   "properties": {
-    "code": "60505",
-    "desc": "",
-    "id": "12734",
-    "name": "Southbound Thurlow St @ Harwood St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.04037,
      49.33343
     ],
@@ -167328,25 +167290,6 @@
     "desc": "",
     "id": "12749",
     "name": "Southbound Main St @ E Broadway",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.13769,
-     49.26933
-    ],
-    "type": "Point"
-   },
-   "id": "12750",
-   "properties": {
-    "code": "60518",
-    "desc": "",
-    "id": "12750",
-    "name": "Eastbound Lamey's Mill Rd @ Anderson St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -167594,6 +167537,139 @@
     "desc": "",
     "id": "12766",
     "name": "Southbound No. 3 Rd @ Sea Island Way",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.14284,
+     49.28475
+    ],
+    "type": "Point"
+   },
+   "id": "12767",
+   "properties": {
+    "code": "60527",
+    "desc": "",
+    "id": "12767",
+    "name": "Eastbound Beach Ave @ Bidwell St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.14167,
+     49.28303
+    ],
+    "type": "Point"
+   },
+   "id": "12768",
+   "properties": {
+    "code": "60529",
+    "desc": "",
+    "id": "12768",
+    "name": "Westbound Beach Ave @ Cardero St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.142,
+     49.28322
+    ],
+    "type": "Point"
+   },
+   "id": "12769",
+   "properties": {
+    "code": "60528",
+    "desc": "",
+    "id": "12769",
+    "name": "Eastbound Beach Ave @ Cardero St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.13802,
+     49.28051
+    ],
+    "type": "Point"
+   },
+   "id": "12770",
+   "properties": {
+    "code": "60530",
+    "desc": "",
+    "id": "12770",
+    "name": "Eastbound Pacific St @ Jervis St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.13467,
+     49.27836
+    ],
+    "type": "Point"
+   },
+   "id": "12771",
+   "properties": {
+    "code": "60525",
+    "desc": "",
+    "id": "12771",
+    "name": "Eastbound Pacific St @ Thurlow St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.1426,
+     49.28431
+    ],
+    "type": "Point"
+   },
+   "id": "12772",
+   "properties": {
+    "code": "60526",
+    "desc": "",
+    "id": "12772",
+    "name": "Wesbound Beach Ave @ Bidwell St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.10085,
+     49.26233
+    ],
+    "type": "Point"
+   },
+   "id": "12773",
+   "properties": {
+    "code": "60538",
+    "desc": "",
+    "id": "12773",
+    "name": "Northbound Main St @ E 10 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
