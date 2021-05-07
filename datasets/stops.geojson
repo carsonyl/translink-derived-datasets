@@ -16571,25 +16571,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.07289,
-     49.24889
-    ],
-    "type": "Point"
-   },
-   "id": "1201",
-   "properties": {
-    "code": "51192",
-    "desc": "",
-    "id": "1201",
-    "name": "Westbound Kingsway @ Dumfries St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.07658,
      49.25051
     ],
@@ -40549,6 +40530,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.9281,
+     49.26117
+    ],
+    "type": "Point"
+   },
+   "id": "2909",
+   "properties": {
+    "code": "52879",
+    "desc": "",
+    "id": "2909",
+    "name": "Southbound Underhill Ave @ Broadway",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.94079,
      49.26094
     ],
@@ -62201,25 +62201,6 @@
     "desc": "",
     "id": "4427",
     "name": "Westbound Marine Dr @ Bewicke Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.09526,
-     49.32151
-    ],
-    "type": "Point"
-   },
-   "id": "4429",
-   "properties": {
-    "code": "54380",
-    "desc": "",
-    "id": "4429",
-    "name": "Westbound Marine Dr @ Fell Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -122363,44 +122344,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.93783,
-     49.25584
-    ],
-    "type": "Point"
-   },
-   "id": "8703",
-   "properties": {
-    "code": "58363",
-    "desc": "",
-    "id": "8703",
-    "name": "Northbound Lake City Way @ Enterprise St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.93781,
-     49.25812
-    ],
-    "type": "Point"
-   },
-   "id": "8704",
-   "properties": {
-    "code": "58364",
-    "desc": "",
-    "id": "8704",
-    "name": "Northbound Lake City Way @ Venture St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.91694,
      49.25729
     ],
@@ -134724,25 +134667,6 @@
     "desc": "",
     "id": "10106",
     "name": "Southbound Broadway St @ Mary Hill Bypass",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.9278,
-     49.2593
-    ],
-    "type": "Point"
-   },
-   "id": "10110",
-   "properties": {
-    "code": "59486",
-    "desc": "",
-    "id": "10110",
-    "name": "Southbound Underhill Ave @ 2700 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -167393,25 +167317,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.93731,
-     49.26073
-    ],
-    "type": "Point"
-   },
-   "id": "12756",
-   "properties": {
-    "code": "58367",
-    "desc": "",
-    "id": "12756",
-    "name": "Southbound Lake City Way @ Broadway",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.80104,
      49.14788
     ],
@@ -167670,6 +167575,44 @@
     "desc": "",
     "id": "12773",
     "name": "Northbound Main St @ E 10 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.07377,
+     49.24926
+    ],
+    "type": "Point"
+   },
+   "id": "12775",
+   "properties": {
+    "code": "60540",
+    "desc": "",
+    "id": "12775",
+    "name": "Eastbound Kingsway @ Dumfries St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.13394,
+     49.16645
+    ],
+    "type": "Point"
+   },
+   "id": "12776",
+   "properties": {
+    "code": "60046",
+    "desc": "",
+    "id": "12776",
+    "name": "Eastbound Cook Rd @ Buswell St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
