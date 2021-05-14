@@ -345,12 +345,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "S DELTA EXCH",
+  "destination": "S. DELTA EXCH",
   "direction": "NORTH",
   "name": "604-NB3",
   "operating-company": "CMBC",
   "pattern-number": "NB3",
-  "route-name": "English Bluff/Bridgeport",
+  "route-name": "ENGLISH BLUFF/BRIDGEPORT",
   "route-number": "604",
   "stroke": "#267cff",
   "stroke-width": 3.0

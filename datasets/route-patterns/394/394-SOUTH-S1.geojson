@@ -2025,12 +2025,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "WHITE ROCK CTR",
+  "destination": "WHITE ROCK CTR  EXPRESS",
   "direction": "SOUTH",
   "name": "394-S1",
   "operating-company": "CMBC",
   "pattern-number": "S1",
-  "route-name": "White Rock/King George Station Express",
+  "route-name": "WHITE ROCK/KING GEORGE STN EXPRESS",
   "route-number": "394",
   "stroke": "#267cff",
   "stroke-width": 3.0

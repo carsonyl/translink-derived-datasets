@@ -965,12 +965,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "WHITE ROCK CENTRE",
+  "destination": "WHITE ROCK CTR",
   "direction": "EAST",
   "name": "361-EB1",
   "operating-company": "CMBC",
   "pattern-number": "EB1",
-  "route-name": "Ocean Park/White Rock Centre",
+  "route-name": "OCEAN PARK/WHITE ROCK CENTRE",
   "route-number": "361",
   "stroke": "#267cff",
   "stroke-width": 3.0

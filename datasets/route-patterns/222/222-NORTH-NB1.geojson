@@ -1585,12 +1585,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "PHIBBS EXCH",
+  "destination": "WILLINGDON EXP/TO PHIBBS EXCH",
   "direction": "NORTH",
   "name": "222-NB1",
   "operating-company": "CMBC",
   "pattern-number": "NB1",
-  "route-name": "Metrotown Station/Phibbs Exchange",
+  "route-name": "METROTOWN STATION/PHIBBS EXCHANGE",
   "route-number": "222",
   "stroke": "#267cff",
   "stroke-width": 3.0

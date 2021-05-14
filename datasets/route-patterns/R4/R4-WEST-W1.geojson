@@ -2345,12 +2345,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "TO UBC",
+  "destination": "41ST AVE TO UBC",
   "direction": "WEST",
   "name": "0R4-W1",
   "operating-company": "CMBC",
   "pattern-number": "W1",
-  "route-name": "41st Ave",
+  "route-name": "41ST AVE",
   "route-number": "R4",
   "stroke": "#267cff",
   "stroke-width": 3.0

@@ -1128,9 +1128,9 @@
   "destination": "LANGLEY CTR",
   "direction": "WEST",
   "name": "560-WB1",
-  "operating-company": "CMBC",
+  "operating-company": "First Transit",
   "pattern-number": "WB1",
-  "route-name": "Murrayville/Langley Centre",
+  "route-name": "MURRAYVILLE/LANGLEY CENTRE",
   "route-number": "560",
   "stroke": "#267cff",
   "stroke-width": 3.0

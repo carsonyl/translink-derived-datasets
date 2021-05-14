@@ -3245,12 +3245,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "DOWNTOWN via YVR NIGHTBUS",
+  "destination": "DOWNTOWN VIA YVR NIGHTBUS",
   "direction": "NORTH",
   "name": "N10-NB1",
   "operating-company": "CMBC",
   "pattern-number": "NB1",
-  "route-name": "Downtown/Richmond NightBus",
+  "route-name": "DOWNTOWN/RICHMOND NIGHTBUS",
   "route-number": "N10",
   "stroke": "#267cff",
   "stroke-width": 3.0

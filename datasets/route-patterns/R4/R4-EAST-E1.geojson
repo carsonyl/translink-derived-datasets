@@ -2125,12 +2125,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "TO JOYCE STN",
+  "destination": "41ST AVE TO JOYCE STN",
   "direction": "EAST",
   "name": "0R4-E1",
   "operating-company": "CMBC",
   "pattern-number": "E1",
-  "route-name": "41st Ave",
+  "route-name": "41ST AVE",
   "route-number": "R4",
   "stroke": "#267cff",
   "stroke-width": 3.0

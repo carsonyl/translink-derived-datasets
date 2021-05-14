@@ -1685,12 +1685,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "PARK ROYAL ONLY",
+  "destination": "PARK ROYAL - ONLY",
   "direction": "WEST",
   "name": "255-W3",
-  "operating-company": "CMBC",
+  "operating-company": "West Vancouver",
   "pattern-number": "W3",
-  "route-name": "Dundarave/Capilano University",
+  "route-name": "DUNDARAVE/CAPILANO UNIVERSITY",
   "route-number": "255",
   "stroke": "#267cff",
   "stroke-width": 3.0

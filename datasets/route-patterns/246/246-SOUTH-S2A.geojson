@@ -935,12 +935,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "MARINE AND GARDEN",
+  "destination": "MARINE & GARDEN",
   "direction": "SOUTH",
   "name": "246-S2A",
   "operating-company": "CMBC",
   "pattern-number": "S2A",
-  "route-name": "Highland/Downtown",
+  "route-name": "HIGHLAND/DOWNTOWN",
   "route-number": "246",
   "stroke": "#267cff",
   "stroke-width": 3.0

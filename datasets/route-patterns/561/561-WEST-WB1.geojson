@@ -988,9 +988,9 @@
   "destination": "LANGLEY CTR",
   "direction": "WEST",
   "name": "561-WB1",
-  "operating-company": "CMBC",
+  "operating-company": "First Transit",
   "pattern-number": "WB1",
-  "route-name": "Langley Centre/Brookswood",
+  "route-name": "LANGLEY CENTRE/BROOKSWOOD",
   "route-number": "561",
   "stroke": "#267cff",
   "stroke-width": 3.0

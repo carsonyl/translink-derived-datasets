@@ -905,12 +905,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "COQUITLAM CTRL STN",
+  "destination": "COQ CTRL STN",
   "direction": "SOUTH",
   "name": "191-SB1",
   "operating-company": "CMBC",
   "pattern-number": "SB1",
-  "route-name": "Coquitlam Central Station/Princeton",
+  "route-name": "COQUITLAM CENTRAL STN/PRINCETON",
   "route-number": "191",
   "stroke": "#267cff",
   "stroke-width": 3.0

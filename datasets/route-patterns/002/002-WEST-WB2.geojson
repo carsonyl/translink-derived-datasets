@@ -785,12 +785,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "MACDONALD - 16th",
+  "destination": "MACDONALD - 16TH",
   "direction": "WEST",
   "name": "002-WB2",
   "operating-company": "CMBC",
   "pattern-number": "WB2",
-  "route-name": "Macdonald/Downtown",
+  "route-name": "MACDONALD/DOWNTOWN",
   "route-number": "002",
   "stroke": "#267cff",
   "stroke-width": 3.0

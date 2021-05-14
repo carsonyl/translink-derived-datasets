@@ -1548,9 +1548,9 @@
   "destination": "WILLOWBROOK",
   "direction": "EAST",
   "name": "564-EB1",
-  "operating-company": "CMBC",
+  "operating-company": "First Transit",
   "pattern-number": "EB1",
-  "route-name": "Langley Centre/Willowbrook",
+  "route-name": "LANGLEY CTR/WILLOWBROOK",
   "route-number": "564",
   "stroke": "#267cff",
   "stroke-width": 3.0

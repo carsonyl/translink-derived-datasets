@@ -1185,12 +1185,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "UBC EXCHANGE",
+  "destination": "UBC EXCH",
   "direction": "NORTH",
   "name": "068-NB1",
   "operating-company": "CMBC",
   "pattern-number": "NB1",
-  "route-name": "UBC Exchange/Wesbrook Village",
+  "route-name": "UBC EXCHANGE/WESBROOK VILLAGE",
   "route-number": "068",
   "stroke": "#267cff",
   "stroke-width": 3.0

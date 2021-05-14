@@ -2085,12 +2085,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "METROTOWN STN",
+  "destination": "METROTOWN STN EXPRESS",
   "direction": "EAST",
   "name": "430-EB1",
   "operating-company": "CMBC",
   "pattern-number": "EB1",
-  "route-name": "Metrotown/Brighouse Station",
+  "route-name": "METROTOWN/BRIGHOUSE STATION",
   "route-number": "430",
   "stroke": "#267cff",
   "stroke-width": 3.0

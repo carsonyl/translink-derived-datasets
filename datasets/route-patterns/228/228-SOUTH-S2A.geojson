@@ -545,12 +545,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "GRAND BLVD AND 15 ST",
+  "destination": "GRAND BLVD & 15 ST",
   "direction": "SOUTH",
   "name": "228-S2A",
   "operating-company": "CMBC",
   "pattern-number": "S2A",
-  "route-name": "Lynn Valley/Lonsdale Quay",
+  "route-name": "LYNN VALLEY/LONSDALE QUAY",
   "route-number": "228",
   "stroke": "#267cff",
   "stroke-width": 3.0

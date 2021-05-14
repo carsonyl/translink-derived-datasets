@@ -1378,9 +1378,9 @@
   "destination": "WEST BAY",
   "direction": "WEST",
   "name": "250-WB5",
-  "operating-company": "CMBC",
+  "operating-company": "West Vancouver",
   "pattern-number": "WB5",
-  "route-name": "Horseshoe Bay/Dundarave/Vancouver",
+  "route-name": "HORSESHOE BAY/DUNDARAVE/VANCOUVER",
   "route-number": "250",
   "stroke": "#267cff",
   "stroke-width": 3.0

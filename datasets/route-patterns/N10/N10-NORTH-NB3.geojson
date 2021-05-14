@@ -1055,12 +1055,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "GRANVILLE TO 71",
+  "destination": "GRANVILLE TO 71ST",
   "direction": "NORTH",
   "name": "N10-NB3",
   "operating-company": "CMBC",
   "pattern-number": "NB3",
-  "route-name": "Downtown/Richmond NightBus",
+  "route-name": "DOWNTOWN/RICHMOND NIGHTBUS",
   "route-number": "N10",
   "stroke": "#267cff",
   "stroke-width": 3.0

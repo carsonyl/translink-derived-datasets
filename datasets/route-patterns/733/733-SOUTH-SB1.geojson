@@ -955,12 +955,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "HANEY PLACE",
+  "destination": "HANEY PL",
   "direction": "SOUTH",
   "name": "733-SB1",
   "operating-company": "CMBC",
   "pattern-number": "SB1",
-  "route-name": "Rock Ridge/Haney Place/Port Haney Station",
+  "route-name": "ROCK RIDGE/HANEY PL/PT HANEY STN",
   "route-number": "733",
   "stroke": "#267cff",
   "stroke-width": 3.0

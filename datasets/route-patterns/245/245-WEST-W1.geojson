@@ -685,12 +685,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "PHIBBS EXCHANGE",
+  "destination": "PHIBBS EXCH",
   "direction": "WEST",
   "name": "245-W1",
   "operating-company": "CMBC",
   "pattern-number": "W1",
-  "route-name": "Phibbs/Capilano",
+  "route-name": "PHIBBS/CAPILANO",
   "route-number": "245",
   "stroke": "#267cff",
   "stroke-width": 3.0

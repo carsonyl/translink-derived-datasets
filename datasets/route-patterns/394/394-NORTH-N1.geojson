@@ -1615,12 +1615,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "KING GEORGE STN",
+  "destination": "KING GEORGE STN EXPRESS",
   "direction": "NORTH",
   "name": "394-N1",
   "operating-company": "CMBC",
   "pattern-number": "N1",
-  "route-name": "White Rock/King George Station Express",
+  "route-name": "WHITE ROCK/KING GEORGE STN EXPRESS",
   "route-number": "394",
   "stroke": "#267cff",
   "stroke-width": 3.0

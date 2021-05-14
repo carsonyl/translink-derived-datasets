@@ -1118,9 +1118,9 @@
   "destination": "BROOKSWOOD",
   "direction": "EAST",
   "name": "561-EB1",
-  "operating-company": "CMBC",
+  "operating-company": "First Transit",
   "pattern-number": "EB1",
-  "route-name": "Langley Centre/Brookswood",
+  "route-name": "LANGLEY CENTRE/BROOKSWOOD",
   "route-number": "561",
   "stroke": "#267cff",
   "stroke-width": 3.0

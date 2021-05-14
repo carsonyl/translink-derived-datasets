@@ -1325,12 +1325,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "COQ CTRL STN",
+  "destination": "COQ CTRL STN VIA POCO STN",
   "direction": "EAST",
   "name": "159-EB4",
   "operating-company": "CMBC",
   "pattern-number": "EB4",
-  "route-name": "Coquitlam Central Station/Braid Station",
+  "route-name": "COQUITLAM CENTRAL STN/BRAID STN",
   "route-number": "159",
   "stroke": "#267cff",
   "stroke-width": 3.0

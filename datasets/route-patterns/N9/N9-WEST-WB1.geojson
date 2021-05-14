@@ -4025,12 +4025,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "DOWNTOWN",
+  "destination": "DOWNTOWN NIGHTBUS",
   "direction": "WEST",
   "name": "N9-WB1",
   "operating-company": "CMBC",
   "pattern-number": "WB1",
-  "route-name": "Downtown/Lougheed Stn/Coquitlam Central NightBus",
+  "route-name": "DOWNTN/LOUGHEED STN/COQ CTRL STN",
   "route-number": "N9",
   "stroke": "#267cff",
   "stroke-width": 3.0

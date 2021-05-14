@@ -1025,12 +1025,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "FERNRIDGE VIA BROOKSWOOD",
+  "destination": "FERNWOOD VIA BROOKSWOOD",
   "direction": "SOUTH",
   "name": "563-SB1",
-  "operating-company": "CMBC",
+  "operating-company": "First Transit",
   "pattern-number": "SB1",
-  "route-name": "Langley Centre/Fernridge",
+  "route-name": "LANGLEY CENTRE/FERNRIDGE",
   "route-number": "563",
   "stroke": "#267cff",
   "stroke-width": 3.0

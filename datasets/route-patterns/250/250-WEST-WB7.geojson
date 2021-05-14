@@ -535,12 +535,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "A DUNDARAVE TO 25TH AND MARINE",
+  "destination": "DUNDARAVE - TO 25TH & MARINE",
   "direction": "WEST",
   "name": "250-WB7",
-  "operating-company": "CMBC",
+  "operating-company": "West Vancouver",
   "pattern-number": "WB7",
-  "route-name": "Horseshoe Bay/Dundarave/Vancouver",
+  "route-name": "HORSESHOE BAY/DUNDARAVE/VANCOUVER",
   "route-number": "250",
   "stroke": "#267cff",
   "stroke-width": 3.0

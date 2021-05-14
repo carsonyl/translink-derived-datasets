@@ -2215,12 +2215,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "BURRARD STATION",
+  "destination": "BURRARD STN",
   "direction": "WEST",
   "name": "209-W1",
   "operating-company": "CMBC",
   "pattern-number": "W1",
-  "route-name": "Upper Lynn Valley/Burrard Station",
+  "route-name": "UPPER LYNN VALLEY/BURRARD STATION",
   "route-number": "209",
   "stroke": "#267cff",
   "stroke-width": 3.0

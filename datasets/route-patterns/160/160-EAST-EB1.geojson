@@ -3205,12 +3205,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "PORT COQ STN",
+  "destination": "PT COQ STN",
   "direction": "EAST",
   "name": "160-EB1",
   "operating-company": "CMBC",
   "pattern-number": "EB1",
-  "route-name": "Port Coquitlam Station/Kootenay Loop",
+  "route-name": "PORT COQUITLAM STN/KOOTENAY LOOP",
   "route-number": "160",
   "stroke": "#267cff",
   "stroke-width": 3.0

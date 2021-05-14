@@ -1055,12 +1055,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "PHIBBS EXCH",
+  "destination": "MARINE DR TO PHIBBS EXCH",
   "direction": "EAST",
   "name": "0R2-E1",
   "operating-company": "CMBC",
   "pattern-number": "E1",
-  "route-name": "Marine Dr",
+  "route-name": "MARINE DR",
   "route-number": "R2",
   "stroke": "#267cff",
   "stroke-width": 3.0

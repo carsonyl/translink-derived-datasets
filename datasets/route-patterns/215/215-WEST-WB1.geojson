@@ -1158,9 +1158,9 @@
   "destination": "PHIBBS EXCH",
   "direction": "WEST",
   "name": "215-WB1",
-  "operating-company": "CMBC",
+  "operating-company": "West Vancouver",
   "pattern-number": "WB1",
-  "route-name": "Indian River/Phibbs Exchange",
+  "route-name": "INDIAN RIVER/PHIBBS EXCH",
   "route-number": "215",
   "stroke": "#267cff",
   "stroke-width": 3.0

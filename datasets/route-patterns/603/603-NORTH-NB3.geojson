@@ -785,12 +785,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "S DELTA EXCH",
+  "destination": "S. DELTA EXCH",
   "direction": "NORTH",
   "name": "603-NB3",
   "operating-company": "CMBC",
   "pattern-number": "NB3",
-  "route-name": "Beach Grove/Bridgeport",
+  "route-name": "BEACH GROVE/BRIDGEPORT",
   "route-number": "603",
   "stroke": "#267cff",
   "stroke-width": 3.0

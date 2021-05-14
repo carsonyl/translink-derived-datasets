@@ -1825,12 +1825,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "SFU",
+  "destination": "HASTINGS ST TO SFU",
   "direction": "EAST",
   "name": "0R5-E2A",
   "operating-company": "CMBC",
   "pattern-number": "E2A",
-  "route-name": "Hastings Street",
+  "route-name": "HASTINGS STREET",
   "route-number": "R5",
   "stroke": "#267cff",
   "stroke-width": 3.0

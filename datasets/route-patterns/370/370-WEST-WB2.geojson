@@ -958,9 +958,9 @@
   "destination": "CLOVERDALE",
   "direction": "WEST",
   "name": "370-WB2",
-  "operating-company": "CMBC",
+  "operating-company": "First Transit",
   "pattern-number": "WB2",
-  "route-name": "Cloverdale/Willowbrook",
+  "route-name": "CLOVERDALE/WILLOWBROOK",
   "route-number": "370",
   "stroke": "#267cff",
   "stroke-width": 3.0

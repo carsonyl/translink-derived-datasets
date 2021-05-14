@@ -898,9 +898,9 @@
   "destination": "LANGLEY CTR",
   "direction": "SOUTH",
   "name": "562-SB1",
-  "operating-company": "CMBC",
+  "operating-company": "First Transit",
   "pattern-number": "SB1",
-  "route-name": "Langley Centre/Walnut Grove",
+  "route-name": "LANGLEY CENTRE/WALNUT GROVE",
   "route-number": "562",
   "stroke": "#267cff",
   "stroke-width": 3.0

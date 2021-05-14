@@ -1905,12 +1905,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "VCC-CLARK STN",
+  "destination": "VCC-CLARK STN  EXPRESS",
   "direction": "EAST",
   "name": "084-EB1",
   "operating-company": "CMBC",
   "pattern-number": "EB1",
-  "route-name": "UBC/VCC-Clark Station",
+  "route-name": "UBC/VCC-CLARK STATION",
   "route-number": "084",
   "stroke": "#267cff",
   "stroke-width": 3.0

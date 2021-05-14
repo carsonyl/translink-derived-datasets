@@ -1805,12 +1805,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "UBC",
+  "destination": "UBC EXPRESS",
   "direction": "WEST",
   "name": "084-WB1",
   "operating-company": "CMBC",
   "pattern-number": "WB1",
-  "route-name": "UBC/VCC-Clark Station",
+  "route-name": "UBC/VCC-CLARK STATION",
   "route-number": "084",
   "stroke": "#267cff",
   "stroke-width": 3.0

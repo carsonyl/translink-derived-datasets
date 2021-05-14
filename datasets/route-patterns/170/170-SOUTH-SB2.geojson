@@ -745,12 +745,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "PORT COQ SOUTH VIA REEVE",
+  "destination": "PT COQ SOUTH VIA REEVE",
   "direction": "SOUTH",
   "name": "170-SB2",
   "operating-company": "CMBC",
   "pattern-number": "SB2",
-  "route-name": "Port Coquitlam Station/Port Coquitlam South",
+  "route-name": "PT COQUITLAM STN/PT COQUITLAM SOUTH",
   "route-number": "170",
   "stroke": "#267cff",
   "stroke-width": 3.0

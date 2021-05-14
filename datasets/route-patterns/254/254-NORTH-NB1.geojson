@@ -2958,9 +2958,9 @@
   "destination": "BRITISH PROPERTIES",
   "direction": "NORTH",
   "name": "254-NB1",
-  "operating-company": "CMBC",
+  "operating-company": "West Vancouver",
   "pattern-number": "NB1",
-  "route-name": "British Properties/Park Royal/Van",
+  "route-name": "BRITISH PROPERTIES/PARK ROYAL/VAN",
   "route-number": "254",
   "stroke": "#267cff",
   "stroke-width": 3.0

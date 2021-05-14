@@ -655,12 +655,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "PORT COQ STN",
+  "destination": "PT COQ STN",
   "direction": "NORTH",
   "name": "170-NB1",
   "operating-company": "CMBC",
   "pattern-number": "NB1",
-  "route-name": "Port Coquitlam Station/Port Coquitlam South",
+  "route-name": "PT COQUITLAM STN/PT COQUITLAM SOUTH",
   "route-number": "170",
   "stroke": "#267cff",
   "stroke-width": 3.0

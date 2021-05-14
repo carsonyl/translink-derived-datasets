@@ -635,12 +635,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "BRIGHOUSE STATION",
+  "destination": "BRIGHOUSE STN",
   "direction": "EAST",
   "name": "414-E1",
   "operating-company": "CMBC",
   "pattern-number": "E1",
-  "route-name": "Richmond Oval/Brighouse Station",
+  "route-name": "RICHMOND OVAL/BRIGHOUSE STN",
   "route-number": "414",
   "stroke": "#267cff",
   "stroke-width": 3.0

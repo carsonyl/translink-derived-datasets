@@ -1015,12 +1015,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "CARVOLTH EXCHANGE",
+  "destination": "CARVOLTH EXCH EXPRESS",
   "direction": "EAST",
   "name": "509-EB2",
   "operating-company": "CMBC",
   "pattern-number": "EB2",
-  "route-name": "Walnut Grove/Surrey Central Station",
+  "route-name": "WALNUT GROVE/SURREY CENTRAL STN",
   "route-number": "509",
   "stroke": "#267cff",
   "stroke-width": 3.0

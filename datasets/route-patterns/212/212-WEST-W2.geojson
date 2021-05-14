@@ -875,12 +875,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "PHIBBS EXCHANGE",
+  "destination": "PHIBBS EXCH",
   "direction": "WEST",
   "name": "212-W2",
   "operating-company": "CMBC",
   "pattern-number": "W2",
-  "route-name": "Deep Cove/Phibbs Exchange",
+  "route-name": "DEEP COVE/PHIBBS EXCH",
   "route-number": "212",
   "stroke": "#267cff",
   "stroke-width": 3.0

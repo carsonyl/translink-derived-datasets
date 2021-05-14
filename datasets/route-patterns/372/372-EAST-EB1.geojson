@@ -1198,9 +1198,9 @@
   "destination": "LANGLEY CTR",
   "direction": "EAST",
   "name": "372-EB1",
-  "operating-company": "CMBC",
+  "operating-company": "First Transit",
   "pattern-number": "EB1",
-  "route-name": "Clayton Heights/Langley Centre",
+  "route-name": "CLAYTON HEIGHTS/LANGLEY CENTRE",
   "route-number": "372",
   "stroke": "#267cff",
   "stroke-width": 3.0

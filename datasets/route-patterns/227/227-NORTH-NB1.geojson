@@ -1175,12 +1175,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "LYNN VALLEY CENTRE",
+  "destination": "LYNN VALLEY CTR VIA LYNN CANYON PARK",
   "direction": "NORTH",
   "name": "227-NB1",
-  "operating-company": "CMBC",
+  "operating-company": "West Vancouver",
   "pattern-number": "NB1",
-  "route-name": "Lynn Valley Centre/Phibbs Exchange",
+  "route-name": "LYNN VALLEY CENTRE/PHIBBS EXCHANGE",
   "route-number": "227",
   "stroke": "#267cff",
   "stroke-width": 3.0

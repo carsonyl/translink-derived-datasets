@@ -755,12 +755,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "TO BOUNDARY RD",
+  "destination": "BOUNDARY RD",
   "direction": "SOUTH",
   "name": "418-SB3",
   "operating-company": "CMBC",
   "pattern-number": "SB3",
-  "route-name": "Kingswood/22nd St Station",
+  "route-name": "KINGSWOOD/22ND ST STN",
   "route-number": "418",
   "stroke": "#267cff",
   "stroke-width": 3.0

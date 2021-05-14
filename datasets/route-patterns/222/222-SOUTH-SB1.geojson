@@ -1475,12 +1475,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "METROTOWN STN",
+  "destination": "WILLINGDON EXP/TO METROTOWN STN",
   "direction": "SOUTH",
   "name": "222-SB1",
   "operating-company": "CMBC",
   "pattern-number": "SB1",
-  "route-name": "Metrotown Station/Phibbs Exchange",
+  "route-name": "METROTOWN STATION/PHIBBS EXCHANGE",
   "route-number": "222",
   "stroke": "#267cff",
   "stroke-width": 3.0

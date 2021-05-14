@@ -775,12 +775,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "HANEY PLACE",
+  "destination": "HANEY PL",
   "direction": "SOUTH",
   "name": "741-SB1",
   "operating-company": "CMBC",
   "pattern-number": "SB1",
-  "route-name": "Anderson Creek/Haney Place/Port Haney St",
+  "route-name": "ANDERSON CREEK/HANEY PL/PT HANEY ST",
   "route-number": "741",
   "stroke": "#267cff",
   "stroke-width": 3.0

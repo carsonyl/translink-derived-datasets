@@ -1065,12 +1065,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "ST AND OAK",
+  "destination": "41ST & OAK",
   "direction": "WEST",
   "name": "041-WB5",
   "operating-company": "CMBC",
   "pattern-number": "WB5",
-  "route-name": "Joyce Station/Crown",
+  "route-name": "JOYCE STN/CROWN",
   "route-number": "041",
   "stroke": "#267cff",
   "stroke-width": 3.0

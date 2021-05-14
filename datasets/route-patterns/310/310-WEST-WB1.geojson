@@ -1815,12 +1815,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "LADNER EXCH",
+  "destination": "LADNER",
   "direction": "WEST",
   "name": "310-WB1",
   "operating-company": "CMBC",
   "pattern-number": "WB1",
-  "route-name": "Scottsdale/Ladner Exchange",
+  "route-name": "SCOTTSDALE/LADNER EX",
   "route-number": "310",
   "stroke": "#267cff",
   "stroke-width": 3.0

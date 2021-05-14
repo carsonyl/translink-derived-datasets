@@ -555,12 +555,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "TH AVE STN",
+  "destination": "29TH AVE STN",
   "direction": "NORTH",
   "name": "029-N1",
   "operating-company": "CMBC",
   "pattern-number": "N1",
-  "route-name": "Elliott/29th Avenue Station",
+  "route-name": "ELLIOTT/29TH AVENUE STN",
   "route-number": "029",
   "stroke": "#267cff",
   "stroke-width": 3.0

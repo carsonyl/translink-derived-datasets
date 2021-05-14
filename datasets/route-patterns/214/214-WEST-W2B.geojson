@@ -1935,12 +1935,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "BURRARD STATION",
+  "destination": "BURRARD STN",
   "direction": "WEST",
   "name": "214-W2B",
-  "operating-company": "CMBC",
+  "operating-company": "West Vancouver",
   "pattern-number": "W2B",
-  "route-name": "Blueridge/Phibbs Exchange/Burrard Station",
+  "route-name": "BLUERIDGE/PHIBBS EXCH/BURRARD STN",
   "route-number": "214",
   "stroke": "#267cff",
   "stroke-width": 3.0

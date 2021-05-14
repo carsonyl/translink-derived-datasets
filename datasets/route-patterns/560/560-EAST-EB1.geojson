@@ -1208,9 +1208,9 @@
   "destination": "MURRAYVILLE",
   "direction": "EAST",
   "name": "560-EB1",
-  "operating-company": "CMBC",
+  "operating-company": "First Transit",
   "pattern-number": "EB1",
-  "route-name": "Murrayville/Langley Centre",
+  "route-name": "MURRAYVILLE/LANGLEY CENTRE",
   "route-number": "560",
   "stroke": "#267cff",
   "stroke-width": 3.0

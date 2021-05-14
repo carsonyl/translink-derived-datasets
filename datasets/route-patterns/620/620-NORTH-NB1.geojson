@@ -1895,12 +1895,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "BRIDGEPORT EXPRESS",
+  "destination": "BRIDGEPORT STN EXPRESS",
   "direction": "NORTH",
   "name": "620-NB1",
   "operating-company": "CMBC",
   "pattern-number": "NB1",
-  "route-name": "Tsawwassen Ferry/Bridgeport Station",
+  "route-name": "TSAWWASSEN FERRY/BRIDGEPORT STATION",
   "route-number": "620",
   "stroke": "#267cff",
   "stroke-width": 3.0

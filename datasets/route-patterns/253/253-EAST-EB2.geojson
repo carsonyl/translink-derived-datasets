@@ -1498,9 +1498,9 @@
   "destination": "PARK ROYAL - ONLY",
   "direction": "EAST",
   "name": "253-EB2",
-  "operating-company": "CMBC",
+  "operating-company": "West Vancouver",
   "pattern-number": "EB2",
-  "route-name": "Caulfeild/Vancouver/Park Royal",
+  "route-name": "CAULFEILD/VANCOUVER/PARK ROYAL",
   "route-number": "253",
   "stroke": "#267cff",
   "stroke-width": 3.0

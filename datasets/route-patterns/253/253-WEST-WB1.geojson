@@ -2588,9 +2588,9 @@
   "destination": "CAULFEILD",
   "direction": "WEST",
   "name": "253-WB1",
-  "operating-company": "CMBC",
+  "operating-company": "West Vancouver",
   "pattern-number": "WB1",
-  "route-name": "Caulfeild/Vancouver/Park Royal",
+  "route-name": "CAULFEILD/VANCOUVER/PARK ROYAL",
   "route-number": "253",
   "stroke": "#267cff",
   "stroke-width": 3.0

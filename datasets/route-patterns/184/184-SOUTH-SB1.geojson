@@ -1205,12 +1205,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "MOODY CENTRE STN",
+  "destination": "MOODY CTR STN",
   "direction": "SOUTH",
   "name": "184-SB1",
   "operating-company": "CMBC",
   "pattern-number": "SB1",
-  "route-name": "Moody Centre Station/Noons Creek",
+  "route-name": "MOODY CTR STN/NOONS CREEK",
   "route-number": "184",
   "stroke": "#267cff",
   "stroke-width": 3.0

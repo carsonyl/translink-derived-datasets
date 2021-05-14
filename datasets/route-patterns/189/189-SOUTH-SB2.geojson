@@ -375,12 +375,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "COQUITLAM CENTRAL STATION",
+  "destination": "COQ CTRL STN",
   "direction": "SOUTH",
   "name": "189-SB2",
   "operating-company": "CMBC",
   "pattern-number": "SB2",
-  "route-name": "Coquitlam Central Station/Lafarge Park",
+  "route-name": "COQUITLAM CENTRAL STN/LAFARGE PARK",
   "route-number": "189",
   "stroke": "#267cff",
   "stroke-width": 3.0

@@ -605,12 +605,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "LANGARA-TH STN",
+  "destination": "LANGARA-49TH STN",
   "direction": "WEST",
   "name": "049-WB4",
   "operating-company": "CMBC",
   "pattern-number": "WB4",
-  "route-name": "Metrotown Station/Dunbar Loop/UBC",
+  "route-name": "METROTOWN STN/DUNBAR LOOP/UBC",
   "route-number": "049",
   "stroke": "#267cff",
   "stroke-width": 3.0

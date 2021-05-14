@@ -1375,12 +1375,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "MACDONALD",
+  "destination": "MACDONALD NIGHTBUS",
   "direction": "SOUTH",
   "name": "N22-SB1",
   "operating-company": "CMBC",
   "pattern-number": "SB1",
-  "route-name": "Downtown/Macdonald NightBus",
+  "route-name": "DOWNTOWN/MACDONALD NIGHTBUS",
   "route-number": "N22",
   "stroke": "#267cff",
   "stroke-width": 3.0

@@ -605,12 +605,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "SCOTT AND 96 AVE",
+  "destination": "SCOTT & 96 AVE",
   "direction": "NORTH",
   "name": "329-NB2",
   "operating-company": "CMBC",
   "pattern-number": "NB2",
-  "route-name": "Surrey Central Station/Scottsdale",
+  "route-name": "SURREY CENTRAL STN/SCOTTSDALE",
   "route-number": "329",
   "stroke": "#267cff",
   "stroke-width": 3.0

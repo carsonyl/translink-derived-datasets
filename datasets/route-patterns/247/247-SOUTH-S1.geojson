@@ -2205,12 +2205,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "DOWNTOWN",
+  "destination": "VANCOUVER",
   "direction": "SOUTH",
   "name": "247-S1",
   "operating-company": "CMBC",
   "pattern-number": "S1",
-  "route-name": "Grouse Mountain/Downtown",
+  "route-name": "GROUSE MOUNTAIN/DOWNTOWN",
   "route-number": "247",
   "stroke": "#267cff",
   "stroke-width": 3.0

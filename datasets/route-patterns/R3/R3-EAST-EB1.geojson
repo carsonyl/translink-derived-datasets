@@ -985,12 +985,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "HANEY PLACE",
+  "destination": "LOUGHEED HWY TO HANEY PL",
   "direction": "EAST",
   "name": "0R3-EB1",
   "operating-company": "CMBC",
   "pattern-number": "EB1",
-  "route-name": "Lougheed Hwy",
+  "route-name": "LOUGHEED HWY",
   "route-number": "R3",
   "stroke": "#267cff",
   "stroke-width": 3.0

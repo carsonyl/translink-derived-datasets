@@ -955,12 +955,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "METROTOWN STATION",
+  "destination": "METROTOWN STN",
   "direction": "NORTH",
   "name": "031-NB1",
   "operating-company": "CMBC",
   "pattern-number": "NB1",
-  "route-name": "Metrotown Station/River District",
+  "route-name": "METROTOWN STATION/RIVER DISTRICT",
   "route-number": "031",
   "stroke": "#267cff",
   "stroke-width": 3.0
