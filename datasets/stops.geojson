@@ -38611,25 +38611,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.981035,
-     49.249671
-    ],
-    "type": "Point"
-   },
-   "id": "2787",
-   "properties": {
-    "code": "52759",
-    "desc": "",
-    "id": "2787",
-    "name": "Southbound Douglas Rd @ Sprott St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.954974,
      49.235262
     ],
@@ -38782,6 +38763,63 @@
   {
    "geometry": {
     "coordinates": [
+     -122.957651,
+     49.223269
+    ],
+    "type": "Point"
+   },
+   "id": "2796",
+   "properties": {
+    "code": "52768",
+    "desc": "",
+    "id": "2796",
+    "name": "Southbound Salisbury Ave @ Imperial St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.957642,
+     49.220907
+    ],
+    "type": "Point"
+   },
+   "id": "2797",
+   "properties": {
+    "code": "52769",
+    "desc": "",
+    "id": "2797",
+    "name": "Southbound Salisbury Ave @ Elwell St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.957619,
+     49.219021
+    ],
+    "type": "Point"
+   },
+   "id": "2798",
+   "properties": {
+    "code": "52770",
+    "desc": "",
+    "id": "2798",
+    "name": "Southbound Salisbury Ave @ Arcola St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.958485,
      49.21197
     ],
@@ -38793,6 +38831,44 @@
     "desc": "",
     "id": "2799",
     "name": "Edmonds Station @ Bay 4",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.957436,
+     49.218855
+    ],
+    "type": "Point"
+   },
+   "id": "2800",
+   "properties": {
+    "code": "52772",
+    "desc": "",
+    "id": "2800",
+    "name": "Northbound Salisbury Ave @ Kingsway",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.957498,
+     49.222373
+    ],
+    "type": "Point"
+   },
+   "id": "2802",
+   "properties": {
+    "code": "52774",
+    "desc": "",
+    "id": "2802",
+    "name": "Northbound Salisbury Ave @ McBride St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -53518,63 +53594,6 @@
     "desc": "",
     "id": "3877",
     "name": "Eastbound Prairie Ave @ Wellington St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.755186,
-     49.271107
-    ],
-    "type": "Point"
-   },
-   "id": "3878",
-   "properties": {
-    "code": "53838",
-    "desc": "",
-    "id": "3878",
-    "name": "Eastbound Prairie Ave @ Coast Meridian Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.748622,
-     49.271159
-    ],
-    "type": "Point"
-   },
-   "id": "3879",
-   "properties": {
-    "code": "53839",
-    "desc": "",
-    "id": "3879",
-    "name": "Eastbound Prairie Ave @ Kilmer St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.744239,
-     49.271172
-    ],
-    "type": "Point"
-   },
-   "id": "3880",
-   "properties": {
-    "code": "53840",
-    "desc": "",
-    "id": "3880",
-    "name": "Eastbound Prairie Ave @ Norfolk St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -120349,6 +120368,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.143517,
+     49.338146
+    ],
+    "type": "Point"
+   },
+   "id": "8528",
+   "properties": {
+    "code": "60925",
+    "desc": "",
+    "id": "8528",
+    "name": "Westbound Mathers Ave @ 1000 Block (Flag)",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.14595,
      49.336132
     ],
@@ -152174,6 +152212,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.847955,
+     49.22879
+    ],
+    "type": "Point"
+   },
+   "id": "11642",
+   "properties": {
+    "code": "53636",
+    "desc": "",
+    "id": "11642",
+    "name": "Eastbound United Blvd @ Brigantine Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.12775,
      49.289741
     ],
@@ -166462,82 +166519,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.961087,
-     49.217902
-    ],
-    "type": "Point"
-   },
-   "id": "12751",
-   "properties": {
-    "code": "60520",
-    "desc": "",
-    "id": "12751",
-    "name": "Southbound Griffiths Dr @ Kingsway",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.960887,
-     49.218789
-    ],
-    "type": "Point"
-   },
-   "id": "12752",
-   "properties": {
-    "code": "",
-    "desc": "",
-    "id": "12752",
-    "name": "Northbound Griffiths Ave @ Kingsway",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.961099,
-     49.221335
-    ],
-    "type": "Point"
-   },
-   "id": "12753",
-   "properties": {
-    "code": "",
-    "desc": "",
-    "id": "12753",
-    "name": "Southbound Griffiths Ave @ Elwell St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.960918,
-     49.221525
-    ],
-    "type": "Point"
-   },
-   "id": "12754",
-   "properties": {
-    "code": "60524",
-    "desc": "",
-    "id": "12754",
-    "name": "Northbound Griffiths Ave @ Elwell St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.14994,
      49.27258
     ],
@@ -166804,8 +166785,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.10084,
-     49.26233
+     -123.100827,
+     49.262548
     ],
     "type": "Point"
    },
