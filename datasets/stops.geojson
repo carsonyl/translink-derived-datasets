@@ -4544,6 +4544,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.185425,
+     49.238349
+    ],
+    "type": "Point"
+   },
+   "id": "376",
+   "properties": {
+    "code": "50372",
+    "desc": "",
+    "id": "376",
+    "name": "Southbound Dunbar St @ W 37 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.18543,
      49.236105
     ],
@@ -11642,25 +11661,6 @@
     "desc": "",
     "id": "887",
     "name": "Eastbound E Broadway @ Kingsway St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.101629,
-     49.26302
-    ],
-    "type": "Point"
-   },
-   "id": "888",
-   "properties": {
-    "code": "50881",
-    "desc": "",
-    "id": "888",
-    "name": "Westbound E Broadway @ Main St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -20096,7 +20096,7 @@
     "code": "51418",
     "desc": "",
     "id": "1430",
-    "name": "Southbound 8th St @ 6th Ave",
+    "name": "Southbound 8th St @ 7th Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -20933,25 +20933,6 @@
     "desc": "",
     "id": "1478",
     "name": "Westbound Hastings St @ Madison Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.014877,
-     49.281147
-    ],
-    "type": "Point"
-   },
-   "id": "1479",
-   "properties": {
-    "code": "51467",
-    "desc": "",
-    "id": "1479",
-    "name": "Westbound Hastings St @ Gilmore Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -21986,8 +21967,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.004113,
-     49.254143
+     -123.004109,
+     49.254192
     ],
     "type": "Point"
    },
@@ -22005,8 +21986,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.004474,
-     49.254146
+     -123.004529,
+     49.254039
     ],
     "type": "Point"
    },
@@ -26804,44 +26785,6 @@
     "desc": "",
     "id": "1875",
     "name": "SFU Transit Exchange @ Bay 1",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.916031,
-     49.276558
-    ],
-    "type": "Point"
-   },
-   "id": "1876",
-   "properties": {
-    "code": "51862",
-    "desc": "",
-    "id": "1876",
-    "name": "Westbound S Campus Rd @ Science Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.920119,
-     49.279957
-    ],
-    "type": "Point"
-   },
-   "id": "1877",
-   "properties": {
-    "code": "51863",
-    "desc": "",
-    "id": "1877",
-    "name": "SFU Transportation Centre @ Bay 1",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -57147,6 +57090,25 @@
     "desc": "",
     "id": "4116",
     "name": "Westbound Mt Seymour Parkway @ Riverside Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.021752,
+     49.312087
+    ],
+    "type": "Point"
+   },
+   "id": "4118",
+   "properties": {
+    "code": "54076",
+    "desc": "",
+    "id": "4118",
+    "name": "Westbound Mt Seymour Parkway @ Seymour Blvd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -122078,6 +122040,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.98604,
+     49.263133
+    ],
+    "type": "Point"
+   },
+   "id": "8701",
+   "properties": {
+    "code": "58384",
+    "desc": "",
+    "id": "8701",
+    "name": "Westbound Goring St @ Douglas Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.916944,
      49.257296
     ],
@@ -125319,25 +125300,6 @@
     "desc": "",
     "id": "9051",
     "name": "Eastbound E Broadway @ Clark Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.102228,
-     49.263037
-    ],
-    "type": "Point"
-   },
-   "id": "9052",
-   "properties": {
-    "code": "58500",
-    "desc": "",
-    "id": "9052",
-    "name": "Westbound E Broadway @ Main St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -135150,25 +135112,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.909375,
-     49.277133
-    ],
-    "type": "Point"
-   },
-   "id": "10208",
-   "properties": {
-    "code": "59044",
-    "desc": "",
-    "id": "10208",
-    "name": "Southbound Tower Rd @ University High Street",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.123173,
      49.191931
     ],
@@ -139520,6 +139463,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.088379,
+     49.26236
+    ],
+    "type": "Point"
+   },
+   "id": "10620",
+   "properties": {
+    "code": "58614",
+    "desc": "",
+    "id": "10620",
+    "name": "Eastbound E Broadway St @ Fraser St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.072103,
      49.326627
     ],
@@ -139588,25 +139550,6 @@
     "desc": "",
     "id": "10629",
     "name": "Northbound 198 St @ Willowbrook Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.113277,
-     49.263296
-    ],
-    "type": "Point"
-   },
-   "id": "10631",
-   "properties": {
-    "code": "50922",
-    "desc": "",
-    "id": "10631",
-    "name": "Broadway-City Hall Station @ Bay 5",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -163745,25 +163688,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.089378,
-     49.262364
-    ],
-    "type": "Point"
-   },
-   "id": "12513",
-   "properties": {
-    "code": "60248",
-    "desc": "",
-    "id": "12513",
-    "name": "Eastbound E Broadway @ Fraser St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.692402,
      49.118734
     ],
@@ -164250,6 +164174,25 @@
     "desc": "",
     "id": "12558",
     "name": "Westbound Marine Dr @ 14900 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.921004,
+     49.280328
+    ],
+    "type": "Point"
+   },
+   "id": "12559",
+   "properties": {
+    "code": "60015",
+    "desc": "",
+    "id": "12559",
+    "name": "SFU Transportation Centre @ Bay 1",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166804,6 +166747,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.10025,
+     49.26297
+    ],
+    "type": "Point"
+   },
+   "id": "12774",
+   "properties": {
+    "code": "60539",
+    "desc": "",
+    "id": "12774",
+    "name": "Westbound E Broadway @ Kingsway",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.073752,
      49.249256
     ],
@@ -166853,6 +166815,25 @@
     "desc": "",
     "id": "12777",
     "name": "Westbound Hastings St @ MacDonald Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.011883,
+     49.281134
+    ],
+    "type": "Point"
+   },
+   "id": "12778",
+   "properties": {
+    "code": "59827",
+    "desc": "",
+    "id": "12778",
+    "name": "Westbound Hastings St @ Carleton Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
