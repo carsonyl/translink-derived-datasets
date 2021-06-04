@@ -29377,25 +29377,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.113352,
-     49.263084
-    ],
-    "type": "Point"
-   },
-   "id": "2119",
-   "properties": {
-    "code": "52100",
-    "desc": "",
-    "id": "2119",
-    "name": "Broadway-City Hall Station @ Bay 6",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.10042,
      49.262801
     ],
@@ -48236,25 +48217,6 @@
     "desc": "",
     "id": "3479",
     "name": "Westbound Wilson Ave @ Mary Hill Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.780767,
-     49.262593
-    ],
-    "type": "Point"
-   },
-   "id": "3480",
-   "properties": {
-    "code": "53442",
-    "desc": "",
-    "id": "3480",
-    "name": "Eastbound McAllister Ave @ Shaughnessy St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -127607,6 +127569,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.734232,
+     49.271379
+    ],
+    "type": "Point"
+   },
+   "id": "9281",
+   "properties": {
+    "code": "58682",
+    "desc": "",
+    "id": "9281",
+    "name": "Westbound Prairie Ave @ Fremont St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.794107,
      49.301041
     ],
@@ -128386,6 +128367,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.737216,
+     49.271205
+    ],
+    "type": "Point"
+   },
+   "id": "9349",
+   "properties": {
+    "code": "58683",
+    "desc": "",
+    "id": "9349",
+    "name": "Eastbound Prairie Ave @ Skeena St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.734269,
      49.271212
     ],
@@ -128396,7 +128396,7 @@
     "code": "58681",
     "desc": "",
     "id": "9350",
-    "name": "Southbound Fremont St @ Prairie Ave",
+    "name": "Eastbound Prairie Ave  @ Fremont St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -128568,6 +128568,25 @@
     "desc": "",
     "id": "9362",
     "name": "Eastbound Riverside Dr @ Skeena St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.737667,
+     49.271331
+    ],
+    "type": "Point"
+   },
+   "id": "9363",
+   "properties": {
+    "code": "58684",
+    "desc": "",
+    "id": "9363",
+    "name": "Westbound Prairie Ave @ Skeena St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -149020,25 +149039,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.114283,
-     49.263107
-    ],
-    "type": "Point"
-   },
-   "id": "11357",
-   "properties": {
-    "code": "50875",
-    "desc": "",
-    "id": "11357",
-    "name": "Broadway-City Hall Station @ Bay 1",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.686138,
      49.126433
     ],
@@ -157665,25 +157665,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.782897,
-     49.263502
-    ],
-    "type": "Point"
-   },
-   "id": "12060",
-   "properties": {
-    "code": "61952",
-    "desc": "",
-    "id": "12060",
-    "name": "Eastbound McAllister Ave @ Maple St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.789844,
      49.19495
     ],
@@ -157790,25 +157771,6 @@
     "desc": "",
     "id": "12071",
     "name": "Westbound Powell St @ Clark Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.780661,
-     49.262733
-    ],
-    "type": "Point"
-   },
-   "id": "12074",
-   "properties": {
-    "code": "53496",
-    "desc": "",
-    "id": "12074",
-    "name": "Westbound McAllister Ave @ Shaughnessy St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -161684,7 +161646,7 @@
     "code": "60135",
     "desc": "",
     "id": "12380",
-    "name": "Westbound 68 Ave @ Fraser Hwy",
+    "name": "Westbound 68 Ave @ 18700 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166576,6 +166538,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.116938,
+     49.263159
+    ],
+    "type": "Point"
+   },
+   "id": "12763",
+   "properties": {
+    "code": "60534",
+    "desc": "",
+    "id": "12763",
+    "name": "Eastbound W Broadway @ Ash St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.116003,
+     49.263131
+    ],
+    "type": "Point"
+   },
+   "id": "12764",
+   "properties": {
+    "code": "60535",
+    "desc": "",
+    "id": "12764",
+    "name": "Broadway-City Hall Station @ Bay 1",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.113269,
      49.211441
     ],
@@ -166834,6 +166834,44 @@
     "desc": "",
     "id": "12778",
     "name": "Westbound Hastings St @ Carleton Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.013726,
+     49.280962
+    ],
+    "type": "Point"
+   },
+   "id": "12779",
+   "properties": {
+    "code": "51379",
+    "desc": "",
+    "id": "12779",
+    "name": "Eastbound Hastings St @ Gilmore Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.783603,
+     49.263652
+    ],
+    "type": "Point"
+   },
+   "id": "12780",
+   "properties": {
+    "code": "58595",
+    "desc": "",
+    "id": "12780",
+    "name": "Southbound Maple St @ McAllister Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
