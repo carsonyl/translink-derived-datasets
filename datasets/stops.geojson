@@ -2948,6 +2948,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.101625,
+     49.211695
+    ],
+    "type": "Point"
+   },
+   "id": "267",
+   "properties": {
+    "code": "50265",
+    "desc": "",
+    "id": "267",
+    "name": "Eastbound E 65 Ave @ Main St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.241849,
      49.266827
     ],
@@ -29301,25 +29320,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.898833,
-     49.249413
-    ],
-    "type": "Point"
-   },
-   "id": "2107",
-   "properties": {
-    "code": "52089",
-    "desc": "",
-    "id": "2107",
-    "name": "Westbound Lougheed Hwy @ Austin Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.02541,
      49.265243
     ],
@@ -51257,44 +51257,6 @@
     "desc": "",
     "id": "3700",
     "name": "Westbound United Blvd @ Leeder St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.849134,
-     49.229093
-    ],
-    "type": "Point"
-   },
-   "id": "3703",
-   "properties": {
-    "code": "53664",
-    "desc": "",
-    "id": "3703",
-    "name": "Westbound United Blvd @ Brigantine Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.853048,
-     49.229487
-    ],
-    "type": "Point"
-   },
-   "id": "3704",
-   "properties": {
-    "code": "53665",
-    "desc": "",
-    "id": "3704",
-    "name": "Westbound United Blvd @ Clipper St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -90918,63 +90880,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.789265,
-     49.01665
-    ],
-    "type": "Point"
-   },
-   "id": "6256",
-   "properties": {
-    "code": "56196",
-    "desc": "",
-    "id": "6256",
-    "name": "Westbound Marine Dr @ Maple St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.797676,
-     49.019004
-    ],
-    "type": "Point"
-   },
-   "id": "6258",
-   "properties": {
-    "code": "56198",
-    "desc": "",
-    "id": "6258",
-    "name": "Westbound Marine Dr @ Dolphin St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.80264,
-     49.02051
-    ],
-    "type": "Point"
-   },
-   "id": "6259",
-   "properties": {
-    "code": "56199",
-    "desc": "",
-    "id": "6259",
-    "name": "Westbound Marine Dr @ 15100 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.808973,
      49.022354
     ],
@@ -106813,25 +106718,6 @@
     "desc": "",
     "id": "7319",
     "name": "Northbound Trattle St @ 9000 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.586308,
-     49.17074
-    ],
-    "type": "Point"
-   },
-   "id": "7320",
-   "properties": {
-    "code": "57249",
-    "desc": "",
-    "id": "7320",
-    "name": "Eastbound 96 Ave @ Trattle St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -138988,6 +138874,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.133812,
+     49.16621
+    ],
+    "type": "Point"
+   },
+   "id": "10582",
+   "properties": {
+    "code": "59982",
+    "desc": "",
+    "id": "10582",
+    "name": "Southbound Buswell St @ Cook Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.851541,
      49.292293
     ],
@@ -140310,25 +140215,6 @@
     "desc": "",
     "id": "10705",
     "name": "Westbound Falcon Dr @ 1200 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.134884,
-     49.164647
-    ],
-    "type": "Point"
-   },
-   "id": "10706",
-   "properties": {
-    "code": "59731",
-    "desc": "",
-    "id": "10706",
-    "name": "Eastbound Park Rd @ Buswell St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -148868,25 +148754,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.794242,
-     49.017925
-    ],
-    "type": "Point"
-   },
-   "id": "11330",
-   "properties": {
-    "code": "56197",
-    "desc": "",
-    "id": "11330",
-    "name": "Westbound Marine Dr @ Balsam St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.690508,
      49.118438
     ],
@@ -157254,7 +157121,7 @@
    },
    "id": "12034",
    "properties": {
-    "code": "",
+    "code": "61925",
     "desc": "",
     "id": "12034",
     "name": "Waterfront Station",
@@ -164125,25 +163992,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.807511,
-     49.021902
-    ],
-    "type": "Point"
-   },
-   "id": "12558",
-   "properties": {
-    "code": "60320",
-    "desc": "",
-    "id": "12558",
-    "name": "Westbound Marine Dr @ 14900 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.921004,
      49.280328
     ],
@@ -166481,25 +166329,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.103044,
-     49.211499
-    ],
-    "type": "Point"
-   },
-   "id": "12760",
-   "properties": {
-    "code": "60532",
-    "desc": "",
-    "id": "12760",
-    "name": "Westbound SE Marine Dr @ Main St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.030484,
      49.205803
     ],
@@ -166872,6 +166701,101 @@
     "desc": "",
     "id": "12780",
     "name": "Southbound Maple St @ McAllister Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.788798,
+     49.017037
+    ],
+    "type": "Point"
+   },
+   "id": "12781",
+   "properties": {
+    "code": "56274",
+    "desc": "",
+    "id": "12781",
+    "name": "Northbound Maple St @ Marine Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.793733,
+     49.018533
+    ],
+    "type": "Point"
+   },
+   "id": "12782",
+   "properties": {
+    "code": "60543",
+    "desc": "",
+    "id": "12782",
+    "name": "Westbound Victoria Ave @ Balsam St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.797184,
+     49.019611
+    ],
+    "type": "Point"
+   },
+   "id": "12783",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "12783",
+    "name": "Westbound Victoria Ave @ @ 15300 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.801287,
+     49.020897
+    ],
+    "type": "Point"
+   },
+   "id": "12784",
+   "properties": {
+    "code": "60545",
+    "desc": "",
+    "id": "12784",
+    "name": "Westbound Victoria Ave @ Fir St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.806187,
+     49.022257
+    ],
+    "type": "Point"
+   },
+   "id": "12785",
+   "properties": {
+    "code": "60546",
+    "desc": "",
+    "id": "12785",
+    "name": "Westbound Victoria Ave @ Martin St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
