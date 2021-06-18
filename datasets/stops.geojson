@@ -29377,25 +29377,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.10042,
-     49.262801
-    ],
-    "type": "Point"
-   },
-   "id": "2120",
-   "properties": {
-    "code": "52101",
-    "desc": "",
-    "id": "2120",
-    "name": "Eastbound E Broadway @ Main St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.022312,
      49.265602
     ],
@@ -57022,8 +57003,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.021752,
-     49.312087
+     -123.022678,
+     49.312322
     ],
     "type": "Point"
    },
@@ -126866,8 +126847,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.789639,
-     49.289726
+     -122.789809,
+     49.289194
     ],
     "type": "Point"
    },
@@ -129222,8 +129203,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.790088,
-     49.289444
+     -122.790782,
+     49.28816
     ],
     "type": "Point"
    },
@@ -161674,44 +161655,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.779779,
-     49.060162
-    ],
-    "type": "Point"
-   },
-   "id": "12390",
-   "properties": {
-    "code": "58940",
-    "desc": "",
-    "id": "12390",
-    "name": "Westbound 32 Ave @ 160 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.789648,
-     49.060196
-    ],
-    "type": "Point"
-   },
-   "id": "12391",
-   "properties": {
-    "code": "59104",
-    "desc": "",
-    "id": "12391",
-    "name": "Westbound 32 Ave @ 156A St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.147179,
      49.172828
     ],
@@ -166754,10 +166697,10 @@
    },
    "id": "12783",
    "properties": {
-    "code": "",
+    "code": "60544",
     "desc": "",
     "id": "12783",
-    "name": "Westbound Victoria Ave @ @ 15300 Block",
+    "name": "Westbound Victoria Ave @ 15300 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
