@@ -15165,44 +15165,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.155813,
-     49.230611
-    ],
-    "type": "Point"
-   },
-   "id": "1118",
-   "properties": {
-    "code": "51109",
-    "desc": "",
-    "id": "1118",
-    "name": "Southbound West Blvd @ W 45 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.155874,
-     49.228691
-    ],
-    "type": "Point"
-   },
-   "id": "1119",
-   "properties": {
-    "code": "51110",
-    "desc": "",
-    "id": "1119",
-    "name": "Southbound W Boulevard @ W 47 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.155273,
      49.226773
     ],
@@ -38668,63 +38630,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.957651,
-     49.223269
-    ],
-    "type": "Point"
-   },
-   "id": "2796",
-   "properties": {
-    "code": "52768",
-    "desc": "",
-    "id": "2796",
-    "name": "Southbound Salisbury Ave @ Imperial St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.957642,
-     49.220907
-    ],
-    "type": "Point"
-   },
-   "id": "2797",
-   "properties": {
-    "code": "52769",
-    "desc": "",
-    "id": "2797",
-    "name": "Southbound Salisbury Ave @ Elwell St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.957619,
-     49.219021
-    ],
-    "type": "Point"
-   },
-   "id": "2798",
-   "properties": {
-    "code": "52770",
-    "desc": "",
-    "id": "2798",
-    "name": "Southbound Salisbury Ave @ Arcola St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.958485,
      49.21197
     ],
@@ -38736,44 +38641,6 @@
     "desc": "",
     "id": "2799",
     "name": "Edmonds Station @ Bay 4",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.957436,
-     49.218855
-    ],
-    "type": "Point"
-   },
-   "id": "2800",
-   "properties": {
-    "code": "52772",
-    "desc": "",
-    "id": "2800",
-    "name": "Northbound Salisbury Ave @ Kingsway",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.957498,
-     49.222373
-    ],
-    "type": "Point"
-   },
-   "id": "2802",
-   "properties": {
-    "code": "52774",
-    "desc": "",
-    "id": "2802",
-    "name": "Northbound Salisbury Ave @ McBride St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -45158,25 +45025,6 @@
     "desc": "",
     "id": "3241",
     "name": "Southbound Clarke Rd @ Kemsley Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.888625,
-     49.262805
-    ],
-    "type": "Point"
-   },
-   "id": "3242",
-   "properties": {
-    "code": "53208",
-    "desc": "",
-    "id": "3242",
-    "name": "Southbound Clarke Rd @ Como Lake Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -53442,6 +53290,25 @@
     "desc": "",
     "id": "3877",
     "name": "Eastbound Prairie Ave @ Wellington St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.755186,
+     49.271107
+    ],
+    "type": "Point"
+   },
+   "id": "3878",
+   "properties": {
+    "code": "53838",
+    "desc": "",
+    "id": "3878",
+    "name": "Eastbound Prairie Ave @ Coast Meridian Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -96724,25 +96591,6 @@
     "desc": "",
     "id": "6689",
     "name": "Southbound No. 3 Rd @ Broadmoor Blvd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.136823,
-     49.143253
-    ],
-    "type": "Point"
-   },
-   "id": "6690",
-   "properties": {
-    "code": "56628",
-    "desc": "",
-    "id": "6690",
-    "name": "Southbound No. 3 Rd @ Saunders Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -146512,8 +146360,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.489332,
-     49.179041
+     -122.490194,
+     49.179048
     ],
     "type": "Point"
    },
@@ -161741,7 +161589,26 @@
     "code": "59177",
     "desc": "",
     "id": "12396",
-    "name": "Eastbound 32 Ave Divers @ 32 Ave",
+    "name": "Eastbound 32 Ave  @ Croydon Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.789557,
+     49.060026
+    ],
+    "type": "Point"
+   },
+   "id": "12397",
+   "properties": {
+    "code": "59110",
+    "desc": "",
+    "id": "12397",
+    "name": "Eastbound 32 Ave @ 156A St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166215,6 +166082,82 @@
   {
    "geometry": {
     "coordinates": [
+     -122.961087,
+     49.217902
+    ],
+    "type": "Point"
+   },
+   "id": "12751",
+   "properties": {
+    "code": "60520",
+    "desc": "",
+    "id": "12751",
+    "name": "Southbound Griffiths Dr @ Kingsway",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.960887,
+     49.218789
+    ],
+    "type": "Point"
+   },
+   "id": "12752",
+   "properties": {
+    "code": "60522",
+    "desc": "",
+    "id": "12752",
+    "name": "Northbound Griffiths Ave @ Kingsway",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.961099,
+     49.221335
+    ],
+    "type": "Point"
+   },
+   "id": "12753",
+   "properties": {
+    "code": "60523",
+    "desc": "",
+    "id": "12753",
+    "name": "Southbound Griffiths Ave @ Elwell St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.960918,
+     49.221525
+    ],
+    "type": "Point"
+   },
+   "id": "12754",
+   "properties": {
+    "code": "60524",
+    "desc": "",
+    "id": "12754",
+    "name": "Northbound Griffiths Ave @ Elwell St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.14994,
      49.27258
     ],
@@ -166739,6 +166682,25 @@
     "desc": "",
     "id": "12785",
     "name": "Westbound Victoria Ave @ Martin St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.155866,
+     49.229631
+    ],
+    "type": "Point"
+   },
+   "id": "12787",
+   "properties": {
+    "code": "60547",
+    "desc": "",
+    "id": "12787",
+    "name": "Southbound West Blvd @ W 46th Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
