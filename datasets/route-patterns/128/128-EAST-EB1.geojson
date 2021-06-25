@@ -705,7 +705,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "BRAID STN",
+  "destination": "8TH AVENUE/TO BRAID STN",
   "direction": "EAST",
   "name": "128-EB1",
   "operating-company": "CMBC",

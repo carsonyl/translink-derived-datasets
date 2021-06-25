@@ -915,7 +915,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "STEVESTON",
+  "destination": "RAILWAY AVE/TO STEVESTON",
   "direction": "SOUTH",
   "name": "406-SB1",
   "operating-company": "CMBC",

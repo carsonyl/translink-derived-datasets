@@ -935,7 +935,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "BRIGHOUSE STN",
+  "destination": "RAILWAY AVE/TO BRIGHOUSE STN",
   "direction": "NORTH",
   "name": "406-N1",
   "operating-company": "CMBC",

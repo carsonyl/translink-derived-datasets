@@ -955,7 +955,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "LONSDALE QUAY",
+  "destination": "LONSDALE AVE/TO LONSDALE QUAY",
   "direction": "WEST",
   "name": "229-W1",
   "operating-company": "CMBC",
