@@ -5722,25 +5722,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.127903,
-     49.234318
-    ],
-    "type": "Point"
-   },
-   "id": "454",
-   "properties": {
-    "code": "50450",
-    "desc": "",
-    "id": "454",
-    "name": "Northbound Oak St @ W 41 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.12785,
      49.237021
     ],
@@ -8876,25 +8857,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.062011,
-     49.243784
-    ],
-    "type": "Point"
-   },
-   "id": "703",
-   "properties": {
-    "code": "50696",
-    "desc": "",
-    "id": "703",
-    "name": "Westbound Kingsway @ Gladstone St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.0653,
      49.244809
     ],
@@ -9780,6 +9742,44 @@
     "desc": "",
     "id": "759",
     "name": "Northbound Oak St @ W 46 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.128003,
+     49.232346
+    ],
+    "type": "Point"
+   },
+   "id": "760",
+   "properties": {
+    "code": "50753",
+    "desc": "",
+    "id": "760",
+    "name": "Northbound Oak St @ W 43 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.127934,
+     49.23366
+    ],
+    "type": "Point"
+   },
+   "id": "761",
+   "properties": {
+    "code": "50754",
+    "desc": "",
+    "id": "761",
+    "name": "Northbound Oak St @ W 41 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -10692,6 +10692,25 @@
     "desc": "",
     "id": "812",
     "name": "Southbound Oak St @ W 41 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.128278,
+     49.231779
+    ],
+    "type": "Point"
+   },
+   "id": "813",
+   "properties": {
+    "code": "50806",
+    "desc": "",
+    "id": "813",
+    "name": "Southbound Oak St @ W 43 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -21435,6 +21454,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.141103,
+     49.249302
+    ],
+    "type": "Point"
+   },
+   "id": "1518",
+   "properties": {
+    "code": "51506",
+    "desc": "",
+    "id": "1518",
+    "name": "Eastbound W King Edward Ave @ Alexandra St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.138678,
      49.249267
     ],
@@ -21522,25 +21560,6 @@
     "desc": "",
     "id": "1525",
     "name": "King Edward Station @ Bay 3",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.107042,
-     49.248819
-    ],
-    "type": "Point"
-   },
-   "id": "1528",
-   "properties": {
-    "code": "51516",
-    "desc": "",
-    "id": "1528",
-    "name": "Eastbound W King Edward Ave @ Manitoba St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -37148,8 +37167,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.966938,
-     49.214646
+     -122.96759,
+     49.214647
     ],
     "type": "Point"
    },
@@ -42373,8 +42392,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.779236,
-     49.260819
+     -122.777969,
+     49.260817
     ],
     "type": "Point"
    },
@@ -43562,6 +43581,25 @@
     "desc": "",
     "id": "3129",
     "name": "SFU Transit Exchange @ Bay 2",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.911572,
+     49.252106
+    ],
+    "type": "Point"
+   },
+   "id": "3130",
+   "properties": {
+    "code": "53097",
+    "desc": "",
+    "id": "3130",
+    "name": "Eastbound Lougheed Hwy @ Gaglardi Way",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -50733,6 +50771,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.854513,
+     49.229459
+    ],
+    "type": "Point"
+   },
+   "id": "3673",
+   "properties": {
+    "code": "53634",
+    "desc": "",
+    "id": "3673",
+    "name": "Eastbound United Blvd @ 1300 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.851917,
+     49.229195
+    ],
+    "type": "Point"
+   },
+   "id": "3674",
+   "properties": {
+    "code": "53635",
+    "desc": "",
+    "id": "3674",
+    "name": "Eastbound United Blvd @ Clipper St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.839097,
      49.227932
     ],
@@ -52557,25 +52633,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.747793,
-     49.263782
-    ],
-    "type": "Point"
-   },
-   "id": "3823",
-   "properties": {
-    "code": "53784",
-    "desc": "",
-    "id": "3823",
-    "name": "Eastbound Riverwood Gate @ Terry Fox Secondary",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.775365,
      49.266862
     ],
@@ -52956,25 +53013,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.743447,
-     49.2713
-    ],
-    "type": "Point"
-   },
-   "id": "3853",
-   "properties": {
-    "code": "53814",
-    "desc": "",
-    "id": "3853",
-    "name": "Westbound Prairie Ave @ Finley St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.748122,
      49.271281
     ],
@@ -53309,25 +53347,6 @@
     "desc": "",
     "id": "3878",
     "name": "Eastbound Prairie Ave @ Coast Meridian Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.740787,
-     49.271165
-    ],
-    "type": "Point"
-   },
-   "id": "3881",
-   "properties": {
-    "code": "53841",
-    "desc": "",
-    "id": "3881",
-    "name": "Eastbound Prairie Ave @ Cedar Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -56425,25 +56444,6 @@
     "desc": "",
     "id": "4092",
     "name": "Northbound Deep Cove Rd @ Cliffmont Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.952917,
-     49.32551
-    ],
-    "type": "Point"
-   },
-   "id": "4093",
-   "properties": {
-    "code": "54052",
-    "desc": "",
-    "id": "4093",
-    "name": "Northbound Deep Cove Rd @ Badger Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -61688,6 +61688,25 @@
     "desc": "",
     "id": "4427",
     "name": "Westbound Marine Dr @ Bewicke Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.095264,
+     49.32151
+    ],
+    "type": "Point"
+   },
+   "id": "4429",
+   "properties": {
+    "code": "54380",
+    "desc": "",
+    "id": "4429",
+    "name": "Westbound Marine Dr @ Fell Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -85522,25 +85541,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.807316,
-     49.155589
-    ],
-    "type": "Point"
-   },
-   "id": "5926",
-   "properties": {
-    "code": "55870",
-    "desc": "",
-    "id": "5926",
-    "name": "Westbound 84 Ave @ 150 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.812993,
      49.155608
     ],
@@ -85864,63 +85864,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.811953,
-     49.155446
-    ],
-    "type": "Point"
-   },
-   "id": "5945",
-   "properties": {
-    "code": "55889",
-    "desc": "",
-    "id": "5945",
-    "name": "Eastbound 84 Ave @ 148 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.806588,
-     49.155465
-    ],
-    "type": "Point"
-   },
-   "id": "5946",
-   "properties": {
-    "code": "55890",
-    "desc": "",
-    "id": "5946",
-    "name": "Eastbound 84 Ave @ 150 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.802014,
-     49.155603
-    ],
-    "type": "Point"
-   },
-   "id": "5947",
-   "properties": {
-    "code": "55891",
-    "desc": "",
-    "id": "5947",
-    "name": "Westbound 84 Ave @ 152 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.796138,
      49.155458
     ],
@@ -86103,25 +86046,6 @@
     "desc": "",
     "id": "5957",
     "name": "Southbound 148 St @ Spenser Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.789355,
-     49.14819
-    ],
-    "type": "Point"
-   },
-   "id": "5958",
-   "properties": {
-    "code": "55902",
-    "desc": "",
-    "id": "5958",
-    "name": "Eastbound 80 Ave @ 156 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -92267,44 +92191,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.868821,
-     49.04583
-    ],
-    "type": "Point"
-   },
-   "id": "6366",
-   "properties": {
-    "code": "56306",
-    "desc": "",
-    "id": "6366",
-    "name": "Westbound 24 Ave @ 128 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.87619,
-     49.04584
-    ],
-    "type": "Point"
-   },
-   "id": "6367",
-   "properties": {
-    "code": "56307",
-    "desc": "",
-    "id": "6367",
-    "name": "Westbound 24 Ave @ 124B St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.878496,
      49.045527
     ],
@@ -92772,139 +92658,6 @@
     "desc": "",
     "id": "6403",
     "name": "Northbound 160 St @ 20 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.851445,
-     49.045844
-    ],
-    "type": "Point"
-   },
-   "id": "6425",
-   "properties": {
-    "code": "56365",
-    "desc": "",
-    "id": "6425",
-    "name": "Westbound 24 Ave @ 134 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.856816,
-     49.045834
-    ],
-    "type": "Point"
-   },
-   "id": "6426",
-   "properties": {
-    "code": "56366",
-    "desc": "",
-    "id": "6426",
-    "name": "Westbound 24 Ave @ 132 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.861486,
-     49.045834
-    ],
-    "type": "Point"
-   },
-   "id": "6427",
-   "properties": {
-    "code": "56367",
-    "desc": "",
-    "id": "6427",
-    "name": "Westbound 24 Ave @ 130 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.866177,
-     49.045703
-    ],
-    "type": "Point"
-   },
-   "id": "6428",
-   "properties": {
-    "code": "56368",
-    "desc": "",
-    "id": "6428",
-    "name": "Eastbound 24 Ave @ 128 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.860782,
-     49.045704
-    ],
-    "type": "Point"
-   },
-   "id": "6429",
-   "properties": {
-    "code": "56369",
-    "desc": "",
-    "id": "6429",
-    "name": "Eastbound 24 Ave @ 130 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.855979,
-     49.045706
-    ],
-    "type": "Point"
-   },
-   "id": "6430",
-   "properties": {
-    "code": "56370",
-    "desc": "",
-    "id": "6430",
-    "name": "Eastbound 24 Ave @ 132 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.850534,
-     49.045684
-    ],
-    "type": "Point"
-   },
-   "id": "6431",
-   "properties": {
-    "code": "56371",
-    "desc": "",
-    "id": "6431",
-    "name": "Eastbound 24 Ave @ 134 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -103610,25 +103363,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.661315,
-     49.144835
-    ],
-    "type": "Point"
-   },
-   "id": "7107",
-   "properties": {
-    "code": "57039",
-    "desc": "",
-    "id": "7107",
-    "name": "Northbound 202A St @ 7800 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.668046,
      49.134251
     ],
@@ -103944,44 +103678,6 @@
     "desc": "",
     "id": "7132",
     "name": "Southbound 200 St @ 9200 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.666432,
-     49.148143
-    ],
-    "type": "Point"
-   },
-   "id": "7136",
-   "properties": {
-    "code": "57068",
-    "desc": "",
-    "id": "7136",
-    "name": "Eastbound 80 Ave @ 200 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.66158,
-     49.142742
-    ],
-    "type": "Point"
-   },
-   "id": "7137",
-   "properties": {
-    "code": "57069",
-    "desc": "",
-    "id": "7137",
-    "name": "Southbound 202A St @ 7700 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -116568,25 +116264,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.081606,
-     49.328504
-    ],
-    "type": "Point"
-   },
-   "id": "8018",
-   "properties": {
-    "code": "57943",
-    "desc": "",
-    "id": "8018",
-    "name": "Southbound Jones Ave @ W 21 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.11158,
      49.286053
     ],
@@ -120007,25 +119684,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.143517,
-     49.338146
-    ],
-    "type": "Point"
-   },
-   "id": "8528",
-   "properties": {
-    "code": "60925",
-    "desc": "",
-    "id": "8528",
-    "name": "Westbound Mathers Ave @ 1000 Block (Flag)",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.14595,
      49.336132
     ],
@@ -120512,25 +120170,6 @@
     "desc": "",
     "id": "8589",
     "name": "Eastbound Deer Lake Parkway @ Willingdon Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.751944,
-     49.258466
-    ],
-    "type": "Point"
-   },
-   "id": "8592",
-   "properties": {
-    "code": "53831",
-    "desc": "",
-    "id": "8592",
-    "name": "Westbound Dominion Ave @ Archbishop Carney Secondary",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -121747,6 +121386,25 @@
     "desc": "",
     "id": "8710",
     "name": "Southbound Production Way @ Eastlake Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.905113,
+     49.251475
+    ],
+    "type": "Point"
+   },
+   "id": "8714",
+   "properties": {
+    "code": "58347",
+    "desc": "",
+    "id": "8714",
+    "name": "Westbound Lougheed Hwy @ Bell Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -123324,25 +122982,6 @@
     "desc": "",
     "id": "8916",
     "name": "Northbound Commercial Dr @ N Grandview Hwy",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.800512,
-     49.168347
-    ],
-    "type": "Point"
-   },
-   "id": "8917",
-   "properties": {
-    "code": "58515",
-    "desc": "",
-    "id": "8917",
-    "name": "Westbound 91 Ave @ 152 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -125707,25 +125346,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.974395,
-     49.244496
-    ],
-    "type": "Point"
-   },
-   "id": "9126",
-   "properties": {
-    "code": "58729",
-    "desc": "",
-    "id": "9126",
-    "name": "Southbound Deer Lake Parkway @ Canada Way",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.83835,
      49.256088
     ],
@@ -125794,25 +125414,6 @@
     "desc": "",
     "id": "9131",
     "name": "Westbound W Georgia St @ Bute St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.84726,
-     49.045679
-    ],
-    "type": "Point"
-   },
-   "id": "9132",
-   "properties": {
-    "code": "56372",
-    "desc": "",
-    "id": "9132",
-    "name": "Eastbound 24 Ave @ 136 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -128111,7 +127712,7 @@
     "code": "58681",
     "desc": "",
     "id": "9350",
-    "name": "Eastbound Prairie Ave  @ Fremont St",
+    "name": "Southbound Fremont St  @ Prairie Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -128283,25 +127884,6 @@
     "desc": "",
     "id": "9362",
     "name": "Eastbound Riverside Dr @ Skeena St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.737667,
-     49.271331
-    ],
-    "type": "Point"
-   },
-   "id": "9363",
-   "properties": {
-    "code": "58684",
-    "desc": "",
-    "id": "9363",
-    "name": "Westbound Prairie Ave @ Skeena St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -131369,25 +130951,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.556573,
-     49.200484
-    ],
-    "type": "Point"
-   },
-   "id": "9672",
-   "properties": {
-    "code": "59193",
-    "desc": "",
-    "id": "9672",
-    "name": "Northbound 240 St @ 109 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.557778,
      49.20587
     ],
@@ -131749,8 +131312,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.540496,
-     49.189478
+     -122.540852,
+     49.188967
     ],
     "type": "Point"
    },
@@ -132452,6 +132015,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.853592,
+     49.204569
+    ],
+    "type": "Point"
+   },
+   "id": "9930",
+   "properties": {
+    "code": "55431",
+    "desc": "",
+    "id": "9930",
+    "name": "Northbound King George Blvd @ Bolivar Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.865846,
      49.206598
     ],
@@ -132501,6 +132083,25 @@
     "desc": "",
     "id": "9943",
     "name": "Eastbound Ioco Rd @ Alderside Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.094959,
+     49.321178
+    ],
+    "type": "Point"
+   },
+   "id": "9944",
+   "properties": {
+    "code": "54408",
+    "desc": "",
+    "id": "9944",
+    "name": "Eastbound Marine Dr @ Fell Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -134865,44 +134466,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.556596,
-     49.206124
-    ],
-    "type": "Point"
-   },
-   "id": "10210",
-   "properties": {
-    "code": "59697",
-    "desc": "",
-    "id": "10210",
-    "name": "Northbound 240 St @ 112 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.556692,
-     49.212037
-    ],
-    "type": "Point"
-   },
-   "id": "10211",
-   "properties": {
-    "code": "59695",
-    "desc": "",
-    "id": "10211",
-    "name": "Northbound 240 St @ 11500 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.556703,
      49.205433
     ],
@@ -134933,63 +134496,6 @@
     "desc": "",
     "id": "10213",
     "name": "Westbound Holly Park Dr @ 62 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.557188,
-     49.219802
-    ],
-    "type": "Point"
-   },
-   "id": "10215",
-   "properties": {
-    "code": "59692",
-    "desc": "",
-    "id": "10215",
-    "name": "Southbound 240 St @ Dewdney Trunk Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.556883,
-     49.211555
-    ],
-    "type": "Point"
-   },
-   "id": "10217",
-   "properties": {
-    "code": "59696",
-    "desc": "",
-    "id": "10217",
-    "name": "Southbound 240 St @ 11500 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.55685,
-     49.21665
-    ],
-    "type": "Point"
-   },
-   "id": "10218",
-   "properties": {
-    "code": "59693",
-    "desc": "",
-    "id": "10218",
-    "name": "Northbound 240 St @ 118 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -142655,25 +142161,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.00393,
-     49.243038
-    ],
-    "type": "Point"
-   },
-   "id": "10928",
-   "properties": {
-    "code": "60859",
-    "desc": "",
-    "id": "10928",
-    "name": "Westbound Moscrop St @ Willingdon Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.949711,
      49.199857
     ],
@@ -144414,25 +143901,6 @@
     "desc": "",
     "id": "11069",
     "name": "Westbound NW Marine Dr @ Tolmie St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.55709,
-     49.217262
-    ],
-    "type": "Point"
-   },
-   "id": "11070",
-   "properties": {
-    "code": "59713",
-    "desc": "",
-    "id": "11070",
-    "name": "Southbound 240 St @ 118 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -146740,25 +146208,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115175,
-     49.247293
-    ],
-    "type": "Point"
-   },
-   "id": "11217",
-   "properties": {
-    "code": "61253",
-    "desc": "",
-    "id": "11217",
-    "name": "Northbound Cambie St @ W 27 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.074226,
      49.106556
     ],
@@ -147253,25 +146702,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.751506,
-     49.258332
-    ],
-    "type": "Point"
-   },
-   "id": "11249",
-   "properties": {
-    "code": "61273",
-    "desc": "",
-    "id": "11249",
-    "name": "Eastbound Dominion Ave @ Archbishop Carney Secondary",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.126551,
      49.195229
     ],
@@ -147454,25 +146884,6 @@
     "desc": "",
     "id": "11260",
     "name": "Olympic Village Station @ Bay 1",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.088428,
-     49.325675
-    ],
-    "type": "Point"
-   },
-   "id": "11261",
-   "properties": {
-    "code": "61336",
-    "desc": "",
-    "id": "11261",
-    "name": "Eastbound Larson Rd @ Fir St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -149886,6 +149297,25 @@
     "desc": "",
     "id": "11489",
     "name": "Southbound 160 St @ 108 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.789624,
+     49.192019
+    ],
+    "type": "Point"
+   },
+   "id": "11490",
+   "properties": {
+    "code": "61494",
+    "desc": "",
+    "id": "11490",
+    "name": "Northbound 156 St @ 104 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -164581,25 +164011,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.661347,
-     49.140984
-    ],
-    "type": "Point"
-   },
-   "id": "12634",
-   "properties": {
-    "code": "60389",
-    "desc": "",
-    "id": "12634",
-    "name": "Northbound 202A St @ 76 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.688442,
      49.230552
     ],
@@ -165227,6 +164638,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.061464,
+     49.24353
+    ],
+    "type": "Point"
+   },
+   "id": "12679",
+   "properties": {
+    "code": "60433",
+    "desc": "",
+    "id": "12679",
+    "name": "Westbound Kingsway @ Gladstone",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.118293,
      49.28616
     ],
@@ -165409,25 +164839,6 @@
     "desc": "",
     "id": "12691",
     "name": "Southbound Matheson Cres @ Champlain Cres",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.09659,
-     49.321749
-    ],
-    "type": "Point"
-   },
-   "id": "12692",
-   "properties": {
-    "code": "59261",
-    "desc": "",
-    "id": "12692",
-    "name": "Eastbound Marine Dr @ Fell Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
