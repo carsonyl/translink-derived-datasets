@@ -4582,25 +4582,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.18543,
-     49.236105
-    ],
-    "type": "Point"
-   },
-   "id": "377",
-   "properties": {
-    "code": "50373",
-    "desc": "",
-    "id": "377",
-    "name": "Southbound Dunbar St @ W 39 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.181639,
      49.234687
     ],
@@ -53013,25 +52994,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.748122,
-     49.271281
-    ],
-    "type": "Point"
-   },
-   "id": "3854",
-   "properties": {
-    "code": "53815",
-    "desc": "",
-    "id": "3854",
-    "name": "Westbound Prairie Ave @ Newberry St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.753631,
      49.271272
     ],
@@ -56444,6 +56406,25 @@
     "desc": "",
     "id": "4092",
     "name": "Northbound Deep Cove Rd @ Cliffmont Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.952917,
+     49.32551
+    ],
+    "type": "Point"
+   },
+   "id": "4093",
+   "properties": {
+    "code": "54052",
+    "desc": "",
+    "id": "4093",
+    "name": "Northbound Deep Cove Rd @ Badger Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -127683,25 +127664,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.737216,
-     49.271205
-    ],
-    "type": "Point"
-   },
-   "id": "9349",
-   "properties": {
-    "code": "58683",
-    "desc": "",
-    "id": "9349",
-    "name": "Eastbound Prairie Ave @ Skeena St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.734269,
      49.271212
     ],
@@ -165208,8 +165170,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.139067,
-     49.263498
+     -123.139676,
+     49.26351
     ],
     "type": "Point"
    },
@@ -165218,7 +165180,7 @@
     "code": "60494",
     "desc": "",
     "id": "12721",
-    "name": "Eastbound W Broadway @ Granville St",
+    "name": "Eastbound W Broadway @ Fir St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
