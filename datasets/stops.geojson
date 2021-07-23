@@ -33861,8 +33861,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.90702,
-     49.206323
+     -122.907046,
+     49.206075
     ],
     "type": "Point"
    },
@@ -42935,6 +42935,25 @@
     "desc": "",
     "id": "3091",
     "name": "Westbound Como Lake Ave @ Dogwood St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.889692,
+     49.263168
+    ],
+    "type": "Point"
+   },
+   "id": "3092",
+   "properties": {
+    "code": "59003",
+    "desc": "",
+    "id": "3092",
+    "name": "Westbound Como Lake Ave @ Elmwood St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -93152,25 +93171,6 @@
     "desc": "",
     "id": "6478",
     "name": "Westbound Fraser Hwy @ 152 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.813039,
-     49.1707
-    ],
-    "type": "Point"
-   },
-   "id": "6479",
-   "properties": {
-    "code": "56418",
-    "desc": "",
-    "id": "6479",
-    "name": "Westbound Fraser Hwy @ 148 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -158987,25 +158987,6 @@
     "desc": "",
     "id": "12246",
     "name": "Eastbound Foster Ave @ Fairview St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.891662,
-     49.262687
-    ],
-    "type": "Point"
-   },
-   "id": "12247",
-   "properties": {
-    "code": "59850",
-    "desc": "",
-    "id": "12247",
-    "name": "Southbound Farrow St @ Como Lake Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
