@@ -2986,25 +2986,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.235217,
-     49.265327
-    ],
-    "type": "Point"
-   },
-   "id": "273",
-   "properties": {
-    "code": "50270",
-    "desc": "",
-    "id": "273",
-    "name": "Eastbound University Blvd @ 5300 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.229095,
      49.263486
     ],
@@ -15005,25 +14986,6 @@
     "desc": "",
     "id": "1108",
     "name": "Southbound Arbutus St @ W King Edward Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.153378,
-     49.247331
-    ],
-    "type": "Point"
-   },
-   "id": "1110",
-   "properties": {
-    "code": "51101",
-    "desc": "",
-    "id": "1110",
-    "name": "Southbound Arbutus St @ Nanton Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -32257,44 +32219,6 @@
     "desc": "",
     "id": "2335",
     "name": "Westbound 8th Ave @ 22 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.907238,
-     49.203434
-    ],
-    "type": "Point"
-   },
-   "id": "2338",
-   "properties": {
-    "code": "52316",
-    "desc": "",
-    "id": "2338",
-    "name": "Eastbound Columbia St @ 6th St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.904917,
-     49.204662
-    ],
-    "type": "Point"
-   },
-   "id": "2339",
-   "properties": {
-    "code": "52317",
-    "desc": "",
-    "id": "2339",
-    "name": "Columbia Station @ Bay 2",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -53336,6 +53260,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.748622,
+     49.271159
+    ],
+    "type": "Point"
+   },
+   "id": "3879",
+   "properties": {
+    "code": "53839",
+    "desc": "",
+    "id": "3879",
+    "name": "Eastbound Prairie Ave @ Kilmer St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.740787,
+     49.271165
+    ],
+    "type": "Point"
+   },
+   "id": "3881",
+   "properties": {
+    "code": "53841",
+    "desc": "",
+    "id": "3881",
+    "name": "Eastbound Prairie Ave @ Cedar Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.739036,
      49.274238
     ],
@@ -61631,25 +61593,6 @@
     "desc": "",
     "id": "4424",
     "name": "Westbound W Esplanade Ave @ Rogers Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.084338,
-     49.31327
-    ],
-    "type": "Point"
-   },
-   "id": "4425",
-   "properties": {
-    "code": "54376",
-    "desc": "",
-    "id": "4425",
-    "name": "Westbound W Esplanade Ave @ Semisch Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -129127,8 +129070,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.674599,
-     49.115568
+     -122.677041,
+     49.115376
     ],
     "type": "Point"
    },
@@ -137878,6 +137821,25 @@
     "desc": "",
     "id": "10550",
     "name": "Westbound Dewdney Trunk Rd @ 223 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.112535,
+     49.28481
+    ],
+    "type": "Point"
+   },
+   "id": "10553",
+   "properties": {
+    "code": "50408",
+    "desc": "",
+    "id": "10553",
+    "name": "Northbound Seymour St @ W Hastings St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166055,6 +166017,25 @@
     "desc": "",
     "id": "12787",
     "name": "Southbound West Blvd @ W 46th Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.153504,
+     49.248095
+    ],
+    "type": "Point"
+   },
+   "id": "12788",
+   "properties": {
+    "code": "60495",
+    "desc": "",
+    "id": "12788",
+    "name": "Southbound Arbutus St @ 4200 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
