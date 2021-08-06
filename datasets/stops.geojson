@@ -3936,25 +3936,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.125866,
-     49.263284
-    ],
-    "type": "Point"
-   },
-   "id": "333",
-   "properties": {
-    "code": "59440",
-    "desc": "",
-    "id": "333",
-    "name": "Eastbound W Broadway @ Oak St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.126842,
      49.260251
     ],
@@ -5684,6 +5665,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.127903,
+     49.234318
+    ],
+    "type": "Point"
+   },
+   "id": "454",
+   "properties": {
+    "code": "50450",
+    "desc": "",
+    "id": "454",
+    "name": "Northbound Oak St @ W 41 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.12785,
      49.237021
     ],
@@ -5828,25 +5828,6 @@
     "desc": "",
     "id": "463",
     "name": "Northbound Oak St @ W 17 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.127301,
-     49.263531
-    ],
-    "type": "Point"
-   },
-   "id": "467",
-   "properties": {
-    "code": "50463",
-    "desc": "",
-    "id": "467",
-    "name": "Westbound W Broadway @ Oak St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -11585,25 +11566,6 @@
     "desc": "",
     "id": "873",
     "name": "Southbound Granville St @ SW Marine Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.123647,
-     49.263269
-    ],
-    "type": "Point"
-   },
-   "id": "879",
-   "properties": {
-    "code": "50872",
-    "desc": "",
-    "id": "879",
-    "name": "Eastbound W Broadway @ Laurel St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -121318,6 +121280,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.903693,
+     49.250978
+    ],
+    "type": "Point"
+   },
+   "id": "8713",
+   "properties": {
+    "code": "58348",
+    "desc": "",
+    "id": "8713",
+    "name": "Eastbound Lougheed Hwy @ Bell Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.905113,
      49.251475
     ],
@@ -141412,25 +141393,6 @@
     "desc": "",
     "id": "10865",
     "name": "Lonsdale Quay @ Bay 3",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.082393,
-     49.3111
-    ],
-    "type": "Point"
-   },
-   "id": "10866",
-   "properties": {
-    "code": "58725",
-    "desc": "",
-    "id": "10866",
-    "name": "Lonsdale Quay @ Bay 4",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -164752,6 +164714,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.082514,
+     49.311537
+    ],
+    "type": "Point"
+   },
+   "id": "12693",
+   "properties": {
+    "code": "60473",
+    "desc": "",
+    "id": "12693",
+    "name": "Lonsdale Quay @ Bay 9",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.845706,
      49.183693
     ],
@@ -165322,8 +165303,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.893312,
-     49.227851
+     -122.89274,
+     49.227612
     ],
     "type": "Point"
    },
@@ -166036,6 +166017,25 @@
     "desc": "",
     "id": "12788",
     "name": "Southbound Arbutus St @ 4200 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.128317,
+     49.263296
+    ],
+    "type": "Point"
+   },
+   "id": "12789",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "12789",
+    "name": "Eastbound W Broadway @ Spruce St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
