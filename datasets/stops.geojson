@@ -12828,8 +12828,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.026348,
-     49.281382
+     -123.026363,
+     49.281385
     ],
     "type": "Point"
    },
@@ -24437,8 +24437,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.026282,
-     49.28148
+     -123.026254,
+     49.281408
     ],
     "type": "Point"
    },
@@ -117442,8 +117442,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.026025,
-     49.281562
+     -123.026062,
+     49.281495
     ],
     "type": "Point"
    },
@@ -117461,8 +117461,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.025946,
-     49.281385
+     -123.025918,
+     49.281365
     ],
     "type": "Point"
    },
@@ -122374,25 +122374,6 @@
     "desc": "",
     "id": "8833",
     "name": "Northbound Mariner Way @ Chilko Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.910141,
-     49.204961
-    ],
-    "type": "Point"
-   },
-   "id": "8834",
-   "properties": {
-    "code": "59881",
-    "desc": "",
-    "id": "8834",
-    "name": "Southbound 6th St @ Agnes St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -127588,8 +127569,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.734269,
-     49.271212
+     -122.73386,
+     49.270985
     ],
     "type": "Point"
    },
@@ -137373,6 +137354,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.95922,
+     49.204888
+    ],
+    "type": "Point"
+   },
+   "id": "10479",
+   "properties": {
+    "code": "59884",
+    "desc": "",
+    "id": "10479",
+    "name": "Westbound Southridge Dr @ 6600 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.101521,
      49.273359
     ],
@@ -141393,6 +141393,25 @@
     "desc": "",
     "id": "10865",
     "name": "Lonsdale Quay @ Bay 3",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.082393,
+     49.3111
+    ],
+    "type": "Point"
+   },
+   "id": "10866",
+   "properties": {
+    "code": "58725",
+    "desc": "",
+    "id": "10866",
+    "name": "Lonsdale Quay @ Bay 4",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -151938,6 +151957,25 @@
     "desc": "",
     "id": "11712",
     "name": "New Westminster Station @ Bay 9",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.912513,
+     49.200804
+    ],
+    "type": "Point"
+   },
+   "id": "11713",
+   "properties": {
+    "code": "61650",
+    "desc": "",
+    "id": "11713",
+    "name": "New Westminster Station @ Bay 3",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166032,7 +166070,7 @@
    },
    "id": "12789",
    "properties": {
-    "code": "",
+    "code": "59431",
     "desc": "",
     "id": "12789",
     "name": "Eastbound W Broadway @ Spruce St",
