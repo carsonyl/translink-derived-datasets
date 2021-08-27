@@ -10624,25 +10624,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.091938,
-     49.21113
-    ],
-    "type": "Point"
-   },
-   "id": "810",
-   "properties": {
-    "code": "50803",
-    "desc": "",
-    "id": "810",
-    "name": "Westbound SE Marine Dr @ Fraser St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.126888,
      49.2338
     ],
@@ -18653,6 +18634,25 @@
     "desc": "",
     "id": "1342",
     "name": "Northbound Knight St @ E 51 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.077098,
+     49.225701
+    ],
+    "type": "Point"
+   },
+   "id": "1343",
+   "properties": {
+    "code": "51332",
+    "desc": "",
+    "id": "1343",
+    "name": "Northbound Knight St @ E 49 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -30916,6 +30916,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.089925,
+     49.211147
+    ],
+    "type": "Point"
+   },
+   "id": "2231",
+   "properties": {
+    "code": "52209",
+    "desc": "",
+    "id": "2231",
+    "name": "Westbound SE Marine Dr @ Chester St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.095708,
      49.211151
     ],
@@ -37167,8 +37186,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.96759,
-     49.214647
+     -122.967022,
+     49.214626
     ],
     "type": "Point"
    },
@@ -61764,6 +61783,25 @@
     "desc": "",
     "id": "4424",
     "name": "Westbound W Esplanade Ave @ Rogers Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.084338,
+     49.31327
+    ],
+    "type": "Point"
+   },
+   "id": "4425",
+   "properties": {
+    "code": "54376",
+    "desc": "",
+    "id": "4425",
+    "name": "Westbound W Esplanade Ave @ Semisch Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -120672,25 +120710,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.002605,
-     49.242827
-    ],
-    "type": "Point"
-   },
-   "id": "8589",
-   "properties": {
-    "code": "58109",
-    "desc": "",
-    "id": "8589",
-    "name": "Eastbound Deer Lake Parkway @ Willingdon Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.751944,
      49.258466
     ],
@@ -136784,8 +136803,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.977903,
-     49.204314
+     -122.979356,
+     49.203548
     ],
     "type": "Point"
    },
@@ -162255,6 +162274,25 @@
     "desc": "",
     "id": "12409",
     "name": "Metrotown Station @ Bay 12",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.002774,
+     49.22541
+    ],
+    "type": "Point"
+   },
+   "id": "12410",
+   "properties": {
+    "code": "60213",
+    "desc": "",
+    "id": "12410",
+    "name": "Metrotown Station @ Bay 14",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
