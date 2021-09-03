@@ -36369,44 +36369,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.953152,
-     49.210392
-    ],
-    "type": "Point"
-   },
-   "id": "2632",
-   "properties": {
-    "code": "52607",
-    "desc": "",
-    "id": "2632",
-    "name": "Eastbound 14 Ave @ Griffiths Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.947328,
-     49.214153
-    ],
-    "type": "Point"
-   },
-   "id": "2634",
-   "properties": {
-    "code": "52609",
-    "desc": "",
-    "id": "2634",
-    "name": "Westbound 14 Ave @ 15 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.943021,
      49.21627
     ],
@@ -36722,25 +36684,6 @@
     "desc": "",
     "id": "2654",
     "name": "Eastbound 14 Ave @ 15 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.953538,
-     49.210182
-    ],
-    "type": "Point"
-   },
-   "id": "2656",
-   "properties": {
-    "code": "52631",
-    "desc": "",
-    "id": "2656",
-    "name": "Westbound 14 Ave @ Griffiths Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -88961,25 +88904,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.801368,
-     49.061127
-    ],
-    "type": "Point"
-   },
-   "id": "6133",
-   "properties": {
-    "code": "56075",
-    "desc": "",
-    "id": "6133",
-    "name": "Southbound 152 St @ 32 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.793333,
      49.045179
     ],
@@ -137829,6 +137753,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.098684,
+     49.273162
+    ],
+    "type": "Point"
+   },
+   "id": "10435",
+   "properties": {
+    "code": "59929",
+    "desc": "",
+    "id": "10435",
+    "name": "Main Street-Science World Station @ Bay 3",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.827603,
      49.284375
     ],
@@ -138353,6 +138296,25 @@
     "desc": "",
     "id": "10485",
     "name": "Southbound 80 St @ 4700 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.099441,
+     49.274846
+    ],
+    "type": "Point"
+   },
+   "id": "10486",
+   "properties": {
+    "code": "59928",
+    "desc": "",
+    "id": "10486",
+    "name": "Eastbound National Ave @ Main St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -153770,25 +153732,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.10606,
-     49.282714
-    ],
-    "type": "Point"
-   },
-   "id": "11761",
-   "properties": {
-    "code": "58125",
-    "desc": "",
-    "id": "11761",
-    "name": "Eastbound W Cordova St @ Abbott St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.044987,
      49.244392
     ],
@@ -166310,6 +166253,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.104634,
+     49.282442
+    ],
+    "type": "Point"
+   },
+   "id": "12720",
+   "properties": {
+    "code": "60492",
+    "desc": "",
+    "id": "12720",
+    "name": "Eastbound W Cordova St @ Carrall St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.139676,
      49.26351
     ],
@@ -166549,6 +166511,25 @@
     "desc": "",
     "id": "12744",
     "name": "Westbound W 49 Ave @ Yew St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.945786,
+     49.213415
+    ],
+    "type": "Point"
+   },
+   "id": "12746",
+   "properties": {
+    "code": "60513",
+    "desc": "",
+    "id": "12746",
+    "name": "Southbound 15 St @ 14 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
