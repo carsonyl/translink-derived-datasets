@@ -935,7 +935,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "LONSDALE QUAY",
+  "destination": "GRAND BLVD/TO LONSDALE QUAY",
   "direction": "SOUTH",
   "name": "228-S1",
   "operating-company": "CMBC",
