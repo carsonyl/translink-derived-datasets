@@ -2606,6 +2606,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.10114,
+     49.262541
+    ],
+    "type": "Point"
+   },
+   "id": "240",
+   "properties": {
+    "code": "50238",
+    "desc": "",
+    "id": "240",
+    "name": "Southbound Main St @ E Broadway",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.10127,
      49.259888
     ],
@@ -14709,25 +14728,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.044011,
-     49.273636
-    ],
-    "type": "Point"
-   },
-   "id": "1098",
-   "properties": {
-    "code": "51089",
-    "desc": "",
-    "id": "1098",
-    "name": "Northbound Renfrew St @ Charles St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.043931,
      49.278605
     ],
@@ -26614,25 +26614,6 @@
     "desc": "",
     "id": "1873",
     "name": "SFU Transportation Centre @ Bay 2",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.918649,
-     49.280051
-    ],
-    "type": "Point"
-   },
-   "id": "1874",
-   "properties": {
-    "code": "51860",
-    "desc": "",
-    "id": "1874",
-    "name": "SFU Transportation Centre @ Bay 3",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -56224,6 +56205,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.957413,
+     49.315266
+    ],
+    "type": "Point"
+   },
+   "id": "4083",
+   "properties": {
+    "code": "54042",
+    "desc": "",
+    "id": "4083",
+    "name": "Southbound Fairway Dr @ Mt Seymour Parkway",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.957367,
      49.31342
     ],
@@ -57573,8 +57573,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.005016,
-     49.32154
+     -123.005013,
+     49.320958
     ],
     "type": "Point"
    },
@@ -106498,6 +106498,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.586308,
+     49.17074
+    ],
+    "type": "Point"
+   },
+   "id": "7320",
+   "properties": {
+    "code": "57249",
+    "desc": "",
+    "id": "7320",
+    "name": "Eastbound 96 Ave @ Trattle St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.580881,
      49.168656
     ],
@@ -110689,25 +110708,6 @@
     "desc": "",
     "id": "7599",
     "name": "Westbound 45 Ave @ Garry St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.090641,
-     49.08522
-    ],
-    "type": "Point"
-   },
-   "id": "7600",
-   "properties": {
-    "code": "57527",
-    "desc": "",
-    "id": "7600",
-    "name": "Westbound 45 Ave @ 47A St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -161066,6 +161066,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.779779,
+     49.060162
+    ],
+    "type": "Point"
+   },
+   "id": "12390",
+   "properties": {
+    "code": "58940",
+    "desc": "",
+    "id": "12390",
+    "name": "Westbound 32 Ave @ 160 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.147179,
      49.172828
     ],
@@ -161096,25 +161115,6 @@
     "desc": "",
     "id": "12393",
     "name": "29th Avenue Station @ Bay 4",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.797554,
-     49.060927
-    ],
-    "type": "Point"
-   },
-   "id": "12394",
-   "properties": {
-    "code": "59119",
-    "desc": "",
-    "id": "12394",
-    "name": "Westbound 32 Ave @ 154 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -163574,8 +163574,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.114518,
-     49.23337
+     -123.115623,
+     49.233415
     ],
     "type": "Point"
    },
@@ -165675,25 +165675,6 @@
     "desc": "",
     "id": "12748",
     "name": "Eastbound Carnarvon St @ Merrivale St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.101149,
-     49.26318
-    ],
-    "type": "Point"
-   },
-   "id": "12749",
-   "properties": {
-    "code": "60517",
-    "desc": "",
-    "id": "12749",
-    "name": "Southbound Main St @ E Broadway",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
