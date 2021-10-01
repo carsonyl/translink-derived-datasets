@@ -421,8 +421,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.138416,
-     49.285161
+     -123.138909,
+     49.28546
     ],
     "type": "Point"
    },
@@ -2435,8 +2435,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.138524,
-     49.261086
+     -123.13852,
+     49.261157
     ],
     "type": "Point"
    },
@@ -3898,8 +3898,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.153286,
-     49.263733
+     -123.15326,
+     49.263736
     ],
     "type": "Point"
    },
@@ -6482,8 +6482,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.139763,
-     49.263723
+     -123.140158,
+     49.263732
     ],
     "type": "Point"
    },
@@ -14720,6 +14720,25 @@
     "desc": "",
     "id": "1097",
     "name": "Northbound Renfrew St @ Grant St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.044011,
+     49.273636
+    ],
+    "type": "Point"
+   },
+   "id": "1098",
+   "properties": {
+    "code": "51089",
+    "desc": "",
+    "id": "1098",
+    "name": "Northbound Renfrew St @ Charles St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -28085,25 +28104,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.013345,
-     49.222012
-    ],
-    "type": "Point"
-   },
-   "id": "2021",
-   "properties": {
-    "code": "52004",
-    "desc": "",
-    "id": "2021",
-    "name": "Westbound Imperial St @ Patterson Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.032353,
      49.224305
     ],
@@ -29198,6 +29198,25 @@
     "desc": "",
     "id": "2102",
     "name": "Northbound Garden City Rd @ Capstan Way",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.898833,
+     49.249413
+    ],
+    "type": "Point"
+   },
+   "id": "2107",
+   "properties": {
+    "code": "52089",
+    "desc": "",
+    "id": "2107",
+    "name": "Westbound Lougheed Hwy @ Austin Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -53146,25 +53165,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.775187,
-     49.269579
-    ],
-    "type": "Point"
-   },
-   "id": "3872",
-   "properties": {
-    "code": "53832",
-    "desc": "",
-    "id": "3872",
-    "name": "Northbound Shaughnessy St @ Fraser Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.766778,
      49.271089
     ],
@@ -53347,6 +53347,25 @@
     "desc": "",
     "id": "3885",
     "name": "Westbound Victoria Dr @ Rocklin St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.741303,
+     49.285812
+    ],
+    "type": "Point"
+   },
+   "id": "3886",
+   "properties": {
+    "code": "53846",
+    "desc": "",
+    "id": "3886",
+    "name": "Westbound Victoria Dr @ 3500 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -62266,44 +62285,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.080587,
-     49.314494
-    ],
-    "type": "Point"
-   },
-   "id": "4469",
-   "properties": {
-    "code": "54419",
-    "desc": "",
-    "id": "4469",
-    "name": "Southbound Chesterfield Ave @ W 3rd St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.082166,
-     49.31297
-    ],
-    "type": "Point"
-   },
-   "id": "4470",
-   "properties": {
-    "code": "54420",
-    "desc": "",
-    "id": "4470",
-    "name": "Southbound Chesterfield Ave @ W 1st St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.082918,
      49.310597
     ],
@@ -62372,44 +62353,6 @@
     "desc": "",
     "id": "4474",
     "name": "Phibbs Exchange @ Bay 10",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.081348,
-     49.313517
-    ],
-    "type": "Point"
-   },
-   "id": "4476",
-   "properties": {
-    "code": "54426",
-    "desc": "",
-    "id": "4476",
-    "name": "Northbound Chesterfield Ave @ W 1st St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.080618,
-     49.314235
-    ],
-    "type": "Point"
-   },
-   "id": "4477",
-   "properties": {
-    "code": "54427",
-    "desc": "",
-    "id": "4477",
-    "name": "Northbound Chesterfield Ave @ W 2nd St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -120881,8 +120824,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.139158,
-     49.263724
+     -123.139771,
+     49.26373
     ],
     "type": "Point"
    },
@@ -150198,25 +150141,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.908168,
-     49.203601
-    ],
-    "type": "Point"
-   },
-   "id": "11555",
-   "properties": {
-    "code": "58103",
-    "desc": "",
-    "id": "11555",
-    "name": "Northbound 6th St @ Columbia St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.785177,
      49.292774
     ],
@@ -165398,8 +165322,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.139676,
-     49.26351
+     -123.139857,
+     49.263505
     ],
     "type": "Point"
    },
@@ -165408,7 +165332,7 @@
     "code": "60494",
     "desc": "",
     "id": "12721",
-    "name": "Eastbound W Broadway @ Fir St",
+    "name": "Eastbound W Broadway @ Granville St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166310,25 +166234,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.044237,
-     49.277245
-    ],
-    "type": "Point"
-   },
-   "id": "12796",
-   "properties": {
-    "code": "60556",
-    "desc": "",
-    "id": "12796",
-    "name": "Southbound Renfrew St @ Adanac St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.043962,
      49.277733
     ],
@@ -166340,6 +166245,25 @@
     "desc": "",
     "id": "12797",
     "name": "Northbound Renfrew St @ Adanac  St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.908982,
+     49.204255
+    ],
+    "type": "Point"
+   },
+   "id": "12798",
+   "properties": {
+    "code": "59010",
+    "desc": "",
+    "id": "12798",
+    "name": "Northbound 6th St @ Carnarvon St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
