@@ -6786,44 +6786,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.150967,
-     49.2639
-    ],
-    "type": "Point"
-   },
-   "id": "564",
-   "properties": {
-    "code": "50559",
-    "desc": "",
-    "id": "564",
-    "name": "Westbound W Broadway @ Maple St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.153596,
-     49.263943
-    ],
-    "type": "Point"
-   },
-   "id": "565",
-   "properties": {
-    "code": "50560",
-    "desc": "",
-    "id": "565",
-    "name": "Westbound W Broadway @ Arbutus St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.155724,
      49.263962
     ],
@@ -38755,25 +38717,6 @@
     "desc": "",
     "id": "2817",
     "name": "Northbound Douglas Rd @ Norland Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.98873,
-     49.263533
-    ],
-    "type": "Point"
-   },
-   "id": "2819",
-   "properties": {
-    "code": "52790",
-    "desc": "",
-    "id": "2819",
-    "name": "Northbound Douglas Rd @ Springer Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -88030,25 +87973,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.801011,
-     49.062184
-    ],
-    "type": "Point"
-   },
-   "id": "6095",
-   "properties": {
-    "code": "56037",
-    "desc": "",
-    "id": "6095",
-    "name": "Northbound 152 St @ 32 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.801053,
      49.064178
     ],
@@ -103097,25 +103021,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.668476,
-     49.093927
-    ],
-    "type": "Point"
-   },
-   "id": "7086",
-   "properties": {
-    "code": "57018",
-    "desc": "",
-    "id": "7086",
-    "name": "Northbound 200 St @ 50 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.66807,
      49.098377
     ],
@@ -117889,7 +117794,7 @@
     "code": "58048",
     "desc": "",
     "id": "8283",
-    "name": "Southbound Hwy 99 Offramp @ Steveston Hwy",
+    "name": "Southbound Hwy 99 Onramp @ Steveston Hwy",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -120379,6 +120284,25 @@
     "desc": "",
     "id": "8588",
     "name": "Southbound No. 3 Rd @ Leslie Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.002605,
+     49.242827
+    ],
+    "type": "Point"
+   },
+   "id": "8589",
+   "properties": {
+    "code": "58109",
+    "desc": "",
+    "id": "8589",
+    "name": "Eastbound Deer Lake Parkway @ Willingdon Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -123598,25 +123522,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.668453,
-     49.091879
-    ],
-    "type": "Point"
-   },
-   "id": "8939",
-   "properties": {
-    "code": "58552",
-    "desc": "",
-    "id": "8939",
-    "name": "Northbound 200 St @ Grade Cres",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.668599,
      49.098853
     ],
@@ -124958,25 +124863,6 @@
     "desc": "",
     "id": "9061",
     "name": "Northbound Gamma Ave @ Albert St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.80191,
-     49.061678
-    ],
-    "type": "Point"
-   },
-   "id": "9062",
-   "properties": {
-    "code": "58600",
-    "desc": "",
-    "id": "9062",
-    "name": "Westbound 32 Ave @ 152 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -139558,6 +139444,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.127316,
+     49.273529
+    ],
+    "type": "Point"
+   },
+   "id": "10694",
+   "properties": {
+    "code": "50013",
+    "desc": "",
+    "id": "10694",
+    "name": "Eastbound Pacific St @ Richards St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.732833,
      49.105915
     ],
@@ -145866,25 +145771,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.018935,
-     49.319397
-    ],
-    "type": "Point"
-   },
-   "id": "11197",
-   "properties": {
-    "code": "61068",
-    "desc": "",
-    "id": "11197",
-    "name": "Capilano University @ Bay 1",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.834269,
      49.276599
     ],
@@ -148754,25 +148640,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.149974,
-     49.263702
-    ],
-    "type": "Point"
-   },
-   "id": "11423",
-   "properties": {
-    "code": "50324",
-    "desc": "",
-    "id": "11423",
-    "name": "Eastbound W Broadway @ Maple St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.127092,
      49.276487
     ],
@@ -149031,25 +148898,6 @@
     "desc": "",
     "id": "11451",
     "name": "Westbound Lougheed Hwy @ Bainbridge Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.152005,
-     49.263703
-    ],
-    "type": "Point"
-   },
-   "id": "11454",
-   "properties": {
-    "code": "59997",
-    "desc": "",
-    "id": "11454",
-    "name": "Eastbound W Broadway @ Arbutus St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -151595,7 +151443,7 @@
     "code": "61612",
     "desc": "",
     "id": "11681",
-    "name": "Southbound Howes St @ Howes St Ramp",
+    "name": "Southbound Howes St @ Hwy 91A Offramp",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -151862,25 +151710,6 @@
     "desc": "",
     "id": "11695",
     "name": "Eastbound E 29 Ave @ Cambie St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.996995,
-     49.266048
-    ],
-    "type": "Point"
-   },
-   "id": "11697",
-   "properties": {
-    "code": "52751",
-    "desc": "",
-    "id": "11697",
-    "name": "Eastbound Lougheed Hwy @ Beta Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -152242,6 +152071,25 @@
     "desc": "",
     "id": "11723",
     "name": "Westbound Marine Dr @ Bridgman Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.154831,
+     49.263761
+    ],
+    "type": "Point"
+   },
+   "id": "11724",
+   "properties": {
+    "code": "61660",
+    "desc": "",
+    "id": "11724",
+    "name": "Eastbound W Broadway @ Yew St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -155357,7 +155205,7 @@
     "code": "61872",
     "desc": "",
     "id": "11971",
-    "name": "Eastbound McClure Dr @ 106 Ave",
+    "name": "Eastbound McClure Dr @ 24100 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -156820,7 +156668,7 @@
     "code": "61961",
     "desc": "",
     "id": "12064",
-    "name": "Northbound 156 St @ Hwy One Offramp",
+    "name": "Northbound 156 St @ Hwy One Onramp",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -164306,7 +164154,7 @@
     "code": "61956",
     "desc": "",
     "id": "12650",
-    "name": "Eastbound 105 Ave  Lincoln Dr @ Lincoln Dr",
+    "name": "Eastbound 105 Ave @ Lincoln Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165788,7 +165636,7 @@
     "code": "60534",
     "desc": "",
     "id": "12763",
-    "name": "Eastbound W Broadway @ Ash St",
+    "name": "Broadway-City Hall Station   @ Bay 6",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
