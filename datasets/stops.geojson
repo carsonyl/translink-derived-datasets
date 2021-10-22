@@ -6786,6 +6786,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.150967,
+     49.2639
+    ],
+    "type": "Point"
+   },
+   "id": "564",
+   "properties": {
+    "code": "50559",
+    "desc": "",
+    "id": "564",
+    "name": "Westbound W Broadway @ Maple St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.153596,
+     49.263943
+    ],
+    "type": "Point"
+   },
+   "id": "565",
+   "properties": {
+    "code": "50560",
+    "desc": "",
+    "id": "565",
+    "name": "Westbound W Broadway @ Arbutus St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.155724,
      49.263962
     ],
@@ -14340,6 +14378,25 @@
     "desc": "",
     "id": "1078",
     "name": "Westbound E 41 Ave @ Gladstone St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.065972,
+     49.232565
+    ],
+    "type": "Point"
+   },
+   "id": "1079",
+   "properties": {
+    "code": "51070",
+    "desc": "",
+    "id": "1079",
+    "name": "Eastbound E 41 Ave @ Victoria Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -30851,6 +30908,25 @@
     "desc": "",
     "id": "2235",
     "name": "Westbound SW Marine Dr @ Ontario St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.110409,
+     49.212212
+    ],
+    "type": "Point"
+   },
+   "id": "2236",
+   "properties": {
+    "code": "52214",
+    "desc": "",
+    "id": "2236",
+    "name": "Westbound SW Marine Dr @ Manitoba St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -122116,8 +122192,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.848304,
-     49.253837
+     -122.847431,
+     49.253831
     ],
     "type": "Point"
    },
@@ -133383,8 +133459,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.892639,
-     49.236833
+     -122.892649,
+     49.237072
     ],
     "type": "Point"
    },
@@ -148640,6 +148716,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.149974,
+     49.263702
+    ],
+    "type": "Point"
+   },
+   "id": "11423",
+   "properties": {
+    "code": "50324",
+    "desc": "",
+    "id": "11423",
+    "name": "Eastbound W Broadway @ Maple St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.127092,
      49.276487
     ],
@@ -148898,6 +148993,25 @@
     "desc": "",
     "id": "11451",
     "name": "Westbound Lougheed Hwy @ Bainbridge Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.152005,
+     49.263703
+    ],
+    "type": "Point"
+   },
+   "id": "11454",
+   "properties": {
+    "code": "59997",
+    "desc": "",
+    "id": "11454",
+    "name": "Eastbound W Broadway @ Arbutus St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -160838,25 +160952,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.779779,
-     49.060162
-    ],
-    "type": "Point"
-   },
-   "id": "12390",
-   "properties": {
-    "code": "58940",
-    "desc": "",
-    "id": "12390",
-    "name": "Westbound 32 Ave @ 160 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.147179,
      49.172828
     ],
@@ -160887,6 +160982,25 @@
     "desc": "",
     "id": "12393",
     "name": "29th Avenue Station @ Bay 4",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.797554,
+     49.060927
+    ],
+    "type": "Point"
+   },
+   "id": "12394",
+   "properties": {
+    "code": "59119",
+    "desc": "",
+    "id": "12394",
+    "name": "Westbound 32 Ave @ 154 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165664,25 +165778,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.113269,
-     49.211441
-    ],
-    "type": "Point"
-   },
-   "id": "12765",
-   "properties": {
-    "code": "60536",
-    "desc": "",
-    "id": "12765",
-    "name": "Westbound SW Marine Dr @ Columbia St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.131138,
      49.190376
     ],
@@ -166112,6 +166207,63 @@
     "desc": "",
     "id": "12798",
     "name": "Northbound 6th St @ Carnarvon St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.890209,
+     49.146263
+    ],
+    "type": "Point"
+   },
+   "id": "12800",
+   "properties": {
+    "code": "60559",
+    "desc": "",
+    "id": "12800",
+    "name": "Northbound Scott Rd @ 7800 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.756802,
+     49.17036
+    ],
+    "type": "Point"
+   },
+   "id": "12801",
+   "properties": {
+    "code": "60560",
+    "desc": "",
+    "id": "12801",
+    "name": "Southbound 168 St @ 92A Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.756642,
+     49.170463
+    ],
+    "type": "Point"
+   },
+   "id": "12802",
+   "properties": {
+    "code": "60561",
+    "desc": "",
+    "id": "12802",
+    "name": "Northbound 168 St @ 92A Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
