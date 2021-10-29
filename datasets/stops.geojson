@@ -13113,25 +13113,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.120872,
-     49.284132
-    ],
-    "type": "Point"
-   },
-   "id": "984",
-   "properties": {
-    "code": "50975",
-    "desc": "",
-    "id": "984",
-    "name": "Eastbound W Georgia St @ Burrard St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.118529,
      49.28264
     ],
@@ -13865,6 +13846,25 @@
     "desc": "",
     "id": "1047",
     "name": "Southbound Renfrew St @ E Georgia St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.044245,
+     49.276141
+    ],
+    "type": "Point"
+   },
+   "id": "1048",
+   "properties": {
+    "code": "51039",
+    "desc": "",
+    "id": "1048",
+    "name": "Southbound Renfrew St @ Venables St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -38394,6 +38394,25 @@
     "desc": "",
     "id": "2786",
     "name": "Southbound Douglas Rd @ Hardwick St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.981035,
+     49.249671
+    ],
+    "type": "Point"
+   },
+   "id": "2787",
+   "properties": {
+    "code": "52759",
+    "desc": "",
+    "id": "2787",
+    "name": "Southbound Douglas Rd @ Sprott St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -103097,6 +103116,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.668476,
+     49.093927
+    ],
+    "type": "Point"
+   },
+   "id": "7086",
+   "properties": {
+    "code": "57018",
+    "desc": "",
+    "id": "7086",
+    "name": "Northbound 200 St @ 50 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.66807,
      49.098377
     ],
@@ -118259,25 +118297,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.13205,
-     49.189123
-    ],
-    "type": "Point"
-   },
-   "id": "8367",
-   "properties": {
-    "code": "58097",
-    "desc": "",
-    "id": "8367",
-    "name": "Northbound No. 3 Rd @ Capstan Way",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.133691,
      49.187766
     ],
@@ -123598,6 +123617,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.668453,
+     49.091879
+    ],
+    "type": "Point"
+   },
+   "id": "8939",
+   "properties": {
+    "code": "58552",
+    "desc": "",
+    "id": "8939",
+    "name": "Northbound 200 St @ Grade Cres",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.668599,
      49.098853
     ],
@@ -125137,25 +125175,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.065752,
-     49.229136
-    ],
-    "type": "Point"
-   },
-   "id": "9086",
-   "properties": {
-    "code": "58285",
-    "desc": "",
-    "id": "9086",
-    "name": "Southbound Victoria Dr @ E 45 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.115868,
      49.245383
     ],
@@ -125471,25 +125490,6 @@
     "desc": "",
     "id": "9111",
     "name": "Northbound Fell Ave @ AutoMall Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.120673,
-     49.284015
-    ],
-    "type": "Point"
-   },
-   "id": "9112",
-   "properties": {
-    "code": "58750",
-    "desc": "",
-    "id": "9112",
-    "name": "Eastbound W Georgia St @ Burrard St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -140907,6 +140907,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.100898,
+     49.268688
+    ],
+    "type": "Point"
+   },
+   "id": "10814",
+   "properties": {
+    "code": "59580",
+    "desc": "",
+    "id": "10814",
+    "name": "Southbound Main St @ E 2nd Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.033871,
      49.267232
     ],
@@ -152193,25 +152212,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.154831,
-     49.263761
-    ],
-    "type": "Point"
-   },
-   "id": "11724",
-   "properties": {
-    "code": "61660",
-    "desc": "",
-    "id": "11724",
-    "name": "Eastbound W Broadway @ Yew St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.845616,
      49.175231
     ],
@@ -161674,6 +161674,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.661049,
+     49.130734
+    ],
+    "type": "Point"
+   },
+   "id": "12433",
+   "properties": {
+    "code": "60145",
+    "desc": "",
+    "id": "12433",
+    "name": "Southbound 202B St @ 70A Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.660476,
      49.126658
     ],
@@ -161685,6 +161704,25 @@
     "desc": "",
     "id": "12434",
     "name": "Northbound 202B St @ 68 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.660817,
+     49.130634
+    ],
+    "type": "Point"
+   },
+   "id": "12435",
+   "properties": {
+    "code": "60144",
+    "desc": "",
+    "id": "12435",
+    "name": "Northbound 202B St @ 70A Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -162882,25 +162920,6 @@
     "desc": "",
     "id": "12522",
     "name": "Southbound 184 St @ 71 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.100925,
-     49.267991
-    ],
-    "type": "Point"
-   },
-   "id": "12523",
-   "properties": {
-    "code": "50235",
-    "desc": "",
-    "id": "12523",
-    "name": "Southbound Main St @ E 3rd Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166266,6 +166285,63 @@
     "name": "Northbound 168 St @ 92A Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.878313,
+     49.047492
+    ],
+    "type": "Point"
+   },
+   "id": "12803",
+   "properties": {
+    "code": "58465",
+    "desc": "",
+    "id": "12803",
+    "name": "Northbound 124 St @ Seacrest Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.128718,
+     49.274423
+    ],
+    "type": "Point"
+   },
+   "id": "12804",
+   "properties": {
+    "code": "60506",
+    "desc": "",
+    "id": "12804",
+    "name": "Eastbound Pacific St @ Seymour Mews",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.121679,
+     49.284667
+    ],
+    "type": "Point"
+   },
+   "id": "12805",
+   "properties": {
+    "code": "60567",
+    "desc": "",
+    "id": "12805",
+    "name": "Eastbound W Georgia St @ Burrard St",
+    "wheelchair_boarding": null,
+    "zone": "ZN 1"
    },
    "type": "Feature"
   },
