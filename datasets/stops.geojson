@@ -1618,6 +1618,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.116855,
+     49.233681
+    ],
+    "type": "Point"
+   },
+   "id": "160",
+   "properties": {
+    "code": "50160",
+    "desc": "",
+    "id": "160",
+    "name": "Oakridge-41st Ave Station @ Bay 5",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.101505,
      49.235734
     ],
@@ -7641,8 +7660,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116397,
-     49.234585
+     -123.116425,
+     49.234
     ],
     "type": "Point"
    },
@@ -13151,25 +13170,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116561,
-     49.231397
-    ],
-    "type": "Point"
-   },
-   "id": "991",
-   "properties": {
-    "code": "50982",
-    "desc": "",
-    "id": "991",
-    "name": "Southbound Cambie St @ W 43 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.116588,
      49.229514
     ],
@@ -14728,36 +14728,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.044039,
-     49.271682
+     -123.043972,
+     49.276287
     ],
     "type": "Point"
    },
-   "id": "1097",
+   "id": "1099",
    "properties": {
-    "code": "51088",
+    "code": "51090",
     "desc": "",
-    "id": "1097",
-    "name": "Northbound Renfrew St @ Grant St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.044011,
-     49.273636
-    ],
-    "type": "Point"
-   },
-   "id": "1098",
-   "properties": {
-    "code": "51089",
-    "desc": "",
-    "id": "1098",
-    "name": "Northbound Renfrew St @ Charles St",
+    "id": "1099",
+    "name": "Northbound Renfrew St @ Venables St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -20819,6 +20800,25 @@
     "desc": "",
     "id": "1478",
     "name": "Westbound Hastings St @ Madison Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.014877,
+     49.281147
+    ],
+    "type": "Point"
+   },
+   "id": "1479",
+   "properties": {
+    "code": "51467",
+    "desc": "",
+    "id": "1479",
+    "name": "Westbound Hastings St @ Gilmore Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -33462,25 +33462,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.957133,
-     49.21835
-    ],
-    "type": "Point"
-   },
-   "id": "2428",
-   "properties": {
-    "code": "52404",
-    "desc": "",
-    "id": "2428",
-    "name": "Eastbound Kingsway @ Salisbury Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.953325,
      49.218273
     ],
@@ -34119,25 +34100,6 @@
     "desc": "",
     "id": "2478",
     "name": "Westbound Kingsway @ Walker Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.957951,
-     49.218535
-    ],
-    "type": "Point"
-   },
-   "id": "2479",
-   "properties": {
-    "code": "52455",
-    "desc": "",
-    "id": "2479",
-    "name": "Westbound Kingsway @ Salisbury Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -120349,25 +120311,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.959902,
-     49.218364
-    ],
-    "type": "Point"
-   },
-   "id": "8584",
-   "properties": {
-    "code": "58117",
-    "desc": "",
-    "id": "8584",
-    "name": "Eastbound Kingsway @ Griffiths Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.13677,
      49.179084
     ],
@@ -148089,6 +148032,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.116479,
+     49.233099
+    ],
+    "type": "Point"
+   },
+   "id": "11350",
+   "properties": {
+    "code": "50981",
+    "desc": "",
+    "id": "11350",
+    "name": "Oakridge-41st Ave Station @ Bay 1",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.114655,
      49.262759
     ],
@@ -148100,6 +148062,25 @@
     "desc": "",
     "id": "11352",
     "name": "Broadway-City Hall Station @ Bay 2",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.117599,
+     49.233712
+    ],
+    "type": "Point"
+   },
+   "id": "11354",
+   "properties": {
+    "code": "61281",
+    "desc": "",
+    "id": "11354",
+    "name": "Oakridge-41st Ave Station  @ Bay 4",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -163460,25 +163441,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115209,
-     49.233625
-    ],
-    "type": "Point"
-   },
-   "id": "12584",
-   "properties": {
-    "code": "60350",
-    "desc": "",
-    "id": "12584",
-    "name": "Westbound W 41 Ave @ Cambie St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.115623,
      49.233415
     ],
@@ -165987,63 +165949,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.016705,
-     49.281164
-    ],
-    "type": "Point"
-   },
-   "id": "12777",
-   "properties": {
-    "code": "60542",
-    "desc": "",
-    "id": "12777",
-    "name": "Westbound Hastings St @ MacDonald Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.011883,
-     49.281134
-    ],
-    "type": "Point"
-   },
-   "id": "12778",
-   "properties": {
-    "code": "59827",
-    "desc": "",
-    "id": "12778",
-    "name": "Westbound Hastings St @ Carleton Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.013726,
-     49.280962
-    ],
-    "type": "Point"
-   },
-   "id": "12779",
-   "properties": {
-    "code": "51379",
-    "desc": "",
-    "id": "12779",
-    "name": "Eastbound Hastings St @ Gilmore Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.783603,
      49.263652
     ],
@@ -166196,25 +166101,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.043962,
-     49.277733
-    ],
-    "type": "Point"
-   },
-   "id": "12797",
-   "properties": {
-    "code": "60557",
-    "desc": "",
-    "id": "12797",
-    "name": "Northbound Renfrew St @ Adanac  St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.908982,
      49.204255
     ],
@@ -166342,6 +166228,25 @@
     "name": "Eastbound W Georgia St @ Burrard St",
     "wheelchair_boarding": null,
     "zone": "ZN 1"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.800196,
+     49.258499
+    ],
+    "type": "Point"
+   },
+   "id": "12806",
+   "properties": {
+    "code": "59000",
+    "desc": "",
+    "id": "12806",
+    "name": "Northbound Orchid Dr @ 2700 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
    },
    "type": "Feature"
   },
