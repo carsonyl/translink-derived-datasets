@@ -3917,8 +3917,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.15326,
-     49.263736
+     -123.154253,
+     49.263766
     ],
     "type": "Point"
    },
@@ -6797,44 +6797,6 @@
     "desc": "",
     "id": "563",
     "name": "Westbound W Broadway @ Burrard St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.150967,
-     49.2639
-    ],
-    "type": "Point"
-   },
-   "id": "564",
-   "properties": {
-    "code": "50559",
-    "desc": "",
-    "id": "564",
-    "name": "Westbound W Broadway @ Maple St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.153596,
-     49.263943
-    ],
-    "type": "Point"
-   },
-   "id": "565",
-   "properties": {
-    "code": "50560",
-    "desc": "",
-    "id": "565",
-    "name": "Westbound W Broadway @ Arbutus St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -21777,8 +21739,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.014855,
-     49.248866
+     -123.01485,
+     49.248871
     ],
     "type": "Point"
    },
@@ -30794,6 +30756,25 @@
     "desc": "",
     "id": "2227",
     "name": "Westbound SE Marine Dr @ Knight St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.08071,
+     49.211201
+    ],
+    "type": "Point"
+   },
+   "id": "2228",
+   "properties": {
+    "code": "52206",
+    "desc": "",
+    "id": "2228",
+    "name": "Westbound SE Marine Dr @ Inverness St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -45405,6 +45386,25 @@
     "desc": "",
     "id": "3277",
     "name": "Northbound Sunnyside Rd @ East Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.855614,
+     49.318242
+    ],
+    "type": "Point"
+   },
+   "id": "3278",
+   "properties": {
+    "code": "53243",
+    "desc": "",
+    "id": "3278",
+    "name": "Northbound Sunnyside Rd @ Eaglecrest Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -62285,6 +62285,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.080587,
+     49.314494
+    ],
+    "type": "Point"
+   },
+   "id": "4469",
+   "properties": {
+    "code": "54419",
+    "desc": "",
+    "id": "4469",
+    "name": "Southbound Chesterfield Ave @ W 3rd St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.082166,
+     49.31297
+    ],
+    "type": "Point"
+   },
+   "id": "4470",
+   "properties": {
+    "code": "54420",
+    "desc": "",
+    "id": "4470",
+    "name": "Southbound Chesterfield Ave @ W 1st St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.082918,
      49.310597
     ],
@@ -62353,6 +62391,44 @@
     "desc": "",
     "id": "4474",
     "name": "Phibbs Exchange @ Bay 10",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.081348,
+     49.313517
+    ],
+    "type": "Point"
+   },
+   "id": "4476",
+   "properties": {
+    "code": "54426",
+    "desc": "",
+    "id": "4476",
+    "name": "Northbound Chesterfield Ave @ W 1st St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.080618,
+     49.314235
+    ],
+    "type": "Point"
+   },
+   "id": "4477",
+   "properties": {
+    "code": "54427",
+    "desc": "",
+    "id": "4477",
+    "name": "Northbound Chesterfield Ave @ W 2nd St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -93285,6 +93361,25 @@
     "desc": "",
     "id": "6478",
     "name": "Westbound Fraser Hwy @ 152 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.813039,
+     49.1707
+    ],
+    "type": "Point"
+   },
+   "id": "6479",
+   "properties": {
+    "code": "56418",
+    "desc": "",
+    "id": "6479",
+    "name": "Westbound Fraser Hwy @ 148 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -143700,25 +143795,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.079787,
-     49.240161
-    ],
-    "type": "Point"
-   },
-   "id": "11060",
-   "properties": {
-    "code": "61135",
-    "desc": "",
-    "id": "11060",
-    "name": "Eastbound E 33 Ave @ Inverness St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.080645,
      49.240296
     ],
@@ -148070,6 +148146,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.116867,
+     49.23344
+    ],
+    "type": "Point"
+   },
+   "id": "11353",
+   "properties": {
+    "code": "50136",
+    "desc": "",
+    "id": "11353",
+    "name": "Oakridge-41st Ave Station @ Bay 2",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.117599,
      49.233712
     ],
@@ -148716,25 +148811,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.149974,
-     49.263702
-    ],
-    "type": "Point"
-   },
-   "id": "11423",
-   "properties": {
-    "code": "50324",
-    "desc": "",
-    "id": "11423",
-    "name": "Eastbound W Broadway @ Maple St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.127092,
      49.276487
     ],
@@ -148993,25 +149069,6 @@
     "desc": "",
     "id": "11451",
     "name": "Westbound Lougheed Hwy @ Bainbridge Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.152005,
-     49.263703
-    ],
-    "type": "Point"
-   },
-   "id": "11454",
-   "properties": {
-    "code": "59997",
-    "desc": "",
-    "id": "11454",
-    "name": "Eastbound W Broadway @ Arbutus St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -152185,6 +152242,25 @@
     "desc": "",
     "id": "11723",
     "name": "Westbound Marine Dr @ Bridgman Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.154831,
+     49.263761
+    ],
+    "type": "Point"
+   },
+   "id": "11724",
+   "properties": {
+    "code": "61660",
+    "desc": "",
+    "id": "11724",
+    "name": "Eastbound W Broadway @ Yew St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -163460,25 +163536,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.11497,
-     49.233382
-    ],
-    "type": "Point"
-   },
-   "id": "12586",
-   "properties": {
-    "code": "60349",
-    "desc": "",
-    "id": "12586",
-    "name": "Eastbound W 41 Ave @ Cambie St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.938112,
      49.254743
     ],
@@ -166227,7 +166284,7 @@
     "id": "12805",
     "name": "Eastbound W Georgia St @ Burrard St",
     "wheelchair_boarding": null,
-    "zone": "ZN 1"
+    "zone": "BUS ZN"
    },
    "type": "Feature"
   },
