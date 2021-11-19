@@ -877,9 +877,9 @@
  "properties": {
   "destination": "PHIBBS EXCH",
   "direction": "WEST",
-  "name": "212-W1",
+  "name": "212-WX1",
   "operating-company": "CMBC",
-  "pattern-number": "W1",
+  "pattern-number": "WX1",
   "route-name": "DEEP COVE/PHIBBS EXCH",
   "route-number": "212",
   "stroke": "#267cff",
