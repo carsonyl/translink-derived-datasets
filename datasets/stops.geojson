@@ -5969,25 +5969,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.11464,
-     49.263806
-    ],
-    "type": "Point"
-   },
-   "id": "486",
-   "properties": {
-    "code": "50482",
-    "desc": "",
-    "id": "486",
-    "name": "Northbound Cambie St @ W 8th Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.047415,
      49.28882
     ],
@@ -25170,25 +25151,6 @@
     "desc": "",
     "id": "1770",
     "name": "Southbound Lillooet Rd @ Mt Seymour Parkway",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.032716,
-     49.311044
-    ],
-    "type": "Point"
-   },
-   "id": "1771",
-   "properties": {
-    "code": "51757",
-    "desc": "",
-    "id": "1771",
-    "name": "Southbound Mountain Hwy @ Fern St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -45413,8 +45375,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.855754,
-     49.314255
+     -122.855814,
+     49.314085
     ],
     "type": "Point"
    },
@@ -53157,6 +53119,25 @@
     "desc": "",
     "id": "3869",
     "name": "Southbound Shaughnessy St @ Fraser Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.775187,
+     49.269579
+    ],
+    "type": "Point"
+   },
+   "id": "3872",
+   "properties": {
+    "code": "53832",
+    "desc": "",
+    "id": "3872",
+    "name": "Northbound Shaughnessy St @ Fraser Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -62106,25 +62087,6 @@
     "desc": "",
     "id": "4456",
     "name": "Eastbound Marine Dr @ Hamilton Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.083876,
-     49.31285
-    ],
-    "type": "Point"
-   },
-   "id": "4458",
-   "properties": {
-    "code": "54409",
-    "desc": "",
-    "id": "4458",
-    "name": "Eastbound W Esplanade @ Semisch Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -97492,44 +97454,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.113997,
-     49.155946
-    ],
-    "type": "Point"
-   },
-   "id": "6746",
-   "properties": {
-    "code": "56682",
-    "desc": "",
-    "id": "6746",
-    "name": "Northbound No. 4 Rd @ Blundell Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.113981,
-     49.158668
-    ],
-    "type": "Point"
-   },
-   "id": "6747",
-   "properties": {
-    "code": "56683",
-    "desc": "",
-    "id": "6747",
-    "name": "Northbound No. 4 Rd @ 7400 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.115481,
      49.162892
     ],
@@ -100171,6 +100095,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.147898,
+     49.16209
+    ],
+    "type": "Point"
+   },
+   "id": "6892",
+   "properties": {
+    "code": "56827",
+    "desc": "",
+    "id": "6892",
+    "name": "Southbound Gilbert Rd @ Granville Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.147908,
      49.159513
     ],
@@ -100486,6 +100429,25 @@
     "desc": "",
     "id": "6909",
     "name": "Westbound Steveston Hwy @ Kingfisher Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.164183,
+     49.133693
+    ],
+    "type": "Point"
+   },
+   "id": "6910",
+   "properties": {
+    "code": "56845",
+    "desc": "",
+    "id": "6910",
+    "name": "Westbound Steveston Hwy @ Lassam Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -113376,8 +113338,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.605337,
-     49.212312
+     -122.604113,
+     49.211977
     ],
     "type": "Point"
    },
@@ -114649,8 +114611,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.579328,
-     49.214729
+     -122.579348,
+     49.216427
     ],
     "type": "Point"
    },
@@ -114659,7 +114621,7 @@
     "code": "57788",
     "desc": "",
     "id": "7862",
-    "name": "Southbound 232 St @ 117 Ave",
+    "name": "Southbound 232 St @ 118 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -114782,8 +114744,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.579161,
-     49.215188
+     -122.579124,
+     49.217135
     ],
     "type": "Point"
    },
@@ -114792,7 +114754,7 @@
     "code": "57797",
     "desc": "",
     "id": "7871",
-    "name": "Northbound 232 St @ 117 Ave",
+    "name": "Northbound 232 St @ 118 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -120398,6 +120360,25 @@
     "desc": "",
     "id": "8582",
     "name": "Eastbound Grafton Rd @ Artisan Square (Flag)",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.959902,
+     49.218364
+    ],
+    "type": "Point"
+   },
+   "id": "8584",
+   "properties": {
+    "code": "58117",
+    "desc": "",
+    "id": "8584",
+    "name": "Eastbound Kingsway @ Griffiths Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -148127,8 +148108,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.114655,
-     49.262759
+     -123.11464,
+     49.262826
     ],
     "type": "Point"
    },
@@ -163232,8 +163213,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.11511,
-     49.261999
+     -123.115153,
+     49.261616
     ],
     "type": "Point"
    },
