@@ -383,6 +383,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.133574,
+     49.282009
+    ],
+    "type": "Point"
+   },
+   "id": "50",
+   "properties": {
+    "code": "50050",
+    "desc": "",
+    "id": "50",
+    "name": "Westbound Davie St @ Bute St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.135121,
      49.283006
     ],
@@ -123275,6 +123294,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.956525,
+     49.25166
+    ],
+    "type": "Point"
+   },
+   "id": "8919",
+   "properties": {
+    "code": "58511",
+    "desc": "",
+    "id": "8919",
+    "name": "Westbound Winston St @ Bainbridge Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.834154,
      49.244601
     ],
@@ -164991,25 +165029,6 @@
     "desc": "",
     "id": "12700",
     "name": "Southbound Nanaimo St @ Grant St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.133052,
-     49.281672
-    ],
-    "type": "Point"
-   },
-   "id": "12702",
-   "properties": {
-    "code": "60489",
-    "desc": "",
-    "id": "12702",
-    "name": "Westbound Davie St @ Bute St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
