@@ -5114,8 +5114,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.12117,
-     49.286156
+     -123.12037,
+     49.286035
     ],
     "type": "Point"
    },
@@ -33424,6 +33424,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.957133,
+     49.21835
+    ],
+    "type": "Point"
+   },
+   "id": "2428",
+   "properties": {
+    "code": "52404",
+    "desc": "",
+    "id": "2428",
+    "name": "Eastbound Kingsway @ Salisbury Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.953325,
      49.218273
     ],
@@ -34062,6 +34081,25 @@
     "desc": "",
     "id": "2478",
     "name": "Westbound Kingsway @ Walker Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.957951,
+     49.218535
+    ],
+    "type": "Point"
+   },
+   "id": "2479",
+   "properties": {
+    "code": "52455",
+    "desc": "",
+    "id": "2479",
+    "name": "Westbound Kingsway @ Salisbury Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -152003,6 +152041,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.118524,
+     49.282879
+    ],
+    "type": "Point"
+   },
+   "id": "11706",
+   "properties": {
+    "code": "61031",
+    "desc": "",
+    "id": "11706",
+    "name": "Westbound W Georgia St @ Granville St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.136682,
      49.168435
     ],
@@ -153002,25 +153059,6 @@
     "desc": "",
     "id": "11773",
     "name": "Southbound 80 St @ Ladner Trunk Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.116757,
-     49.28174
-    ],
-    "type": "Point"
-   },
-   "id": "11774",
-   "properties": {
-    "code": "61032",
-    "desc": "",
-    "id": "11774",
-    "name": "Westbound W Georgia St @ Seymour St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
