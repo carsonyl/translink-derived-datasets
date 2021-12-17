@@ -44976,17 +44976,17 @@
   {
    "geometry": {
     "coordinates": [
-     -122.890324,
-     49.261495
+     -122.88931,
+     49.262283
     ],
     "type": "Point"
    },
-   "id": "3243",
+   "id": "3242",
    "properties": {
-    "code": "53209",
+    "code": "53208",
     "desc": "",
-    "id": "3243",
-    "name": "Burquitlam Station @ Bay 6",
+    "id": "3242",
+    "name": "Burquitlam Station @ Bay 6 New",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -161066,6 +161066,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.779779,
+     49.060162
+    ],
+    "type": "Point"
+   },
+   "id": "12390",
+   "properties": {
+    "code": "58940",
+    "desc": "",
+    "id": "12390",
+    "name": "Westbound 32 Ave @ 160 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.790767,
+     49.060184
+    ],
+    "type": "Point"
+   },
+   "id": "12391",
+   "properties": {
+    "code": "59104",
+    "desc": "",
+    "id": "12391",
+    "name": "Westbound 32 Ave @ 156A St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.147179,
      49.172828
     ],
@@ -166063,25 +166101,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.082465,
-     49.088733
-    ],
-    "type": "Point"
-   },
-   "id": "12786",
-   "properties": {
-    "code": "60275",
-    "desc": "",
-    "id": "12786",
-    "name": "Northbound 51 St @ 47 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.155866,
      49.229631
     ],
@@ -166340,6 +166359,25 @@
     "desc": "",
     "id": "12806",
     "name": "Northbound Orchid Dr @ 2700 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.952697,
+     49.152343
+    ],
+    "type": "Point"
+   },
+   "id": "12808",
+   "properties": {
+    "code": "60569",
+    "desc": "",
+    "id": "12808",
+    "name": "Westbound River Rd @ Hwy 17 Offramp",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
