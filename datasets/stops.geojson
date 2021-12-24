@@ -142275,6 +142275,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.874861,
+     49.204438
+    ],
+    "type": "Point"
+   },
+   "id": "10914",
+   "properties": {
+    "code": "58150",
+    "desc": "",
+    "id": "10914",
+    "name": "Scott Road Station @ Bay 3",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.948345,
      49.200112
     ],
@@ -146694,6 +146713,25 @@
     "desc": "",
     "id": "11248",
     "name": "Bridgeport Station @ Bay 4",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.751506,
+     49.258332
+    ],
+    "type": "Point"
+   },
+   "id": "11249",
+   "properties": {
+    "code": "61273",
+    "desc": "",
+    "id": "11249",
+    "name": "Eastbound Dominion Ave @ Archbishop Carney Secondary",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -163669,27 +163707,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.800781,
-     49.256017
-    ],
-    "type": "Point"
-   },
-   "id": "12591",
-   "properties": {
-    "code": "60343",
-    "desc": "",
-    "id": "12591",
-    "name": "Southbound Orchid Dr @ Holly Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.800508,
-     49.255724
+     -122.800385,
+     49.256268
     ],
     "type": "Point"
    },
@@ -166177,6 +166196,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.596176,
+     49.219427
+    ],
+    "type": "Point"
+   },
+   "id": "12793",
+   "properties": {
+    "code": "57603",
+    "desc": "",
+    "id": "12793",
+    "name": "Haney Place @ Bay 10",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.890315,
      49.176453
     ],
@@ -166367,6 +166405,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.113075,
+     49.286252
+    ],
+    "type": "Point"
+   },
+   "id": "12807",
+   "properties": {
+    "code": "60568",
+    "desc": "",
+    "id": "12807",
+    "name": "Waterfront Station @ Bay 1",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.952697,
      49.152343
     ],
@@ -166378,6 +166435,25 @@
     "desc": "",
     "id": "12808",
     "name": "Westbound River Rd @ Hwy 17 Offramp",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.800198,
+     49.256608
+    ],
+    "type": "Point"
+   },
+   "id": "12809",
+   "properties": {
+    "code": "60141",
+    "desc": "",
+    "id": "12809",
+    "name": "Westbound Holly Dr @ Orchid Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
