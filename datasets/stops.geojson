@@ -184,7 +184,7 @@
     "code": "50035",
     "desc": "",
     "id": "35",
-    "name": "Waterfront Station @ Bay 3",
+    "name": "Waterfront Station @ Bay 4",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -260,7 +260,7 @@
     "code": "50040",
     "desc": "",
     "id": "40",
-    "name": "Waterfront Station @ Bay 2",
+    "name": "Waterfront Station @ Bay 3",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -887,7 +887,7 @@
     "code": "50095",
     "desc": "",
     "id": "95",
-    "name": "Westbound W Pender St @ Richards St",
+    "name": "Westbound W Pender St @ Seymour St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -44986,7 +44986,7 @@
     "code": "53208",
     "desc": "",
     "id": "3242",
-    "name": "Burquitlam Station @ Bay 6 New",
+    "name": "Burquitlam Station @ Bay 6",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -125166,7 +125166,7 @@
     "code": "58202",
     "desc": "",
     "id": "9069",
-    "name": "Waterfront Station @ Bay 1",
+    "name": "Waterfront Station @ Bay 2",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166454,6 +166454,25 @@
     "desc": "",
     "id": "12809",
     "name": "Westbound Holly Dr @ Orchid Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.01717,
+     49.248874
+    ],
+    "type": "Point"
+   },
+   "id": "12810",
+   "properties": {
+    "code": "59133",
+    "desc": "",
+    "id": "12810",
+    "name": "Westbound Kincaid St @ Ingleton Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
