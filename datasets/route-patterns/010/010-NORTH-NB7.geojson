@@ -1375,7 +1375,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "DOWNTOWN TO WATERFRONT STN",
+  "destination": "DOWNTOWN/TO WATERFRONT STN",
   "direction": "NORTH",
   "name": "010-NB7",
   "operating-company": "CMBC",

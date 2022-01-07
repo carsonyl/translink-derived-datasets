@@ -665,7 +665,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "KINGSWAY TO EDMONDS STN",
+  "destination": "KINGSWAY/TO EDMONDS STN",
   "direction": "EAST",
   "name": "119-EB1",
   "operating-company": "CMBC",

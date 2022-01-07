@@ -1435,7 +1435,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "PORT MANN EXP/LOUGHEED STN",
+  "destination": "PORT MANN EXP/TO LOUGHEED STN",
   "direction": "WEST",
   "name": "555-WB1",
   "operating-company": "CMBC",

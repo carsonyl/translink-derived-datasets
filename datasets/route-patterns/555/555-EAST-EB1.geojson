@@ -1375,7 +1375,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "PORT MANN EXP/CARVOLTH EXCH",
+  "destination": "PORT MANN EXP/TO CARVOLTH EXCH",
   "direction": "EAST",
   "name": "555-EB1",
   "operating-company": "CMBC",
