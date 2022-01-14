@@ -21929,25 +21929,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.01553,
-     49.248893
-    ],
-    "type": "Point"
-   },
-   "id": "1562",
-   "properties": {
-    "code": "51550",
-    "desc": "",
-    "id": "1562",
-    "name": "Westbound Kincaid St @ MacDonald Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.020199,
      49.24887
     ],
@@ -26310,25 +26291,6 @@
     "desc": "",
     "id": "1852",
     "name": "Eastbound SE Marine Dr @ Fieldstone Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.12119,
-     49.286899
-    ],
-    "type": "Point"
-   },
-   "id": "1856",
-   "properties": {
-    "code": "51842",
-    "desc": "",
-    "id": "1856",
-    "name": "Burrard Station @ Bay 4",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -96561,25 +96523,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.136823,
-     49.143253
-    ],
-    "type": "Point"
-   },
-   "id": "6690",
-   "properties": {
-    "code": "56628",
-    "desc": "",
-    "id": "6690",
-    "name": "Southbound No. 3 Rd @ Saunders Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.136815,
      49.140415
     ],
@@ -107999,25 +107942,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.070243,
-     49.024597
-    ],
-    "type": "Point"
-   },
-   "id": "7445",
-   "properties": {
-    "code": "57372",
-    "desc": "",
-    "id": "7445",
-    "name": "Eastbound 12 Ave @ 5500 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.068534,
      49.025425
     ],
@@ -113395,8 +113319,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.604113,
-     49.211977
+     -122.605355,
+     49.212318
     ],
     "type": "Point"
    },
@@ -141944,25 +141868,6 @@
     "desc": "",
     "id": "10884",
     "name": "Gateway Station @ Bay 2",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.597616,
-     49.219454
-    ],
-    "type": "Point"
-   },
-   "id": "10885",
-   "properties": {
-    "code": "61064",
-    "desc": "",
-    "id": "10885",
-    "name": "Haney Place @ Bay 1",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
