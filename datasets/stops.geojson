@@ -3689,25 +3689,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.185078,
-     49.249282
-    ],
-    "type": "Point"
-   },
-   "id": "309",
-   "properties": {
-    "code": "50306",
-    "desc": "",
-    "id": "309",
-    "name": "Northbound Dunbar St @ W 26 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.185062,
      49.250494
     ],
@@ -3757,25 +3738,6 @@
     "desc": "",
     "id": "313",
     "name": "Northbound Dunbar St @ W 18 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.184993,
-     49.257644
-    ],
-    "type": "Point"
-   },
-   "id": "314",
-   "properties": {
-    "code": "50311",
-    "desc": "",
-    "id": "314",
-    "name": "Northbound Dunbar St @ W 16 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -4202,25 +4164,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.215008,
-     49.266051
-    ],
-    "type": "Point"
-   },
-   "id": "348",
-   "properties": {
-    "code": "50344",
-    "desc": "",
-    "id": "348",
-    "name": "Northbound Blanca St @ W 8th Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.21149,
      49.268974
     ],
@@ -4278,25 +4221,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.193151,
-     49.268579
-    ],
-    "type": "Point"
-   },
-   "id": "355",
-   "properties": {
-    "code": "59298",
-    "desc": "",
-    "id": "355",
-    "name": "Eastbound W 4th Ave @ Dieppe Lane",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.190183,
      49.26852
     ],
@@ -4308,25 +4232,6 @@
     "desc": "",
     "id": "356",
     "name": "Eastbound W 4th Ave @ Wallace St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.187013,
-     49.268561
-    ],
-    "type": "Point"
-   },
-   "id": "357",
-   "properties": {
-    "code": "50353",
-    "desc": "",
-    "id": "357",
-    "name": "Eastbound W 4th Ave @ Highbury St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -4886,63 +4791,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.179277,
-     49.268439
-    ],
-    "type": "Point"
-   },
-   "id": "394",
-   "properties": {
-    "code": "50390",
-    "desc": "",
-    "id": "394",
-    "name": "Eastbound W 4th Ave @ Waterloo St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.17537,
-     49.268381
-    ],
-    "type": "Point"
-   },
-   "id": "395",
-   "properties": {
-    "code": "50391",
-    "desc": "",
-    "id": "395",
-    "name": "Eastbound W 4th Ave @ Trutch St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.17062,
-     49.268314
-    ],
-    "type": "Point"
-   },
-   "id": "396",
-   "properties": {
-    "code": "50392",
-    "desc": "",
-    "id": "396",
-    "name": "Eastbound W 4th Ave @ Bayswater St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.167779,
      49.268274
     ],
@@ -4981,25 +4829,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.161861,
-     49.268194
-    ],
-    "type": "Point"
-   },
-   "id": "399",
-   "properties": {
-    "code": "50395",
-    "desc": "",
-    "id": "399",
-    "name": "Eastbound W 4th Ave @ Larch St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.159497,
      49.268147
     ],
@@ -5011,44 +4840,6 @@
     "desc": "",
     "id": "400",
     "name": "Eastbound W 4th Ave @ Balsam St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.156884,
-     49.268115
-    ],
-    "type": "Point"
-   },
-   "id": "401",
-   "properties": {
-    "code": "50397",
-    "desc": "",
-    "id": "401",
-    "name": "Eastbound W 4th Ave @ Vine St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.152371,
-     49.268041
-    ],
-    "type": "Point"
-   },
-   "id": "402",
-   "properties": {
-    "code": "50398",
-    "desc": "",
-    "id": "402",
-    "name": "Eastbound W 4th Ave @ Arbutus St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -5437,25 +5228,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.073597,
-     49.283237
-    ],
-    "type": "Point"
-   },
-   "id": "436",
-   "properties": {
-    "code": "50432",
-    "desc": "",
-    "id": "436",
-    "name": "Eastbound Powell St @ McLean Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.069837,
      49.283885
     ],
@@ -5551,25 +5323,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.056377,
-     49.286389
-    ],
-    "type": "Point"
-   },
-   "id": "443",
-   "properties": {
-    "code": "50439",
-    "desc": "",
-    "id": "443",
-    "name": "Northbound N Nanaimo St @ Cambridge St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.056367,
      49.288013
     ],
@@ -5581,25 +5334,6 @@
     "desc": "",
     "id": "444",
     "name": "Northbound N Nanaimo St @ Eton St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.054072,
-     49.288625
-    ],
-    "type": "Point"
-   },
-   "id": "445",
-   "properties": {
-    "code": "50441",
-    "desc": "",
-    "id": "445",
-    "name": "Eastbound McGill St @ N Kamloops St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -5638,25 +5372,6 @@
     "desc": "",
     "id": "447",
     "name": "Eastbound McGill St @ N Slocan St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.044419,
-     49.288597
-    ],
-    "type": "Point"
-   },
-   "id": "448",
-   "properties": {
-    "code": "50444",
-    "desc": "",
-    "id": "448",
-    "name": "Eastbound McGill St @ N Renfrew St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -6322,25 +6037,6 @@
     "desc": "",
     "id": "512",
     "name": "Westbound Powell St @ Commercial Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.072968,
-     49.283476
-    ],
-    "type": "Point"
-   },
-   "id": "513",
-   "properties": {
-    "code": "50509",
-    "desc": "",
-    "id": "513",
-    "name": "Westbound Powell St @ Woodland Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -7166,25 +6862,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.153127,
-     49.268224
-    ],
-    "type": "Point"
-   },
-   "id": "587",
-   "properties": {
-    "code": "50581",
-    "desc": "",
-    "id": "587",
-    "name": "Westbound W 4th Ave @ Arbutus St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.160246,
      49.26833
     ],
@@ -7234,25 +6911,6 @@
     "desc": "",
     "id": "591",
     "name": "Westbound W 4th Ave @ Macdonald St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.17144,
-     49.268499
-    ],
-    "type": "Point"
-   },
-   "id": "592",
-   "properties": {
-    "code": "50586",
-    "desc": "",
-    "id": "592",
-    "name": "Westbound W 4th Ave @ Bayswater St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -7337,25 +6995,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.194068,
-     49.268843
-    ],
-    "type": "Point"
-   },
-   "id": "598",
-   "properties": {
-    "code": "50592",
-    "desc": "",
-    "id": "598",
-    "name": "Westbound W 4th Ave @ 4000 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.197836,
      49.268917
     ],
@@ -7432,25 +7071,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.212458,
-     49.269149
-    ],
-    "type": "Point"
-   },
-   "id": "603",
-   "properties": {
-    "code": "50597",
-    "desc": "",
-    "id": "603",
-    "name": "Westbound W 4th Ave @ Tolmie St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.215183,
      49.268693
     ],
@@ -7462,25 +7082,6 @@
     "desc": "",
     "id": "604",
     "name": "Southbound Blanca St @ W 4th Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.215227,
-     49.267013
-    ],
-    "type": "Point"
-   },
-   "id": "605",
-   "properties": {
-    "code": "50599",
-    "desc": "",
-    "id": "605",
-    "name": "Southbound Blanca St @ W 6th Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -8344,25 +7945,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.056723,
-     49.28183
-    ],
-    "type": "Point"
-   },
-   "id": "677",
-   "properties": {
-    "code": "50670",
-    "desc": "",
-    "id": "677",
-    "name": "Southbound Nanaimo St @ Franklin St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.056725,
      49.280782
     ],
@@ -8382,25 +7964,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.056696,
-     49.279266
-    ],
-    "type": "Point"
-   },
-   "id": "679",
-   "properties": {
-    "code": "50672",
-    "desc": "",
-    "id": "679",
-    "name": "Southbound Nanaimo St @ Turner St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.056711,
      49.277149
     ],
@@ -8412,25 +7975,6 @@
     "desc": "",
     "id": "680",
     "name": "Southbound Nanaimo St @ Adanac St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.056723,
-     49.275303
-    ],
-    "type": "Point"
-   },
-   "id": "681",
-   "properties": {
-    "code": "50674",
-    "desc": "",
-    "id": "681",
-    "name": "Southbound Nanaimo St @ Parker St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -8515,25 +8059,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.056749,
-     49.26381
-    ],
-    "type": "Point"
-   },
-   "id": "688",
-   "properties": {
-    "code": "50681",
-    "desc": "",
-    "id": "688",
-    "name": "Southbound Nanaimo St @ E 7th Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.057336,
      49.26234
     ],
@@ -8564,25 +8089,6 @@
     "desc": "",
     "id": "690",
     "name": "Southbound Nanaimo St @ E Broadway",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.056742,
-     49.259148
-    ],
-    "type": "Point"
-   },
-   "id": "691",
-   "properties": {
-    "code": "50684",
-    "desc": "",
-    "id": "691",
-    "name": "Southbound Nanaimo St @ E 12 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -9142,25 +8648,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.056463,
-     49.258726
-    ],
-    "type": "Point"
-   },
-   "id": "726",
-   "properties": {
-    "code": "50719",
-    "desc": "",
-    "id": "726",
-    "name": "Northbound Nanaimo St @ N Grandview Hwy",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.056471,
      49.260339
     ],
@@ -9256,25 +8743,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.056451,
-     49.271635
-    ],
-    "type": "Point"
-   },
-   "id": "732",
-   "properties": {
-    "code": "50725",
-    "desc": "",
-    "id": "732",
-    "name": "Northbound Nanaimo St @ Grant St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.056442,
      49.273616
     ],
@@ -9294,25 +8762,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.056443,
-     49.275206
-    ],
-    "type": "Point"
-   },
-   "id": "734",
-   "properties": {
-    "code": "50727",
-    "desc": "",
-    "id": "734",
-    "name": "Northbound Nanaimo St @ Napier St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.056428,
      49.277801
     ],
@@ -9324,25 +8773,6 @@
     "desc": "",
     "id": "735",
     "name": "Northbound Nanaimo St @ Adanac St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.056382,
-     49.280521
-    ],
-    "type": "Point"
-   },
-   "id": "736",
-   "properties": {
-    "code": "50729",
-    "desc": "",
-    "id": "736",
-    "name": "Northbound Nanaimo St @ E Pender St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -9419,25 +8849,6 @@
     "desc": "",
     "id": "742",
     "name": "Northbound Nanaimo St @ E Hastings St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.056396,
-     49.283304
-    ],
-    "type": "Point"
-   },
-   "id": "743",
-   "properties": {
-    "code": "50736",
-    "desc": "",
-    "id": "743",
-    "name": "Northbound Nanaimo St @ Pandora St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -36236,6 +35647,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.953152,
+     49.210392
+    ],
+    "type": "Point"
+   },
+   "id": "2632",
+   "properties": {
+    "code": "52607",
+    "desc": "",
+    "id": "2632",
+    "name": "Eastbound 14 Ave @ Griffiths Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.947328,
+     49.214153
+    ],
+    "type": "Point"
+   },
+   "id": "2634",
+   "properties": {
+    "code": "52609",
+    "desc": "",
+    "id": "2634",
+    "name": "Westbound 14 Ave @ 15 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.943021,
      49.21627
     ],
@@ -36551,6 +36000,25 @@
     "desc": "",
     "id": "2654",
     "name": "Eastbound 14 Ave @ 15 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.953538,
+     49.210182
+    ],
+    "type": "Point"
+   },
+   "id": "2656",
+   "properties": {
+    "code": "52631",
+    "desc": "",
+    "id": "2656",
+    "name": "Westbound 14 Ave @ Griffiths Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -125289,25 +124757,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.158111,
-     49.268301
-    ],
-    "type": "Point"
-   },
-   "id": "9093",
-   "properties": {
-    "code": "58299",
-    "desc": "",
-    "id": "9093",
-    "name": "Westbound W 4th Ave @ Vine St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.065593,
      49.235445
     ],
@@ -165018,25 +164467,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.056738,
-     49.270892
-    ],
-    "type": "Point"
-   },
-   "id": "12700",
-   "properties": {
-    "code": "60439",
-    "desc": "",
-    "id": "12700",
-    "name": "Southbound Nanaimo St @ Grant St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.152113,
      49.260922
     ],
@@ -165561,25 +164991,6 @@
     "desc": "",
     "id": "12744",
     "name": "Westbound W 49 Ave @ Yew St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.945786,
-     49.213415
-    ],
-    "type": "Point"
-   },
-   "id": "12746",
-   "properties": {
-    "code": "60513",
-    "desc": "",
-    "id": "12746",
-    "name": "Southbound 15 St @ 14 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166378,6 +165789,120 @@
     "desc": "",
     "id": "12810",
     "name": "Westbound Kincaid St @ Ingleton Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.177316,
+     49.268415
+    ],
+    "type": "Point"
+   },
+   "id": "12811",
+   "properties": {
+    "code": "60570",
+    "desc": "",
+    "id": "12811",
+    "name": "Eastbound W 4th Ave @ Blenheim St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.173351,
+     49.268359
+    ],
+    "type": "Point"
+   },
+   "id": "12812",
+   "properties": {
+    "code": "60571",
+    "desc": "",
+    "id": "12812",
+    "name": "Eastbound W 4th Ave @ Balaclava St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.154618,
+     49.268084
+    ],
+    "type": "Point"
+   },
+   "id": "12813",
+   "properties": {
+    "code": "60572",
+    "desc": "",
+    "id": "12813",
+    "name": "Eastbound W 4th Ave @ Yew St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.150017,
+     49.26801
+    ],
+    "type": "Point"
+   },
+   "id": "12814",
+   "properties": {
+    "code": "61762",
+    "desc": "",
+    "id": "12814",
+    "name": "Eastbound W 4th Ave @ Maple St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.155606,
+     49.268267
+    ],
+    "type": "Point"
+   },
+   "id": "12815",
+   "properties": {
+    "code": "60574",
+    "desc": "",
+    "id": "12815",
+    "name": "Westbound W 4th Ave @ Yew St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.186038,
+     49.263217
+    ],
+    "type": "Point"
+   },
+   "id": "12816",
+   "properties": {
+    "code": "60575",
+    "desc": "",
+    "id": "12816",
+    "name": "Southbound Alma St @ W 10 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
