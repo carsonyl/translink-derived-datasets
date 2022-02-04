@@ -2644,25 +2644,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.10114,
-     49.262541
-    ],
-    "type": "Point"
-   },
-   "id": "240",
-   "properties": {
-    "code": "50238",
-    "desc": "",
-    "id": "240",
-    "name": "Southbound Main St @ E Broadway",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.10127,
      49.259888
     ],
@@ -135853,25 +135834,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.117968,
-     49.266015
-    ],
-    "type": "Point"
-   },
-   "id": "10355",
-   "properties": {
-    "code": "59755",
-    "desc": "",
-    "id": "10355",
-    "name": "Westbound W 6th Ave @ Ash St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.132576,
      49.266199
     ],
@@ -135883,25 +135845,6 @@
     "desc": "",
     "id": "10357",
     "name": "Westbound W 6th Ave @ Alder Crossing",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.131764,
-     49.266027
-    ],
-    "type": "Point"
-   },
-   "id": "10358",
-   "properties": {
-    "code": "59752",
-    "desc": "",
-    "id": "10358",
-    "name": "Eastbound W 6th Ave @ Alder Crossing",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -135978,25 +135921,6 @@
     "desc": "",
     "id": "10362",
     "name": "Eastbound E 2nd Ave @ Ontario St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.100066,
-     49.268684
-    ],
-    "type": "Point"
-   },
-   "id": "10363",
-   "properties": {
-    "code": "59762",
-    "desc": "",
-    "id": "10363",
-    "name": "Eastbound E 2nd Ave @ Main St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165056,6 +164980,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.101149,
+     49.26318
+    ],
+    "type": "Point"
+   },
+   "id": "12749",
+   "properties": {
+    "code": "60517",
+    "desc": "",
+    "id": "12749",
+    "name": "Southbound Main St @ E Broadway",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.961087,
      49.217902
     ],
@@ -165941,6 +165884,44 @@
     "desc": "",
     "id": "12816",
     "name": "Southbound Alma St @ W 10 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.099412,
+     49.268312
+    ],
+    "type": "Point"
+   },
+   "id": "12818",
+   "properties": {
+    "code": "60554",
+    "desc": "",
+    "id": "12818",
+    "name": "Eastbound E 2nd Ave @ Lorne St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.130869,
+     49.26601
+    ],
+    "type": "Point"
+   },
+   "id": "12819",
+   "properties": {
+    "code": "60553",
+    "desc": "",
+    "id": "12819",
+    "name": "Eastbound W 6th Ave @ Spruce St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
