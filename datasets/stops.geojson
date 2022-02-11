@@ -10168,25 +10168,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.131063,
-     49.20453
-    ],
-    "type": "Point"
-   },
-   "id": "826",
-   "properties": {
-    "code": "50819",
-    "desc": "",
-    "id": "826",
-    "name": "Westbound SW Marine Dr @ Oak St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.090933,
      49.212147
     ],
@@ -30262,25 +30243,6 @@
     "desc": "",
     "id": "2239",
     "name": "Westbound SW Marine Dr @ Ash St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.1248,
-     49.207049
-    ],
-    "type": "Point"
-   },
-   "id": "2240",
-   "properties": {
-    "code": "52218",
-    "desc": "",
-    "id": "2240",
-    "name": "Westbound SW Marine Dr @ Logan St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -92582,25 +92544,6 @@
     "desc": "",
     "id": "6467",
     "name": "Surrey Central Station @ Bay 11",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.842052,
-     49.181723
-    ],
-    "type": "Point"
-   },
-   "id": "6468",
-   "properties": {
-    "code": "58164",
-    "desc": "",
-    "id": "6468",
-    "name": "King George Station @ Bay 3",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165921,7 +165864,45 @@
     "code": "60553",
     "desc": "",
     "id": "12819",
-    "name": "Eastbound W 6th Ave @ Spruce St",
+    "name": "Eastbound W 6th Ave @ Alder St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.132674,
+     49.203928
+    ],
+    "type": "Point"
+   },
+   "id": "12820",
+   "properties": {
+    "code": "60578",
+    "desc": "",
+    "id": "12820",
+    "name": "Westbound SW Marine Dr @ Osler St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.023565,
+     49.169942
+    ],
+    "type": "Point"
+   },
+   "id": "12821",
+   "properties": {
+    "code": "61785",
+    "desc": "",
+    "id": "12821",
+    "name": "Westbound Westminster Hwy @ No. 8th Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
