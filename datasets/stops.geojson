@@ -10168,6 +10168,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.131063,
+     49.20453
+    ],
+    "type": "Point"
+   },
+   "id": "826",
+   "properties": {
+    "code": "50819",
+    "desc": "",
+    "id": "826",
+    "name": "Westbound SW Marine Dr @ Oak St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.090933,
      49.212147
     ],
@@ -24456,6 +24475,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.032543,
+     49.310961
+    ],
+    "type": "Point"
+   },
+   "id": "1764",
+   "properties": {
+    "code": "51750",
+    "desc": "",
+    "id": "1764",
+    "name": "Northbound Mountain Hwy @ Hunter St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.023902,
      49.315778
     ],
@@ -24524,6 +24562,25 @@
     "desc": "",
     "id": "1770",
     "name": "Southbound Lillooet Rd @ Mt Seymour Parkway",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.032716,
+     49.311044
+    ],
+    "type": "Point"
+   },
+   "id": "1771",
+   "properties": {
+    "code": "51757",
+    "desc": "",
+    "id": "1771",
+    "name": "Southbound Mountain Hwy @ Fern St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -29092,25 +29149,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.019656,
-     49.208059
-    ],
-    "type": "Point"
-   },
-   "id": "2165",
-   "properties": {
-    "code": "52145",
-    "desc": "",
-    "id": "2165",
-    "name": "Eastbound Marine Dr @ Joffre Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.017485,
      49.208273
     ],
@@ -32922,25 +32960,6 @@
     "desc": "",
     "id": "2439",
     "name": "Eastbound Edmonds St @ 6th St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.935179,
-     49.224881
-    ],
-    "type": "Point"
-   },
-   "id": "2440",
-   "properties": {
-    "code": "52416",
-    "desc": "",
-    "id": "2440",
-    "name": "Southbound 6th St @ 18 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -54259,25 +54278,6 @@
     "desc": "",
     "id": "4002",
     "name": "Westbound E 3rd St @ Moody Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.032491,
-     49.311744
-    ],
-    "type": "Point"
-   },
-   "id": "4003",
-   "properties": {
-    "code": "53962",
-    "desc": "",
-    "id": "4003",
-    "name": "Northbound Mountain Hwy @ Fern St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -133421,25 +133421,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.756045,
-     49.119007
-    ],
-    "type": "Point"
-   },
-   "id": "10150",
-   "properties": {
-    "code": "60830",
-    "desc": "",
-    "id": "10150",
-    "name": "Westbound 64 Ave @ 168 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.940342,
      49.202286
     ],
@@ -147500,25 +147481,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116867,
-     49.23344
-    ],
-    "type": "Point"
-   },
-   "id": "11353",
-   "properties": {
-    "code": "50136",
-    "desc": "",
-    "id": "11353",
-    "name": "Oakridge-41st Ave Station @ Bay 2",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.117599,
      49.233712
     ],
@@ -149145,25 +149107,6 @@
     "desc": "",
     "id": "11532",
     "name": "Northbound Granville St @ Smithe St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.122294,
-     49.279628
-    ],
-    "type": "Point"
-   },
-   "id": "11533",
-   "properties": {
-    "code": "50222",
-    "desc": "",
-    "id": "11533",
-    "name": "Northbound Granville St @ Nelson St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -162928,6 +162871,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.11497,
+     49.233382
+    ],
+    "type": "Point"
+   },
+   "id": "12586",
+   "properties": {
+    "code": "60349",
+    "desc": "",
+    "id": "12586",
+    "name": "Eastbound W 41 Ave @ Cambie St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.938112,
      49.254743
     ],
@@ -165284,25 +165246,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.10025,
-     49.26297
-    ],
-    "type": "Point"
-   },
-   "id": "12774",
-   "properties": {
-    "code": "60539",
-    "desc": "",
-    "id": "12774",
-    "name": "Westbound E Broadway @ Kingsway",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.073752,
      49.249256
     ],
@@ -165873,25 +165816,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.132674,
-     49.203928
-    ],
-    "type": "Point"
-   },
-   "id": "12820",
-   "properties": {
-    "code": "60578",
-    "desc": "",
-    "id": "12820",
-    "name": "Westbound SW Marine Dr @ Osler St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.023565,
      49.169942
     ],
@@ -165903,6 +165827,25 @@
     "desc": "",
     "id": "12821",
     "name": "Westbound Westminster Hwy @ No. 8th Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.104155,
+     49.263084
+    ],
+    "type": "Point"
+   },
+   "id": "12822",
+   "properties": {
+    "code": "60579",
+    "desc": "",
+    "id": "12822",
+    "name": "Westbound E Broadway @ Quebec",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
