@@ -68688,44 +68688,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.911138,
-     49.13381
-    ],
-    "type": "Point"
-   },
-   "id": "4912",
-   "properties": {
-    "code": "54860",
-    "desc": "",
-    "id": "4912",
-    "name": "Eastbound 72 Ave @ 11200 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.908733,
-     49.133825
-    ],
-    "type": "Point"
-   },
-   "id": "4913",
-   "properties": {
-    "code": "54861",
-    "desc": "",
-    "id": "4913",
-    "name": "Eastbound 72 Ave @ 113 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.904857,
      49.133863
     ],
@@ -150920,8 +150882,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.924592,
-     49.211032
+     -122.923688,
+     49.211448
     ],
     "type": "Point"
    },
