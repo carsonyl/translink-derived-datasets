@@ -92818,8 +92818,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.181192,
-     49.13417
+     -123.181236,
+     49.135024
     ],
     "type": "Point"
    },
@@ -92828,7 +92828,7 @@
     "code": "56425",
     "desc": "",
     "id": "6486",
-    "name": "Northbound No. 1 Rd @ Steveston Hwy",
+    "name": "Northbound No. 1 Rd @ Shuswap Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -140945,8 +140945,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.014165,
-     49.159559
+     -123.014668,
+     49.159582
     ],
     "type": "Point"
    },
@@ -162301,8 +162301,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.023789,
-     49.169828
+     -123.023627,
+     49.16985
     ],
     "type": "Point"
    },
