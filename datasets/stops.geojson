@@ -31239,82 +31239,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.924862,
-     49.227572
-    ],
-    "type": "Point"
-   },
-   "id": "2315",
-   "properties": {
-    "code": "52293",
-    "desc": "",
-    "id": "2315",
-    "name": "Southbound 1st St @ 16 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.923065,
-     49.226146
-    ],
-    "type": "Point"
-   },
-   "id": "2316",
-   "properties": {
-    "code": "52294",
-    "desc": "",
-    "id": "2316",
-    "name": "Southbound 1st St @ 14 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.923659,
-     49.223714
-    ],
-    "type": "Point"
-   },
-   "id": "2318",
-   "properties": {
-    "code": "52296",
-    "desc": "",
-    "id": "2318",
-    "name": "Westbound 12 Ave @ 2nd St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.927,
-     49.221906
-    ],
-    "type": "Point"
-   },
-   "id": "2319",
-   "properties": {
-    "code": "52297",
-    "desc": "",
-    "id": "2319",
-    "name": "Westbound 12 Ave @ 4th St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.929311,
      49.220227
     ],
@@ -34583,25 +34507,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.963811,
-     49.261458
-    ],
-    "type": "Point"
-   },
-   "id": "2559",
-   "properties": {
-    "code": "52534",
-    "desc": "",
-    "id": "2559",
-    "name": "Eastbound Broadway @ Sperling Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.955835,
      49.250878
     ],
@@ -34917,44 +34822,6 @@
     "desc": "",
     "id": "2586",
     "name": "Westbound Winston St @ 7200 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.956521,
-     49.261514
-    ],
-    "type": "Point"
-   },
-   "id": "2591",
-   "properties": {
-    "code": "52566",
-    "desc": "",
-    "id": "2591",
-    "name": "Westbound Broadway @ Bainbridge Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.959556,
-     49.261966
-    ],
-    "type": "Point"
-   },
-   "id": "2592",
-   "properties": {
-    "code": "52567",
-    "desc": "",
-    "id": "2592",
-    "name": "Westbound Broadway @ Cliff Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -61953,7 +61820,7 @@
     "code": "54444",
     "desc": "",
     "id": "4494",
-    "name": "Westbound W Georgia St @ Richards St",
+    "name": "Westbound W Georgia St @ Homer St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -123997,25 +123864,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.921822,
-     49.2247
-    ],
-    "type": "Point"
-   },
-   "id": "9028",
-   "properties": {
-    "code": "58263",
-    "desc": "",
-    "id": "9028",
-    "name": "Westbound 12 Ave @ 1st St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.959289,
      49.168551
     ],
@@ -124483,25 +124331,6 @@
     "desc": "",
     "id": "9075",
     "name": "Westbound River Rd @ McDonald Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.960766,
-     49.261675
-    ],
-    "type": "Point"
-   },
-   "id": "9081",
-   "properties": {
-    "code": "58264",
-    "desc": "",
-    "id": "9081",
-    "name": "Eastbound Broadway @ Ellerslie Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -142294,25 +142123,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.956905,
-     49.26148
-    ],
-    "type": "Point"
-   },
-   "id": "11001",
-   "properties": {
-    "code": "52535",
-    "desc": "",
-    "id": "11001",
-    "name": "Eastbound Broadway @ E Ellerslie Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.922785,
      49.155985
     ],
@@ -151634,25 +151444,6 @@
     "desc": "",
     "id": "11732",
     "name": "Eastbound 12 Ave @ 6th St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.929167,
-     49.220753
-    ],
-    "type": "Point"
-   },
-   "id": "11733",
-   "properties": {
-    "code": "61601",
-    "desc": "",
-    "id": "11733",
-    "name": "Westbound 12 Ave @ 6th St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165808,6 +165599,25 @@
     "desc": "",
     "id": "12822",
     "name": "Westbound E Broadway @ Quebec",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.925644,
+     49.227807
+    ],
+    "type": "Point"
+   },
+   "id": "12824",
+   "properties": {
+    "code": "52253",
+    "desc": "",
+    "id": "12824",
+    "name": "Westbound 16 Ave @ 1st St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
