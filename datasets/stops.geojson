@@ -30517,25 +30517,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.923426,
-     49.211406
-    ],
-    "type": "Point"
-   },
-   "id": "2263",
-   "properties": {
-    "code": "52241",
-    "desc": "",
-    "id": "2263",
-    "name": "Eastbound 6th Ave @ 8th St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.920751,
      49.213612
     ],
@@ -92685,25 +92666,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.181236,
-     49.135024
-    ],
-    "type": "Point"
-   },
-   "id": "6486",
-   "properties": {
-    "code": "56425",
-    "desc": "",
-    "id": "6486",
-    "name": "Northbound No. 1 Rd @ Shuswap Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.181233,
      49.136348
     ],
@@ -133858,25 +133820,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.010666,
-     49.200252
-    ],
-    "type": "Point"
-   },
-   "id": "10221",
-   "properties": {
-    "code": "59721",
-    "desc": "",
-    "id": "10221",
-    "name": "Westbound North Fraser Way @ Glenlyon Parkway West",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.991151,
      49.264976
     ],
@@ -142883,6 +142826,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.079787,
+     49.240161
+    ],
+    "type": "Point"
+   },
+   "id": "11060",
+   "properties": {
+    "code": "61135",
+    "desc": "",
+    "id": "11060",
+    "name": "Eastbound E 33 Ave @ Inverness St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.080645,
      49.240296
     ],
@@ -150692,25 +150654,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.923688,
-     49.211448
-    ],
-    "type": "Point"
-   },
-   "id": "11682",
-   "properties": {
-    "code": "61599",
-    "desc": "",
-    "id": "11682",
-    "name": "Westbound Sixth Ave @ Eighth St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.11413,
      49.181509
     ],
@@ -155301,6 +155244,25 @@
     "desc": "",
     "id": "12022",
     "name": "Moody Centre Station @ Bay 3",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.924519,
+     49.210964
+    ],
+    "type": "Point"
+   },
+   "id": "12024",
+   "properties": {
+    "code": "53583",
+    "desc": "",
+    "id": "12024",
+    "name": "Westbound 6th Ave @ 8th St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165618,6 +165580,25 @@
     "desc": "",
     "id": "12824",
     "name": "Westbound 16 Ave @ 1st St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.918733,
+     49.254862
+    ],
+    "type": "Point"
+   },
+   "id": "12825",
+   "properties": {
+    "code": "59446",
+    "desc": "",
+    "id": "12825",
+    "name": "Southbound Production Way @ Thunderbird Cres",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
