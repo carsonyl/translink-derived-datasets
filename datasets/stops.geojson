@@ -5152,8 +5152,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.091703,
-     49.28207
+     -123.091063,
+     49.282067
     ],
     "type": "Point"
    },
@@ -20124,25 +20124,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.003957,
-     49.281119
-    ],
-    "type": "Point"
-   },
-   "id": "1477",
-   "properties": {
-    "code": "51465",
-    "desc": "",
-    "id": "1477",
-    "name": "Westbound Hastings St @ Willingdon Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.009258,
      49.281127
     ],
@@ -20230,25 +20211,6 @@
     "desc": "",
     "id": "1482",
     "name": "Kootenay Loop @ Bay 6",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.120865,
-     49.287731
-    ],
-    "type": "Point"
-   },
-   "id": "1483",
-   "properties": {
-    "code": "51471",
-    "desc": "",
-    "id": "1483",
-    "name": "Westbound W Pender St @ Thurlow St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -136233,25 +136195,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.098684,
-     49.273162
-    ],
-    "type": "Point"
-   },
-   "id": "10435",
-   "properties": {
-    "code": "59929",
-    "desc": "",
-    "id": "10435",
-    "name": "Main Street-Science World Station @ Bay 3",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.822421,
      49.07214
     ],
@@ -136651,8 +136594,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.101521,
-     49.273359
+     -123.101534,
+     49.273368
     ],
     "type": "Point"
    },
@@ -136757,25 +136700,6 @@
     "desc": "",
     "id": "10485",
     "name": "Southbound 80 St @ 4700 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.099441,
-     49.274846
-    ],
-    "type": "Point"
-   },
-   "id": "10486",
-   "properties": {
-    "code": "59928",
-    "desc": "",
-    "id": "10486",
-    "name": "Eastbound National Ave @ Main St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165599,6 +165523,44 @@
     "desc": "",
     "id": "12825",
     "name": "Southbound Production Way @ Thunderbird Cres",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.003852,
+     49.281121
+    ],
+    "type": "Point"
+   },
+   "id": "12826",
+   "properties": {
+    "code": "60586",
+    "desc": "",
+    "id": "12826",
+    "name": "Westbound Hastings St @ Willingdon Ave-",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.002663,
+     49.281129
+    ],
+    "type": "Point"
+   },
+   "id": "12827",
+   "properties": {
+    "code": "60587",
+    "desc": "",
+    "id": "12827",
+    "name": "Westbound Hastings St @ Willingdon Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
