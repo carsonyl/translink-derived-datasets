@@ -52158,6 +52158,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.743447,
+     49.2713
+    ],
+    "type": "Point"
+   },
+   "id": "3853",
+   "properties": {
+    "code": "53814",
+    "desc": "",
+    "id": "3853",
+    "name": "Westbound Prairie Ave @ Finley St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.749479,
+     49.271272
+    ],
+    "type": "Point"
+   },
+   "id": "3854",
+   "properties": {
+    "code": "53815",
+    "desc": "",
+    "id": "3854",
+    "name": "Westbound Prairie Ave @ Newberry St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.753631,
      49.271272
     ],
@@ -52492,6 +52530,25 @@
     "desc": "",
     "id": "3879",
     "name": "Eastbound Prairie Ave @ Kilmer St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.744239,
+     49.271172
+    ],
+    "type": "Point"
+   },
+   "id": "3880",
+   "properties": {
+    "code": "53840",
+    "desc": "",
+    "id": "3880",
+    "name": "Eastbound Prairie Ave @ Norfolk St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -67719,25 +67776,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.904771,
-     49.134002
-    ],
-    "type": "Point"
-   },
-   "id": "4850",
-   "properties": {
-    "code": "54798",
-    "desc": "",
-    "id": "4850",
-    "name": "Westbound 72 Ave @ 115 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.908923,
      49.133974
     ],
@@ -68490,25 +68528,6 @@
     "desc": "",
     "id": "4908",
     "name": "Eastbound River Rd @ 9500 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.904857,
-     49.133863
-    ],
-    "type": "Point"
-   },
-   "id": "4914",
-   "properties": {
-    "code": "54862",
-    "desc": "",
-    "id": "4914",
-    "name": "Eastbound 72 Ave @ 114A St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -150312,25 +150331,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.122926,
-     49.324577
-    ],
-    "type": "Point"
-   },
-   "id": "11645",
-   "properties": {
-    "code": "61563",
-    "desc": "",
-    "id": "11645",
-    "name": "Westbound Marine Dr @ Capilano Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.10684,
      49.282004
     ],
@@ -153219,8 +153219,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.939744,
-     49.157573
+     -122.939862,
+     49.157514
     ],
     "type": "Point"
    },
