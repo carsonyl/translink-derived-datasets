@@ -3062,6 +3062,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.235217,
+     49.265327
+    ],
+    "type": "Point"
+   },
+   "id": "273",
+   "properties": {
+    "code": "50270",
+    "desc": "",
+    "id": "273",
+    "name": "Eastbound University Blvd @ 5300 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.229095,
      49.263486
     ],
@@ -23364,7 +23383,7 @@
     "code": "51671",
     "desc": "",
     "id": "1685",
-    "name": "Joyce Station @ Bay 5",
+    "name": "Joyce Station @ Bay 2",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -24960,7 +24979,7 @@
     "code": "51787",
     "desc": "",
     "id": "1801",
-    "name": "Joyce Station @ Bay 3",
+    "name": "Joyce Station @ Bay 4",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -38497,82 +38516,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.953438,
-     49.267617
-    ],
-    "type": "Point"
-   },
-   "id": "2860",
-   "properties": {
-    "code": "52831",
-    "desc": "",
-    "id": "2860",
-    "name": "Southbound Duthie Ave @ Halifax St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.953467,
-     49.26513
-    ],
-    "type": "Point"
-   },
-   "id": "2861",
-   "properties": {
-    "code": "52832",
-    "desc": "",
-    "id": "2861",
-    "name": "Southbound Duthie Ave @ Camarillo Place",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.953487,
-     49.263035
-    ],
-    "type": "Point"
-   },
-   "id": "2862",
-   "properties": {
-    "code": "52833",
-    "desc": "",
-    "id": "2862",
-    "name": "Southbound Duthie Ave @ Gibson St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.953511,
-     49.261553
-    ],
-    "type": "Point"
-   },
-   "id": "2863",
-   "properties": {
-    "code": "52834",
-    "desc": "",
-    "id": "2863",
-    "name": "Southbound Duthie Ave @ Broadway",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.936395,
      49.260851
     ],
@@ -48217,6 +48160,25 @@
     "desc": "",
     "id": "3554",
     "name": "Eastbound Brunette Ave @ Laurentian Cres",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.847022,
+     49.238641
+    ],
+    "type": "Point"
+   },
+   "id": "3555",
+   "properties": {
+    "code": "53517",
+    "desc": "",
+    "id": "3555",
+    "name": "Eastbound Brunette Ave @ Cayer St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -63986,7 +63948,7 @@
     "code": "54572",
     "desc": "",
     "id": "4624",
-    "name": "Southbound Marine Dr @ The Crossway",
+    "name": "Southbound Marine Dr @ Crossway",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -64233,7 +64195,7 @@
     "code": "54585",
     "desc": "",
     "id": "4637",
-    "name": "Eastbound Marine Dr @ 3300 Block",
+    "name": "Eastbound Marine Dr @ Gables Lane",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -64993,7 +64955,7 @@
     "code": "54629",
     "desc": "",
     "id": "4681",
-    "name": "Westbound Marine Dr @ 3300 Block",
+    "name": "Westbound Marine Dr @ Gables Lane",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -65240,7 +65202,7 @@
     "code": "54642",
     "desc": "",
     "id": "4694",
-    "name": "Northbound Marine Dr @ The Crossway",
+    "name": "Northbound Marine Dr @ Crossway",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -92362,25 +92324,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.842052,
-     49.181723
-    ],
-    "type": "Point"
-   },
-   "id": "6468",
-   "properties": {
-    "code": "58164",
-    "desc": "",
-    "id": "6468",
-    "name": "King George Station @ Bay 3",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.833717,
      49.178455
     ],
@@ -92677,6 +92620,25 @@
     "desc": "",
     "id": "6485",
     "name": "Northbound No. 1 Rd @ Georgia St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.181213,
+     49.13419
+    ],
+    "type": "Point"
+   },
+   "id": "6486",
+   "properties": {
+    "code": "56425",
+    "desc": "",
+    "id": "6486",
+    "name": "Northbound No. 1 Rd @ Steveston Hwy",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -119352,7 +119314,7 @@
     "code": "58249",
     "desc": "",
     "id": "8563",
-    "name": "Joyce Station @ Bay 1",
+    "name": "Joyce Station @ Bay 6",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -120549,7 +120511,7 @@
     "code": "58344",
     "desc": "",
     "id": "8673",
-    "name": "Northbound Gilmore Ave @ Dawson St",
+    "name": "Gilmore Station @ Bay 1",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -120568,7 +120530,7 @@
     "code": "58345",
     "desc": "",
     "id": "8674",
-    "name": "Westbound Henning Dr @ Gilmore Ave",
+    "name": "Gilmore Station @ Bay 3",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -128662,7 +128624,7 @@
     "code": "58346",
     "desc": "",
     "id": "9505",
-    "name": "Southbound Gilmore Ave @ Henning Dr",
+    "name": "Gilmore Station @ Bay 2",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -128966,7 +128928,7 @@
     "code": "53249",
     "desc": "",
     "id": "9541",
-    "name": "White Pine Beach Rd @ Norton Court",
+    "name": "Bus Stop @ White Pine Beach",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -147500,6 +147462,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.116867,
+     49.23344
+    ],
+    "type": "Point"
+   },
+   "id": "11353",
+   "properties": {
+    "code": "50136",
+    "desc": "",
+    "id": "11353",
+    "name": "Oakridge-41st Ave Station @ Bay 2",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.117599,
      49.233712
     ],
@@ -150816,7 +150797,7 @@
     "code": "61609",
     "desc": "",
     "id": "11674",
-    "name": "Joyce Station @ Bay 4",
+    "name": "Joyce Station @ Bay 5",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -162890,25 +162871,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.11497,
-     49.233382
-    ],
-    "type": "Point"
-   },
-   "id": "12586",
-   "properties": {
-    "code": "60349",
-    "desc": "",
-    "id": "12586",
-    "name": "Eastbound W 41 Ave @ Cambie St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.938112,
      49.254743
     ],
@@ -162947,8 +162909,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.800385,
-     49.256268
+     -122.800598,
+     49.255729
     ],
     "type": "Point"
    },
