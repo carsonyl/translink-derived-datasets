@@ -1035,7 +1035,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "PHIBBS EXCH",
+  "destination": "MOUNTAIN HWY EXP/TO PHIBBS EXCH",
   "direction": "SOUTH",
   "name": "210-S2A",
   "operating-company": "CMBC",

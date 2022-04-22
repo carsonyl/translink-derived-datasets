@@ -675,7 +675,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "BRIGHOUSE STN",
+  "destination": "GARDEN CITY/TO BRIGHOUSE STN",
   "direction": "WEST",
   "name": "408-WB1",
   "operating-company": "CMBC",

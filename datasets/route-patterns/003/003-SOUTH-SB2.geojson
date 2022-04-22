@@ -1625,7 +1625,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "MAIN-MARINE DR STN",
+  "destination": "MAIN/TO MARINE DR STN",
   "direction": "SOUTH",
   "name": "003-SB2",
   "operating-company": "CMBC",

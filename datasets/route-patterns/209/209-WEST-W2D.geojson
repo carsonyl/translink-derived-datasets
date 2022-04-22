@@ -1215,7 +1215,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "BURRARD STN",
+  "destination": "MOUNTAIN HWY/TO BURRARD STN",
   "direction": "WEST",
   "name": "209-W2D",
   "operating-company": "CMBC",

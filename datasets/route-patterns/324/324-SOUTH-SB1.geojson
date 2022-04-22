@@ -915,7 +915,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "NEWTON EXCH",
+  "destination": "132 STREET/TO NEWTON EXCH",
   "direction": "SOUTH",
   "name": "324-SB1",
   "operating-company": "CMBC",

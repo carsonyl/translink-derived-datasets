@@ -2235,7 +2235,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "BURRARD STN",
+  "destination": "MOUNTAIN HWY EXP/TO BURRARD STN",
   "direction": "SOUTH",
   "name": "210-S1",
   "operating-company": "CMBC",

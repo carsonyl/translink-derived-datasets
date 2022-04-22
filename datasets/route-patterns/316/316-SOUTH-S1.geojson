@@ -1185,7 +1185,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "SCOTTSDALE",
+  "destination": "116 STREET/TO SCOTTSDALE",
   "direction": "SOUTH",
   "name": "316-S1",
   "operating-company": "CMBC",

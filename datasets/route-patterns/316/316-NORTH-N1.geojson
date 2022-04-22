@@ -1195,7 +1195,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "SURREY CTRL STN",
+  "destination": "116 STREET/TO SURREY CTRL",
   "direction": "NORTH",
   "name": "316-N1",
   "operating-company": "CMBC",

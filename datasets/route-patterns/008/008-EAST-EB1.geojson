@@ -1335,7 +1335,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "FRASER",
+  "destination": "FRASER/TO MARINE DR",
   "direction": "EAST",
   "name": "008-EB1",
   "operating-company": "CMBC",
