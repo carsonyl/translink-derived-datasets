@@ -820,25 +820,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.113635,
-     49.279172
-    ],
-    "type": "Point"
-   },
-   "id": "82",
-   "properties": {
-    "code": "50082",
-    "desc": "",
-    "id": "82",
-    "name": "Southbound Cambie St @ W Georgia St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.104998,
      49.280707
     ],
@@ -26489,63 +26470,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.239004,
-     49.273342
-    ],
-    "type": "Point"
-   },
-   "id": "1932",
-   "properties": {
-    "code": "51916",
-    "desc": "",
-    "id": "1932",
-    "name": "Westbound Chancellor Blvd @ Hamber Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.246195,
-     49.273563
-    ],
-    "type": "Point"
-   },
-   "id": "1933",
-   "properties": {
-    "code": "51917",
-    "desc": "",
-    "id": "1933",
-    "name": "Westbound Chancellor Blvd @ Allison Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.246837,
-     49.273301
-    ],
-    "type": "Point"
-   },
-   "id": "1945",
-   "properties": {
-    "code": "51928",
-    "desc": "",
-    "id": "1945",
-    "name": "Eastbound Chancellor Blvd @ Western Parkway",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.145798,
      49.268549
     ],
@@ -28609,6 +28533,25 @@
     "desc": "",
     "id": "2118",
     "name": "Eastbound W Broadway @ Heather St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.10042,
+     49.262801
+    ],
+    "type": "Point"
+   },
+   "id": "2120",
+   "properties": {
+    "code": "52101",
+    "desc": "",
+    "id": "2120",
+    "name": "Eastbound E Broadway @ Main St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -39211,63 +39154,6 @@
     "desc": "",
     "id": "2909",
     "name": "Southbound Underhill Ave @ Broadway",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.953352,
-     49.261603
-    ],
-    "type": "Point"
-   },
-   "id": "2914",
-   "properties": {
-    "code": "52883",
-    "desc": "",
-    "id": "2914",
-    "name": "Northbound Duthie Ave @ Broadway",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.95332,
-     49.264556
-    ],
-    "type": "Point"
-   },
-   "id": "2915",
-   "properties": {
-    "code": "52884",
-    "desc": "",
-    "id": "2915",
-    "name": "Northbound Duthie Ave @ Montecito Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.953295,
-     49.26658
-    ],
-    "type": "Point"
-   },
-   "id": "2916",
-   "properties": {
-    "code": "52885",
-    "desc": "",
-    "id": "2916",
-    "name": "Northbound Duthie Ave @ Sutliff St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -52025,8 +51911,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.740476,
-     49.285696
+     -122.74013,
+     49.285705
     ],
     "type": "Point"
    },
@@ -119228,25 +119114,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.237649,
-     49.272894
-    ],
-    "type": "Point"
-   },
-   "id": "8546",
-   "properties": {
-    "code": "51930",
-    "desc": "",
-    "id": "8546",
-    "name": "Eastbound Chancellor Blvd @ Hamber Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.88308,
      49.23303
     ],
@@ -122374,25 +122241,6 @@
     "desc": "",
     "id": "8913",
     "name": "Southbound Commercial Dr @ N Grandview Hwy",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.934473,
-     49.260979
-    ],
-    "type": "Point"
-   },
-   "id": "8915",
-   "properties": {
-    "code": "52880",
-    "desc": "",
-    "id": "8915",
-    "name": "Westbound Broadway @ 7900 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -136518,25 +136366,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.248276,
-     49.271678
-    ],
-    "type": "Point"
-   },
-   "id": "10456",
-   "properties": {
-    "code": "59946",
-    "desc": "",
-    "id": "10456",
-    "name": "Southbound Wesbrook Mall @ Iona Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.117633,
      49.27421
     ],
@@ -136700,25 +136529,6 @@
     "desc": "",
     "id": "10480",
     "name": "Northbound Quebec St @ Terminal Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.215565,
-     49.269195
-    ],
-    "type": "Point"
-   },
-   "id": "10481",
-   "properties": {
-    "code": "51913",
-    "desc": "",
-    "id": "10481",
-    "name": "Westbound W 4th Ave @ Blanca St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -140755,8 +140565,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.014668,
-     49.159582
+     -123.01418,
+     49.159567
     ],
     "type": "Point"
    },
@@ -152383,25 +152193,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.248724,
-     49.265726
-    ],
-    "type": "Point"
-   },
-   "id": "11792",
-   "properties": {
-    "code": "58895",
-    "desc": "",
-    "id": "11792",
-    "name": "UBC Exchange @ Bay 9",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.248129,
      49.26581
     ],
@@ -156297,25 +156088,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.246536,
-     49.267312
-    ],
-    "type": "Point"
-   },
-   "id": "12085",
-   "properties": {
-    "code": "61979",
-    "desc": "",
-    "id": "12085",
-    "name": "UBC Exchange @ Bay 8",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.917675,
      49.199058
     ],
@@ -158653,8 +158425,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.818284,
-     49.279154
+     -122.818289,
+     49.279245
     ],
     "type": "Point"
    },
@@ -162453,25 +162225,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.030577,
-     49.237786
-    ],
-    "type": "Point"
-   },
-   "id": "12537",
-   "properties": {
-    "code": "60285",
-    "desc": "",
-    "id": "12537",
-    "name": "Joyce Station @ Bay 2",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.799229,
      49.031015
     ],
@@ -162909,6 +162662,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.800781,
+     49.256017
+    ],
+    "type": "Point"
+   },
+   "id": "12591",
+   "properties": {
+    "code": "60343",
+    "desc": "",
+    "id": "12591",
+    "name": "Southbound Orchid Dr @ Holly Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.800598,
      49.255729
     ],
@@ -162939,44 +162711,6 @@
     "desc": "",
     "id": "12593",
     "name": "Southbound Holly Dr @ Campion Way",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.11163,
-     49.27999
-    ],
-    "type": "Point"
-   },
-   "id": "12594",
-   "properties": {
-    "code": "60355",
-    "desc": "",
-    "id": "12594",
-    "name": "Larwill Park @ Layover Only",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.111266,
-     49.279812
-    ],
-    "type": "Point"
-   },
-   "id": "12595",
-   "properties": {
-    "code": "60356",
-    "desc": "",
-    "id": "12595",
-    "name": "Larwill Park @ Layover Only",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -163129,25 +162863,6 @@
     "desc": "",
     "id": "12608",
     "name": "Northbound 80 St @ 4500 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.113802,
-     49.279826
-    ],
-    "type": "Point"
-   },
-   "id": "12609",
-   "properties": {
-    "code": "60369",
-    "desc": "",
-    "id": "12609",
-    "name": "Westbound W Georgia St @ Hamilton St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165626,25 +165341,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.800198,
-     49.256608
-    ],
-    "type": "Point"
-   },
-   "id": "12809",
-   "properties": {
-    "code": "60141",
-    "desc": "",
-    "id": "12809",
-    "name": "Westbound Holly Dr @ Orchid Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.01717,
      49.248874
     ],
@@ -165960,6 +165656,25 @@
     "desc": "",
     "id": "12828",
     "name": "Southbound 168 St @ 66 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.884767,
+     49.314325
+    ],
+    "type": "Point"
+   },
+   "id": "12829",
+   "properties": {
+    "code": "60588",
+    "desc": "",
+    "id": "12829",
+    "name": "Southbound White Pine Beach Rd @ Bedwell Bay Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
