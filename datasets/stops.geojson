@@ -18262,6 +18262,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.077316,
+     49.264845
+    ],
+    "type": "Point"
+   },
+   "id": "1362",
+   "properties": {
+    "code": "51351",
+    "desc": "",
+    "id": "1362",
+    "name": "Northbound Clark Dr @ E 6th Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.077256,
      49.268147
     ],
@@ -30433,6 +30452,25 @@
     "desc": "",
     "id": "2262",
     "name": "Eastbound 8th Ave @ 10 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.923426,
+     49.211406
+    ],
+    "type": "Point"
+   },
+   "id": "2263",
+   "properties": {
+    "code": "52241",
+    "desc": "",
+    "id": "2263",
+    "name": "Eastbound 6th Ave @ 8th St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -120615,25 +120653,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.981313,
-     49.264489
-    ],
-    "type": "Point"
-   },
-   "id": "8697",
-   "properties": {
-    "code": "58343",
-    "desc": "",
-    "id": "8697",
-    "name": "Southbound Holdom Ave @ Lougheed Hwy",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.981243,
      49.267723
     ],
@@ -120645,25 +120664,6 @@
     "desc": "",
     "id": "8699",
     "name": "Southbound Holdom Ave @ Halifax St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.98604,
-     49.263133
-    ],
-    "type": "Point"
-   },
-   "id": "8701",
-   "properties": {
-    "code": "58384",
-    "desc": "",
-    "id": "8701",
-    "name": "Westbound Goring St @ Douglas Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -150711,6 +150711,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.923688,
+     49.211448
+    ],
+    "type": "Point"
+   },
+   "id": "11682",
+   "properties": {
+    "code": "61599",
+    "desc": "",
+    "id": "11682",
+    "name": "Westbound Sixth Ave @ Eighth St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.11413,
      49.181509
     ],
@@ -155282,25 +155301,6 @@
     "desc": "",
     "id": "12022",
     "name": "Moody Centre Station @ Bay 3",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.924519,
-     49.210964
-    ],
-    "type": "Point"
-   },
-   "id": "12024",
-   "properties": {
-    "code": "53583",
-    "desc": "",
-    "id": "12024",
-    "name": "Westbound 6th Ave @ 8th St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -164421,25 +164421,6 @@
     "desc": "",
     "id": "12724",
     "name": "Southbound Shaughnessy St @ Patricia Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.077299,
-     49.265491
-    ],
-    "type": "Point"
-   },
-   "id": "12725",
-   "properties": {
-    "code": "60496",
-    "desc": "",
-    "id": "12725",
-    "name": "Northbound Clark Dr @ E 6th Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
