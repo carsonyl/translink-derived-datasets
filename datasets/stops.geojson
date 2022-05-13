@@ -10909,8 +10909,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.140591,
-     49.210196
+     -123.140672,
+     49.209597
     ],
     "type": "Point"
    },
@@ -69106,6 +69106,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.900724,
+     49.177061
+    ],
+    "type": "Point"
+   },
+   "id": "4959",
+   "properties": {
+    "code": "54907",
+    "desc": "",
+    "id": "4959",
+    "name": "Eastbound 96 Ave @ 116 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.889399,
      49.177023
     ],
@@ -69269,6 +69288,25 @@
     "desc": "",
     "id": "4971",
     "name": "Southbound Scott Rd @ 99 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.890965,
+     49.177231
+    ],
+    "type": "Point"
+   },
+   "id": "4972",
+   "properties": {
+    "code": "54920",
+    "desc": "",
+    "id": "4972",
+    "name": "Westbound 96 Ave @ Scott Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -164904,8 +164942,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.134655,
-     49.278358
+     -123.13473,
+     49.278412
     ],
     "type": "Point"
    },
@@ -165086,44 +165124,6 @@
     "desc": "",
     "id": "12793",
     "name": "Haney Place @ Bay 10",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.890315,
-     49.176453
-    ],
-    "type": "Point"
-   },
-   "id": "12794",
-   "properties": {
-    "code": "59864",
-    "desc": "",
-    "id": "12794",
-    "name": "Southbound Scott Rd @ 96 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.900402,
-     49.170503
-    ],
-    "type": "Point"
-   },
-   "id": "12795",
-   "properties": {
-    "code": "60550",
-    "desc": "",
-    "id": "12795",
-    "name": "Eastbound 92 Ave @ 116 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165656,6 +165656,25 @@
     "desc": "",
     "id": "12829",
     "name": "Southbound White Pine Beach Rd @ Bedwell Bay Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.783538,
+     49.263567
+    ],
+    "type": "Point"
+   },
+   "id": "12830",
+   "properties": {
+    "code": "59467",
+    "desc": "",
+    "id": "12830",
+    "name": "Northbound Maple St @ McAllister Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
