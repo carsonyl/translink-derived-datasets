@@ -25368,25 +25368,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.04908,
-     49.244554
-    ],
-    "type": "Point"
-   },
-   "id": "1831",
-   "properties": {
-    "code": "51817",
-    "desc": "",
-    "id": "1831",
-    "name": "Eastbound E 29 Ave @ Slocan St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.045608,
      49.244269
     ],
@@ -34442,63 +34423,6 @@
     "desc": "",
     "id": "2558",
     "name": "Eastbound Broadway @ Kensington Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.955835,
-     49.250878
-    ],
-    "type": "Point"
-   },
-   "id": "2568",
-   "properties": {
-    "code": "52543",
-    "desc": "",
-    "id": "2568",
-    "name": "Eastbound Winston St @ Bainbridge Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.95305,
-     49.249918
-    ],
-    "type": "Point"
-   },
-   "id": "2569",
-   "properties": {
-    "code": "52544",
-    "desc": "",
-    "id": "2569",
-    "name": "Eastbound Winston St @ 7200 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.948669,
-     49.250387
-    ],
-    "type": "Point"
-   },
-   "id": "2570",
-   "properties": {
-    "code": "52545",
-    "desc": "",
-    "id": "2570",
-    "name": "Northbound Phillips Ave @ Winston St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -58143,25 +58067,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.043403,
-     49.335409
-    ],
-    "type": "Point"
-   },
-   "id": "4257",
-   "properties": {
-    "code": "54211",
-    "desc": "",
-    "id": "4257",
-    "name": "Eastbound E 29 St @ Fromme Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.026314,
      49.341638
     ],
@@ -68433,6 +68338,44 @@
     "desc": "",
     "id": "4908",
     "name": "Eastbound River Rd @ 9500 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.911138,
+     49.13381
+    ],
+    "type": "Point"
+   },
+   "id": "4912",
+   "properties": {
+    "code": "54860",
+    "desc": "",
+    "id": "4912",
+    "name": "Eastbound 72 Ave @ 11200 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.908733,
+     49.133825
+    ],
+    "type": "Point"
+   },
+   "id": "4913",
+   "properties": {
+    "code": "54861",
+    "desc": "",
+    "id": "4913",
+    "name": "Eastbound 72 Ave @ 113 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -107087,6 +107030,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.070243,
+     49.024597
+    ],
+    "type": "Point"
+   },
+   "id": "7445",
+   "properties": {
+    "code": "57372",
+    "desc": "",
+    "id": "7445",
+    "name": "Eastbound 12 Ave @ 5500 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.068534,
      49.025425
     ],
@@ -136651,6 +136613,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.099334,
+     49.274846
+    ],
+    "type": "Point"
+   },
+   "id": "10486",
+   "properties": {
+    "code": "59928",
+    "desc": "",
+    "id": "10486",
+    "name": "Eastbound National Ave @ Main St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.102946,
      49.279267
     ],
@@ -162833,25 +162814,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.09865,
-     49.273853
-    ],
-    "type": "Point"
-   },
-   "id": "12602",
-   "properties": {
-    "code": "60351",
-    "desc": "",
-    "id": "12602",
-    "name": "Southbound Station St @ National Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.124019,
      49.282359
     ],
@@ -165675,6 +165637,25 @@
     "desc": "",
     "id": "12830",
     "name": "Northbound Maple St @ McAllister Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.948198,
+     49.250923
+    ],
+    "type": "Point"
+   },
+   "id": "12831",
+   "properties": {
+    "code": "60590",
+    "desc": "",
+    "id": "12831",
+    "name": "Eastbound Government Rd @ Phillips Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
