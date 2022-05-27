@@ -13227,25 +13227,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.044245,
-     49.276141
-    ],
-    "type": "Point"
-   },
-   "id": "1048",
-   "properties": {
-    "code": "51039",
-    "desc": "",
-    "id": "1048",
-    "name": "Southbound Renfrew St @ Venables St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.044287,
      49.273888
     ],
@@ -31581,25 +31562,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.902216,
-     49.206351
-    ],
-    "type": "Point"
-   },
-   "id": "2353",
-   "properties": {
-    "code": "52330",
-    "desc": "",
-    "id": "2353",
-    "name": "Westbound Columbia St @ 200 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.905796,
      49.204434
     ],
@@ -35343,44 +35305,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.953152,
-     49.210392
-    ],
-    "type": "Point"
-   },
-   "id": "2632",
-   "properties": {
-    "code": "52607",
-    "desc": "",
-    "id": "2632",
-    "name": "Eastbound 14 Ave @ Griffiths Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.947328,
-     49.214153
-    ],
-    "type": "Point"
-   },
-   "id": "2634",
-   "properties": {
-    "code": "52609",
-    "desc": "",
-    "id": "2634",
-    "name": "Westbound 14 Ave @ 15 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.943021,
      49.21627
     ],
@@ -35696,25 +35620,6 @@
     "desc": "",
     "id": "2654",
     "name": "Eastbound 14 Ave @ 15 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.953538,
-     49.210182
-    ],
-    "type": "Point"
-   },
-   "id": "2656",
-   "properties": {
-    "code": "52631",
-    "desc": "",
-    "id": "2656",
-    "name": "Westbound 14 Ave @ Griffiths Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -67578,6 +67483,25 @@
     "desc": "",
     "id": "4849",
     "name": "Westbound 72 Ave @ 116 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.904771,
+     49.134002
+    ],
+    "type": "Point"
+   },
+   "id": "4850",
+   "properties": {
+    "code": "54798",
+    "desc": "",
+    "id": "4850",
+    "name": "Westbound 72 Ave @ 115 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -125612,8 +125536,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.755993,
-     49.265845
+     -122.756009,
+     49.266299
     ],
     "type": "Point"
    },
@@ -126942,8 +126866,27 @@
   {
    "geometry": {
     "coordinates": [
-     -122.73386,
-     49.270985
+     -122.737216,
+     49.271205
+    ],
+    "type": "Point"
+   },
+   "id": "9349",
+   "properties": {
+    "code": "58683",
+    "desc": "",
+    "id": "9349",
+    "name": "Eastbound Prairie Ave @ Skeena St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.734293,
+     49.27121
     ],
     "type": "Point"
    },
@@ -126952,7 +126895,7 @@
     "code": "58681",
     "desc": "",
     "id": "9350",
-    "name": "Southbound Fremont St  @ Prairie Ave",
+    "name": "Eastbound Prairie Ave @ Fremont St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -154074,25 +154017,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.002989,
-     49.268632
-    ],
-    "type": "Point"
-   },
-   "id": "11947",
-   "properties": {
-    "code": "58287",
-    "desc": "",
-    "id": "11947",
-    "name": "Northbound Willingdon Ave @ Halifax St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.252885,
      49.260466
     ],
@@ -164581,6 +164505,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.945786,
+     49.213415
+    ],
+    "type": "Point"
+   },
+   "id": "12746",
+   "properties": {
+    "code": "60513",
+    "desc": "",
+    "id": "12746",
+    "name": "Southbound 15 St @ 14 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.903886,
      49.206668
     ],
@@ -165656,6 +165599,25 @@
     "desc": "",
     "id": "12831",
     "name": "Eastbound Government Rd @ Phillips Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.909784,
+     49.260812
+    ],
+    "type": "Point"
+   },
+   "id": "12834",
+   "properties": {
+    "code": "59322",
+    "desc": "",
+    "id": "12834",
+    "name": "Westbound Broadway @ Gaglardi Way",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
