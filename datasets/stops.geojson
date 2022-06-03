@@ -150274,6 +150274,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.968955,
+     49.176556
+    ],
+    "type": "Point"
+   },
+   "id": "11633",
+   "properties": {
+    "code": "61575",
+    "desc": "",
+    "id": "11633",
+    "name": "Westbound Westminster Hwy @ Gilley Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.107725,
      49.28074
     ],

@@ -7908,6 +7908,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 11629,61569,Westbound Nordel Way @ Brooke Rd,,49.160274,-122.922146,BUS ZN,,0,,,
 11630,61571,Eastbound Nordel Way @ Shepherd Way,,49.161813,-122.914927,BUS ZN,,0,,,
 11632,50156,Westbound E 41 Ave @ Main St,,49.233207,-123.102082,BUS ZN,,0,,,
+11633,61575,Westbound Westminster Hwy @ Gilley Rd,,49.176556,-122.968955,BUS ZN,,0,,,
 11636,58235,Southbound Abbott St @ W Pender St,,49.28074,-123.107725,BUS ZN,,0,,,
 11637,52441,Northbound 6th St @ 4th Ave,,49.210454,-122.9168,BUS ZN,,0,,,
 11638,50094,Westbound W Pender St @ Hamilton St,,49.282472,-123.11137,BUS ZN,,0,,,
