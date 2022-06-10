@@ -20675,25 +20675,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.141103,
-     49.249302
-    ],
-    "type": "Point"
-   },
-   "id": "1518",
-   "properties": {
-    "code": "51506",
-    "desc": "",
-    "id": "1518",
-    "name": "Eastbound W King Edward Ave @ Alexandra St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.138678,
      49.249267
     ],
@@ -34393,6 +34374,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.963811,
+     49.261458
+    ],
+    "type": "Point"
+   },
+   "id": "2559",
+   "properties": {
+    "code": "52534",
+    "desc": "",
+    "id": "2559",
+    "name": "Eastbound Broadway @ Sperling Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.941691,
      49.250869
     ],
@@ -34651,6 +34651,44 @@
     "desc": "",
     "id": "2586",
     "name": "Westbound Winston St @ 7200 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.956521,
+     49.261514
+    ],
+    "type": "Point"
+   },
+   "id": "2591",
+   "properties": {
+    "code": "52566",
+    "desc": "",
+    "id": "2591",
+    "name": "Westbound Broadway @ Bainbridge Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.959556,
+     49.261966
+    ],
+    "type": "Point"
+   },
+   "id": "2592",
+   "properties": {
+    "code": "52567",
+    "desc": "",
+    "id": "2592",
+    "name": "Westbound Broadway @ Cliff Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -38326,6 +38364,82 @@
   {
    "geometry": {
     "coordinates": [
+     -122.953438,
+     49.267617
+    ],
+    "type": "Point"
+   },
+   "id": "2860",
+   "properties": {
+    "code": "52831",
+    "desc": "",
+    "id": "2860",
+    "name": "Southbound Duthie Ave @ Halifax St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.953467,
+     49.26513
+    ],
+    "type": "Point"
+   },
+   "id": "2861",
+   "properties": {
+    "code": "52832",
+    "desc": "",
+    "id": "2861",
+    "name": "Southbound Duthie Ave @ Camarillo Place",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.953487,
+     49.263035
+    ],
+    "type": "Point"
+   },
+   "id": "2862",
+   "properties": {
+    "code": "52833",
+    "desc": "",
+    "id": "2862",
+    "name": "Southbound Duthie Ave @ Gibson St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.953511,
+     49.261553
+    ],
+    "type": "Point"
+   },
+   "id": "2863",
+   "properties": {
+    "code": "52834",
+    "desc": "",
+    "id": "2863",
+    "name": "Southbound Duthie Ave @ Broadway",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.936395,
      49.260851
     ],
@@ -39021,6 +39135,63 @@
     "desc": "",
     "id": "2909",
     "name": "Southbound Underhill Ave @ Broadway",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.953352,
+     49.261603
+    ],
+    "type": "Point"
+   },
+   "id": "2914",
+   "properties": {
+    "code": "52883",
+    "desc": "",
+    "id": "2914",
+    "name": "Northbound Duthie Ave @ Broadway",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.95332,
+     49.264556
+    ],
+    "type": "Point"
+   },
+   "id": "2915",
+   "properties": {
+    "code": "52884",
+    "desc": "",
+    "id": "2915",
+    "name": "Northbound Duthie Ave @ Montecito Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.953295,
+     49.26658
+    ],
+    "type": "Point"
+   },
+   "id": "2916",
+   "properties": {
+    "code": "52885",
+    "desc": "",
+    "id": "2916",
+    "name": "Northbound Duthie Ave @ Sutliff St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -47921,8 +48092,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.847022,
-     49.238641
+     -122.846051,
+     49.23828
     ],
     "type": "Point"
    },
@@ -124054,6 +124225,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.960766,
+     49.261675
+    ],
+    "type": "Point"
+   },
+   "id": "9081",
+   "properties": {
+    "code": "58264",
+    "desc": "",
+    "id": "9081",
+    "name": "Eastbound Broadway @ Ellerslie Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.824307,
      49.263081
     ],
@@ -130875,8 +131065,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.923788,
-     49.156177
+     -122.924193,
+     49.156301
     ],
     "type": "Point"
    },
@@ -141895,6 +142085,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.956905,
+     49.26148
+    ],
+    "type": "Point"
+   },
+   "id": "11001",
+   "properties": {
+    "code": "52535",
+    "desc": "",
+    "id": "11001",
+    "name": "Eastbound Broadway @ E Ellerslie Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.215494,
      49.276328
     ],
@@ -143111,8 +143320,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115714,
-     49.263338
+     -123.116526,
+     49.263349
     ],
     "type": "Point"
    },
@@ -153086,8 +153295,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.141381,
-     49.32669
+     -123.141262,
+     49.326699
     ],
     "type": "Point"
    },
@@ -164752,8 +164961,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116003,
-     49.263131
+     -123.116587,
+     49.26315
     ],
     "type": "Point"
    },
