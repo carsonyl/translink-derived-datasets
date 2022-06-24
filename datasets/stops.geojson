@@ -30156,8 +30156,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.102616,
-     49.211354
+     -123.103214,
+     49.211554
     ],
     "type": "Point"
    },
@@ -39409,8 +39409,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.941908,
-     49.260968
+     -122.942128,
+     49.260966
     ],
     "type": "Point"
    },
@@ -61042,25 +61042,6 @@
     "desc": "",
     "id": "4423",
     "name": "Northbound Nancy Greene Way @ N Grousewoods Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.081387,
-     49.312
-    ],
-    "type": "Point"
-   },
-   "id": "4424",
-   "properties": {
-    "code": "54375",
-    "desc": "",
-    "id": "4424",
-    "name": "Westbound W Esplanade Ave @ Rogers Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -96941,6 +96922,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.113997,
+     49.155946
+    ],
+    "type": "Point"
+   },
+   "id": "6746",
+   "properties": {
+    "code": "56682",
+    "desc": "",
+    "id": "6746",
+    "name": "Northbound No. 4 Rd @ Blundell Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.113981,
+     49.158668
+    ],
+    "type": "Point"
+   },
+   "id": "6747",
+   "properties": {
+    "code": "56683",
+    "desc": "",
+    "id": "6747",
+    "name": "Northbound No. 4 Rd @ 7400 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.115481,
      49.162892
     ],
@@ -121090,25 +121109,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.98604,
-     49.263133
-    ],
-    "type": "Point"
-   },
-   "id": "8701",
-   "properties": {
-    "code": "58384",
-    "desc": "",
-    "id": "8701",
-    "name": "Westbound Goring St @ Douglas Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.937831,
      49.255848
     ],
@@ -122697,25 +122697,6 @@
     "desc": "",
     "id": "8909",
     "name": "Southbound 124 St @ Seacrest Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.002999,
-     49.26579
-    ],
-    "type": "Point"
-   },
-   "id": "8910",
-   "properties": {
-    "code": "58496",
-    "desc": "",
-    "id": "8910",
-    "name": "Brentwood Station @ Bay 6",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -145733,25 +145714,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115814,
-     49.246788
-    ],
-    "type": "Point"
-   },
-   "id": "11203",
-   "properties": {
-    "code": "50420",
-    "desc": "",
-    "id": "11203",
-    "name": "Southbound Cambie St @ W 27 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.919768,
      49.213373
     ],
@@ -165455,8 +165417,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116938,
-     49.263159
+     -123.117852,
+     49.263181
     ],
     "type": "Point"
    },
@@ -166359,6 +166321,25 @@
     "desc": "",
     "id": "12834",
     "name": "Westbound Broadway @ Gaglardi Way",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.003908,
+     49.266305
+    ],
+    "type": "Point"
+   },
+   "id": "12835",
+   "properties": {
+    "code": "60515",
+    "desc": "",
+    "id": "12835",
+    "name": "Brentwood Station @ Bay 4",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
