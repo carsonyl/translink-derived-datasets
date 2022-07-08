@@ -6683,7 +6683,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 9356,58777,Southbound Ottawa St @ Riverside Dr,,49.260389,-122.746578,BUS ZN,,0,,,
 9357,58763,Eastbound Riverside Dr @ Ottawa St,,49.260693,-122.745572,BUS ZN,,0,,,
 9358,58764,Eastbound Riverside Dr @ Nile Gate,,49.261037,-122.743262,BUS ZN,,0,,,
-9359,58030,Bus Stop @ Pne Coliseum Loop,,49.285674,-123.043632,BUS ZN,,0,,,
+9359,58030,Bus Stop @ PNE Coliseum Loop,,49.285674,-123.043632,BUS ZN,,0,,,
 9360,58689,Northbound Riverside Dr @ Riverwood Gate,,49.264247,-122.742182,BUS ZN,,0,,,
 9361,58685,Eastbound Riverside Dr @ Elbow Place,,49.267115,-122.73932,BUS ZN,,0,,,
 9362,58690,Eastbound Riverside Dr @ Skeena St,,49.267192,-122.73647,BUS ZN,,0,,,
