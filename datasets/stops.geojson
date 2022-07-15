@@ -100057,25 +100057,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.126386,
-     49.14078
-    ],
-    "type": "Point"
-   },
-   "id": "6940",
-   "properties": {
-    "code": "56875",
-    "desc": "",
-    "id": "6940",
-    "name": "Eastbound Williams Rd @ Garden City Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.118719,
      49.140717
     ],
@@ -123123,25 +123104,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.903512,
-     49.20823
-    ],
-    "type": "Point"
-   },
-   "id": "8988",
-   "properties": {
-    "code": "58411",
-    "desc": "",
-    "id": "8988",
-    "name": "Eastbound Agnes St @ Elliot St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.67881,
      49.113333
     ],
@@ -133546,6 +133508,25 @@
     "desc": "",
     "id": "10212",
     "name": "Southbound 240 St @ Kanaka Way",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.010666,
+     49.200252
+    ],
+    "type": "Point"
+   },
+   "id": "10221",
+   "properties": {
+    "code": "59721",
+    "desc": "",
+    "id": "10221",
+    "name": "Westbound North Fraser Way @ Glenlyon Parkway West",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -164315,25 +164296,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.903886,
-     49.206668
-    ],
-    "type": "Point"
-   },
-   "id": "12748",
-   "properties": {
-    "code": "60514",
-    "desc": "",
-    "id": "12748",
-    "name": "Eastbound Carnarvon St @ Merrivale St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.101149,
      49.26318
     ],
@@ -165504,6 +165466,25 @@
     "desc": "",
     "id": "12840",
     "name": "Westbound Dawson St @ Willingdon Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.906029,
+     49.207914
+    ],
+    "type": "Point"
+   },
+   "id": "12841",
+   "properties": {
+    "code": "59150",
+    "desc": "",
+    "id": "12841",
+    "name": "Southbound Merivale St @ Royal Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
