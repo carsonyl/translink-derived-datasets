@@ -10244,25 +10244,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.090819,
-     49.218589
-    ],
-    "type": "Point"
-   },
-   "id": "830",
-   "properties": {
-    "code": "50823",
-    "desc": "",
-    "id": "830",
-    "name": "Northbound Fraser St @ E 57 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.090756,
      49.22126
     ],
@@ -26033,25 +26014,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.920119,
-     49.279957
-    ],
-    "type": "Point"
-   },
-   "id": "1877",
-   "properties": {
-    "code": "51863",
-    "desc": "",
-    "id": "1877",
-    "name": "SFU Transportation Centre @ Bay 1",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.928277,
      49.281238
     ],
@@ -30137,25 +30099,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.097713,
-     49.211024
-    ],
-    "type": "Point"
-   },
-   "id": "2233",
-   "properties": {
-    "code": "52211",
-    "desc": "",
-    "id": "2233",
-    "name": "Westbound SE Marine Dr @ Prince Edward St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.103214,
      49.211554
     ],
@@ -33054,7 +32997,7 @@
     "code": "52427",
     "desc": "",
     "id": "2451",
-    "name": "Northbound Fourth St @ Agnes St",
+    "name": "Northbound 4th St @ Agnes St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -117756,7 +117699,7 @@
     "code": "60893",
     "desc": "",
     "id": "8455",
-    "name": "Northbound 27 St @ 1400 Block (Flag)",
+    "name": "Northbound 27 St @ Mathers Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -117775,7 +117718,7 @@
     "code": "60892",
     "desc": "",
     "id": "8456",
-    "name": "Northbound 27 St @ 1500 Block (Flag)",
+    "name": "Northbound 27 St @ Ottawa Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -117794,7 +117737,7 @@
     "code": "60891",
     "desc": "",
     "id": "8457",
-    "name": "Northbound 27 St @ 1700 Block (Flag)",
+    "name": "Northbound 27 St @ Ottawa Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -156582,6 +156525,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.188802,
+     49.336316
+    ],
+    "type": "Point"
+   },
+   "id": "12163",
+   "properties": {
+    "code": "59427",
+    "desc": "",
+    "id": "12163",
+    "name": "Northbound 27 St @ Marine Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.915253,
      49.221993
     ],
@@ -162187,6 +162149,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.921004,
+     49.280328
+    ],
+    "type": "Point"
+   },
+   "id": "12559",
+   "properties": {
+    "code": "60015",
+    "desc": "",
+    "id": "12559",
+    "name": "SFU Transportation Centre @ Bay 1",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.844343,
      49.237976
     ],
@@ -165485,6 +165466,44 @@
     "desc": "",
     "id": "12841",
     "name": "Southbound Merivale St @ Royal Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.098986,
+     49.210898
+    ],
+    "type": "Point"
+   },
+   "id": "12842",
+   "properties": {
+    "code": "60589",
+    "desc": "",
+    "id": "12842",
+    "name": "Westbound SE Marine Dr @ Prince Edward St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.090815,
+     49.219428
+    ],
+    "type": "Point"
+   },
+   "id": "12843",
+   "properties": {
+    "code": "60551",
+    "desc": "",
+    "id": "12843",
+    "name": "Northbound Fraser St @ E 56 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
