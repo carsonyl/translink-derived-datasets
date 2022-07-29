@@ -13208,6 +13208,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.044245,
+     49.276141
+    ],
+    "type": "Point"
+   },
+   "id": "1048",
+   "properties": {
+    "code": "51039",
+    "desc": "",
+    "id": "1048",
+    "name": "Southbound Renfrew St @ Venables St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.044287,
      49.273888
     ],
@@ -21921,25 +21940,6 @@
     "desc": "",
     "id": "1598",
     "name": "Westbound W King Edward Ave @ Valley Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.165826,
-     49.248213
-    ],
-    "type": "Point"
-   },
-   "id": "1600",
-   "properties": {
-    "code": "51588",
-    "desc": "",
-    "id": "1600",
-    "name": "Westbound W King Edward Ave @ Trafalgar St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -117680,7 +117680,7 @@
     "code": "60908",
     "desc": "",
     "id": "8454",
-    "name": "Eastbound Queens Ave @ 1500 Block (Flag)",
+    "name": "Eastbound Queens Ave @ 15 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -117756,7 +117756,7 @@
     "code": "60895",
     "desc": "",
     "id": "8459",
-    "name": "Eastbound Queens Ave @ 2500 Block (Flag)",
+    "name": "Eastbound Queens Ave @ 26 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -117775,7 +117775,7 @@
     "code": "60899",
     "desc": "",
     "id": "8460",
-    "name": "Eastbound Queens Ave @ 2300 Block (Flag)",
+    "name": "Eastbound Queens Ave @ Orchard Way",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -117832,7 +117832,7 @@
     "code": "60921",
     "desc": "",
     "id": "8467",
-    "name": "Southbound 11 St @ 1000 Block (Flag)",
+    "name": "Southbound 11 St @ Inglewood Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -117851,7 +117851,7 @@
     "code": "60922",
     "desc": "",
     "id": "8468",
-    "name": "Southbound 11 St @ 800 Block (Flag)",
+    "name": "Southbound 11 St @ Gordon Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -117870,7 +117870,7 @@
     "code": "60917",
     "desc": "",
     "id": "8469",
-    "name": "Westbound Fulton Ave @ 1300 Block (Flag)",
+    "name": "Westbound Fulton Ave @ 13 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -117889,7 +117889,7 @@
     "code": "60914",
     "desc": "",
     "id": "8470",
-    "name": "Westbound Fulton Ave @ 1500 Block (Flag)",
+    "name": "Westbound Fulton Ave @ 15 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -117908,7 +117908,7 @@
     "code": "60913",
     "desc": "",
     "id": "8471",
-    "name": "Southbound 17 St @ 500 Block (Flag)",
+    "name": "Southbound 17 St @ Duchess Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -117927,7 +117927,7 @@
     "code": "60915",
     "desc": "",
     "id": "8472",
-    "name": "Eastbound Inglewood Ave @ 1400 Block (Flag)",
+    "name": "Eastbound Inglewood Ave @ 14 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -117946,7 +117946,26 @@
     "code": "60916",
     "desc": "",
     "id": "8473",
-    "name": "Eastbound Inglewood Ave @ 1200 Block (Flag)",
+    "name": "Eastbound Inglewood Ave @ 12 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.182246,
+     49.336801
+    ],
+    "type": "Point"
+   },
+   "id": "8474",
+   "properties": {
+    "code": "60897",
+    "desc": "",
+    "id": "8474",
+    "name": "Northbound 24 St @ Jefferson Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -117965,7 +117984,7 @@
     "code": "60900",
     "desc": "",
     "id": "8476",
-    "name": "Eastbound Mathers Ave @ 2200 Block (Flag)",
+    "name": "Eastbound Mathers Ave @ 22 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -117993,25 +118012,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.166107,
-     49.334548
-    ],
-    "type": "Point"
-   },
-   "id": "8478",
-   "properties": {
-    "code": "60903",
-    "desc": "",
-    "id": "8478",
-    "name": "Eastbound Inglewood Ave @ 1900 Block (Flag)",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.162505,
      49.334525
     ],
@@ -118022,7 +118022,7 @@
     "code": "60905",
     "desc": "",
     "id": "8479",
-    "name": "Eastbound Inglewood Ave @ 1700 Block (Flag)",
+    "name": "Eastbound Inglewood Ave @ 17 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118041,7 +118041,7 @@
     "code": "60912",
     "desc": "",
     "id": "8480",
-    "name": "Eastbound Inglewood Ave @ 1500 Block (Flag)",
+    "name": "Eastbound Inglewood Ave @ 15 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118212,7 +118212,7 @@
     "code": "60930",
     "desc": "",
     "id": "8492",
-    "name": "Eastbound Stevens Dr @ 500 Block (Flag)",
+    "name": "Eastbound Stevens Dr @ Hadden Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118231,7 +118231,7 @@
     "code": "60929",
     "desc": "",
     "id": "8493",
-    "name": "Eastbound Stevens Dr @ 400 Block (Flag)",
+    "name": "Eastbound Stevens Dr @ Rabbit Lane",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118250,7 +118250,7 @@
     "code": "60952",
     "desc": "",
     "id": "8494",
-    "name": "Eastbound Stevens Dr @ 300 Block (Flag)",
+    "name": "Eastbound Stevens Dr @ 300 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118269,7 +118269,7 @@
     "code": "60953",
     "desc": "",
     "id": "8495",
-    "name": "Northbound Stevens Dr @ 200 Block (Flag)",
+    "name": "Northbound Stevens Dr @ 300 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118288,7 +118288,7 @@
     "code": "60954",
     "desc": "",
     "id": "8496",
-    "name": "Northbound Stevens Dr @ 100 Block (Flag)",
+    "name": "Northbound Stevens Dr @ 100 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118326,7 +118326,7 @@
     "code": "60956",
     "desc": "",
     "id": "8498",
-    "name": "Northbound Bonnymuir Dr @ Unit Block (Flag)",
+    "name": "Northbound Bonnymuir Dr @ St. Giles Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118345,7 +118345,7 @@
     "code": "60957",
     "desc": "",
     "id": "8499",
-    "name": "Westbound St. Andrews Rd @ Bonnymuir Dr (Flag)",
+    "name": "Westbound St. Andrews Rd @ 500 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118364,7 +118364,7 @@
     "code": "60958",
     "desc": "",
     "id": "8500",
-    "name": "Southbound St. Andrews Rd @ 500 Block (Flag)",
+    "name": "Southbound St. Andrews Rd @ Ballantree Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118383,7 +118383,7 @@
     "code": "60959",
     "desc": "",
     "id": "8501",
-    "name": "Southbound St. Andrews Rd @ 600 Block (Flag)",
+    "name": "Southbound St. Andrews Rd @ St. Andrews Place",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118402,7 +118402,7 @@
     "code": "60960",
     "desc": "",
     "id": "8502",
-    "name": "Southbound St. Andrews Rd @ 700 Block (Flag)",
+    "name": "Southbound St. Andrews Rd @ Greenwood Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118421,7 +118421,7 @@
     "code": "60961",
     "desc": "",
     "id": "8503",
-    "name": "Southbound St. Andrews Rd @ 800 Block (Flag)",
+    "name": "Southbound St. Andrews Rd @ Hawstead Place",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118820,7 +118820,7 @@
     "code": "60923",
     "desc": "",
     "id": "8529",
-    "name": "Southbound 11 St @ 1200 Block (Flag)",
+    "name": "Southbound 11 St @ Fulton Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118839,7 +118839,7 @@
     "code": "60924",
     "desc": "",
     "id": "8530",
-    "name": "Southbound 11 St @ 900 Block (Flag)",
+    "name": "Southbound 11 St @ Haywood Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118858,7 +118858,7 @@
     "code": "60918",
     "desc": "",
     "id": "8531",
-    "name": "Westbound Fulton Ave @ 1200 Block (Flag)",
+    "name": "Westbound Fulton Ave @ 12 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -138998,7 +138998,7 @@
     "code": "60965",
     "desc": "",
     "id": "10762",
-    "name": "Westbound Fulton Ave @ 1400 Block (Flag)",
+    "name": "Westbound Fulton Ave @ 14 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -139017,7 +139017,7 @@
     "code": "60966",
     "desc": "",
     "id": "10763",
-    "name": "Eastbound Inglewood Ave @ 1300 Block (Flag)",
+    "name": "Eastbound Inglewood Ave @ 13 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -139036,7 +139036,7 @@
     "code": "60967",
     "desc": "",
     "id": "10764",
-    "name": "Eastbound Mathers Ave @ 2000 Block (Flag)",
+    "name": "Eastbound Mathers Ave @ 2000 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -156517,6 +156517,44 @@
     "desc": "",
     "id": "12160",
     "name": "Eastbound Queens Ave @ 18 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.142842,
+     49.337887
+    ],
+    "type": "Point"
+   },
+   "id": "12161",
+   "properties": {
+    "code": "59422",
+    "desc": "",
+    "id": "12161",
+    "name": "Eastbound Burley Dr @ Braeside St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.13917,
+     49.336338
+    ],
+    "type": "Point"
+   },
+   "id": "12162",
+   "properties": {
+    "code": "59426",
+    "desc": "",
+    "id": "12162",
+    "name": "Eastbound Burley Dr @ Kings Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
