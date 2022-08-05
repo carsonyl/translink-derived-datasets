@@ -63520,25 +63520,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.119007,
-     49.326376
-    ],
-    "type": "Point"
-   },
-   "id": "4598",
-   "properties": {
-    "code": "54546",
-    "desc": "",
-    "id": "4598",
-    "name": "Southbound Garden Ave @ Hope Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.114328,
      49.339994
     ],
@@ -69296,6 +69277,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.895023,
+     49.177071
+    ],
+    "type": "Point"
+   },
+   "id": "4960",
+   "properties": {
+    "code": "54908",
+    "desc": "",
+    "id": "4960",
+    "name": "Eastbound 96 Ave @ 118 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.889399,
      49.177023
     ],
@@ -69478,6 +69478,25 @@
     "desc": "",
     "id": "4972",
     "name": "Westbound 96 Ave @ Scott Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.896846,
+     49.177194
+    ],
+    "type": "Point"
+   },
+   "id": "4973",
+   "properties": {
+    "code": "54921",
+    "desc": "",
+    "id": "4973",
+    "name": "Westbound 96 Ave @ 117B St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118440,7 +118459,7 @@
     "code": "60962",
     "desc": "",
     "id": "8504",
-    "name": "Eastbound Kenwood Rd @ Robin Hood Rd (Flag)",
+    "name": "Southbound Robin Hood Rd @ Kenwood Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118459,7 +118478,7 @@
     "code": "60963",
     "desc": "",
     "id": "8505",
-    "name": "Southbound Robin Hood Rd @ King Georges Way (Flag)",
+    "name": "Southbound Robin Hood Rd @ King Georges Way",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118478,7 +118497,7 @@
     "code": "60951",
     "desc": "",
     "id": "8507",
-    "name": "Southbound Southborough Dr @ Knockmaroon Rd (Flag)",
+    "name": "Southbound Southborough Dr @ Knockmaroon Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118497,7 +118516,7 @@
     "code": "60950",
     "desc": "",
     "id": "8508",
-    "name": "Westbound Fairmile Rd @ Southborough Dr (Flag)",
+    "name": "Westbound Fairmile Rd @ Southborough Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118516,7 +118535,7 @@
     "code": "60949",
     "desc": "",
     "id": "8509",
-    "name": "Northbound Eyremount Dr @ Fairmile Rd (Flag)",
+    "name": "Northbound Eyremount Dr @ Fairmile Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118535,7 +118554,7 @@
     "code": "60947",
     "desc": "",
     "id": "8510",
-    "name": "Northbound Eyremount Dr @ King Georges Way (Flag)",
+    "name": "Northbound Eyremount Dr @ King Georges Way",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118554,7 +118573,7 @@
     "code": "60946",
     "desc": "",
     "id": "8511",
-    "name": "Westbound Eyremount Dr @ Kenwood Rd",
+    "name": "Northbound Eyremount Dr @ Farmleigh Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118573,7 +118592,7 @@
     "code": "60945",
     "desc": "",
     "id": "8512",
-    "name": "Southbound Eyremount Dr @ 1000 Block (Flag)",
+    "name": "Westbound Eyremount Dr @ Kenwood Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118592,7 +118611,7 @@
     "code": "60944",
     "desc": "",
     "id": "8513",
-    "name": "Northbound Eyremount Dr @ Elveden Row (Flag)",
+    "name": "Northbound Eyremount Dr @ Elveden Row",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118611,7 +118630,7 @@
     "code": "60943",
     "desc": "",
     "id": "8514",
-    "name": "Westbound Eyremount Dr @ Hillside Rd (Flag)",
+    "name": "Westbound Eyremount Dr @ Hillside Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118630,7 +118649,7 @@
     "code": "60941",
     "desc": "",
     "id": "8515",
-    "name": "Southbound Crestwell Rd @ Eyremount Dr (Flag)",
+    "name": "Westbound Eyremount Dr @ Crestline Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118649,7 +118668,7 @@
     "code": "60940",
     "desc": "",
     "id": "8516",
-    "name": "Southbound Chartwell Dr @ Burnside Rd (Flag)",
+    "name": "Southbound Chartwell Dr @ Bramwell Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118668,7 +118687,7 @@
     "code": "60939",
     "desc": "",
     "id": "8517",
-    "name": "Eastbound Chartwell Dr @ Cammeray Rd (Flag)",
+    "name": "Eastbound Chartwell Dr @ 1300 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118687,7 +118706,7 @@
     "code": "60938",
     "desc": "",
     "id": "8519",
-    "name": "Southbound Chartwell Dr @ 1200 Block (Flag)",
+    "name": "Eastbound Chartwell Dr @ 1200 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118706,26 +118725,7 @@
     "code": "60937",
     "desc": "",
     "id": "8520",
-    "name": "Eastbound Cross Creek Rd @ Highland Dr (Flag)",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.136213,
-     49.344405
-    ],
-    "type": "Point"
-   },
-   "id": "8521",
-   "properties": {
-    "code": "60934",
-    "desc": "",
-    "id": "8521",
-    "name": "Southbound Eyremount Rd @ 700 Block (Flag)",
+    "name": "Eastbound Cross Creek Rd @ Highland Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118744,7 +118744,7 @@
     "code": "60933",
     "desc": "",
     "id": "8522",
-    "name": "Westbound Southborough Dr @ Biddesden Place",
+    "name": "Southbound Southborough Dr @ Highland Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118763,45 +118763,7 @@
     "code": "60932",
     "desc": "",
     "id": "8525",
-    "name": "Eastbound Southborough Dr @ Westcot Rd (Flag)",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.135564,
-     49.334507
-    ],
-    "type": "Point"
-   },
-   "id": "8526",
-   "properties": {
-    "code": "60927",
-    "desc": "",
-    "id": "8526",
-    "name": "Westbound Inglewood Ave @ Taylor Way (Flag)",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.139317,
-     49.336407
-    ],
-    "type": "Point"
-   },
-   "id": "8527",
-   "properties": {
-    "code": "60926",
-    "desc": "",
-    "id": "8527",
-    "name": "Westbound Burley Dr @ 800 Block (Flag)",
+    "name": "Eastbound Southborough Dr @ Westcot Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118896,7 +118858,7 @@
     "code": "60942",
     "desc": "",
     "id": "8536",
-    "name": "Westbound Eyremount Dr @ Highland Dr (Flag)",
+    "name": "Westbound Eyremount Dr @ Highland Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165542,6 +165504,25 @@
     "desc": "",
     "id": "12843",
     "name": "Northbound Fraser St @ E 56 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.12138,
+     49.325437
+    ],
+    "type": "Point"
+   },
+   "id": "12844",
+   "properties": {
+    "code": "60217",
+    "desc": "",
+    "id": "12844",
+    "name": "Southbound Capilano Rd @ Curling Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
