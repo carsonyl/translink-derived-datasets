@@ -5931,44 +5931,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.087667,
-     49.2812
-    ],
-    "type": "Point"
-   },
-   "id": "508",
-   "properties": {
-    "code": "50504",
-    "desc": "",
-    "id": "508",
-    "name": "Westbound E Hastings St @ Hawks Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.092019,
-     49.281282
-    ],
-    "type": "Point"
-   },
-   "id": "509",
-   "properties": {
-    "code": "50505",
-    "desc": "",
-    "id": "509",
-    "name": "Westbound E Hastings St @ Princess Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.093904,
      49.281321
     ],
@@ -58295,6 +58257,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.043403,
+     49.335409
+    ],
+    "type": "Point"
+   },
+   "id": "4257",
+   "properties": {
+    "code": "54211",
+    "desc": "",
+    "id": "4257",
+    "name": "Eastbound E 29 St @ Fromme Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.026314,
      49.341638
     ],
@@ -65526,6 +65507,25 @@
     "desc": "",
     "id": "4711",
     "name": "Northbound 11 St @ Inglewood Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.145779,
+     49.33647
+    ],
+    "type": "Point"
+   },
+   "id": "4712",
+   "properties": {
+    "code": "54660",
+    "desc": "",
+    "id": "4712",
+    "name": "Northbound 11 St @ Kings Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118772,6 +118772,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.143517,
+     49.338146
+    ],
+    "type": "Point"
+   },
+   "id": "8528",
+   "properties": {
+    "code": "60925",
+    "desc": "",
+    "id": "8528",
+    "name": "Westbound Mathers Ave @ Braeside St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.14595,
      49.336132
     ],
@@ -165523,6 +165542,25 @@
     "desc": "",
     "id": "12844",
     "name": "Southbound Capilano Rd @ Curling Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.090022,
+     49.28126
+    ],
+    "type": "Point"
+   },
+   "id": "12851",
+   "properties": {
+    "code": "60498",
+    "desc": "",
+    "id": "12851",
+    "name": "Westbound E Hastings St @ Heatley Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
