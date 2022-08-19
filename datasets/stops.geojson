@@ -4810,17 +4810,36 @@
   {
    "geometry": {
     "coordinates": [
-     -123.159497,
-     49.268147
+     -123.156884,
+     49.268115
     ],
     "type": "Point"
    },
-   "id": "400",
+   "id": "401",
    "properties": {
-    "code": "50396",
+    "code": "50397",
     "desc": "",
-    "id": "400",
-    "name": "Eastbound W 4th Ave @ Balsam St",
+    "id": "401",
+    "name": "Eastbound W 4th Ave @ Vine St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.152371,
+     49.268041
+    ],
+    "type": "Point"
+   },
+   "id": "402",
+   "properties": {
+    "code": "50398",
+    "desc": "",
+    "id": "402",
+    "name": "Eastbound W 4th Ave @ Arbutus St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -6786,17 +6805,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.150761,
-     49.268177
+     -123.153127,
+     49.268224
     ],
     "type": "Point"
    },
-   "id": "586",
+   "id": "587",
    "properties": {
-    "code": "50580",
+    "code": "50581",
     "desc": "",
-    "id": "586",
-    "name": "Westbound W 4th Ave @ Maple St",
+    "id": "587",
+    "name": "Westbound W 4th Ave @ Arbutus St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -9191,25 +9210,6 @@
     "desc": "",
     "id": "768",
     "name": "Northbound Granville St @ W 62 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.140114,
-     49.216886
-    ],
-    "type": "Point"
-   },
-   "id": "769",
-   "properties": {
-    "code": "50762",
-    "desc": "",
-    "id": "769",
-    "name": "Northbound Granville St @ Park Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -124111,6 +124111,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.158111,
+     49.268301
+    ],
+    "type": "Point"
+   },
+   "id": "9093",
+   "properties": {
+    "code": "58299",
+    "desc": "",
+    "id": "9093",
+    "name": "Westbound W 4th Ave @ Vine St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.065593,
      49.235445
     ],
@@ -165037,63 +165056,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.154618,
-     49.268084
-    ],
-    "type": "Point"
-   },
-   "id": "12813",
-   "properties": {
-    "code": "60572",
-    "desc": "",
-    "id": "12813",
-    "name": "Eastbound W 4th Ave @ Yew St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.150017,
-     49.26801
-    ],
-    "type": "Point"
-   },
-   "id": "12814",
-   "properties": {
-    "code": "61762",
-    "desc": "",
-    "id": "12814",
-    "name": "Eastbound W 4th Ave @ Maple St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.155606,
-     49.268267
-    ],
-    "type": "Point"
-   },
-   "id": "12815",
-   "properties": {
-    "code": "60574",
-    "desc": "",
-    "id": "12815",
-    "name": "Westbound W 4th Ave @ Yew St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.186038,
      49.263217
     ],
@@ -165561,6 +165523,25 @@
     "desc": "",
     "id": "12851",
     "name": "Westbound E Hastings St @ Heatley Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.140092,
+     49.217685
+    ],
+    "type": "Point"
+   },
+   "id": "12852",
+   "properties": {
+    "code": "60592",
+    "desc": "",
+    "id": "12852",
+    "name": "Northbound Granville St @ Park Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
