@@ -26413,6 +26413,63 @@
   {
    "geometry": {
     "coordinates": [
+     -123.239004,
+     49.273342
+    ],
+    "type": "Point"
+   },
+   "id": "1932",
+   "properties": {
+    "code": "51916",
+    "desc": "",
+    "id": "1932",
+    "name": "Westbound Chancellor Blvd @ Hamber Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.246195,
+     49.273563
+    ],
+    "type": "Point"
+   },
+   "id": "1933",
+   "properties": {
+    "code": "51917",
+    "desc": "",
+    "id": "1933",
+    "name": "Westbound Chancellor Blvd @ Allison Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.246837,
+     49.273301
+    ],
+    "type": "Point"
+   },
+   "id": "1945",
+   "properties": {
+    "code": "51928",
+    "desc": "",
+    "id": "1945",
+    "name": "Eastbound Chancellor Blvd @ Western Parkway",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.145798,
      49.268549
     ],
@@ -67425,7 +67482,7 @@
     "code": "54772",
     "desc": "",
     "id": "4824",
-    "name": "Southbound Stevens Dr @ 400 Block",
+    "name": "Southbound Stevens Dr @ Bury Lane",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -89447,25 +89504,6 @@
     "desc": "",
     "id": "6224",
     "name": "Westbound Crescent Rd @ Beckett Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.880091,
-     49.053555
-    ],
-    "type": "Point"
-   },
-   "id": "6226",
-   "properties": {
-    "code": "56166",
-    "desc": "",
-    "id": "6226",
-    "name": "Westbound Sullivan St @ Beecher St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -119228,6 +119266,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.237649,
+     49.272894
+    ],
+    "type": "Point"
+   },
+   "id": "8546",
+   "properties": {
+    "code": "51930",
+    "desc": "",
+    "id": "8546",
+    "name": "Eastbound Chancellor Blvd @ Hamber Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.88308,
      49.23303
     ],
@@ -119884,7 +119941,7 @@
     "code": "54787",
     "desc": "",
     "id": "8627",
-    "name": "Southbound Hwy 99 @ Pasco Rd",
+    "name": "Southbound Horseshoe Bay Dr @ Pasco Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -134039,7 +134096,7 @@
     "code": "54784",
     "desc": "",
     "id": "10228",
-    "name": "Southbound Hwy 99 @ Kelvin Grove Way",
+    "name": "Southbound Tidewater Way @ Kelvin Grove Way",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -136632,6 +136689,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.248276,
+     49.271678
+    ],
+    "type": "Point"
+   },
+   "id": "10456",
+   "properties": {
+    "code": "59946",
+    "desc": "",
+    "id": "10456",
+    "name": "Southbound Wesbrook Mall @ Iona Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.117633,
      49.27421
     ],
@@ -136795,6 +136871,25 @@
     "desc": "",
     "id": "10480",
     "name": "Northbound Quebec St @ Terminal Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.215565,
+     49.269195
+    ],
+    "type": "Point"
+   },
+   "id": "10481",
+   "properties": {
+    "code": "51913",
+    "desc": "",
+    "id": "10481",
+    "name": "Westbound W 4th Ave @ Blanca St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -148099,7 +148194,7 @@
     "code": "61445",
     "desc": "",
     "id": "11410",
-    "name": "Northbound Hwy 99 @ Brunswick Beach Rd",
+    "name": "Westbound Brunswick Rd @ Hwy 99 Overpass",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -149429,7 +149524,7 @@
     "code": "61528",
     "desc": "",
     "id": "11546",
-    "name": "Northbound Hwy 99 Offramp @ Kelvin Grove Way",
+    "name": "Northbound Hwy 99 Onramp @ Kelvin Grove Way",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -149448,7 +149543,7 @@
     "code": "61527",
     "desc": "",
     "id": "11547",
-    "name": "Northbound Hwy 99 @ Pasco Rd",
+    "name": "Northbound Horseshoe Bay Dr @ Pasco Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -149467,7 +149562,7 @@
     "code": "61531",
     "desc": "",
     "id": "11548",
-    "name": "Southbound Isleview Place @ Lions Bay Park & Ride",
+    "name": "Southbound Isleview Place @ Lions Bay Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -149486,7 +149581,7 @@
     "code": "61530",
     "desc": "",
     "id": "11549",
-    "name": "Northbound Crosscreek Rd @ Lions Bay",
+    "name": "Northbound Crosscreek Rd @ Oceanview Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
