@@ -1219,25 +1219,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.168633,
-     49.248641
-    ],
-    "type": "Point"
-   },
-   "id": "122",
-   "properties": {
-    "code": "50122",
-    "desc": "",
-    "id": "122",
-    "name": "Westbound W King Edward Ave @ Macdonald St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.170432,
      49.249627
     ],
@@ -10909,25 +10890,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.119257,
-     49.263205
-    ],
-    "type": "Point"
-   },
-   "id": "881",
-   "properties": {
-    "code": "50874",
-    "desc": "",
-    "id": "881",
-    "name": "Eastbound W Broadway @ Heather St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.099816,
      49.262778
     ],
@@ -20523,8 +20485,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.172537,
-     49.249874
+     -123.172403,
+     49.250075
     ],
     "type": "Point"
    },
@@ -21902,6 +21864,25 @@
     "desc": "",
     "id": "1598",
     "name": "Westbound W King Edward Ave @ Valley Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.165826,
+     49.248213
+    ],
+    "type": "Point"
+   },
+   "id": "1600",
+   "properties": {
+    "code": "51588",
+    "desc": "",
+    "id": "1600",
+    "name": "Westbound W King Edward Ave @ Trafalgar St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -24067,7 +24048,7 @@
     "code": "51722",
     "desc": "",
     "id": "1736",
-    "name": "Joyce Station @ Unloading Only",
+    "name": "Joyce Station @ Bay 1 Unload Only",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -25968,6 +25949,25 @@
     "desc": "",
     "id": "1876",
     "name": "Westbound S Campus Rd @ Science Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.920119,
+     49.279957
+    ],
+    "type": "Point"
+   },
+   "id": "1877",
+   "properties": {
+    "code": "51863",
+    "desc": "",
+    "id": "1877",
+    "name": "SFU Transportation Centre @ Bay 1",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -35381,6 +35381,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.953152,
+     49.210392
+    ],
+    "type": "Point"
+   },
+   "id": "2632",
+   "properties": {
+    "code": "52607",
+    "desc": "",
+    "id": "2632",
+    "name": "Eastbound 14 Ave @ Griffiths Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.947328,
+     49.214153
+    ],
+    "type": "Point"
+   },
+   "id": "2634",
+   "properties": {
+    "code": "52609",
+    "desc": "",
+    "id": "2634",
+    "name": "Westbound 14 Ave @ 15 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.943021,
      49.21627
     ],
@@ -35696,6 +35734,25 @@
     "desc": "",
     "id": "2654",
     "name": "Eastbound 14 Ave @ 15 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.953538,
+     49.210182
+    ],
+    "type": "Point"
+   },
+   "id": "2656",
+   "properties": {
+    "code": "52631",
+    "desc": "",
+    "id": "2656",
+    "name": "Westbound 14 Ave @ Griffiths Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -54058,25 +54115,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.062174,
-     49.308441
-    ],
-    "type": "Point"
-   },
-   "id": "3994",
-   "properties": {
-    "code": "53953",
-    "desc": "",
-    "id": "3994",
-    "name": "Eastbound E 3rd St @ Ridgeway Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.059819,
      49.308434
     ],
@@ -67776,8 +67814,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.908923,
-     49.133974
+     -122.909432,
+     49.133968
     ],
     "type": "Point"
    },
@@ -68536,8 +68574,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.911138,
-     49.13381
+     -122.912069,
+     49.133776
     ],
     "type": "Point"
    },
@@ -68555,8 +68593,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.908733,
-     49.133825
+     -122.908002,
+     49.133836
     ],
     "type": "Point"
    },
@@ -68566,6 +68604,25 @@
     "desc": "",
     "id": "4913",
     "name": "Eastbound 72 Ave @ 113 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.904857,
+     49.133863
+    ],
+    "type": "Point"
+   },
+   "id": "4914",
+   "properties": {
+    "code": "54862",
+    "desc": "",
+    "id": "4914",
+    "name": "Eastbound 72 Ave @ 114A St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -69782,25 +69839,6 @@
     "desc": "",
     "id": "4989",
     "name": "Southbound 112 St @ 74A Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.912741,
-     49.134394
-    ],
-    "type": "Point"
-   },
-   "id": "4990",
-   "properties": {
-    "code": "54938",
-    "desc": "",
-    "id": "4990",
-    "name": "Southbound 112 St @ 72A Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -87365,6 +87403,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.801011,
+     49.062184
+    ],
+    "type": "Point"
+   },
+   "id": "6095",
+   "properties": {
+    "code": "56037",
+    "desc": "",
+    "id": "6095",
+    "name": "Northbound 152 St @ 32 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.801053,
      49.064178
     ],
@@ -104655,8 +104712,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.651477,
-     49.107409
+     -122.651311,
+     49.107608
     ],
     "type": "Point"
    },
@@ -122078,8 +122135,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.867099,
-     49.276527
+     -122.86592,
+     49.276557
     ],
     "type": "Point"
    },
@@ -124255,6 +124312,25 @@
     "desc": "",
     "id": "9061",
     "name": "Northbound Gamma Ave @ Albert St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.80191,
+     49.061678
+    ],
+    "type": "Point"
+   },
+   "id": "9062",
+   "properties": {
+    "code": "58600",
+    "desc": "",
+    "id": "9062",
+    "name": "Westbound 32 Ave @ 152 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -126725,25 +126801,6 @@
     "desc": "",
     "id": "9304",
     "name": "Westbound 64 Ave @ 201 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.665407,
-     49.118866
-    ],
-    "type": "Point"
-   },
-   "id": "9305",
-   "properties": {
-    "code": "58944",
-    "desc": "",
-    "id": "9305",
-    "name": "Eastbound 64 Ave @ 201 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -135492,6 +135549,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.953563,
+     49.209454
+    ],
+    "type": "Point"
+   },
+   "id": "10333",
+   "properties": {
+    "code": "59744",
+    "desc": "",
+    "id": "10333",
+    "name": "Southbound Griffiths Dr @ 14 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.979356,
      49.203548
     ],
@@ -135560,6 +135636,25 @@
     "desc": "",
     "id": "10340",
     "name": "Northbound Griffiths Dr @ 10 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.954091,
+     49.2102
+    ],
+    "type": "Point"
+   },
+   "id": "10342",
+   "properties": {
+    "code": "59743",
+    "desc": "",
+    "id": "10342",
+    "name": "Northbound Griffiths Dr @ 14 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -138144,25 +138239,6 @@
     "desc": "",
     "id": "10621",
     "name": "Northbound Lonsdale Ave @ E 19 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.649861,
-     49.108973
-    ],
-    "type": "Point"
-   },
-   "id": "10625",
-   "properties": {
-    "code": "59811",
-    "desc": "",
-    "id": "10625",
-    "name": "Southbound Glover Rd @ Duncan Way",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166283,6 +166359,44 @@
     "desc": "",
     "id": "12852",
     "name": "Northbound Granville St @ Park Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.8146,
+     49.030357
+    ],
+    "type": "Point"
+   },
+   "id": "12853",
+   "properties": {
+    "code": "60596",
+    "desc": "",
+    "id": "12853",
+    "name": "Westbound Vine Ave @ Anderson St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.65141,
+     49.107807
+    ],
+    "type": "Point"
+   },
+   "id": "12854",
+   "properties": {
+    "code": "60597",
+    "desc": "",
+    "id": "12854",
+    "name": "Southbound Glover Rd @ Eastleigh Cres",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
