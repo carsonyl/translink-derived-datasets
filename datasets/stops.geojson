@@ -934,6 +934,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.148302,
+     49.272539
+    ],
+    "type": "Point"
+   },
+   "id": "101",
+   "properties": {
+    "code": "50101",
+    "desc": "",
+    "id": "101",
+    "name": "Westbound Cornwall Ave @ Cypress St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.152989,
      49.272608
     ],
@@ -4791,36 +4810,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.156884,
-     49.268115
+     -123.159497,
+     49.268147
     ],
     "type": "Point"
    },
-   "id": "401",
+   "id": "400",
    "properties": {
-    "code": "50397",
+    "code": "50396",
     "desc": "",
-    "id": "401",
-    "name": "Eastbound W 4th Ave @ Vine St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.152371,
-     49.268041
-    ],
-    "type": "Point"
-   },
-   "id": "402",
-   "properties": {
-    "code": "50398",
-    "desc": "",
-    "id": "402",
-    "name": "Eastbound W 4th Ave @ Arbutus St",
+    "id": "400",
+    "name": "Eastbound W 4th Ave @ Balsam St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -6767,8 +6767,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.146085,
-     49.268106
+     -123.14645,
+     49.268093
     ],
     "type": "Point"
    },
@@ -6786,17 +6786,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.153127,
-     49.268224
+     -123.150761,
+     49.268177
     ],
     "type": "Point"
    },
-   "id": "587",
+   "id": "586",
    "properties": {
-    "code": "50581",
+    "code": "50580",
     "desc": "",
-    "id": "587",
-    "name": "Westbound W 4th Ave @ Arbutus St",
+    "id": "586",
+    "name": "Westbound W 4th Ave @ Maple St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -96656,6 +96656,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.113997,
+     49.155946
+    ],
+    "type": "Point"
+   },
+   "id": "6746",
+   "properties": {
+    "code": "56682",
+    "desc": "",
+    "id": "6746",
+    "name": "Northbound No. 4 Rd @ Blundell Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.113981,
+     49.158668
+    ],
+    "type": "Point"
+   },
+   "id": "6747",
+   "properties": {
+    "code": "56683",
+    "desc": "",
+    "id": "6747",
+    "name": "Northbound No. 4 Rd @ 7400 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.115481,
      49.162892
     ],
@@ -124472,25 +124510,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.158111,
-     49.268301
-    ],
-    "type": "Point"
-   },
-   "id": "9093",
-   "properties": {
-    "code": "58299",
-    "desc": "",
-    "id": "9093",
-    "name": "Westbound W 4th Ave @ Vine St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.065593,
      49.235445
     ],
@@ -128074,25 +128093,6 @@
     "desc": "",
     "id": "9416",
     "name": "Eastbound Parkway Blvd @ Johnson St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.786227,
-     49.307513
-    ],
-    "type": "Point"
-   },
-   "id": "9417",
-   "properties": {
-    "code": "58956",
-    "desc": "",
-    "id": "9417",
-    "name": "Northbound Pinetree Way @ Plateau Blvd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -164714,25 +164714,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.14994,
-     49.27258
-    ],
-    "type": "Point"
-   },
-   "id": "12755",
-   "properties": {
-    "code": "60519",
-    "desc": "",
-    "id": "12755",
-    "name": "Westbound Cornwall Ave @ Maple St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.800967,
      49.145969
     ],
@@ -165352,6 +165333,63 @@
     "desc": "",
     "id": "12812",
     "name": "Eastbound W 4th Ave @ Balaclava St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.154618,
+     49.268084
+    ],
+    "type": "Point"
+   },
+   "id": "12813",
+   "properties": {
+    "code": "60572",
+    "desc": "",
+    "id": "12813",
+    "name": "Eastbound W 4th Ave @ Yew St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.150017,
+     49.26801
+    ],
+    "type": "Point"
+   },
+   "id": "12814",
+   "properties": {
+    "code": "61762",
+    "desc": "",
+    "id": "12814",
+    "name": "Eastbound W 4th Ave @ Maple St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.155606,
+     49.268267
+    ],
+    "type": "Point"
+   },
+   "id": "12815",
+   "properties": {
+    "code": "60574",
+    "desc": "",
+    "id": "12815",
+    "name": "Westbound W 4th Ave @ Yew St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
