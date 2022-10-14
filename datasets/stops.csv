@@ -7329,7 +7329,7 @@ stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,locatio
 10731,59645,Southbound West St @ Maple Meadows Station,,49.216763,-122.664945,BUS ZN,,0,,,
 10736,60723,Southbound 200 St @ Maple Meadows Way,,49.2198,-122.665955,BUS ZN,,0,,,
 10737,60861,Northbound 201A St @ Michaud Cres,,49.102443,-122.664137,BUS ZN,,0,,,
-10739,60866,Westbound 56 Ave @ 213A St,,49.104557,-122.632469,BUS ZN,,0,,,
+10739,60866,Westbound 56 Ave @ 213A St,,49.104512,-122.630595,BUS ZN,,0,,,
 10740,60867,Eastbound 56 Ave @ 213A St,,49.104374,-122.631454,BUS ZN,,0,,,
 10741,60882,Westbound Bus Access Rd @ Burns Dr,,49.091147,-122.965068,BUS ZN,,0,,,
 10744,60868,Northbound Ferry Rd @ Commodore Dr,,49.106195,-123.078934,BUS ZN,,0,,,
