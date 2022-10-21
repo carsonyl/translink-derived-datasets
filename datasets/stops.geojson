@@ -2036,25 +2036,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.11242,
-     49.283796
-    ],
-    "type": "Point"
-   },
-   "id": "189",
-   "properties": {
-    "code": "50189",
-    "desc": "",
-    "id": "189",
-    "name": "Southbound Richards St @ W Hastings St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.115253,
      49.281944
     ],
@@ -7386,6 +7367,25 @@
     "desc": "",
     "id": "644",
     "name": "Eastbound Davie St @ Thurlow St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.111471,
+     49.2844
+    ],
+    "type": "Point"
+   },
+   "id": "645",
+   "properties": {
+    "code": "50639",
+    "desc": "",
+    "id": "645",
+    "name": "Southbound Richards St @ W Cordova St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -34252,44 +34252,6 @@
     "desc": "",
     "id": "2554",
     "name": "Northbound Norland Ave @ Ledger Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.970225,
-     49.24985
-    ],
-    "type": "Point"
-   },
-   "id": "2556",
-   "properties": {
-    "code": "52531",
-    "desc": "",
-    "id": "2556",
-    "name": "Eastbound Sprott St @ Norland Ave East",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.967763,
-     49.249864
-    ],
-    "type": "Point"
-   },
-   "id": "2557",
-   "properties": {
-    "code": "58720",
-    "desc": "",
-    "id": "2557",
-    "name": "Eastbound Sprott St @ Kensington Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -151015,6 +150977,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.996995,
+     49.266048
+    ],
+    "type": "Point"
+   },
+   "id": "11697",
+   "properties": {
+    "code": "52751",
+    "desc": "",
+    "id": "11697",
+    "name": "Eastbound Lougheed Hwy @ Beta Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.054963,
      49.220551
     ],
@@ -166055,6 +166036,25 @@
     "desc": "",
     "id": "12858",
     "name": "Westbound Burley Dr @ Kings Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.113676,
+     49.28299
+    ],
+    "type": "Point"
+   },
+   "id": "12859",
+   "properties": {
+    "code": "60602",
+    "desc": "",
+    "id": "12859",
+    "name": "Southbound Richards St @ Dunsmuir St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
