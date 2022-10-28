@@ -5912,6 +5912,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.087667,
+     49.2812
+    ],
+    "type": "Point"
+   },
+   "id": "508",
+   "properties": {
+    "code": "50504",
+    "desc": "",
+    "id": "508",
+    "name": "Westbound E Hastings St @ Hawks Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.092019,
+     49.281282
+    ],
+    "type": "Point"
+   },
+   "id": "509",
+   "properties": {
+    "code": "50505",
+    "desc": "",
+    "id": "509",
+    "name": "Westbound E Hastings St @ Princess Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.093904,
      49.281321
     ],
@@ -11669,8 +11707,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.10758,
-     49.281983
+     -123.107968,
+     49.282052
     ],
     "type": "Point"
    },
@@ -13238,25 +13276,6 @@
     "desc": "",
     "id": "1054",
     "name": "Southbound Renfrew St @ E 8th Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.04446,
-     49.261461
-    ],
-    "type": "Point"
-   },
-   "id": "1055",
-   "properties": {
-    "code": "51046",
-    "desc": "",
-    "id": "1055",
-    "name": "Southbound Renfrew St @ E Broadway",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -29187,8 +29206,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.980103,
-     49.205949
+     -122.979134,
+     49.20562
     ],
     "type": "Point"
    },
@@ -60784,6 +60803,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.081387,
+     49.312
+    ],
+    "type": "Point"
+   },
+   "id": "4424",
+   "properties": {
+    "code": "54375",
+    "desc": "",
+    "id": "4424",
+    "name": "Westbound W Esplanade Ave @ Rogers Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.084338,
      49.31327
     ],
@@ -60795,6 +60833,25 @@
     "desc": "",
     "id": "4425",
     "name": "Westbound W Esplanade Ave @ Semisch Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.085773,
+     49.315326
+    ],
+    "type": "Point"
+   },
+   "id": "4426",
+   "properties": {
+    "code": "54377",
+    "desc": "",
+    "id": "4426",
+    "name": "Northbound Forbes Ave @ W 1st St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -126201,8 +126258,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.809435,
-     49.29721
+     -122.809458,
+     49.297199
     ],
     "type": "Point"
    },
@@ -133193,8 +133250,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.762459,
-     49.245165
+     -122.762542,
+     49.24518
     ],
     "type": "Point"
    },
@@ -145733,8 +145790,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.751506,
-     49.258332
+     -122.749997,
+     49.258342
     ],
     "type": "Point"
    },
@@ -155301,6 +155358,25 @@
     "desc": "",
     "id": "12022",
     "name": "Moody Centre Station @ Bay 3",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.086018,
+     49.314507
+    ],
+    "type": "Point"
+   },
+   "id": "12025",
+   "properties": {
+    "code": "61909",
+    "desc": "",
+    "id": "12025",
+    "name": "Southbound Forbes Ave @ W 1st St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165884,25 +165960,6 @@
     "desc": "",
     "id": "12850",
     "name": "Southbound 21 St @ Haywood Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.090022,
-     49.28126
-    ],
-    "type": "Point"
-   },
-   "id": "12851",
-   "properties": {
-    "code": "60498",
-    "desc": "",
-    "id": "12851",
-    "name": "Westbound E Hastings St @ Heatley Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
