@@ -11745,25 +11745,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.096763,
-     49.281207
-    ],
-    "type": "Point"
-   },
-   "id": "943",
-   "properties": {
-    "code": "50935",
-    "desc": "",
-    "id": "943",
-    "name": "Eastbound E Hastings St @ Gore Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.092955,
      49.281112
     ],
@@ -31345,6 +31326,44 @@
     "desc": "",
     "id": "2335",
     "name": "Westbound 8th Ave @ 22 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.907238,
+     49.203434
+    ],
+    "type": "Point"
+   },
+   "id": "2338",
+   "properties": {
+    "code": "52316",
+    "desc": "",
+    "id": "2338",
+    "name": "Eastbound Columbia St @ 6th St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.904917,
+     49.204662
+    ],
+    "type": "Point"
+   },
+   "id": "2339",
+   "properties": {
+    "code": "52317",
+    "desc": "",
+    "id": "2339",
+    "name": "Columbia Station @ Bay 2",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -71861,25 +71880,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.85232,
-     49.186348
-    ],
-    "type": "Point"
-   },
-   "id": "5123",
-   "properties": {
-    "code": "55071",
-    "desc": "",
-    "id": "5123",
-    "name": "Westbound Old Yale Rd @ University Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.856596,
      49.187331
     ],
@@ -92400,44 +92400,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.842052,
-     49.181723
-    ],
-    "type": "Point"
-   },
-   "id": "6468",
-   "properties": {
-    "code": "58164",
-    "desc": "",
-    "id": "6468",
-    "name": "King George Station @ Bay 3",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.833717,
-     49.178455
-    ],
-    "type": "Point"
-   },
-   "id": "6469",
-   "properties": {
-    "code": "56408",
-    "desc": "",
-    "id": "6469",
-    "name": "Eastbound Fraser Hwy @ 140 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.811446,
      49.169833
     ],
@@ -92620,25 +92582,6 @@
     "desc": "",
     "id": "6479",
     "name": "Westbound Fraser Hwy @ 148 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.835459,
-     49.179308
-    ],
-    "type": "Point"
-   },
-   "id": "6480",
-   "properties": {
-    "code": "56419",
-    "desc": "",
-    "id": "6480",
-    "name": "Westbound Fraser Hwy @ 140 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166112,6 +166055,25 @@
     "desc": "",
     "id": "12859",
     "name": "Southbound Richards St @ Dunsmuir St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.094918,
+     49.281162
+    ],
+    "type": "Point"
+   },
+   "id": "12860",
+   "properties": {
+    "code": "60604",
+    "desc": "",
+    "id": "12860",
+    "name": "Eastbound E Hastings St @ Dunlevy Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
