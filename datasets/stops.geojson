@@ -20428,8 +20428,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.178128,
-     49.249892
+     -123.178332,
+     49.250104
     ],
     "type": "Point"
    },
@@ -20439,6 +20439,25 @@
     "desc": "",
     "id": "1507",
     "name": "Eastbound W King Edward Ave @ Blenheim St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.172403,
+     49.250075
+    ],
+    "type": "Point"
+   },
+   "id": "1509",
+   "properties": {
+    "code": "51497",
+    "desc": "",
+    "id": "1509",
+    "name": "Eastbound W King Edward Ave @ Quesnel Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -20561,8 +20580,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.148494,
-     49.249462
+     -123.148387,
+     49.249446
     ],
     "type": "Point"
    },
@@ -21769,25 +21788,6 @@
     "desc": "",
     "id": "1595",
     "name": "Westbound W King Edward Ave @ Maple Cres",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.153726,
-     49.251741
-    ],
-    "type": "Point"
-   },
-   "id": "1596",
-   "properties": {
-    "code": "51584",
-    "desc": "",
-    "id": "1596",
-    "name": "Westbound W King Edward Ave @ Arbutus St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -27743,8 +27743,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.121438,
-     49.226382
+     -123.118715,
+     49.226291
     ],
     "type": "Point"
    },
@@ -27753,7 +27753,7 @@
     "code": "52035",
     "desc": "",
     "id": "2052",
-    "name": "Westbound W 49 Ave @ Tisdall St",
+    "name": "Westbound W 49 Ave @ Ash St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -54829,25 +54829,6 @@
     "desc": "",
     "id": "4046",
     "name": "Southbound Mountain Hwy @ Emery Place",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.038326,
-     49.326875
-    ],
-    "type": "Point"
-   },
-   "id": "4047",
-   "properties": {
-    "code": "54006",
-    "desc": "",
-    "id": "4047",
-    "name": "Southbound Mountain Hwy @ Kirkstone Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -93369,6 +93350,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.135287,
+     49.166575
+    ],
+    "type": "Point"
+   },
+   "id": "6541",
+   "properties": {
+    "code": "56480",
+    "desc": "",
+    "id": "6541",
+    "name": "Westbound Cook Rd @ No. 3 Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.141096,
      49.170293
     ],
@@ -120045,25 +120045,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.139771,
-     49.26373
-    ],
-    "type": "Point"
-   },
-   "id": "8640",
-   "properties": {
-    "code": "58239",
-    "desc": "",
-    "id": "8640",
-    "name": "Westbound W Broadway @ Granville St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.018511,
      49.22201
     ],
@@ -125973,8 +125954,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.78704,
-     49.307822
+     -122.787132,
+     49.307863
     ],
     "type": "Point"
    },
@@ -126049,8 +126030,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.79085,
-     49.317361
+     -122.79088,
+     49.317407
     ],
     "type": "Point"
    },
@@ -126087,8 +126068,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.795546,
-     49.31619
+     -122.795574,
+     49.316176
     ],
     "type": "Point"
    },
@@ -150749,8 +150730,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.859574,
-     49.230563
+     -122.860776,
+     49.230582
     ],
     "type": "Point"
    },
@@ -156468,8 +156449,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.061585,
-     49.243338
+     -123.061513,
+     49.243302
     ],
     "type": "Point"
    },
@@ -166074,6 +166055,25 @@
     "desc": "",
     "id": "12860",
     "name": "Eastbound E Hastings St @ Dunlevy Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.038284,
+     49.327809
+    ],
+    "type": "Point"
+   },
+   "id": "12861",
+   "properties": {
+    "code": "60603",
+    "desc": "",
+    "id": "12861",
+    "name": "Southbound Mountain Hwy @ Barlynn Cres",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
