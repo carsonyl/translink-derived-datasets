@@ -34298,6 +34298,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.970225,
+     49.24985
+    ],
+    "type": "Point"
+   },
+   "id": "2556",
+   "properties": {
+    "code": "52531",
+    "desc": "",
+    "id": "2556",
+    "name": "Eastbound Sprott St @ Norland Ave East",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.967763,
+     49.249864
+    ],
+    "type": "Point"
+   },
+   "id": "2557",
+   "properties": {
+    "code": "58720",
+    "desc": "",
+    "id": "2557",
+    "name": "Eastbound Sprott St @ Kensington Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.966987,
      49.261699
     ],
@@ -70447,6 +70485,25 @@
     "desc": "",
     "id": "5040",
     "name": "Northbound King George Blvd @ 96 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.845247,
+     49.181116
+    ],
+    "type": "Point"
+   },
+   "id": "5041",
+   "properties": {
+    "code": "54989",
+    "desc": "",
+    "id": "5041",
+    "name": "Northbound King George Blvd @ Fraser Hwy",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -120501,25 +120558,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.014187,
-     49.264851
-    ],
-    "type": "Point"
-   },
-   "id": "8673",
-   "properties": {
-    "code": "58344",
-    "desc": "",
-    "id": "8673",
-    "name": "Gilmore Station @ Bay 1",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.015179,
      49.26457
     ],
@@ -128682,25 +128720,6 @@
     "desc": "",
     "id": "9500",
     "name": "Westbound Ioco Rd @ Alderside Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.014452,
-     49.264143
-    ],
-    "type": "Point"
-   },
-   "id": "9505",
-   "properties": {
-    "code": "58346",
-    "desc": "",
-    "id": "9505",
-    "name": "Gilmore Station @ Bay 2",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -147519,6 +147538,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.134652,
+     49.163531
+    ],
+    "type": "Point"
+   },
+   "id": "11384",
+   "properties": {
+    "code": "61335",
+    "desc": "",
+    "id": "11384",
+    "name": "Westbound Anderson Rd @ Buswell St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.136381,
      49.169358
     ],
@@ -156088,8 +156126,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.903954,
-     49.208133
+     -122.904083,
+     49.208075
     ],
     "type": "Point"
    },
@@ -164942,25 +164980,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.134257,
-     49.166442
-    ],
-    "type": "Point"
-   },
-   "id": "12776",
-   "properties": {
-    "code": "60046",
-    "desc": "",
-    "id": "12776",
-    "name": "Eastbound Cook Rd @ Buswell St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.783603,
      49.263652
     ],
@@ -166074,6 +166093,63 @@
     "desc": "",
     "id": "12861",
     "name": "Southbound Mountain Hwy @ Barlynn Cres",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.016066,
+     49.264235
+    ],
+    "type": "Point"
+   },
+   "id": "12862",
+   "properties": {
+    "code": "52724",
+    "desc": "",
+    "id": "12862",
+    "name": "Eastbound Henning Dr @ Gilmore Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.014468,
+     49.263348
+    ],
+    "type": "Point"
+   },
+   "id": "12863",
+   "properties": {
+    "code": "59007",
+    "desc": "",
+    "id": "12863",
+    "name": "Southbound Gilmore Ave @ Henning Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.014185,
+     49.263583
+    ],
+    "type": "Point"
+   },
+   "id": "12864",
+   "properties": {
+    "code": "52730",
+    "desc": "",
+    "id": "12864",
+    "name": "Northbound Gilmore Ave @ Dawson St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
