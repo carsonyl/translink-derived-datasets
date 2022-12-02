@@ -1238,6 +1238,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.168633,
+     49.248641
+    ],
+    "type": "Point"
+   },
+   "id": "122",
+   "properties": {
+    "code": "50122",
+    "desc": "",
+    "id": "122",
+    "name": "Westbound W King Edward Ave @ Macdonald St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.170432,
      49.249627
     ],
@@ -21796,36 +21815,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.156163,
-     49.251149
+     -123.153726,
+     49.251741
     ],
     "type": "Point"
    },
-   "id": "1597",
+   "id": "1596",
    "properties": {
-    "code": "51585",
+    "code": "51584",
     "desc": "",
-    "id": "1597",
-    "name": "Westbound W King Edward Ave @ Yew St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.159848,
-     49.249723
-    ],
-    "type": "Point"
-   },
-   "id": "1598",
-   "properties": {
-    "code": "51586",
-    "desc": "",
-    "id": "1598",
-    "name": "Westbound W King Edward Ave @ Valley Dr",
+    "id": "1596",
+    "name": "Westbound W King Edward Ave @ Arbutus St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -25254,6 +25254,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.04908,
+     49.244554
+    ],
+    "type": "Point"
+   },
+   "id": "1831",
+   "properties": {
+    "code": "51817",
+    "desc": "",
+    "id": "1831",
+    "name": "Eastbound E 29 Ave @ Slocan St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.045608,
      49.244269
     ],
@@ -27743,8 +27762,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.118715,
-     49.226291
+     -123.121435,
+     49.226392
     ],
     "type": "Point"
    },
@@ -27753,7 +27772,7 @@
     "code": "52035",
     "desc": "",
     "id": "2052",
-    "name": "Westbound W 49 Ave @ Ash St",
+    "name": "Westbound W 49 Ave @ Tisdall St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -84401,25 +84420,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.834564,
-     49.19892
-    ],
-    "type": "Point"
-   },
-   "id": "5904",
-   "properties": {
-    "code": "55849",
-    "desc": "",
-    "id": "5904",
-    "name": "Westbound 108 Ave @ 140 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.840815,
      49.198936
     ],
@@ -109975,6 +109975,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.090641,
+     49.08522
+    ],
+    "type": "Point"
+   },
+   "id": "7600",
+   "properties": {
+    "code": "57527",
+    "desc": "",
+    "id": "7600",
+    "name": "Westbound 45 Ave @ 47A St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.094436,
      49.085248
     ],
@@ -123457,6 +123476,25 @@
     "desc": "",
     "id": "8983",
     "name": "Southbound Lost Lagoon Rd @ Stanley Park Causeway",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.903391,
+     49.208324
+    ],
+    "type": "Point"
+   },
+   "id": "8988",
+   "properties": {
+    "code": "58411",
+    "desc": "",
+    "id": "8988",
+    "name": "Eastbound Agnes St @ Elliot St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166150,6 +166188,25 @@
     "desc": "",
     "id": "12864",
     "name": "Northbound Gilmore Ave @ Dawson St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.83316,
+     49.198923
+    ],
+    "type": "Point"
+   },
+   "id": "12865",
+   "properties": {
+    "code": "60606",
+    "desc": "",
+    "id": "12865",
+    "name": "Westbound 108 Ave @ 140 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
