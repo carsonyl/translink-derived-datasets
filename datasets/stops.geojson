@@ -3556,8 +3556,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.185183,
-     49.238112
+     -123.185208,
+     49.238307
     ],
     "type": "Point"
    },
@@ -14082,25 +14082,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.043939,
-     49.280484
-    ],
-    "type": "Point"
-   },
-   "id": "1101",
-   "properties": {
-    "code": "51092",
-    "desc": "",
-    "id": "1101",
-    "name": "Northbound Renfrew St @ E Pender St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.153185,
      49.260673
     ],
@@ -20724,25 +20705,6 @@
     "desc": "",
     "id": "1523",
     "name": "Eastbound W King Edward Ave @ Willow St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.114707,
-     49.248866
-    ],
-    "type": "Point"
-   },
-   "id": "1525",
-   "properties": {
-    "code": "51513",
-    "desc": "",
-    "id": "1525",
-    "name": "King Edward Station @ Bay 3",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -120197,8 +120159,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.135068,
-     49.166445
+     -123.135111,
+     49.166455
     ],
     "type": "Point"
    },
@@ -120862,8 +120824,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.937831,
-     49.255848
+     -122.937855,
+     49.25586
     ],
     "type": "Point"
    },
@@ -165550,25 +165512,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.918733,
-     49.254862
-    ],
-    "type": "Point"
-   },
-   "id": "12825",
-   "properties": {
-    "code": "59446",
-    "desc": "",
-    "id": "12825",
-    "name": "Southbound Production Way @ Thunderbird Cres",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.003852,
      49.281121
     ],
@@ -165656,25 +165599,6 @@
     "desc": "",
     "id": "12831",
     "name": "Eastbound Government Rd @ Phillips Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.909784,
-     49.260812
-    ],
-    "type": "Point"
-   },
-   "id": "12834",
-   "properties": {
-    "code": "59322",
-    "desc": "",
-    "id": "12834",
-    "name": "Westbound Broadway @ Gaglardi Way",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166207,6 +166131,44 @@
     "desc": "",
     "id": "12865",
     "name": "Westbound 108 Ave @ 140 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.11671,
+     49.248902
+    ],
+    "type": "Point"
+   },
+   "id": "12866",
+   "properties": {
+    "code": "60607",
+    "desc": "",
+    "id": "12866",
+    "name": "King Edward Station @ Bay 3 New",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.04396,
+     49.280062
+    ],
+    "type": "Point"
+   },
+   "id": "12867",
+   "properties": {
+    "code": "60612",
+    "desc": "",
+    "id": "12867",
+    "name": "Northbound Renfrew St @ E Pender St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
