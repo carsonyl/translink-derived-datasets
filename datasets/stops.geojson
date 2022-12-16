@@ -6881,25 +6881,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.168863,
-     49.268459
-    ],
-    "type": "Point"
-   },
-   "id": "591",
-   "properties": {
-    "code": "50585",
-    "desc": "",
-    "id": "591",
-    "name": "Westbound W 4th Ave @ Macdonald St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.174217,
      49.268528
     ],
@@ -21275,25 +21256,6 @@
     "desc": "",
     "id": "1565",
     "name": "Westbound E 22 Ave @ Boundary Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.028964,
-     49.250701
-    ],
-    "type": "Point"
-   },
-   "id": "1566",
-   "properties": {
-    "code": "51554",
-    "desc": "",
-    "id": "1566",
-    "name": "Westbound E 22 Ave @ Anzio Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -70170,25 +70132,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.89018,
-     49.159865
-    ],
-    "type": "Point"
-   },
-   "id": "5024",
-   "properties": {
-    "code": "54972",
-    "desc": "",
-    "id": "5024",
-    "name": "Northbound Scott Rd @ 86 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.890176,
      49.162457
     ],
@@ -70903,25 +70846,6 @@
     "desc": "",
     "id": "5066",
     "name": "Southbound Scott Rd @ 90 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.890541,
-     49.161084
-    ],
-    "type": "Point"
-   },
-   "id": "5067",
-   "properties": {
-    "code": "58694",
-    "desc": "",
-    "id": "5067",
-    "name": "Southbound Scott Rd @ Nordel Way",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -92400,6 +92324,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.842052,
+     49.181723
+    ],
+    "type": "Point"
+   },
+   "id": "6468",
+   "properties": {
+    "code": "58164",
+    "desc": "",
+    "id": "6468",
+    "name": "King George Station @ Bay 3",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.833717,
+     49.178455
+    ],
+    "type": "Point"
+   },
+   "id": "6469",
+   "properties": {
+    "code": "56408",
+    "desc": "",
+    "id": "6469",
+    "name": "Eastbound Fraser Hwy @ 140 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.811446,
      49.169833
     ],
@@ -92582,6 +92544,25 @@
     "desc": "",
     "id": "6479",
     "name": "Westbound Fraser Hwy @ 148 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.835459,
+     49.179308
+    ],
+    "type": "Point"
+   },
+   "id": "6480",
+   "properties": {
+    "code": "56419",
+    "desc": "",
+    "id": "6480",
+    "name": "Westbound Fraser Hwy @ 140 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -120824,8 +120805,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.937855,
-     49.25586
+     -122.937843,
+     49.25641
     ],
     "type": "Point"
    },
@@ -166169,6 +166150,44 @@
     "desc": "",
     "id": "12867",
     "name": "Northbound Renfrew St @ E Pender St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.030751,
+     49.25068
+    ],
+    "type": "Point"
+   },
+   "id": "12868",
+   "properties": {
+    "code": "60605",
+    "desc": "",
+    "id": "12868",
+    "name": "Westbound E 22nd Ave @ Cassiar St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.167377,
+     49.268428
+    ],
+    "type": "Point"
+   },
+   "id": "12869",
+   "properties": {
+    "code": "61834",
+    "desc": "",
+    "id": "12869",
+    "name": "Westbound W 4th Ave @ Macdonald St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
