@@ -20694,6 +20694,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.107042,
+     49.248819
+    ],
+    "type": "Point"
+   },
+   "id": "1528",
+   "properties": {
+    "code": "51516",
+    "desc": "",
+    "id": "1528",
+    "name": "Eastbound W King Edward Ave @ Manitoba St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.100559,
      49.248697
     ],
@@ -32675,6 +32694,25 @@
     "desc": "",
     "id": "2439",
     "name": "Eastbound Edmonds St @ 6th St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.935179,
+     49.224881
+    ],
+    "type": "Point"
+   },
+   "id": "2440",
+   "properties": {
+    "code": "52416",
+    "desc": "",
+    "id": "2440",
+    "name": "Southbound 6th St @ 18 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -50250,6 +50288,25 @@
     "desc": "",
     "id": "3703",
     "name": "Westbound United Blvd @ Brigantine Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.853048,
+     49.229487
+    ],
+    "type": "Point"
+   },
+   "id": "3704",
+   "properties": {
+    "code": "53665",
+    "desc": "",
+    "id": "3704",
+    "name": "Westbound United Blvd @ Clipper St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -70124,25 +70181,6 @@
     "desc": "",
     "id": "5023",
     "name": "Eastbound 84 Ave @ 118A St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.890176,
-     49.162457
-    ],
-    "type": "Point"
-   },
-   "id": "5025",
-   "properties": {
-    "code": "59035",
-    "desc": "",
-    "id": "5025",
-    "name": "Northbound Scott Rd @ Nordel Way",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -92324,25 +92362,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.842052,
-     49.181723
-    ],
-    "type": "Point"
-   },
-   "id": "6468",
-   "properties": {
-    "code": "58164",
-    "desc": "",
-    "id": "6468",
-    "name": "King George Station @ Bay 3",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.833717,
      49.178455
     ],
@@ -111514,8 +111533,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.557741,
-     49.220427
+     -122.557826,
+     49.22044
     ],
     "type": "Point"
    },
@@ -112912,25 +112931,6 @@
     "desc": "",
     "id": "7787",
     "name": "Westbound 117 Ave @ 210 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.646084,
-     49.214389
-    ],
-    "type": "Point"
-   },
-   "id": "7788",
-   "properties": {
-    "code": "57714",
-    "desc": "",
-    "id": "7788",
-    "name": "Westbound 117 Ave @ Graves St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -142522,8 +142522,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.548548,
-     49.191349
+     -122.548252,
+     49.191378
     ],
     "type": "Point"
    },
@@ -166177,8 +166177,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.167377,
-     49.268428
+     -123.167939,
+     49.268446
     ],
     "type": "Point"
    },
@@ -166188,6 +166188,44 @@
     "desc": "",
     "id": "12869",
     "name": "Westbound W 4th Ave @ Macdonald St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.003591,
+     49.260514
+    ],
+    "type": "Point"
+   },
+   "id": "12870",
+   "properties": {
+    "code": "60614",
+    "desc": "",
+    "id": "12870",
+    "name": "Northbound Willingdon Ave @ Still Creek Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.890144,
+     49.163492
+    ],
+    "type": "Point"
+   },
+   "id": "12871",
+   "properties": {
+    "code": "54973",
+    "desc": "",
+    "id": "12871",
+    "name": "Northbound Scott Rd @ 88 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
