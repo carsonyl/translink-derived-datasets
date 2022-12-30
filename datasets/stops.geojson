@@ -166168,7 +166168,7 @@
     "code": "60605",
     "desc": "",
     "id": "12868",
-    "name": "Westbound E 22nd Ave @ Cassiar St",
+    "name": "Westbound E 22 Ave @ Cassiar St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166226,6 +166226,25 @@
     "desc": "",
     "id": "12871",
     "name": "Northbound Scott Rd @ 88 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.039518,
+     49.333442
+    ],
+    "type": "Point"
+   },
+   "id": "12872",
+   "properties": {
+    "code": "60615",
+    "desc": "",
+    "id": "12872",
+    "name": "Westbound E 27 St @ 1200 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
