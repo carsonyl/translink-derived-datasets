@@ -1825,7 +1825,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "HASTINGS ST TO SFU",
+  "destination": "HASTINGS ST / TO SFU",
   "direction": "EAST",
   "name": "0R5-E1",
   "operating-company": "CMBC",

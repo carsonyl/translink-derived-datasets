@@ -775,7 +775,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "KING GEORGE BLVD TO NEWTON EXCH",
+  "destination": "KING GEORGE BLVD/ TO NEWTON EXCH",
   "direction": "SOUTH",
   "name": "0R1-S1",
   "operating-company": "CMBC",

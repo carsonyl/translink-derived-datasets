@@ -925,7 +925,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "KING GEORGE BLVD TO GUILDFORD",
+  "destination": "KING GEORGE BLVD/ TO GUILDFORD",
   "direction": "NORTH",
   "name": "0R1-N1A",
   "operating-company": "CMBC",

@@ -2345,7 +2345,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "41ST AVE TO UBC",
+  "destination": "41ST AVENUE / TO UBC",
   "direction": "WEST",
   "name": "0R4-W1",
   "operating-company": "CMBC",

@@ -985,7 +985,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "LOUGHEED HWY TO HANEY PL",
+  "destination": "LOUGHEED HWY / TO HANEY PLACE",
   "direction": "EAST",
   "name": "0R3-EB1",
   "operating-company": "CMBC",
