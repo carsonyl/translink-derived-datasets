@@ -28750,6 +28750,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.118587,
+     49.209394
+    ],
+    "type": "Point"
+   },
+   "id": "2148",
+   "properties": {
+    "code": "52128",
+    "desc": "",
+    "id": "2148",
+    "name": "Eastbound SW Marine Dr @ Ash St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.109277,
      49.212198
     ],
@@ -165446,7 +165465,7 @@
     "code": "61785",
     "desc": "",
     "id": "12821",
-    "name": "Westbound Westminster Hwy @ No. 8th Rd",
+    "name": "Westbound Westminster Hwy @ No. 8 Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
