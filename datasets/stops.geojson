@@ -81114,6 +81114,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.856377,
+     49.187939
+    ],
+    "type": "Point"
+   },
+   "id": "5721",
+   "properties": {
+    "code": "55666",
+    "desc": "",
+    "id": "5721",
+    "name": "Northbound 132 St @ Old Yale Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.85655,
+     49.190929
+    ],
+    "type": "Point"
+   },
+   "id": "5722",
+   "properties": {
+    "code": "55667",
+    "desc": "",
+    "id": "5722",
+    "name": "Southbound 132 St @ 103A Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.856633,
      49.18409
     ],
@@ -121033,44 +121071,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.018496,
-     49.263862
-    ],
-    "type": "Point"
-   },
-   "id": "8741",
-   "properties": {
-    "code": "58391",
-    "desc": "",
-    "id": "8741",
-    "name": "Eastbound Henning Dr @ 3800 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.022725,
-     49.263596
-    ],
-    "type": "Point"
-   },
-   "id": "8742",
-   "properties": {
-    "code": "58392",
-    "desc": "",
-    "id": "8742",
-    "name": "Eastbound Henning Dr @ Boundary Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.014957,
      49.266208
     ],
@@ -122450,25 +122450,6 @@
     "desc": "",
     "id": "8913",
     "name": "Southbound Commercial Dr @ N Grandview Hwy",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.934473,
-     49.260979
-    ],
-    "type": "Point"
-   },
-   "id": "8915",
-   "properties": {
-    "code": "52880",
-    "desc": "",
-    "id": "8915",
-    "name": "Westbound Broadway @ 7900 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -143339,25 +143320,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.120741,
-     49.208502
-    ],
-    "type": "Point"
-   },
-   "id": "11098",
-   "properties": {
-    "code": "52127",
-    "desc": "",
-    "id": "11098",
-    "name": "Eastbound SW Marine Dr @ W 70 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.109291,
      49.243313
     ],
@@ -150475,6 +150437,25 @@
     "desc": "",
     "id": "11644",
     "name": "Southbound No. 3 Rd @ Browngate Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.122926,
+     49.324577
+    ],
+    "type": "Point"
+   },
+   "id": "11645",
+   "properties": {
+    "code": "61563",
+    "desc": "",
+    "id": "11645",
+    "name": "Westbound Marine Dr @ Capilano Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166055,25 +166036,6 @@
     "desc": "",
     "id": "12861",
     "name": "Southbound Mountain Hwy @ Barlynn Cres",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.016066,
-     49.264235
-    ],
-    "type": "Point"
-   },
-   "id": "12862",
-   "properties": {
-    "code": "52724",
-    "desc": "",
-    "id": "12862",
-    "name": "Eastbound Henning Dr @ Gilmore Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
