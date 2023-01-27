@@ -9104,25 +9104,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.137246,
-     49.204167
-    ],
-    "type": "Point"
-   },
-   "id": "762",
-   "properties": {
-    "code": "50755",
-    "desc": "",
-    "id": "762",
-    "name": "Westbound SW Marine Dr @ Montcalm St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.139869,
      49.205047
     ],
@@ -12402,6 +12383,25 @@
     "desc": "",
     "id": "983",
     "name": "Eastbound W Georgia St @ Bute St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.120872,
+     49.284132
+    ],
+    "type": "Point"
+   },
+   "id": "984",
+   "properties": {
+    "code": "50975",
+    "desc": "",
+    "id": "984",
+    "name": "Eastbound W Georgia St @ Burrard St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -70170,25 +70170,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.895989,
-     49.155859
-    ],
-    "type": "Point"
-   },
-   "id": "5022",
-   "properties": {
-    "code": "54970",
-    "desc": "",
-    "id": "5022",
-    "name": "Eastbound 84 Ave @ 117B St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.893492,
      49.15588
     ],
@@ -124757,6 +124738,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.120673,
+     49.284015
+    ],
+    "type": "Point"
+   },
+   "id": "9112",
+   "properties": {
+    "code": "58750",
+    "desc": "",
+    "id": "9112",
+    "name": "Eastbound W Georgia St @ Burrard St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.194664,
      49.23468
     ],
@@ -165200,25 +165200,6 @@
     "desc": "",
     "id": "12804",
     "name": "Eastbound Pacific St @ Seymour Mews",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.121679,
-     49.284667
-    ],
-    "type": "Point"
-   },
-   "id": "12805",
-   "properties": {
-    "code": "60567",
-    "desc": "",
-    "id": "12805",
-    "name": "Eastbound W Georgia St @ Burrard St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
