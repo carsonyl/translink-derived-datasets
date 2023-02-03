@@ -21283,6 +21283,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.028964,
+     49.250701
+    ],
+    "type": "Point"
+   },
+   "id": "1566",
+   "properties": {
+    "code": "51554",
+    "desc": "",
+    "id": "1566",
+    "name": "Westbound E 22 Ave @ Anzio Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.034851,
      49.250678
     ],
@@ -48719,8 +48738,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.835593,
-     49.250624
+     -122.835605,
+     49.250369
     ],
     "type": "Point"
    },
@@ -132680,8 +132699,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.892649,
-     49.237072
+     -122.892659,
+     49.236815
     ],
     "type": "Point"
    },
@@ -143434,25 +143453,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.781227,
-     49.262582
-    ],
-    "type": "Point"
-   },
-   "id": "11108",
-   "properties": {
-    "code": "61013",
-    "desc": "",
-    "id": "11108",
-    "name": "Northbound Shaughnessy St @ McAllister Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.631998,
      49.214859
     ],
@@ -149753,25 +149753,6 @@
     "desc": "",
     "id": "11595",
     "name": "Westbound Main St @ Harbour Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.104471,
-     49.262911
-    ],
-    "type": "Point"
-   },
-   "id": "11596",
-   "properties": {
-    "code": "50878",
-    "desc": "",
-    "id": "11596",
-    "name": "Eastbound E Broadway @ Ontario St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166120,25 +166101,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.030751,
-     49.25068
-    ],
-    "type": "Point"
-   },
-   "id": "12868",
-   "properties": {
-    "code": "60605",
-    "desc": "",
-    "id": "12868",
-    "name": "Westbound E 22 Ave @ Cassiar St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.167939,
      49.268446
     ],
@@ -166207,6 +166169,44 @@
     "desc": "",
     "id": "12872",
     "name": "Westbound E 27 St @ 1200 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.780534,
+     49.263317
+    ],
+    "type": "Point"
+   },
+   "id": "12876",
+   "properties": {
+    "code": "53031",
+    "desc": "",
+    "id": "12876",
+    "name": "Northbound Shaughnessy St @ McAllster Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.10514,
+     49.262929
+    ],
+    "type": "Point"
+   },
+   "id": "12877",
+   "properties": {
+    "code": "60613",
+    "desc": "",
+    "id": "12877",
+    "name": "Eastbound W Broadway @ Ontario St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
