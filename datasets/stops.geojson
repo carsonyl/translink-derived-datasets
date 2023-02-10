@@ -11688,8 +11688,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.107968,
-     49.282052
+     -123.107568,
+     49.281981
     ],
     "type": "Point"
    },
@@ -22719,6 +22719,25 @@
     "desc": "",
     "id": "1654",
     "name": "Southbound Joyce St @ E 41 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.037523,
+     49.23091
+    ],
+    "type": "Point"
+   },
+   "id": "1655",
+   "properties": {
+    "code": "51643",
+    "desc": "",
+    "id": "1655",
+    "name": "Southbound Joyce St @ E 43 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -55958,8 +55977,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.976011,
-     49.315833
+     -122.975057,
+     49.315864
     ],
     "type": "Point"
    },
@@ -65610,8 +65629,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.15407,
-     49.33818
+     -123.153883,
+     49.338201
     ],
     "type": "Point"
    },
@@ -65629,8 +65648,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.156678,
-     49.338227
+     -123.156445,
+     49.338232
     ],
     "type": "Point"
    },
@@ -65648,8 +65667,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.159459,
-     49.341875
+     -123.159584,
+     49.341857
     ],
     "type": "Point"
    },
@@ -65686,8 +65705,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.165651,
-     49.341892
+     -123.165756,
+     49.341891
     ],
     "type": "Point"
    },
@@ -65724,8 +65743,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.171034,
-     49.341909
+     -123.171085,
+     49.341849
     ],
     "type": "Point"
    },
@@ -65781,8 +65800,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.17903,
-     49.342292
+     -123.179274,
+     49.342288
     ],
     "type": "Point"
    },
@@ -65800,8 +65819,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.182572,
-     49.342343
+     -123.18244,
+     49.342323
     ],
     "type": "Point"
    },
@@ -67415,8 +67434,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.12141,
-     49.35775
+     -123.121423,
+     49.357774
     ],
     "type": "Point"
    },
@@ -84222,25 +84241,6 @@
     "desc": "",
     "id": "5893",
     "name": "Northbound University Dr @ 105A Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.839199,
-     49.198785
-    ],
-    "type": "Point"
-   },
-   "id": "5895",
-   "properties": {
-    "code": "55840",
-    "desc": "",
-    "id": "5895",
-    "name": "Eastbound 108 Ave @ 138 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118202,8 +118202,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.156633,
-     49.338115
+     -123.153763,
+     49.338111
     ],
     "type": "Point"
    },
@@ -118962,8 +118962,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.133699,
-     49.352154
+     -123.133835,
+     49.352183
     ],
     "type": "Point"
    },
@@ -120045,8 +120045,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.275862,
-     49.369813
+     -123.275581,
+     49.369566
     ],
     "type": "Point"
    },
@@ -120387,8 +120387,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.13334,
-     49.351839
+     -123.133502,
+     49.351992
     ],
     "type": "Point"
    },
@@ -132691,25 +132691,6 @@
     "desc": "",
     "id": "10074",
     "name": "Southbound East Rd @ Blackberry Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.892659,
-     49.236815
-    ],
-    "type": "Point"
-   },
-   "id": "10076",
-   "properties": {
-    "code": "59345",
-    "desc": "",
-    "id": "10076",
-    "name": "Southbound E Columbia St @ 600 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -147131,25 +147112,6 @@
     "desc": "",
     "id": "11341",
     "name": "Westbound NW Marine Dr @ Cecil Green Park Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.115999,
-     49.232875
-    ],
-    "type": "Point"
-   },
-   "id": "11348",
-   "properties": {
-    "code": "51003",
-    "desc": "",
-    "id": "11348",
-    "name": "Northbound Cambie St @ W 42 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
