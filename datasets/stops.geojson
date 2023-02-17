@@ -20960,8 +20960,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.030547,
-     49.250536
+     -123.030417,
+     49.250549
     ],
     "type": "Point"
    },
@@ -49574,8 +49574,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.852359,
-     49.246431
+     -122.852362,
+     49.246654
     ],
     "type": "Point"
    },
@@ -55722,25 +55722,6 @@
     "desc": "",
     "id": "4093",
     "name": "Northbound Deep Cove Rd @ Badger Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.950816,
-     49.326063
-    ],
-    "type": "Point"
-   },
-   "id": "4094",
-   "properties": {
-    "code": "54053",
-    "desc": "",
-    "id": "4094",
-    "name": "Southbound Panorama Dr @ Naughton Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118202,6 +118183,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.165709,
+     49.341804
+    ],
+    "type": "Point"
+   },
+   "id": "8461",
+   "properties": {
+    "code": "60901",
+    "desc": "",
+    "id": "8461",
+    "name": "Eastbound Queens Ave @ 19 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.159942,
+     49.341754
+    ],
+    "type": "Point"
+   },
+   "id": "8462",
+   "properties": {
+    "code": "60907",
+    "desc": "",
+    "id": "8462",
+    "name": "Eastbound Queens Ave @ 17 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.153763,
      49.338111
     ],
@@ -118213,25 +118232,6 @@
     "desc": "",
     "id": "8464",
     "name": "Eastbound Mathers Ave @ 14 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.151198,
-     49.338095
-    ],
-    "type": "Point"
-   },
-   "id": "8465",
-   "properties": {
-    "code": "60911",
-    "desc": "",
-    "id": "8465",
-    "name": "Eastbound Mathers Ave @ 1200 Block (Flag)",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -118962,8 +118962,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.133835,
-     49.352183
+     -123.133588,
+     49.350692
     ],
     "type": "Point"
    },
@@ -118991,7 +118991,7 @@
     "code": "60945",
     "desc": "",
     "id": "8512",
-    "name": "Westbound Eyremount Dr @ Kenwood Rd",
+    "name": "Northbound Eyremount Dr @ 1000 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -133032,7 +133032,7 @@
     "code": "59518",
     "desc": "",
     "id": "10130",
-    "name": "Northbound Banbury Rd @ Gallant Ave",
+    "name": "Northbound Panorama Dr @ Gallant Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -140584,25 +140584,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.15681,
-     49.339239
-    ],
-    "type": "Point"
-   },
-   "id": "10859",
-   "properties": {
-    "code": "54665",
-    "desc": "",
-    "id": "10859",
-    "name": "Northbound 15 St @ Nelson Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.84529,
      49.277676
     ],
@@ -143149,8 +143130,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116526,
-     49.263349
+     -123.11645,
+     49.263351
     ],
     "type": "Point"
    },
@@ -147207,6 +147188,25 @@
     "desc": "",
     "id": "11354",
     "name": "Oakridge-41st Ave Station  @ Bay 4",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.114283,
+     49.263107
+    ],
+    "type": "Point"
+   },
+   "id": "11357",
+   "properties": {
+    "code": "50875",
+    "desc": "",
+    "id": "11357",
+    "name": "Broadway-City Hall Station @ Bay 1",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -164714,27 +164714,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.117852,
-     49.263181
-    ],
-    "type": "Point"
-   },
-   "id": "12763",
-   "properties": {
-    "code": "60534",
-    "desc": "",
-    "id": "12763",
-    "name": "Broadway-City Hall Station @ Bay 6",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.116587,
-     49.26315
+     -123.116463,
+     49.263144
     ],
     "type": "Point"
    },
@@ -164743,7 +164724,7 @@
     "code": "60535",
     "desc": "",
     "id": "12764",
-    "name": "Broadway-City Hall Station @ Bay 1",
+    "name": "Eastbound W Broadway @ Cambie St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165740,6 +165721,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.232771,
+     49.346947
+    ],
+    "type": "Point"
+   },
+   "id": "12848",
+   "properties": {
+    "code": "60467",
+    "desc": "",
+    "id": "12848",
+    "name": "Westbound Ripple Rd @ Ripple Place",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.167977,
      49.333854
     ],
@@ -166169,6 +166169,158 @@
     "desc": "",
     "id": "12877",
     "name": "Eastbound W Broadway @ Ontario St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.182682,
+     49.342252
+    ],
+    "type": "Point"
+   },
+   "id": "12878",
+   "properties": {
+    "code": "60630",
+    "desc": "",
+    "id": "12878",
+    "name": "Eastbound Queens Ave @ 2500 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.179048,
+     49.342194
+    ],
+    "type": "Point"
+   },
+   "id": "12879",
+   "properties": {
+    "code": "60631",
+    "desc": "",
+    "id": "12879",
+    "name": "Eastbound Queens Ave @ 2400 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.17095,
+     49.341761
+    ],
+    "type": "Point"
+   },
+   "id": "12880",
+   "properties": {
+    "code": "60632",
+    "desc": "",
+    "id": "12880",
+    "name": "Eastbound Queens Ave @ 22 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.121415,
+     49.357989
+    ],
+    "type": "Point"
+   },
+   "id": "12881",
+   "properties": {
+    "code": "60633",
+    "desc": "",
+    "id": "12881",
+    "name": "Northbound Stevens Dr @ Deep Dene Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.156545,
+     49.338122
+    ],
+    "type": "Point"
+   },
+   "id": "12882",
+   "properties": {
+    "code": "60634",
+    "desc": "",
+    "id": "12882",
+    "name": "Eastbound Mathers Ave @ 15 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.134039,
+     49.334424
+    ],
+    "type": "Point"
+   },
+   "id": "12883",
+   "properties": {
+    "code": "60635",
+    "desc": "",
+    "id": "12883",
+    "name": "Eastbound Inglewood Ave @ Burley Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.133819,
+     49.352197
+    ],
+    "type": "Point"
+   },
+   "id": "12889",
+   "properties": {
+    "code": "60636",
+    "desc": "",
+    "id": "12889",
+    "name": "Westbound Eyremount Dr @ Kenwood Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.950544,
+     49.326644
+    ],
+    "type": "Point"
+   },
+   "id": "12890",
+   "properties": {
+    "code": "60638",
+    "desc": "",
+    "id": "12890",
+    "name": "Northbound Panorama Dr @ Gallant Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
