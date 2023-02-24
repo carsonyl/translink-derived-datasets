@@ -10301,25 +10301,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.090406,
-     49.233627
-    ],
-    "type": "Point"
-   },
-   "id": "838",
-   "properties": {
-    "code": "50831",
-    "desc": "",
-    "id": "838",
-    "name": "Northbound Fraser St @ E 41 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.090364,
      49.235102
     ],
@@ -46564,6 +46545,25 @@
     "desc": "",
     "id": "3431",
     "name": "Eastbound Austin Ave @ 500 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.88545,
+     49.248406
+    ],
+    "type": "Point"
+   },
+   "id": "3432",
+   "properties": {
+    "code": "53395",
+    "desc": "",
+    "id": "3432",
+    "name": "Southbound Guilby St @ Austin Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -164477,7 +164477,7 @@
     "code": "58314",
     "desc": "",
     "id": "12735",
-    "name": "Lynn Valley @ Bay 5",
+    "name": "Lynn Valley @ Bay 6",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -164496,7 +164496,7 @@
     "code": "60479",
     "desc": "",
     "id": "12736",
-    "name": "Westbound E 27 St @ 1200 Block",
+    "name": "Lynn Valley @ Bay 5",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166120,25 +166120,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.039518,
-     49.333442
-    ],
-    "type": "Point"
-   },
-   "id": "12872",
-   "properties": {
-    "code": "60615",
-    "desc": "",
-    "id": "12872",
-    "name": "Westbound E 27 St @ 1200 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.780534,
      49.263317
     ],
@@ -166321,6 +166302,25 @@
     "desc": "",
     "id": "12890",
     "name": "Northbound Panorama Dr @ Gallant Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.090467,
+     49.232426
+    ],
+    "type": "Point"
+   },
+   "id": "12891",
+   "properties": {
+    "code": "60637",
+    "desc": "",
+    "id": "12891",
+    "name": "Northbound Fraser St @ E 41st Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
