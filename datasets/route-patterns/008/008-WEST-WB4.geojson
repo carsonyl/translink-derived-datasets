@@ -975,7 +975,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "DOWNTOWN",
+  "destination": "DOWNTOWN/TO WATERFRONT STN",
   "direction": "WEST",
   "name": "008-WB4",
   "operating-company": "CMBC",
