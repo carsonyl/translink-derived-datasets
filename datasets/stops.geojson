@@ -31125,25 +31125,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.921849,
-     49.21426
-    ],
-    "type": "Point"
-   },
-   "id": "2324",
-   "properties": {
-    "code": "52302",
-    "desc": "",
-    "id": "2324",
-    "name": "Southbound 6th St @ 7th Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.920895,
      49.212927
     ],
@@ -31345,25 +31326,6 @@
     "desc": "",
     "id": "2338",
     "name": "Eastbound Columbia St @ 6th St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.904917,
-     49.204662
-    ],
-    "type": "Point"
-   },
-   "id": "2339",
-   "properties": {
-    "code": "52317",
-    "desc": "",
-    "id": "2339",
-    "name": "Columbia Station @ Bay 2",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
