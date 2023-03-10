@@ -22708,25 +22708,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.037523,
-     49.23091
-    ],
-    "type": "Point"
-   },
-   "id": "1655",
-   "properties": {
-    "code": "51643",
-    "desc": "",
-    "id": "1655",
-    "name": "Southbound Joyce St @ E 43 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.036047,
      49.229218
     ],
@@ -27249,8 +27230,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.010415,
-     49.224864
+     -123.008435,
+     49.226762
     ],
     "type": "Point"
    },
@@ -27735,25 +27716,6 @@
     "desc": "",
     "id": "2052",
     "name": "Westbound W 49 Ave @ Tisdall St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.125587,
-     49.226538
-    ],
-    "type": "Point"
-   },
-   "id": "2053",
-   "properties": {
-    "code": "52036",
-    "desc": "",
-    "id": "2053",
-    "name": "Westbound W 49 Ave @ Laurel St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -29909,8 +29871,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.017358,
-     49.208399
+     -123.017297,
+     49.208428
     ],
     "type": "Point"
    },
@@ -41035,6 +40997,25 @@
     "desc": "",
     "id": "3029",
     "name": "SFU Transit Exchange @ Bay 4",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.887093,
+     49.263154
+    ],
+    "type": "Point"
+   },
+   "id": "3030",
+   "properties": {
+    "code": "52999",
+    "desc": "",
+    "id": "3030",
+    "name": "Eastbound Como Lake Ave @ Clarke Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -152117,25 +152098,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.886137,
-     49.263206
-    ],
-    "type": "Point"
-   },
-   "id": "11786",
-   "properties": {
-    "code": "61689",
-    "desc": "",
-    "id": "11786",
-    "name": "Eastbound Como Lake Ave @ Emerson St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.127321,
      49.19488
     ],
@@ -166074,6 +166036,44 @@
     "desc": "",
     "id": "12871",
     "name": "Northbound Scott Rd @ 88 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.604032,
+     49.14335
+    ],
+    "type": "Point"
+   },
+   "id": "12874",
+   "properties": {
+    "code": "60616",
+    "desc": "",
+    "id": "12874",
+    "name": "Westbound University Dr @ Glover Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.603844,
+     49.143091
+    ],
+    "type": "Point"
+   },
+   "id": "12875",
+   "properties": {
+    "code": "60617",
+    "desc": "",
+    "id": "12875",
+    "name": "Eastbound University Dr @ Glover Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
