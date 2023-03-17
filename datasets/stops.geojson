@@ -35334,7 +35334,7 @@
     "code": "52609",
     "desc": "",
     "id": "2634",
-    "name": "Westbound 14 Ave @ 15 St",
+    "name": "Westbound 14th Ave @ 15th St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -37623,6 +37623,63 @@
   {
    "geometry": {
     "coordinates": [
+     -122.957651,
+     49.223269
+    ],
+    "type": "Point"
+   },
+   "id": "2796",
+   "properties": {
+    "code": "52768",
+    "desc": "",
+    "id": "2796",
+    "name": "Southbound Salisbury Ave @ Imperial St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.957642,
+     49.220907
+    ],
+    "type": "Point"
+   },
+   "id": "2797",
+   "properties": {
+    "code": "52769",
+    "desc": "",
+    "id": "2797",
+    "name": "Southbound Salisbury Ave @ Elwell St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.957619,
+     49.219021
+    ],
+    "type": "Point"
+   },
+   "id": "2798",
+   "properties": {
+    "code": "52770",
+    "desc": "",
+    "id": "2798",
+    "name": "Southbound Salisbury Ave @ Arcola St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.958485,
      49.21197
     ],
@@ -37634,6 +37691,44 @@
     "desc": "",
     "id": "2799",
     "name": "Edmonds Station @ Bay 4",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.957436,
+     49.218855
+    ],
+    "type": "Point"
+   },
+   "id": "2800",
+   "properties": {
+    "code": "52772",
+    "desc": "",
+    "id": "2800",
+    "name": "Northbound Salisbury Ave @ Kingsway",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.957498,
+     49.222373
+    ],
+    "type": "Point"
+   },
+   "id": "2802",
+   "properties": {
+    "code": "52774",
+    "desc": "",
+    "id": "2802",
+    "name": "Northbound Salisbury Ave @ McBride St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -71482,25 +71577,6 @@
    "geometry": {
     "coordinates": [
      -122.902042,
-     49.159986
-    ],
-    "type": "Point"
-   },
-   "id": "5105",
-   "properties": {
-    "code": "55053",
-    "desc": "",
-    "id": "5105",
-    "name": "Northbound 116 St @ 86 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.902042,
      49.163587
     ],
     "type": "Point"
@@ -72100,25 +72176,6 @@
     "desc": "",
     "id": "5138",
     "name": "Southbound 116 St @ 87 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.902243,
-     49.159086
-    ],
-    "type": "Point"
-   },
-   "id": "5139",
-   "properties": {
-    "code": "55087",
-    "desc": "",
-    "id": "5139",
-    "name": "Southbound 116 St @ 86 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -76717,6 +76774,25 @@
     "desc": "",
     "id": "5447",
     "name": "Northbound King George Blvd @ 34 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.82107,
+     49.067997
+    ],
+    "type": "Point"
+   },
+   "id": "5448",
+   "properties": {
+    "code": "55395",
+    "desc": "",
+    "id": "5448",
+    "name": "Northbound King George Blvd @ Crescent Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -104712,44 +104788,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.602068,
-     49.143103
-    ],
-    "type": "Point"
-   },
-   "id": "7267",
-   "properties": {
-    "code": "57196",
-    "desc": "",
-    "id": "7267",
-    "name": "Northbound Glover Rd @ 76A Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.598945,
-     49.146072
-    ],
-    "type": "Point"
-   },
-   "id": "7268",
-   "properties": {
-    "code": "57197",
-    "desc": "",
-    "id": "7268",
-    "name": "Northbound Glover Rd @ 79 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.585489,
      49.163012
     ],
@@ -105768,44 +105806,6 @@
     "desc": "",
     "id": "7323",
     "name": "Southbound Glover Rd @ 88 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.59901,
-     49.146227
-    ],
-    "type": "Point"
-   },
-   "id": "7324",
-   "properties": {
-    "code": "57253",
-    "desc": "",
-    "id": "7324",
-    "name": "Southbound Glover Rd @ 79 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.602681,
-     49.142895
-    ],
-    "type": "Point"
-   },
-   "id": "7325",
-   "properties": {
-    "code": "57254",
-    "desc": "",
-    "id": "7325",
-    "name": "Southbound Glover Rd @ Labonte Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -136290,6 +136290,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.098684,
+     49.273162
+    ],
+    "type": "Point"
+   },
+   "id": "10435",
+   "properties": {
+    "code": "59929",
+    "desc": "",
+    "id": "10435",
+    "name": "Main Street-Science World Station @ Bay 3",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.822421,
      49.07214
     ],
@@ -136795,6 +136814,25 @@
     "desc": "",
     "id": "10485",
     "name": "Southbound 80 St @ 4700 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.099334,
+     49.274846
+    ],
+    "type": "Point"
+   },
+   "id": "10486",
+   "properties": {
+    "code": "59928",
+    "desc": "",
+    "id": "10486",
+    "name": "Eastbound National Ave @ Main St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -155366,44 +155404,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.594593,
-     49.149732
-    ],
-    "type": "Point"
-   },
-   "id": "12038",
-   "properties": {
-    "code": "61929",
-    "desc": "",
-    "id": "12038",
-    "name": "Northbound Glover Rd @ Telegraph Trail",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.59478,
-     49.149783
-    ],
-    "type": "Point"
-   },
-   "id": "12039",
-   "properties": {
-    "code": "61928",
-    "desc": "",
-    "id": "12039",
-    "name": "Southbound Glover Rd @ Telegraph Trail",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.163937,
      49.272658
     ],
@@ -161674,25 +161674,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.819618,
-     49.06679
-    ],
-    "type": "Point"
-   },
-   "id": "12492",
-   "properties": {
-    "code": "60231",
-    "desc": "",
-    "id": "12492",
-    "name": "Northbound King George Blvd @ Crescent Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.131265,
      49.277837
     ],
@@ -161951,6 +161932,25 @@
     "desc": "",
     "id": "12518",
     "name": "Eastbound SW Marine Dr @ Hudson St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.098659,
+     49.273628
+    ],
+    "type": "Point"
+   },
+   "id": "12519",
+   "properties": {
+    "code": "60250",
+    "desc": "",
+    "id": "12519",
+    "name": "Southbound Station St @ Terminal Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -164505,82 +164505,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.961087,
-     49.217902
-    ],
-    "type": "Point"
-   },
-   "id": "12751",
-   "properties": {
-    "code": "60520",
-    "desc": "",
-    "id": "12751",
-    "name": "Southbound Griffiths Dr @ Kingsway",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.960887,
-     49.218789
-    ],
-    "type": "Point"
-   },
-   "id": "12752",
-   "properties": {
-    "code": "60522",
-    "desc": "",
-    "id": "12752",
-    "name": "Northbound Griffiths Ave @ Kingsway",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.961099,
-     49.221335
-    ],
-    "type": "Point"
-   },
-   "id": "12753",
-   "properties": {
-    "code": "60523",
-    "desc": "",
-    "id": "12753",
-    "name": "Southbound Griffiths Ave @ Elwell St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.960918,
-     49.221525
-    ],
-    "type": "Point"
-   },
-   "id": "12754",
-   "properties": {
-    "code": "60524",
-    "desc": "",
-    "id": "12754",
-    "name": "Northbound Griffiths Ave @ Elwell St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.800967,
      49.145969
     ],
@@ -166282,7 +166206,26 @@
     "code": "60637",
     "desc": "",
     "id": "12891",
-    "name": "Northbound Fraser St @ E 41st Ave",
+    "name": "Northbound Fraser St @ E 41 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.837391,
+     49.198786
+    ],
+    "type": "Point"
+   },
+   "id": "12892",
+   "properties": {
+    "code": "60639",
+    "desc": "",
+    "id": "12892",
+    "name": "Eastbound 108 Ave @ 139 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
