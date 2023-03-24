@@ -35324,8 +35324,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.947328,
-     49.214153
+     -122.946732,
+     49.214426
     ],
     "type": "Point"
    },
@@ -37881,25 +37881,6 @@
     "desc": "",
     "id": "2813",
     "name": "Northbound Douglas Rd @ Hardwick St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.981866,
-     49.253402
-    ],
-    "type": "Point"
-   },
-   "id": "2814",
-   "properties": {
-    "code": "52785",
-    "desc": "",
-    "id": "2814",
-    "name": "Northbound Douglas Rd @ Laurel St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -47286,25 +47267,6 @@
     "desc": "",
     "id": "3478",
     "name": "Port Coquitlam Station @ Bay 2",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.779124,
-     49.260938
-    ],
-    "type": "Point"
-   },
-   "id": "3479",
-   "properties": {
-    "code": "53441",
-    "desc": "",
-    "id": "3479",
-    "name": "Westbound Wilson Ave @ Mary Hill Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166226,6 +166188,63 @@
     "desc": "",
     "id": "12892",
     "name": "Eastbound 108 Ave @ 139 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.981956,
+     49.253952
+    ],
+    "type": "Point"
+   },
+   "id": "12893",
+   "properties": {
+    "code": "59410",
+    "desc": "",
+    "id": "12893",
+    "name": "Northbound Douglas Rd @ Laurel St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.594994,
+     49.150251
+    ],
+    "type": "Point"
+   },
+   "id": "12894",
+   "properties": {
+    "code": "60642",
+    "desc": "",
+    "id": "12894",
+    "name": "Westbound Telegraph Trail @ Glover Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.595327,
+     49.150244
+    ],
+    "type": "Point"
+   },
+   "id": "12895",
+   "properties": {
+    "code": "60643",
+    "desc": "",
+    "id": "12895",
+    "name": "Eastbound Telegraph Trail @ Glover Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
