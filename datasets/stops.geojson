@@ -7888,6 +7888,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.185714,
+     49.264644
+    ],
+    "type": "Point"
+   },
+   "id": "674",
+   "properties": {
+    "code": "50667",
+    "desc": "",
+    "id": "674",
+    "name": "Northbound Alma St @ W Broadway",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.185659,
      49.266385
     ],
@@ -21777,6 +21796,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.156163,
+     49.251149
+    ],
+    "type": "Point"
+   },
+   "id": "1597",
+   "properties": {
+    "code": "51585",
+    "desc": "",
+    "id": "1597",
+    "name": "Westbound W King Edward Ave @ Yew St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.159848,
+     49.249723
+    ],
+    "type": "Point"
+   },
+   "id": "1598",
+   "properties": {
+    "code": "51586",
+    "desc": "",
+    "id": "1598",
+    "name": "Westbound W King Edward Ave @ Valley Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.165826,
      49.248213
     ],
@@ -27230,8 +27287,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.008435,
-     49.226762
+     -123.009158,
+     49.226048
     ],
     "type": "Point"
    },
@@ -27240,7 +27297,7 @@
     "code": "51998",
     "desc": "",
     "id": "2015",
-    "name": "Northbound Willingdon Ave @ Maywood St",
+    "name": "Northbound Willingdon Ave @ Mayberry St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -43532,6 +43589,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.817386,
+     49.277765
+    ],
+    "type": "Point"
+   },
+   "id": "3187",
+   "properties": {
+    "code": "53153",
+    "desc": "",
+    "id": "3187",
+    "name": "Eastbound Barnet Hwy @ Falcon Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.806687,
      49.277677
     ],
@@ -43657,6 +43733,25 @@
     "desc": "",
     "id": "3204",
     "name": "Coquitlam Central Station @ Bay 7",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.80971,
+     49.277979
+    ],
+    "type": "Point"
+   },
+   "id": "3205",
+   "properties": {
+    "code": "53171",
+    "desc": "",
+    "id": "3205",
+    "name": "Westbound Barnet Hwy @ Lansdowne Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -47267,6 +47362,25 @@
     "desc": "",
     "id": "3478",
     "name": "Port Coquitlam Station @ Bay 2",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.779124,
+     49.260938
+    ],
+    "type": "Point"
+   },
+   "id": "3479",
+   "properties": {
+    "code": "53441",
+    "desc": "",
+    "id": "3479",
+    "name": "Westbound Wilson Ave @ Mary Hill Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -104446,25 +104560,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.537425,
-     49.069609
-    ],
-    "type": "Point"
-   },
-   "id": "7244",
-   "properties": {
-    "code": "57173",
-    "desc": "",
-    "id": "7244",
-    "name": "Westbound Fraser Hwy @ 248 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.548571,
      49.072008
     ],
@@ -119931,25 +120026,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.131834,
-     49.291212
-    ],
-    "type": "Point"
-   },
-   "id": "8634",
-   "properties": {
-    "code": "58254",
-    "desc": "",
-    "id": "8634",
-    "name": "Eastbound W Georgia St @ Bidwell St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.275581,
      49.369566
     ],
@@ -128918,6 +128994,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.88605,
+     49.323873
+    ],
+    "type": "Point"
+   },
+   "id": "9541",
+   "properties": {
+    "code": "53249",
+    "desc": "",
+    "id": "9541",
+    "name": "Bus Stop @ White Pine Beach",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.11995,
      49.324033
     ],
@@ -129860,6 +129955,25 @@
     "desc": "",
     "id": "9632",
     "name": "Southbound Jackson Rd @ 104 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.856819,
+     49.33871
+    ],
+    "type": "Point"
+   },
+   "id": "9633",
+   "properties": {
+    "code": "59225",
+    "desc": "",
+    "id": "9633",
+    "name": "Buntzen Lake @ Parking Lot",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -136271,6 +136385,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.827603,
+     49.284375
+    ],
+    "type": "Point"
+   },
+   "id": "10436",
+   "properties": {
+    "code": "53228",
+    "desc": "",
+    "id": "10436",
+    "name": "Westbound Ungless Way @ Noons Creek Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.822421,
      49.07214
     ],
@@ -140527,6 +140660,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.855612,
+     49.322425
+    ],
+    "type": "Point"
+   },
+   "id": "10858",
+   "properties": {
+    "code": "61018",
+    "desc": "",
+    "id": "10858",
+    "name": "Northbound @ Anmore Grocery Store (Flag)",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.84529,
      49.277676
     ],
@@ -142047,6 +142199,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.215494,
+     49.276328
+    ],
+    "type": "Point"
+   },
+   "id": "11002",
+   "properties": {
+    "code": "61143",
+    "desc": "",
+    "id": "11002",
+    "name": "Bus Stop @ Spanish Banks Loop",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.922785,
      49.155985
     ],
@@ -142750,6 +142921,82 @@
   {
    "geometry": {
     "coordinates": [
+     -123.203022,
+     49.271904
+    ],
+    "type": "Point"
+   },
+   "id": "11053",
+   "properties": {
+    "code": "51934",
+    "desc": "",
+    "id": "11053",
+    "name": "Westbound NW Marine Dr @ Discovery St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.203426,
+     49.271953
+    ],
+    "type": "Point"
+   },
+   "id": "11054",
+   "properties": {
+    "code": "51910",
+    "desc": "",
+    "id": "11054",
+    "name": "Eastbound NW Marine Dr @ Discovery St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.209135,
+     49.274502
+    ],
+    "type": "Point"
+   },
+   "id": "11055",
+   "properties": {
+    "code": "51937",
+    "desc": "",
+    "id": "11055",
+    "name": "Westbound NW Marine Dr @ Sasamat St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.200827,
+     49.268799
+    ],
+    "type": "Point"
+   },
+   "id": "11056",
+   "properties": {
+    "code": "51912",
+    "desc": "",
+    "id": "11056",
+    "name": "Eastbound NW Marine Dr @ Locarno Cres",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.097295,
      49.240485
     ],
@@ -142902,6 +143149,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.205593,
+     49.274065
+    ],
+    "type": "Point"
+   },
+   "id": "11065",
+   "properties": {
+    "code": "51935",
+    "desc": "",
+    "id": "11065",
+    "name": "Northbound NW Marine Dr @ Belmont Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.211352,
+     49.274742
+    ],
+    "type": "Point"
+   },
+   "id": "11066",
+   "properties": {
+    "code": "51906",
+    "desc": "",
+    "id": "11066",
+    "name": "Eastbound NW Marine Dr @ Tolmie St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.134406,
      49.257964
     ],
@@ -142921,6 +143206,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.205803,
+     49.273327
+    ],
+    "type": "Point"
+   },
+   "id": "11068",
+   "properties": {
+    "code": "61133",
+    "desc": "",
+    "id": "11068",
+    "name": "Southbound Trimble St @ Belmont Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.212054,
+     49.275093
+    ],
+    "type": "Point"
+   },
+   "id": "11069",
+   "properties": {
+    "code": "51938",
+    "desc": "",
+    "id": "11069",
+    "name": "Westbound NW Marine Dr @ Tolmie St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.55709,
      49.217262
     ],
@@ -142932,6 +143255,25 @@
     "desc": "",
     "id": "11070",
     "name": "Southbound 240 St @ 118 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.200648,
+     49.268938
+    ],
+    "type": "Point"
+   },
+   "id": "11071",
+   "properties": {
+    "code": "61138",
+    "desc": "",
+    "id": "11071",
+    "name": "Westbound NW Marine Dr @ W 4th Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -147101,25 +147443,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116867,
-     49.23344
-    ],
-    "type": "Point"
-   },
-   "id": "11353",
-   "properties": {
-    "code": "50136",
-    "desc": "",
-    "id": "11353",
-    "name": "Oakridge-41st Ave Station @ Bay 2",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.117599,
      49.233712
     ],
@@ -151216,25 +151539,6 @@
     "desc": "",
     "id": "11721",
     "name": "Northbound University Dr @ 107A Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.537577,
-     49.069471
-    ],
-    "type": "Point"
-   },
-   "id": "11722",
-   "properties": {
-    "code": "61567",
-    "desc": "",
-    "id": "11722",
-    "name": "Eastbound Fraser Hwy @ 248 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -157200,7 +157504,7 @@
     "code": "58102",
     "desc": "",
     "id": "12201",
-    "name": "Northbound 208 St @ 82 Ave",
+    "name": "Northbound 208 St @ 83 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -162472,6 +162776,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.147475,
+     49.170522
+    ],
+    "type": "Point"
+   },
+   "id": "12579",
+   "properties": {
+    "code": "56938",
+    "desc": "",
+    "id": "12579",
+    "name": "Northbound Gilbert Rd @ Westminster Hwy",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.606432,
      49.212575
     ],
@@ -162520,6 +162843,25 @@
     "code": "50137",
     "desc": "",
     "id": "12585",
+    "name": "Eastbound W 41 Ave @ Cambie St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.11497,
+     49.233382
+    ],
+    "type": "Point"
+   },
+   "id": "12586",
+   "properties": {
+    "code": "60349",
+    "desc": "",
+    "id": "12586",
     "name": "Eastbound W 41 Ave @ Cambie St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
@@ -162673,6 +163015,25 @@
     "desc": "",
     "id": "12600",
     "name": "UBC Exchange @ Unloading Only",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.09865,
+     49.273853
+    ],
+    "type": "Point"
+   },
+   "id": "12602",
+   "properties": {
+    "code": "60351",
+    "desc": "",
+    "id": "12602",
+    "name": "Southbound Station St @ National Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -164239,7 +164600,7 @@
   {
    "geometry": {
     "coordinates": [
-     -123.12295,
+     -123.122949,
      49.27941
     ],
     "type": "Point"
@@ -164249,7 +164610,7 @@
     "code": "50532",
     "desc": "",
     "id": "12722",
-    "name": "Southbound Granville St @ Nelson St",
+    "name": "Southbound Granville  @ Nelson St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165265,6 +165626,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.884767,
+     49.314325
+    ],
+    "type": "Point"
+   },
+   "id": "12829",
+   "properties": {
+    "code": "60588",
+    "desc": "",
+    "id": "12829",
+    "name": "Southbound White Pine Beach Rd @ Bedwell Bay Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.783538,
      49.263567
     ],
@@ -165930,6 +166310,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.077603,
+     49.211235
+    ],
+    "type": "Point"
+   },
+   "id": "12873",
+   "properties": {
+    "code": "60608",
+    "desc": "",
+    "id": "12873",
+    "name": "Westbound SE Marine Dr @ Knight St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.604032,
      49.14335
     ],
@@ -166120,6 +166519,101 @@
   {
    "geometry": {
     "coordinates": [
+     -123.137742,
+     49.173946
+    ],
+    "type": "Point"
+   },
+   "id": "12884",
+   "properties": {
+    "code": "60609",
+    "desc": "",
+    "id": "12884",
+    "name": "Westbound Lansdowne Rd @ No. 3 Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.141576,
+     49.173926
+    ],
+    "type": "Point"
+   },
+   "id": "12885",
+   "properties": {
+    "code": "60610",
+    "desc": "",
+    "id": "12885",
+    "name": "Westbound Lansdowne Rd @ Cedarbridge Way",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.146259,
+     49.172758
+    ],
+    "type": "Point"
+   },
+   "id": "12886",
+   "properties": {
+    "code": "56939",
+    "desc": "",
+    "id": "12886",
+    "name": "Northbound Gilbert Rd @ Elmbridge Way",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.142931,
+     49.173811
+    ],
+    "type": "Point"
+   },
+   "id": "12887",
+   "properties": {
+    "code": "60611",
+    "desc": "",
+    "id": "12887",
+    "name": "Eastbound Lansdowne Rd @ Cedarbridge Way",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147015,
+     49.172391
+    ],
+    "type": "Point"
+   },
+   "id": "12888",
+   "properties": {
+    "code": "56944",
+    "desc": "",
+    "id": "12888",
+    "name": "Southbound Gilbert Rd @ Elmbridge Way",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.133819,
      49.352197
     ],
@@ -166245,6 +166739,25 @@
     "desc": "",
     "id": "12895",
     "name": "Eastbound Telegraph Trail @ Glover Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.130384,
+     49.290268
+    ],
+    "type": "Point"
+   },
+   "id": "12896",
+   "properties": {
+    "code": "60645",
+    "desc": "",
+    "id": "12896",
+    "name": "Eastbound W Georgia St @ Cardero St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
