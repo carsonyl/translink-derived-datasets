@@ -67852,25 +67852,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.890538,
-     49.13653
-    ],
-    "type": "Point"
-   },
-   "id": "4846",
-   "properties": {
-    "code": "54794",
-    "desc": "",
-    "id": "4846",
-    "name": "Southbound Scott Rd @ 7300 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.891097,
      49.134174
     ],
