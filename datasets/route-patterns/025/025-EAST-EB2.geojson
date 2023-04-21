@@ -1905,7 +1905,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "NANAIMO STN",
+  "destination": "KING EDWARD/TO NANAIMO STN",
   "direction": "EAST",
   "name": "025-EB2",
   "operating-company": "CMBC",

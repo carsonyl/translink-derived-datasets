@@ -2085,7 +2085,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "29TH AVE STN",
+  "destination": "33RD AVENUE/TO 29TH AVENUE STN",
   "direction": "EAST",
   "name": "033-EB1",
   "operating-company": "CMBC",
