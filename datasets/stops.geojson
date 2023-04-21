@@ -2055,6 +2055,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.11242,
+     49.283796
+    ],
+    "type": "Point"
+   },
+   "id": "189",
+   "properties": {
+    "code": "50189",
+    "desc": "",
+    "id": "189",
+    "name": "Southbound Richards St @ W Hastings St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.115253,
      49.281944
     ],
@@ -28940,8 +28959,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.075122,
-     49.210925
+     -123.075001,
+     49.210924
     ],
     "type": "Point"
    },
@@ -29236,63 +29255,6 @@
     "desc": "",
     "id": "2175",
     "name": "Eastbound Marine Dr @ Willard St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.964955,
-     49.203253
-    ],
-    "type": "Point"
-   },
-   "id": "2176",
-   "properties": {
-    "code": "52156",
-    "desc": "",
-    "id": "2176",
-    "name": "Eastbound Marine Dr @ 14 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.959752,
-     49.200219
-    ],
-    "type": "Point"
-   },
-   "id": "2177",
-   "properties": {
-    "code": "58172",
-    "desc": "",
-    "id": "2177",
-    "name": "Eastbound Marine Dr @ 6400 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.954626,
-     49.198147
-    ],
-    "type": "Point"
-   },
-   "id": "2178",
-   "properties": {
-    "code": "52158",
-    "desc": "",
-    "id": "2178",
-    "name": "Eastbound Marine Dr @ Trapp Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -29616,177 +29578,6 @@
     "desc": "",
     "id": "2203",
     "name": "22nd Street Station @ Bay 8",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.95361,
-     49.198195
-    ],
-    "type": "Point"
-   },
-   "id": "2204",
-   "properties": {
-    "code": "52184",
-    "desc": "",
-    "id": "2204",
-    "name": "Westbound Marine Dr @ 7th Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.960458,
-     49.201118
-    ],
-    "type": "Point"
-   },
-   "id": "2205",
-   "properties": {
-    "code": "52185",
-    "desc": "",
-    "id": "2205",
-    "name": "Westbound Marine Dr @ 10 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.964735,
-     49.20329
-    ],
-    "type": "Point"
-   },
-   "id": "2206",
-   "properties": {
-    "code": "52186",
-    "desc": "",
-    "id": "2206",
-    "name": "Westbound Marine Dr @ 14 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.953717,
-     49.197846
-    ],
-    "type": "Point"
-   },
-   "id": "2207",
-   "properties": {
-    "code": "52187",
-    "desc": "",
-    "id": "2207",
-    "name": "Westbound Trapp Rd @ Marine Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.960781,
-     49.196444
-    ],
-    "type": "Point"
-   },
-   "id": "2208",
-   "properties": {
-    "code": "52188",
-    "desc": "",
-    "id": "2208",
-    "name": "Northbound Willard St @ Thorne Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.962264,
-     49.197627
-    ],
-    "type": "Point"
-   },
-   "id": "2209",
-   "properties": {
-    "code": "52189",
-    "desc": "",
-    "id": "2209",
-    "name": "Northbound Willard St @ 9th Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.964393,
-     49.199329
-    ],
-    "type": "Point"
-   },
-   "id": "2210",
-   "properties": {
-    "code": "52190",
-    "desc": "",
-    "id": "2210",
-    "name": "Northbound Willard St @ 10 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.966082,
-     49.200685
-    ],
-    "type": "Point"
-   },
-   "id": "2211",
-   "properties": {
-    "code": "52191",
-    "desc": "",
-    "id": "2211",
-    "name": "Northbound Willard St @ 12 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.967376,
-     49.201748
-    ],
-    "type": "Point"
-   },
-   "id": "2212",
-   "properties": {
-    "code": "52192",
-    "desc": "",
-    "id": "2212",
-    "name": "Northbound Willard St @ 14 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -71634,6 +71425,25 @@
    "geometry": {
     "coordinates": [
      -122.902042,
+     49.159986
+    ],
+    "type": "Point"
+   },
+   "id": "5105",
+   "properties": {
+    "code": "55053",
+    "desc": "",
+    "id": "5105",
+    "name": "Northbound 116 St @ 86 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.902042,
      49.163587
     ],
     "type": "Point"
@@ -72233,6 +72043,25 @@
     "desc": "",
     "id": "5138",
     "name": "Southbound 116 St @ 87 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.902243,
+     49.159086
+    ],
+    "type": "Point"
+   },
+   "id": "5139",
+   "properties": {
+    "code": "55087",
+    "desc": "",
+    "id": "5139",
+    "name": "Southbound 116 St @ 86 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -74019,25 +73848,6 @@
     "desc": "",
     "id": "5260",
     "name": "Southbound Scott Rd @ 76A Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.890538,
-     49.139911
-    ],
-    "type": "Point"
-   },
-   "id": "5261",
-   "properties": {
-    "code": "55209",
-    "desc": "",
-    "id": "5261",
-    "name": "Southbound Scott Rd @ 75A Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -77552,7 +77362,7 @@
     "code": "55453",
     "desc": "",
     "id": "5506",
-    "name": "Southbound King George Blvd @ 73A Ave",
+    "name": "Southbound King George Blvd @ 74 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -120254,25 +120064,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.9709,
-     49.204534
-    ],
-    "type": "Point"
-   },
-   "id": "8655",
-   "properties": {
-    "code": "58147",
-    "desc": "",
-    "id": "8655",
-    "name": "Northbound Willard St @ Marine Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.894518,
      49.247378
     ],
@@ -123419,25 +123210,6 @@
     "desc": "",
     "id": "8989",
     "name": "Eastbound Fraser Hwy @ 196 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.967268,
-     49.204332
-    ],
-    "type": "Point"
-   },
-   "id": "8992",
-   "properties": {
-    "code": "58761",
-    "desc": "",
-    "id": "8992",
-    "name": "Northbound Byrnepark Dr @ Marine Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -139273,8 +139045,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.630595,
-     49.104512
+     -122.631667,
+     49.104567
     ],
     "type": "Point"
    },
@@ -166206,7 +165978,7 @@
     "code": "60607",
     "desc": "",
     "id": "12866",
-    "name": "King Edward Station @ Bay 3 New",
+    "name": "King Edward Station @ Bay 3",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166739,6 +166511,25 @@
     "desc": "",
     "id": "12896",
     "name": "Eastbound W Georgia St @ Cardero St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.031087,
+     49.206199
+    ],
+    "type": "Point"
+   },
+   "id": "12897",
+   "properties": {
+    "code": "60644",
+    "desc": "",
+    "id": "12897",
+    "name": "Southbound River District Crossing @ Sawmill Cres",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
