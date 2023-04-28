@@ -2055,25 +2055,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.11242,
-     49.283796
-    ],
-    "type": "Point"
-   },
-   "id": "189",
-   "properties": {
-    "code": "50189",
-    "desc": "",
-    "id": "189",
-    "name": "Southbound Richards St @ W Hastings St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.115253,
      49.281944
     ],
@@ -3092,25 +3073,6 @@
     "desc": "",
     "id": "274",
     "name": "Eastbound University Blvd @ 5100 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.215067,
-     49.264289
-    ],
-    "type": "Point"
-   },
-   "id": "275",
-   "properties": {
-    "code": "50272",
-    "desc": "",
-    "id": "275",
-    "name": "Northbound Blanca St @ W 10 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -21017,8 +20979,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.023043,
-     49.24878
+     -123.023017,
+     49.248781
     ],
     "type": "Point"
    },
@@ -21055,8 +21017,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.01485,
-     49.248871
+     -123.014612,
+     49.248894
     ],
     "type": "Point"
    },
@@ -21226,8 +21188,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.011149,
-     49.249351
+     -123.01124,
+     49.249354
     ],
     "type": "Point"
    },
@@ -21245,8 +21207,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.020199,
-     49.24887
+     -123.020257,
+     49.248873
     ],
     "type": "Point"
    },
@@ -21264,8 +21226,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.023167,
-     49.248883
+     -123.023276,
+     49.248902
     ],
     "type": "Point"
    },
@@ -22738,25 +22700,6 @@
     "desc": "",
     "id": "1652",
     "name": "Southbound Joyce St @ Euclid Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.034898,
-     49.235265
-    ],
-    "type": "Point"
-   },
-   "id": "1653",
-   "properties": {
-    "code": "51641",
-    "desc": "",
-    "id": "1653",
-    "name": "Southbound Joyce St @ Cherry St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -26831,6 +26774,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.123158,
+     49.226275
+    ],
+    "type": "Point"
+   },
+   "id": "1982",
+   "properties": {
+    "code": "51965",
+    "desc": "",
+    "id": "1982",
+    "name": "Eastbound W 49 Ave @ Heather St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.112498,
      49.225896
     ],
@@ -27792,6 +27754,25 @@
     "desc": "",
     "id": "2052",
     "name": "Westbound W 49 Ave @ Tisdall St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.125587,
+     49.226538
+    ],
+    "type": "Point"
+   },
+   "id": "2053",
+   "properties": {
+    "code": "52036",
+    "desc": "",
+    "id": "2053",
+    "name": "Westbound W 49 Ave @ Laurel St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -31136,25 +31117,6 @@
     "desc": "",
     "id": "2338",
     "name": "Eastbound Columbia St @ 6th St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.902572,
-     49.205926
-    ],
-    "type": "Point"
-   },
-   "id": "2340",
-   "properties": {
-    "code": "52318",
-    "desc": "",
-    "id": "2340",
-    "name": "Eastbound Columbia St @ 200 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -46743,25 +46705,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.836314,
-     49.248977
-    ],
-    "type": "Point"
-   },
-   "id": "3448",
-   "properties": {
-    "code": "53410",
-    "desc": "",
-    "id": "3448",
-    "name": "Eastbound Austin Ave @ Draycott St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.833279,
      49.248978
     ],
@@ -47153,25 +47096,6 @@
     "desc": "",
     "id": "3478",
     "name": "Port Coquitlam Station @ Bay 2",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.779124,
-     49.260938
-    ],
-    "type": "Point"
-   },
-   "id": "3479",
-   "properties": {
-    "code": "53441",
-    "desc": "",
-    "id": "3479",
-    "name": "Westbound Wilson Ave @ Mary Hill Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -57907,25 +57831,6 @@
     "desc": "",
     "id": "4243",
     "name": "Northbound Lonsdale Ave @ E 15 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.072122,
-     49.324592
-    ],
-    "type": "Point"
-   },
-   "id": "4244",
-   "properties": {
-    "code": "54198",
-    "desc": "",
-    "id": "4244",
-    "name": "Northbound Lonsdale Ave @ E 17 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -73742,25 +73647,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.890437,
-     49.170175
-    ],
-    "type": "Point"
-   },
-   "id": "5255",
-   "properties": {
-    "code": "55203",
-    "desc": "",
-    "id": "5255",
-    "name": "Southbound Scott Rd @ 92 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.890557,
      49.155682
     ],
@@ -73791,25 +73677,6 @@
     "desc": "",
     "id": "5257",
     "name": "Southbound Scott Rd @ 82 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.890537,
-     49.148954
-    ],
-    "type": "Point"
-   },
-   "id": "5258",
-   "properties": {
-    "code": "55206",
-    "desc": "",
-    "id": "5258",
-    "name": "Southbound Scott Rd @ 80 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -112768,6 +112635,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.646084,
+     49.214389
+    ],
+    "type": "Point"
+   },
+   "id": "7788",
+   "properties": {
+    "code": "57714",
+    "desc": "",
+    "id": "7788",
+    "name": "Westbound 117 Ave @ Graves St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.6481,
      49.212763
     ],
@@ -150217,25 +150103,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.102082,
-     49.233207
-    ],
-    "type": "Point"
-   },
-   "id": "11632",
-   "properties": {
-    "code": "50156",
-    "desc": "",
-    "id": "11632",
-    "name": "Westbound E 41 Ave @ Main St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.968955,
      49.176556
     ],
@@ -152174,63 +152041,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.248724,
-     49.265726
-    ],
-    "type": "Point"
-   },
-   "id": "11792",
-   "properties": {
-    "code": "58895",
-    "desc": "",
-    "id": "11792",
-    "name": "UBC Exchange @ Bay 9",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.248129,
-     49.26581
-    ],
-    "type": "Point"
-   },
-   "id": "11793",
-   "properties": {
-    "code": "61701",
-    "desc": "",
-    "id": "11793",
-    "name": "UBC Exchange @ Bay 10",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.247364,
-     49.265923
-    ],
-    "type": "Point"
-   },
-   "id": "11794",
-   "properties": {
-    "code": "61702",
-    "desc": "",
-    "id": "11794",
-    "name": "UBC Exchange @ Bay 11",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.838698,
      49.304406
     ],
@@ -153591,25 +153401,6 @@
     "desc": "",
     "id": "11911",
     "name": "Eastbound 8th Ave @ 8th St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.859689,
-     49.230419
-    ],
-    "type": "Point"
-   },
-   "id": "11912",
-   "properties": {
-    "code": "61515",
-    "desc": "",
-    "id": "11912",
-    "name": "Eastbound United Blvd @ King Edward St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166530,6 +166321,25 @@
     "desc": "",
     "id": "12897",
     "name": "Southbound River District Crossing @ Sawmill Cres",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.072194,
+     49.323923
+    ],
+    "type": "Point"
+   },
+   "id": "12908",
+   "properties": {
+    "code": "60647",
+    "desc": "",
+    "id": "12908",
+    "name": "Northbound Lonsdale Ave @ E 17 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
