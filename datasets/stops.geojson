@@ -20371,25 +20371,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.184491,
-     49.249918
-    ],
-    "type": "Point"
-   },
-   "id": "1505",
-   "properties": {
-    "code": "51493",
-    "desc": "",
-    "id": "1505",
-    "name": "Eastbound W King Edward Ave @ Dunbar St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.178332,
      49.250104
     ],
@@ -166340,6 +166321,25 @@
     "desc": "",
     "id": "12908",
     "name": "Northbound Lonsdale Ave @ E 17 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.185314,
+     49.25086
+    ],
+    "type": "Point"
+   },
+   "id": "12910",
+   "properties": {
+    "code": "60648",
+    "desc": "",
+    "id": "12910",
+    "name": "Southbound Dunbar St @ W 24 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
