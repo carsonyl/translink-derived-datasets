@@ -20390,8 +20390,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.172403,
-     49.250075
+     -123.172561,
+     49.24988
     ],
     "type": "Point"
    },
@@ -41415,25 +41415,6 @@
     "desc": "",
     "id": "3065",
     "name": "Westbound Lougheed Hwy @ Hastings St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.791893,
-     49.274252
-    ],
-    "type": "Point"
-   },
-   "id": "3066",
-   "properties": {
-    "code": "53034",
-    "desc": "",
-    "id": "3066",
-    "name": "Westbound Lougheed Hwy @ Westwood St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -104199,6 +104180,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.537425,
+     49.069609
+    ],
+    "type": "Point"
+   },
+   "id": "7244",
+   "properties": {
+    "code": "57173",
+    "desc": "",
+    "id": "7244",
+    "name": "Westbound Fraser Hwy @ 248 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.548571,
      49.072008
     ],
@@ -151140,6 +151140,25 @@
     "desc": "",
     "id": "11721",
     "name": "Northbound University Dr @ 107A Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.537577,
+     49.069471
+    ],
+    "type": "Point"
+   },
+   "id": "11722",
+   "properties": {
+    "code": "61567",
+    "desc": "",
+    "id": "11722",
+    "name": "Eastbound Fraser Hwy @ 248 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
