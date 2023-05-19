@@ -8933,25 +8933,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.130033,
-     49.211074
-    ],
-    "type": "Point"
-   },
-   "id": "750",
-   "properties": {
-    "code": "50743",
-    "desc": "",
-    "id": "750",
-    "name": "Northbound Oak St @ W 67 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.129909,
      49.214711
     ],
@@ -31725,25 +31706,6 @@
     "desc": "",
     "id": "2390",
     "name": "Westbound Westminster Hwy @ Boundary Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.964852,
-     49.18162
-    ],
-    "type": "Point"
-   },
-   "id": "2391",
-   "properties": {
-    "code": "52367",
-    "desc": "",
-    "id": "2391",
-    "name": "Westbound Westminster Hwy @ Smith Cres",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -61335,44 +61297,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.080587,
-     49.314494
-    ],
-    "type": "Point"
-   },
-   "id": "4469",
-   "properties": {
-    "code": "54419",
-    "desc": "",
-    "id": "4469",
-    "name": "Southbound Chesterfield Ave @ W 3rd St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.082166,
-     49.31297
-    ],
-    "type": "Point"
-   },
-   "id": "4470",
-   "properties": {
-    "code": "54420",
-    "desc": "",
-    "id": "4470",
-    "name": "Southbound Chesterfield Ave @ W 1st St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.082918,
      49.310597
     ],
@@ -61441,44 +61365,6 @@
     "desc": "",
     "id": "4474",
     "name": "Phibbs Exchange @ Bay 10",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.081348,
-     49.313517
-    ],
-    "type": "Point"
-   },
-   "id": "4476",
-   "properties": {
-    "code": "54426",
-    "desc": "",
-    "id": "4476",
-    "name": "Northbound Chesterfield Ave @ W 1st St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.080618,
-     49.314235
-    ],
-    "type": "Point"
-   },
-   "id": "4477",
-   "properties": {
-    "code": "54427",
-    "desc": "",
-    "id": "4477",
-    "name": "Northbound Chesterfield Ave @ W 2nd St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -128405,6 +128291,139 @@
   {
    "geometry": {
     "coordinates": [
+     -122.848435,
+     49.226943
+    ],
+    "type": "Point"
+   },
+   "id": "9514",
+   "properties": {
+    "code": "59032",
+    "desc": "",
+    "id": "9514",
+    "name": "Eastbound Hartley Ave @ Brigantine Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.848828,
+     49.227417
+    ],
+    "type": "Point"
+   },
+   "id": "9515",
+   "properties": {
+    "code": "59018",
+    "desc": "",
+    "id": "9515",
+    "name": "Northbound Brigantine Dr @ Hartley Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.839997,
+     49.226533
+    ],
+    "type": "Point"
+   },
+   "id": "9517",
+   "properties": {
+    "code": "59019",
+    "desc": "",
+    "id": "9517",
+    "name": "Northbound Schooner St @ Hartley Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.84875,
+     49.228444
+    ],
+    "type": "Point"
+   },
+   "id": "9518",
+   "properties": {
+    "code": "59017",
+    "desc": "",
+    "id": "9518",
+    "name": "Southbound Brigantine Dr @ United Blvd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.844096,
+     49.226607
+    ],
+    "type": "Point"
+   },
+   "id": "9519",
+   "properties": {
+    "code": "59033",
+    "desc": "",
+    "id": "9519",
+    "name": "Westbound Hartley Ave @ 1600 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.840852,
+     49.226279
+    ],
+    "type": "Point"
+   },
+   "id": "9520",
+   "properties": {
+    "code": "59038",
+    "desc": "",
+    "id": "9520",
+    "name": "Westbound Hartley Ave @ Schooner St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.839914,
+     49.227525
+    ],
+    "type": "Point"
+   },
+   "id": "9521",
+   "properties": {
+    "code": "59039",
+    "desc": "",
+    "id": "9521",
+    "name": "Southbound Schooner St @ United Blvd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.143781,
      49.263769
     ],
@@ -140823,25 +140842,6 @@
     "desc": "",
     "id": "10895",
     "name": "Westbound E 10 Ave @ Kingsway",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.890486,
-     49.189504
-    ],
-    "type": "Point"
-   },
-   "id": "10896",
-   "properties": {
-    "code": "54918",
-    "desc": "",
-    "id": "10896",
-    "name": "Southbound Scott Rd @ 103A Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -153401,6 +153401,25 @@
     "desc": "",
     "id": "11911",
     "name": "Eastbound 8th Ave @ 8th St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.859689,
+     49.230419
+    ],
+    "type": "Point"
+   },
+   "id": "11912",
+   "properties": {
+    "code": "61515",
+    "desc": "",
+    "id": "11912",
+    "name": "Eastbound United Blvd @ King Edward St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166359,6 +166378,25 @@
     "desc": "",
     "id": "12910",
     "name": "Southbound Dunbar St @ W 24 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.130057,
+     49.210429
+    ],
+    "type": "Point"
+   },
+   "id": "12911",
+   "properties": {
+    "code": "60268",
+    "desc": "",
+    "id": "12911",
+    "name": "Northbound Oak St @ W 67th Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
