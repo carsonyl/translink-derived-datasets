@@ -20352,8 +20352,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.172561,
-     49.24988
+     -123.172439,
+     49.250072
     ],
     "type": "Point"
    },
@@ -28370,8 +28370,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.898833,
-     49.249413
+     -122.898874,
+     49.249434
     ],
     "type": "Point"
    },
@@ -54012,25 +54012,6 @@
     "desc": "",
     "id": "4008",
     "name": "Northbound Mountain Hwy @ E 20 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.037917,
-     49.330731
-    ],
-    "type": "Point"
-   },
-   "id": "4009",
-   "properties": {
-    "code": "53968",
-    "desc": "",
-    "id": "4009",
-    "name": "Northbound Mountain Hwy @ E 24 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -120425,8 +120406,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.905113,
-     49.251475
+     -122.905174,
+     49.251474
     ],
     "type": "Point"
    },
