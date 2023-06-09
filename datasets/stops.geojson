@@ -3043,8 +3043,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.235217,
-     49.265327
+     -123.236036,
+     49.265812
     ],
     "type": "Point"
    },
@@ -28921,25 +28921,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.067396,
-     49.209995
-    ],
-    "type": "Point"
-   },
-   "id": "2162",
-   "properties": {
-    "code": "52142",
-    "desc": "",
-    "id": "2162",
-    "name": "Eastbound SE Marine Dr @ Beatrice St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.030512,
      49.207971
     ],
@@ -31068,6 +31049,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.904917,
+     49.204662
+    ],
+    "type": "Point"
+   },
+   "id": "2339",
+   "properties": {
+    "code": "52317",
+    "desc": "",
+    "id": "2339",
+    "name": "Columbia Station @ Bay 2",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.902572,
+     49.205926
+    ],
+    "type": "Point"
+   },
+   "id": "2340",
+   "properties": {
+    "code": "52318",
+    "desc": "",
+    "id": "2340",
+    "name": "Eastbound Columbia St @ 200 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.910938,
      49.222855
     ],
@@ -31193,6 +31212,25 @@
     "desc": "",
     "id": "2350",
     "name": "Southbound Richmond St @ Miner St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.902216,
+     49.206351
+    ],
+    "type": "Point"
+   },
+   "id": "2353",
+   "properties": {
+    "code": "52330",
+    "desc": "",
+    "id": "2353",
+    "name": "Westbound Columbia St @ 200 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -35058,8 +35096,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.946732,
-     49.214426
+     -122.948,
+     49.213997
     ],
     "type": "Point"
    },
@@ -53868,6 +53906,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.062174,
+     49.308441
+    ],
+    "type": "Point"
+   },
+   "id": "3994",
+   "properties": {
+    "code": "53953",
+    "desc": "",
+    "id": "3994",
+    "name": "Eastbound E 3rd St @ Ridgeway Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.059819,
      49.308434
     ],
@@ -61240,6 +61297,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.080587,
+     49.314494
+    ],
+    "type": "Point"
+   },
+   "id": "4469",
+   "properties": {
+    "code": "54419",
+    "desc": "",
+    "id": "4469",
+    "name": "Southbound Chesterfield Ave @ W 3rd St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.082166,
+     49.31297
+    ],
+    "type": "Point"
+   },
+   "id": "4470",
+   "properties": {
+    "code": "54420",
+    "desc": "",
+    "id": "4470",
+    "name": "Southbound Chesterfield Ave @ W 1st St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.082918,
      49.310597
     ],
@@ -61308,6 +61403,44 @@
     "desc": "",
     "id": "4474",
     "name": "Phibbs Exchange @ Bay 10",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.081348,
+     49.313517
+    ],
+    "type": "Point"
+   },
+   "id": "4476",
+   "properties": {
+    "code": "54426",
+    "desc": "",
+    "id": "4476",
+    "name": "Northbound Chesterfield Ave @ W 1st St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.080618,
+     49.314235
+    ],
+    "type": "Point"
+   },
+   "id": "4477",
+   "properties": {
+    "code": "54427",
+    "desc": "",
+    "id": "4477",
+    "name": "Northbound Chesterfield Ave @ W 2nd St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -102812,6 +102945,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.668429,
+     49.140474
+    ],
+    "type": "Point"
+   },
+   "id": "7139",
+   "properties": {
+    "code": "57071",
+    "desc": "",
+    "id": "7139",
+    "name": "Southbound 200 St @ 7500 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.668534,
      49.133118
     ],
@@ -143283,7 +143435,7 @@
    "geometry": {
     "coordinates": [
      -123.115953,
-     49.233905
+     49.234279
     ],
     "type": "Point"
    },
@@ -152991,8 +153143,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.001909,
-     49.266536
+     -123.001462,
+     49.266554
     ],
     "type": "Point"
    },
@@ -165664,8 +165816,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.094918,
-     49.281162
+     -123.094737,
+     49.281161
     ],
     "type": "Point"
    },
@@ -166416,6 +166568,25 @@
     "desc": "",
     "id": "12913",
     "name": "Southbound Brighton Ave @ Lougheed Hwy",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.037874,
+     49.331851
+    ],
+    "type": "Point"
+   },
+   "id": "12914",
+   "properties": {
+    "code": "60650",
+    "desc": "",
+    "id": "12914",
+    "name": "Northbound Mountain Hwy @ St Stephens Place",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
