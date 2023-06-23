@@ -24228,25 +24228,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.029135,
-     49.305795
-    ],
-    "type": "Point"
-   },
-   "id": "1761",
-   "properties": {
-    "code": "51747",
-    "desc": "",
-    "id": "1761",
-    "name": "Phibbs Exchange @ Bay 5",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.031976,
      49.309148
     ],
@@ -56121,25 +56102,6 @@
     "desc": "",
     "id": "4118",
     "name": "Westbound Mt Seymour Parkway @ Seymour Blvd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.028859,
-     49.305787
-    ],
-    "type": "Point"
-   },
-   "id": "4119",
-   "properties": {
-    "code": "54077",
-    "desc": "",
-    "id": "4119",
-    "name": "Phibbs Exchange @ Bay 7",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -123351,6 +123313,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.967268,
+     49.204332
+    ],
+    "type": "Point"
+   },
+   "id": "8992",
+   "properties": {
+    "code": "58761",
+    "desc": "",
+    "id": "8992",
+    "name": "Northbound Byrnepark Dr @ Marine Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.634926,
      49.169771
     ],
@@ -140918,25 +140899,6 @@
     "desc": "",
     "id": "10872",
     "name": "Southbound Cambie St @ W 62 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.029009,
-     49.30587
-    ],
-    "type": "Point"
-   },
-   "id": "10873",
-   "properties": {
-    "code": "61011",
-    "desc": "",
-    "id": "10873",
-    "name": "Phibbs Exchange @ Bay 6",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -164174,25 +164136,6 @@
     "desc": "",
     "id": "12687",
     "name": "Westbound W 3rd St @ Lonsdale Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.029105,
-     49.305381
-    ],
-    "type": "Point"
-   },
-   "id": "12688",
-   "properties": {
-    "code": "60437",
-    "desc": "",
-    "id": "12688",
-    "name": "Phibbs Exchange @ Bay 12",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
