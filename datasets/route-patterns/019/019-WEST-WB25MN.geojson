@@ -1555,7 +1555,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "DOWNTOWN",
+  "destination": "KINGSWAY/TO DOWNTOWN",
   "direction": "WEST",
   "name": "019-WB25MN",
   "operating-company": "CMBC",

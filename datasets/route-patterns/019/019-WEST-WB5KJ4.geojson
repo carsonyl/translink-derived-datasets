@@ -445,7 +445,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "KINGSWAY TO JOYCE",
+  "destination": "KINGSWAY/TO JOYCE",
   "direction": "WEST",
   "name": "019-WB5KJ4",
   "operating-company": "CMBC",

@@ -2005,7 +2005,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "METROTOWN STN",
+  "destination": "KINGSWAY/TO METROTOWN STN",
   "direction": "EAST",
   "name": "019-EB1",
   "operating-company": "CMBC",
