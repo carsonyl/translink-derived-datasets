@@ -21207,25 +21207,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.028964,
-     49.250701
-    ],
-    "type": "Point"
-   },
-   "id": "1566",
-   "properties": {
-    "code": "51554",
-    "desc": "",
-    "id": "1566",
-    "name": "Westbound E 22 Ave @ Anzio Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.034851,
      49.250678
     ],
@@ -24703,8 +24684,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.024194,
-     49.234733
+     -123.024677,
+     49.234978
     ],
     "type": "Point"
    },
@@ -41605,6 +41586,25 @@
     "desc": "",
     "id": "3065",
     "name": "Westbound Lougheed Hwy @ Hastings St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.791893,
+     49.274252
+    ],
+    "type": "Point"
+   },
+   "id": "3066",
+   "properties": {
+    "code": "53034",
+    "desc": "",
+    "id": "3066",
+    "name": "Westbound Lougheed Hwy @ Westwood St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166196,6 +166196,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.030751,
+     49.25068
+    ],
+    "type": "Point"
+   },
+   "id": "12868",
+   "properties": {
+    "code": "60605",
+    "desc": "",
+    "id": "12868",
+    "name": "Westbound E 22 Ave @ Cassiar St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.167939,
      49.268446
     ],
@@ -166853,6 +166872,25 @@
     "desc": "",
     "id": "12914",
     "name": "Northbound Mountain Hwy @ St Stephens Place",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.031907,
+     49.205918
+    ],
+    "type": "Point"
+   },
+   "id": "12915",
+   "properties": {
+    "code": "60653",
+    "desc": "",
+    "id": "12915",
+    "name": "Eastbound Sawmill Cres @ River District Crossing",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
