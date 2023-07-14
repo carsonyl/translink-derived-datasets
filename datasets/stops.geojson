@@ -73647,25 +73647,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.890296,
-     49.177526
-    ],
-    "type": "Point"
-   },
-   "id": "5253",
-   "properties": {
-    "code": "55201",
-    "desc": "",
-    "id": "5253",
-    "name": "Southbound Scott Rd @ 96 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.890403,
      49.172243
     ],
@@ -73677,6 +73658,25 @@
     "desc": "",
     "id": "5254",
     "name": "Southbound Scott Rd @ 93A Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.890437,
+     49.170175
+    ],
+    "type": "Point"
+   },
+   "id": "5255",
+   "properties": {
+    "code": "55203",
+    "desc": "",
+    "id": "5255",
+    "name": "Southbound Scott Rd @ 92 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -128101,6 +128101,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.014452,
+     49.264143
+    ],
+    "type": "Point"
+   },
+   "id": "9505",
+   "properties": {
+    "code": "58346",
+    "desc": "",
+    "id": "9505",
+    "name": "Gilmore Station @ Bay 2",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.90798,
      49.26024
     ],
@@ -164486,6 +164505,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.890315,
+     49.176453
+    ],
+    "type": "Point"
+   },
+   "id": "12794",
+   "properties": {
+    "code": "59864",
+    "desc": "",
+    "id": "12794",
+    "name": "Southbound Scott Rd @ 96 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.908982,
      49.204255
     ],
@@ -165428,25 +165466,6 @@
     "desc": "",
     "id": "12861",
     "name": "Southbound Mountain Hwy @ Barlynn Cres",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.014468,
-     49.263348
-    ],
-    "type": "Point"
-   },
-   "id": "12863",
-   "properties": {
-    "code": "59007",
-    "desc": "",
-    "id": "12863",
-    "name": "Southbound Gilmore Ave @ Henning Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
