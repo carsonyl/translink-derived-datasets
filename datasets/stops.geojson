@@ -5380,44 +5380,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.028862,
-     49.305485
-    ],
-    "type": "Point"
-   },
-   "id": "451",
-   "properties": {
-    "code": "50447",
-    "desc": "",
-    "id": "451",
-    "name": "Phibbs Exchange @ Bay 3",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.028727,
-     49.30563
-    ],
-    "type": "Point"
-   },
-   "id": "452",
-   "properties": {
-    "code": "50448",
-    "desc": "",
-    "id": "452",
-    "name": "Phibbs Exchange @ Bay 8",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.044601,
      49.288825
     ],
@@ -24361,25 +24323,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.0286,
-     49.305174
-    ],
-    "type": "Point"
-   },
-   "id": "1775",
-   "properties": {
-    "code": "51761",
-    "desc": "",
-    "id": "1775",
-    "name": "Phibbs Exchange @ Bay 1",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.02375,
      49.27654
     ],
@@ -37862,6 +37805,25 @@
     "desc": "",
     "id": "2817",
     "name": "Northbound Douglas Rd @ Norland Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.98873,
+     49.263533
+    ],
+    "type": "Point"
+   },
+   "id": "2819",
+   "properties": {
+    "code": "52790",
+    "desc": "",
+    "id": "2819",
+    "name": "Northbound Douglas Rd @ Springer Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -56471,25 +56433,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.028735,
-     49.305323
-    ],
-    "type": "Point"
-   },
-   "id": "4143",
-   "properties": {
-    "code": "54100",
-    "desc": "",
-    "id": "4143",
-    "name": "Phibbs Exchange @ Bay 2",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.998029,
      49.316329
     ],
@@ -56824,25 +56767,6 @@
     "desc": "",
     "id": "4161",
     "name": "Southbound Emerson Way @ Mt Seymour Parkway",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.028589,
-     49.305475
-    ],
-    "type": "Point"
-   },
-   "id": "4163",
-   "properties": {
-    "code": "54119",
-    "desc": "",
-    "id": "4163",
-    "name": "Phibbs Exchange @ Bay 9",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -60157,25 +60081,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.028313,
-     49.30514
-    ],
-    "type": "Point"
-   },
-   "id": "4381",
-   "properties": {
-    "code": "54333",
-    "desc": "",
-    "id": "4381",
-    "name": "Phibbs Exchange @ Bay 11",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.040973,
      49.313357
     ],
@@ -61517,25 +61422,6 @@
     "desc": "",
     "id": "4473",
     "name": "Westbound Purcell Way @ Capilano University",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.02846,
-     49.305313
-    ],
-    "type": "Point"
-   },
-   "id": "4474",
-   "properties": {
-    "code": "54424",
-    "desc": "",
-    "id": "4474",
-    "name": "Phibbs Exchange @ Bay 10",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -70048,6 +69934,44 @@
     "desc": "",
     "id": "5023",
     "name": "Eastbound 84 Ave @ 118A St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.89018,
+     49.159865
+    ],
+    "type": "Point"
+   },
+   "id": "5024",
+   "properties": {
+    "code": "54972",
+    "desc": "",
+    "id": "5024",
+    "name": "Northbound Scott Rd @ 86 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.890176,
+     49.162457
+    ],
+    "type": "Point"
+   },
+   "id": "5025",
+   "properties": {
+    "code": "59035",
+    "desc": "",
+    "id": "5025",
+    "name": "Northbound Scott Rd @ Nordel Way",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -101577,25 +101501,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.170301,
-     49.177715
-    ],
-    "type": "Point"
-   },
-   "id": "7059",
-   "properties": {
-    "code": "56991",
-    "desc": "",
-    "id": "7059",
-    "name": "Westbound Inglis Dr @ Bell Irving St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.647557,
      49.075368
     ],
@@ -123997,8 +123902,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.169904,
-     49.177534
+     -123.16961,
+     49.177555
     ],
     "type": "Point"
    },
@@ -144536,8 +144441,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.003449,
-     49.261663
+     -123.003552,
+     49.261207
     ],
     "type": "Point"
    },
@@ -144546,7 +144451,7 @@
     "code": "61258",
     "desc": "",
     "id": "11193",
-    "name": "Southbound Willingdon Ave @ Still Creek Dr",
+    "name": "Southbound Willingdon Ave @",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -148545,25 +148450,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.109025,
-     49.225913
-    ],
-    "type": "Point"
-   },
-   "id": "11537",
-   "properties": {
-    "code": "52032",
-    "desc": "",
-    "id": "11537",
-    "name": "Westbound W 49 Ave @ Manitoba St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.899656,
      49.213958
     ],
@@ -150312,8 +150198,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.860776,
-     49.230582
+     -122.859594,
+     49.230572
     ],
     "type": "Point"
    },
@@ -153192,6 +153078,25 @@
     "desc": "",
     "id": "11911",
     "name": "Eastbound 8th Ave @ 8th St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.859689,
+     49.230419
+    ],
+    "type": "Point"
+   },
+   "id": "11912",
+   "properties": {
+    "code": "61515",
+    "desc": "",
+    "id": "11912",
+    "name": "Eastbound United Blvd @ King Edward St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -162672,7 +162577,7 @@
     "code": "60278",
     "desc": "",
     "id": "12628",
-    "name": "Phibbs Exchange @ Bay 6",
+    "name": "Phibbs Exchange @ Bay 10",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -162691,7 +162596,7 @@
     "code": "60279",
     "desc": "",
     "id": "12629",
-    "name": "Phibbs Exchange @ Bay 5",
+    "name": "Phibbs Exchange @ Bay 9",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165607,25 +165512,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.890144,
-     49.163492
-    ],
-    "type": "Point"
-   },
-   "id": "12871",
-   "properties": {
-    "code": "54973",
-    "desc": "",
-    "id": "12871",
-    "name": "Northbound Scott Rd @ 88 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.077603,
      49.211235
     ],
@@ -166063,6 +165949,139 @@
   {
    "geometry": {
     "coordinates": [
+     -123.028312,
+     49.304937
+    ],
+    "type": "Point"
+   },
+   "id": "12898",
+   "properties": {
+    "code": "60253",
+    "desc": "",
+    "id": "12898",
+    "name": "Phibbs Exchange @ Bay 1",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.028714,
+     49.304927
+    ],
+    "type": "Point"
+   },
+   "id": "12899",
+   "properties": {
+    "code": "60254",
+    "desc": "",
+    "id": "12899",
+    "name": "Phibbs Exchange @ Bay 2",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.029461,
+     49.304904
+    ],
+    "type": "Point"
+   },
+   "id": "12900",
+   "properties": {
+    "code": "60255",
+    "desc": "",
+    "id": "12900",
+    "name": "Phibbs Exchange @ Bay 3",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.02981,
+     49.305041
+    ],
+    "type": "Point"
+   },
+   "id": "12901",
+   "properties": {
+    "code": "60256",
+    "desc": "",
+    "id": "12901",
+    "name": "Phibbs Exchange @ Bay 4",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.029698,
+     49.305263
+    ],
+    "type": "Point"
+   },
+   "id": "12902",
+   "properties": {
+    "code": "60257",
+    "desc": "",
+    "id": "12902",
+    "name": "Phibbs Exchange @ Bay 5",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.029183,
+     49.305749
+    ],
+    "type": "Point"
+   },
+   "id": "12903",
+   "properties": {
+    "code": "60258",
+    "desc": "",
+    "id": "12903",
+    "name": "Phibbs Exchange @ Bay 6",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.029057,
+     49.306019
+    ],
+    "type": "Point"
+   },
+   "id": "12904",
+   "properties": {
+    "code": "60259",
+    "desc": "",
+    "id": "12904",
+    "name": "Phibbs Exchange @ Bay 7",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.029938,
      49.305348
     ],
@@ -166073,7 +166092,26 @@
     "code": "60260",
     "desc": "",
     "id": "12906",
-    "name": "Phibbs Exchange @ Bay 7",
+    "name": "Phibbs Exchange @ Bay 11",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.030202,
+     49.305003
+    ],
+    "type": "Point"
+   },
+   "id": "12907",
+   "properties": {
+    "code": "60264",
+    "desc": "",
+    "id": "12907",
+    "name": "Phibbs Exchange @ Bay 12",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166226,6 +166264,44 @@
     "desc": "",
     "id": "12916",
     "name": "King George Station @ Bay 1",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.170945,
+     49.177808
+    ],
+    "type": "Point"
+   },
+   "id": "12917",
+   "properties": {
+    "code": "60655",
+    "desc": "",
+    "id": "12917",
+    "name": "Westbound Inglis Dr @ Bell Irving Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.107959,
+     49.225866
+    ],
+    "type": "Point"
+   },
+   "id": "12918",
+   "properties": {
+    "code": "61435",
+    "desc": "",
+    "id": "12918",
+    "name": "Westbound W 49th Ave @ Manitoba St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
