@@ -32170,6 +32170,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.004017,
+     49.228218
+    ],
+    "type": "Point"
+   },
+   "id": "2415",
+   "properties": {
+    "code": "52391",
+    "desc": "",
+    "id": "2415",
+    "name": "Northbound McKay Ave @ Kingsborough St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.998248,
      49.227881
     ],
@@ -46781,6 +46800,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.836314,
+     49.248977
+    ],
+    "type": "Point"
+   },
+   "id": "3448",
+   "properties": {
+    "code": "53410",
+    "desc": "",
+    "id": "3448",
+    "name": "Eastbound Austin Ave @ Draycott St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.833279,
      49.248978
     ],
@@ -49832,25 +49870,6 @@
     "desc": "",
     "id": "3669",
     "name": "Northbound Linton St @ Grover Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.854513,
-     49.229459
-    ],
-    "type": "Point"
-   },
-   "id": "3673",
-   "properties": {
-    "code": "53634",
-    "desc": "",
-    "id": "3673",
-    "name": "Eastbound United Blvd @ 1300 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -73153,25 +73172,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.000935,
-     49.089918
-    ],
-    "type": "Point"
-   },
-   "id": "5227",
-   "properties": {
-    "code": "55175",
-    "desc": "",
-    "id": "5227",
-    "name": "Eastbound Hwy 10 @ 80 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.978789,
      49.089875
     ],
@@ -83937,6 +83937,25 @@
     "desc": "",
     "id": "5893",
     "name": "Northbound University Dr @ 105A Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.839199,
+     49.198785
+    ],
+    "type": "Point"
+   },
+   "id": "5895",
+   "properties": {
+    "code": "55840",
+    "desc": "",
+    "id": "5895",
+    "name": "Eastbound 108 Ave @ 138 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -136252,25 +136271,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.001796,
-     49.087385
-    ],
-    "type": "Point"
-   },
-   "id": "10485",
-   "properties": {
-    "code": "59985",
-    "desc": "",
-    "id": "10485",
-    "name": "Southbound 80 St @ 4700 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.099334,
      49.274846
     ],
@@ -151585,25 +151585,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.001785,
-     49.089478
-    ],
-    "type": "Point"
-   },
-   "id": "11773",
-   "properties": {
-    "code": "55182",
-    "desc": "",
-    "id": "11773",
-    "name": "Southbound 80 St @ Ladner Trunk Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.668931,
      49.103889
     ],
@@ -154826,25 +154807,6 @@
     "desc": "",
     "id": "12030",
     "name": "Westbound North Fraser Way @ Fraserwood Court",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.004742,
-     49.227553
-    ],
-    "type": "Point"
-   },
-   "id": "12031",
-   "properties": {
-    "code": "61921",
-    "desc": "",
-    "id": "12031",
-    "name": "Northbound McKay Ave @ Kingsborough St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -162320,25 +162282,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.001679,
-     49.085606
-    ],
-    "type": "Point"
-   },
-   "id": "12608",
-   "properties": {
-    "code": "60368",
-    "desc": "",
-    "id": "12608",
-    "name": "Northbound 80 St @ 4500 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.039901,
      49.155249
     ],
@@ -165854,25 +165797,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.837391,
-     49.198786
-    ],
-    "type": "Point"
-   },
-   "id": "12892",
-   "properties": {
-    "code": "60639",
-    "desc": "",
-    "id": "12892",
-    "name": "Eastbound 108 Ave @ 139 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.981956,
      49.253952
     ],
@@ -165941,25 +165865,6 @@
     "desc": "",
     "id": "12896",
     "name": "Eastbound W Georgia St @ Cardero St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.028312,
-     49.304937
-    ],
-    "type": "Point"
-   },
-   "id": "12898",
-   "properties": {
-    "code": "60253",
-    "desc": "",
-    "id": "12898",
-    "name": "Phibbs Exchange @ Bay 1",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
