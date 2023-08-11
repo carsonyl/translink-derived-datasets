@@ -14804,8 +14804,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.03553,
-     49.233834
+     -123.035167,
+     49.233641
     ],
     "type": "Point"
    },
@@ -16259,44 +16259,6 @@
     "desc": "",
     "id": "1250",
     "name": "Southbound Commercial Dr @ Graveley St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.069776,
-     49.268438
-    ],
-    "type": "Point"
-   },
-   "id": "1251",
-   "properties": {
-    "code": "51241",
-    "desc": "",
-    "id": "1251",
-    "name": "Southbound Commercial Dr @ E 2nd Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.069808,
-     49.266576
-    ],
-    "type": "Point"
-   },
-   "id": "1252",
-   "properties": {
-    "code": "51242",
-    "desc": "",
-    "id": "1252",
-    "name": "Southbound Commercial Dr @ E 4th Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -32181,6 +32143,25 @@
     "desc": "",
     "id": "2415",
     "name": "Northbound McKay Ave @ Kingsborough St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.002247,
+     49.229202
+    ],
+    "type": "Point"
+   },
+   "id": "2416",
+   "properties": {
+    "code": "52392",
+    "desc": "",
+    "id": "2416",
+    "name": "Eastbound Kingsway @ McKay Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -55616,6 +55597,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.950816,
+     49.326063
+    ],
+    "type": "Point"
+   },
+   "id": "4094",
+   "properties": {
+    "code": "54053",
+    "desc": "",
+    "id": "4094",
+    "name": "Southbound Panorama Dr @ Naughton Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.953563,
      49.324838
     ],
@@ -73172,6 +73172,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.000935,
+     49.089918
+    ],
+    "type": "Point"
+   },
+   "id": "5227",
+   "properties": {
+    "code": "55175",
+    "desc": "",
+    "id": "5227",
+    "name": "Eastbound Hwy 10 @ 80 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.978789,
      49.089875
     ],
@@ -77191,7 +77210,7 @@
     "code": "55453",
     "desc": "",
     "id": "5506",
-    "name": "Southbound King George Blvd @ 74 Ave",
+    "name": "Southbound King George Blvd @ 73A Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -114944,7 +114963,7 @@
     "code": "57911",
     "desc": "",
     "id": "7986",
-    "name": "Northbound On Jackson Rd @ 101 Ave (Flag)",
+    "name": "Northbound Jackson Rd @ 10100 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -132519,7 +132538,7 @@
     "code": "59518",
     "desc": "",
     "id": "10130",
-    "name": "Northbound Panorama Dr @ Gallant Ave",
+    "name": "Northbound Banbury Rd @ Gallant Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -136263,6 +136282,25 @@
     "desc": "",
     "id": "10484",
     "name": "Northbound Roseberry Ave @ Keith St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.001796,
+     49.087385
+    ],
+    "type": "Point"
+   },
+   "id": "10485",
+   "properties": {
+    "code": "59985",
+    "desc": "",
+    "id": "10485",
+    "name": "Southbound 80 St @ 4700 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -151585,6 +151623,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.001785,
+     49.089478
+    ],
+    "type": "Point"
+   },
+   "id": "11773",
+   "properties": {
+    "code": "55182",
+    "desc": "",
+    "id": "11773",
+    "name": "Southbound 80 St @ Ladner Trunk Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.668931,
      49.103889
     ],
@@ -154226,8 +154283,27 @@
   {
    "geometry": {
     "coordinates": [
-     -122.537378,
-     49.193826
+     -122.537497,
+     49.193971
+    ],
+    "type": "Point"
+   },
+   "id": "11993",
+   "properties": {
+    "code": "61886",
+    "desc": "",
+    "id": "11993",
+    "name": "Southbound Jackson Rd @ 105A Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.537392,
+     49.193787
     ],
     "type": "Point"
    },
@@ -162282,6 +162358,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.001679,
+     49.085606
+    ],
+    "type": "Point"
+   },
+   "id": "12608",
+   "properties": {
+    "code": "60368",
+    "desc": "",
+    "id": "12608",
+    "name": "Northbound 80 St @ 4500 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.039901,
      49.155249
     ],
@@ -165759,25 +165854,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.950544,
-     49.326644
-    ],
-    "type": "Point"
-   },
-   "id": "12890",
-   "properties": {
-    "code": "60638",
-    "desc": "",
-    "id": "12890",
-    "name": "Northbound Panorama Dr @ Gallant Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.090467,
      49.232426
     ],
@@ -166207,6 +166283,44 @@
     "desc": "",
     "id": "12918",
     "name": "Westbound W 49th Ave @ Manitoba St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.06976,
+     49.267975
+    ],
+    "type": "Point"
+   },
+   "id": "12919",
+   "properties": {
+    "code": "60652",
+    "desc": "",
+    "id": "12919",
+    "name": "Southbound Commercial Dr @ E 3rd Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.890501,
+     49.147786
+    ],
+    "type": "Point"
+   },
+   "id": "12920",
+   "properties": {
+    "code": "60460",
+    "desc": "",
+    "id": "12920",
+    "name": "Southbound Scott Rd @ 80 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
