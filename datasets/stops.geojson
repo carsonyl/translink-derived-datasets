@@ -51721,6 +51721,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.747793,
+     49.263782
+    ],
+    "type": "Point"
+   },
+   "id": "3823",
+   "properties": {
+    "code": "53784",
+    "desc": "",
+    "id": "3823",
+    "name": "Eastbound Riverwood Gate @ Terry Fox Secondary",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.775365,
      49.266862
     ],
@@ -84439,6 +84458,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.807316,
+     49.155589
+    ],
+    "type": "Point"
+   },
+   "id": "5926",
+   "properties": {
+    "code": "55870",
+    "desc": "",
+    "id": "5926",
+    "name": "Westbound 84 Ave @ 150 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.812993,
      49.155608
     ],
@@ -84762,6 +84800,63 @@
   {
    "geometry": {
     "coordinates": [
+     -122.811953,
+     49.155446
+    ],
+    "type": "Point"
+   },
+   "id": "5945",
+   "properties": {
+    "code": "55889",
+    "desc": "",
+    "id": "5945",
+    "name": "Eastbound 84 Ave @ 148 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.806588,
+     49.155465
+    ],
+    "type": "Point"
+   },
+   "id": "5946",
+   "properties": {
+    "code": "55890",
+    "desc": "",
+    "id": "5946",
+    "name": "Eastbound 84 Ave @ 150 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.802014,
+     49.155603
+    ],
+    "type": "Point"
+   },
+   "id": "5947",
+   "properties": {
+    "code": "55891",
+    "desc": "",
+    "id": "5947",
+    "name": "Westbound 84 Ave @ 152 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.796138,
      49.155458
     ],
@@ -84944,6 +85039,25 @@
     "desc": "",
     "id": "5957",
     "name": "Southbound 148 St @ Spenser Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.789355,
+     49.14819
+    ],
+    "type": "Point"
+   },
+   "id": "5958",
+   "properties": {
+    "code": "55902",
+    "desc": "",
+    "id": "5958",
+    "name": "Eastbound 80 Ave @ 156 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -91127,6 +91241,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.868821,
+     49.04583
+    ],
+    "type": "Point"
+   },
+   "id": "6366",
+   "properties": {
+    "code": "56306",
+    "desc": "",
+    "id": "6366",
+    "name": "Westbound 24 Ave @ 128 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.87619,
+     49.04584
+    ],
+    "type": "Point"
+   },
+   "id": "6367",
+   "properties": {
+    "code": "56307",
+    "desc": "",
+    "id": "6367",
+    "name": "Westbound 24 Ave @ 124B St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.878496,
      49.045527
     ],
@@ -91594,6 +91746,139 @@
     "desc": "",
     "id": "6403",
     "name": "Northbound 160 St @ 20 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.851445,
+     49.045844
+    ],
+    "type": "Point"
+   },
+   "id": "6425",
+   "properties": {
+    "code": "56365",
+    "desc": "",
+    "id": "6425",
+    "name": "Westbound 24 Ave @ 134 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.856816,
+     49.045834
+    ],
+    "type": "Point"
+   },
+   "id": "6426",
+   "properties": {
+    "code": "56366",
+    "desc": "",
+    "id": "6426",
+    "name": "Westbound 24 Ave @ 132 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.861486,
+     49.045834
+    ],
+    "type": "Point"
+   },
+   "id": "6427",
+   "properties": {
+    "code": "56367",
+    "desc": "",
+    "id": "6427",
+    "name": "Westbound 24 Ave @ 130 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.866177,
+     49.045703
+    ],
+    "type": "Point"
+   },
+   "id": "6428",
+   "properties": {
+    "code": "56368",
+    "desc": "",
+    "id": "6428",
+    "name": "Eastbound 24 Ave @ 128 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.860782,
+     49.045704
+    ],
+    "type": "Point"
+   },
+   "id": "6429",
+   "properties": {
+    "code": "56369",
+    "desc": "",
+    "id": "6429",
+    "name": "Eastbound 24 Ave @ 130 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.855979,
+     49.045706
+    ],
+    "type": "Point"
+   },
+   "id": "6430",
+   "properties": {
+    "code": "56370",
+    "desc": "",
+    "id": "6430",
+    "name": "Eastbound 24 Ave @ 132 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.850534,
+     49.045684
+    ],
+    "type": "Point"
+   },
+   "id": "6431",
+   "properties": {
+    "code": "56371",
+    "desc": "",
+    "id": "6431",
+    "name": "Eastbound 24 Ave @ 134 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -102337,6 +102622,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.661315,
+     49.144835
+    ],
+    "type": "Point"
+   },
+   "id": "7107",
+   "properties": {
+    "code": "57039",
+    "desc": "",
+    "id": "7107",
+    "name": "Northbound 202A St @ 7800 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.668046,
      49.134251
     ],
@@ -102652,6 +102956,44 @@
     "desc": "",
     "id": "7132",
     "name": "Southbound 200 St @ 9200 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.666432,
+     49.148143
+    ],
+    "type": "Point"
+   },
+   "id": "7136",
+   "properties": {
+    "code": "57068",
+    "desc": "",
+    "id": "7136",
+    "name": "Eastbound 80 Ave @ 200 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.66158,
+     49.142742
+    ],
+    "type": "Point"
+   },
+   "id": "7137",
+   "properties": {
+    "code": "57069",
+    "desc": "",
+    "id": "7137",
+    "name": "Southbound 202A St @ 7700 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -115162,6 +115504,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.081606,
+     49.328504
+    ],
+    "type": "Point"
+   },
+   "id": "8018",
+   "properties": {
+    "code": "57943",
+    "desc": "",
+    "id": "8018",
+    "name": "Southbound Jones Ave @ W 21 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.11158,
      49.286053
     ],
@@ -119057,6 +119418,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.751944,
+     49.258466
+    ],
+    "type": "Point"
+   },
+   "id": "8592",
+   "properties": {
+    "code": "53831",
+    "desc": "",
+    "id": "8592",
+    "name": "Westbound Dominion Ave @ Archbishop Carney Secondary",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.130846,
      49.192071
     ],
@@ -121869,6 +122249,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.800512,
+     49.168347
+    ],
+    "type": "Point"
+   },
+   "id": "8917",
+   "properties": {
+    "code": "58515",
+    "desc": "",
+    "id": "8917",
+    "name": "Westbound 91 Ave @ 152 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.956525,
      49.25166
     ],
@@ -124225,6 +124624,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.974395,
+     49.244496
+    ],
+    "type": "Point"
+   },
+   "id": "9126",
+   "properties": {
+    "code": "58729",
+    "desc": "",
+    "id": "9126",
+    "name": "Southbound Deer Lake Parkway @ Canada Way",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.83835,
      49.256088
     ],
@@ -124293,6 +124711,25 @@
     "desc": "",
     "id": "9131",
     "name": "Westbound W Georgia St @ Bute St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.84726,
+     49.045679
+    ],
+    "type": "Point"
+   },
+   "id": "9132",
+   "properties": {
+    "code": "56372",
+    "desc": "",
+    "id": "9132",
+    "name": "Eastbound 24 Ave @ 136 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -129811,6 +130248,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.556573,
+     49.200484
+    ],
+    "type": "Point"
+   },
+   "id": "9672",
+   "properties": {
+    "code": "59193",
+    "desc": "",
+    "id": "9672",
+    "name": "Northbound 240 St @ 109 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.557778,
      49.20587
     ],
@@ -133345,6 +133801,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.556596,
+     49.206124
+    ],
+    "type": "Point"
+   },
+   "id": "10210",
+   "properties": {
+    "code": "59697",
+    "desc": "",
+    "id": "10210",
+    "name": "Northbound 240 St @ 112 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.556692,
+     49.212037
+    ],
+    "type": "Point"
+   },
+   "id": "10211",
+   "properties": {
+    "code": "59695",
+    "desc": "",
+    "id": "10211",
+    "name": "Northbound 240 St @ 11500 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.556703,
      49.205433
     ],
@@ -133356,6 +133850,44 @@
     "desc": "",
     "id": "10212",
     "name": "Southbound 240 St @ Kanaka Way",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.556883,
+     49.211555
+    ],
+    "type": "Point"
+   },
+   "id": "10217",
+   "properties": {
+    "code": "59696",
+    "desc": "",
+    "id": "10217",
+    "name": "Southbound 240 St @ 11500 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.55685,
+     49.21665
+    ],
+    "type": "Point"
+   },
+   "id": "10218",
+   "properties": {
+    "code": "59693",
+    "desc": "",
+    "id": "10218",
+    "name": "Northbound 240 St @ 118 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -140850,6 +141382,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.00393,
+     49.243038
+    ],
+    "type": "Point"
+   },
+   "id": "10928",
+   "properties": {
+    "code": "60859",
+    "desc": "",
+    "id": "10928",
+    "name": "Westbound Moscrop St @ Willingdon Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.949711,
      49.199857
     ],
@@ -142590,6 +143141,25 @@
     "desc": "",
     "id": "11069",
     "name": "Westbound NW Marine Dr @ Tolmie St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.55709,
+     49.217262
+    ],
+    "type": "Point"
+   },
+   "id": "11070",
+   "properties": {
+    "code": "59713",
+    "desc": "",
+    "id": "11070",
+    "name": "Southbound 240 St @ 118 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -145296,6 +145866,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.749997,
+     49.258342
+    ],
+    "type": "Point"
+   },
+   "id": "11249",
+   "properties": {
+    "code": "61273",
+    "desc": "",
+    "id": "11249",
+    "name": "Eastbound Dominion Ave @ Archbishop Carney Secondary",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.126551,
      49.195229
     ],
@@ -145478,6 +146067,25 @@
     "desc": "",
     "id": "11260",
     "name": "Olympic Village Station @ Bay 1",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.088428,
+     49.325675
+    ],
+    "type": "Point"
+   },
+   "id": "11261",
+   "properties": {
+    "code": "61336",
+    "desc": "",
+    "id": "11261",
+    "name": "Eastbound Larson Rd @ Fir St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -151767,6 +152375,63 @@
     "desc": "",
     "id": "11788",
     "name": "Bridgeport Station @ Bay 6",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.248724,
+     49.265726
+    ],
+    "type": "Point"
+   },
+   "id": "11792",
+   "properties": {
+    "code": "58895",
+    "desc": "",
+    "id": "11792",
+    "name": "UBC Exchange @ Bay 9",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.248129,
+     49.26581
+    ],
+    "type": "Point"
+   },
+   "id": "11793",
+   "properties": {
+    "code": "61701",
+    "desc": "",
+    "id": "11793",
+    "name": "UBC Exchange @ Bay 10",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.247364,
+     49.265923
+    ],
+    "type": "Point"
+   },
+   "id": "11794",
+   "properties": {
+    "code": "61702",
+    "desc": "",
+    "id": "11794",
+    "name": "UBC Exchange @ Bay 11",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -162692,6 +163357,25 @@
     "desc": "",
     "id": "12632",
     "name": "Westbound W 41 Ave @ East Blvd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.661347,
+     49.140984
+    ],
+    "type": "Point"
+   },
+   "id": "12634",
+   "properties": {
+    "code": "60389",
+    "desc": "",
+    "id": "12634",
+    "name": "Northbound 202A St @ 76 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
