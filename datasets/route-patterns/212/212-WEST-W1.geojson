@@ -915,7 +915,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "PHIBBS EXCH",
+  "destination": "DOLLARTON HWY/TO PHIBBS EXCH",
   "direction": "WEST",
   "name": "212-W1",
   "operating-company": "CMBC",

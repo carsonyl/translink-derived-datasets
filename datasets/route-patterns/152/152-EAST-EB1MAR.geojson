@@ -1385,7 +1385,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "COQ CTRL STN",
+  "destination": "COQ CTRL STN VIA CHILKO",
   "direction": "EAST",
   "name": "152-EB1MAR",
   "operating-company": "CMBC",

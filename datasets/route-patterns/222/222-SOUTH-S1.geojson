@@ -1475,7 +1475,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "WILLINGDON EXP/TO METROTOWN STN",
+  "destination": "WILLINGDON EXPRESS/TO METROTOWN STN",
   "direction": "SOUTH",
   "name": "222-S1",
   "operating-company": "CMBC",

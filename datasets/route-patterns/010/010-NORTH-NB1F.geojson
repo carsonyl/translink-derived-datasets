@@ -1725,12 +1725,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "DOWNTOWN/TO WATERFRONT STN",
+  "destination": "GRANVILLE/TO WATERFRONT STN",
   "direction": "NORTH",
   "name": "010-NB1F",
   "operating-company": "CMBC",
   "pattern-number": "NB1F",
-  "route-name": "GRANVILLE/DOWNTOWN",
+  "route-name": "GRANVILLE/WATERFRONT STN",
   "route-number": "010",
   "stroke": "#267cff",
   "stroke-width": 3.0

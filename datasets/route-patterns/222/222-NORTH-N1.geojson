@@ -1575,7 +1575,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "WILLINGDON EXP/TO PHIBBS EXCH",
+  "destination": "WILLINGDON EXPRESS/TO PHIBBS EXCH",
   "direction": "NORTH",
   "name": "222-N1",
   "operating-company": "CMBC",

@@ -1455,7 +1455,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "LOUGHEED STN",
+  "destination": "AUSTIN AVE/TO LOUGHEED STN",
   "direction": "WEST",
   "name": "152-WB1MAR",
   "operating-company": "CMBC",

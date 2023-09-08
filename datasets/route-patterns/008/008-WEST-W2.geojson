@@ -975,12 +975,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "DOWNTOWN/TO WATERFRONT STN",
+  "destination": "FRASER/TO WATERFRONT STN",
   "direction": "WEST",
   "name": "008-W2",
   "operating-company": "CMBC",
   "pattern-number": "W2",
-  "route-name": "FRASER/DOWNTOWN",
+  "route-name": "FRASER/WATERFRONT STN",
   "route-number": "008",
   "stroke": "#267cff",
   "stroke-width": 3.0

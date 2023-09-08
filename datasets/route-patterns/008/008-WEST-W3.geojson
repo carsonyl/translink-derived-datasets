@@ -335,12 +335,12 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "FRASER/TO 41ST AVE",
+  "destination": "FRASER/TO 41ST AVENUE",
   "direction": "WEST",
   "name": "008-W3",
   "operating-company": "CMBC",
   "pattern-number": "W3",
-  "route-name": "FRASER/DOWNTOWN",
+  "route-name": "FRASER/WATERFRONT STN",
   "route-number": "008",
   "stroke": "#267cff",
   "stroke-width": 3.0
