@@ -535,8 +535,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.168174,
-     49.264458
+     -123.168205,
+     49.264484
     ],
     "type": "Point"
    },
@@ -573,8 +573,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.168204,
-     49.268707
+     -123.168222,
+     49.268681
     ],
     "type": "Point"
    },
@@ -1105,8 +1105,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.168421,
-     49.260226
+     -123.168427,
+     49.260158
     ],
     "type": "Point"
    },
@@ -1238,8 +1238,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.168633,
-     49.248641
+     -123.16864,
+     49.248646
     ],
     "type": "Point"
    },
@@ -3081,6 +3081,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.215067,
+     49.264289
+    ],
+    "type": "Point"
+   },
+   "id": "275",
+   "properties": {
+    "code": "50272",
+    "desc": "",
+    "id": "275",
+    "name": "Northbound Blanca St @ W 10 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.21585,
      49.265243
     ],
@@ -3423,8 +3442,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.170795,
-     49.234819
+     -123.170847,
+     49.234822
     ],
     "type": "Point"
    },
@@ -12125,8 +12144,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.06995,
-     49.259177
+     -123.069971,
+     49.258848
     ],
     "type": "Point"
    },
@@ -21568,8 +21587,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.151677,
-     49.251211
+     -123.151701,
+     49.251216
     ],
     "type": "Point"
    },
@@ -31600,8 +31619,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.933742,
-     49.192071
+     -122.933723,
+     49.192086
     ],
     "type": "Point"
    },
@@ -31619,8 +31638,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.934885,
-     49.195163
+     -122.934695,
+     49.195134
     ],
     "type": "Point"
    },
@@ -31657,8 +31676,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.936116,
-     49.190708
+     -122.936196,
+     49.190749
     ],
     "type": "Point"
    },
@@ -31676,8 +31695,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.939919,
-     49.189178
+     -122.940041,
+     49.189151
     ],
     "type": "Point"
    },
@@ -31695,8 +31714,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.941616,
-     49.188467
+     -122.941678,
+     49.188473
     ],
     "type": "Point"
    },
@@ -31714,8 +31733,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.947259,
-     49.186087
+     -122.947411,
+     49.186059
     ],
     "type": "Point"
    },
@@ -31733,8 +31752,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.950312,
-     49.184809
+     -122.950461,
+     49.18478
     ],
     "type": "Point"
    },
@@ -31771,8 +31790,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.956141,
-     49.182364
+     -122.956074,
+     49.18246
     ],
     "type": "Point"
    },
@@ -31801,6 +31820,25 @@
     "desc": "",
     "id": "2390",
     "name": "Westbound Westminster Hwy @ Boundary Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.964852,
+     49.18162
+    ],
+    "type": "Point"
+   },
+   "id": "2391",
+   "properties": {
+    "code": "52367",
+    "desc": "",
+    "id": "2391",
+    "name": "Westbound Westminster Hwy @ Smith Cres",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -31904,8 +31942,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.93864,
-     49.189555
+     -122.938836,
+     49.189452
     ],
     "type": "Point"
    },
@@ -31923,8 +31961,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.934811,
-     49.191174
+     -122.934777,
+     49.191128
     ],
     "type": "Point"
    },
@@ -73524,7 +73562,7 @@
     "code": "55193",
     "desc": "",
     "id": "5245",
-    "name": "Northbound Scott Rd @ 74 Ave",
+    "name": "Northbound Scott Rd @ 7300 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -100741,8 +100779,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.955236,
-     49.182627
+     -122.955241,
+     49.182596
     ],
     "type": "Point"
    },
@@ -136480,8 +136518,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.940791,
-     49.18858
+     -122.940844,
+     49.18861
     ],
     "type": "Point"
    },
@@ -153010,8 +153048,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.934131,
-     49.191549
+     -122.934168,
+     49.191588
     ],
     "type": "Point"
    },
@@ -156069,8 +156107,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.952048,
-     49.185344
+     -122.95184,
+     49.185476
     ],
     "type": "Point"
    },
@@ -158938,8 +158976,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.659105,
-     49.103482
+     -122.659711,
+     49.103638
     ],
     "type": "Point"
    },
@@ -163156,8 +163194,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.16825,
-     49.259949
+     -123.168237,
+     49.26027
     ],
     "type": "Point"
    },
@@ -167233,6 +167271,25 @@
     "desc": "",
     "id": "12931",
     "name": "Southbound 200 St @ 36 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.654686,
+     49.118174
+    ],
+    "type": "Point"
+   },
+   "id": "12932",
+   "properties": {
+    "code": "58928",
+    "desc": "",
+    "id": "12932",
+    "name": "Northbound 204 St @ Mufford Cres",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
