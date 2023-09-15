@@ -1385,7 +1385,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "COQ CTRL STN VIA CHILKO",
+  "destination": "AUSTIN AVE/TO COQUITLAM CTRL",
   "direction": "EAST",
   "name": "152-EB1MAR",
   "operating-company": "CMBC",
