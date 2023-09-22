@@ -9370,8 +9370,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.090058,
-     49.25611
+     -123.090061,
+     49.255847
     ],
     "type": "Point"
    },
@@ -61593,25 +61593,6 @@
     "desc": "",
     "id": "4488",
     "name": "Westbound Marine Dr @ Bowser Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.120746,
-     49.324043
-    ],
-    "type": "Point"
-   },
-   "id": "4489",
-   "properties": {
-    "code": "54439",
-    "desc": "",
-    "id": "4489",
-    "name": "Westbound Marine Dr @ McGuire Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -150569,7 +150550,7 @@
     "code": "61599",
     "desc": "",
     "id": "11682",
-    "name": "Westbound Sixth Ave @ Eighth St",
+    "name": "Westbound 6th Ave @ 8th St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -157494,6 +157475,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.091394,
+     49.037774
+    ],
+    "type": "Point"
+   },
+   "id": "12226",
+   "properties": {
+    "code": "59551",
+    "desc": "",
+    "id": "12226",
+    "name": "Westbound Blue Heron Dr @ Salish Sea Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.896818,
      49.248611
     ],
@@ -162415,8 +162415,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.114798,
-     49.233384
+     -123.11467,
+     49.233377
     ],
     "type": "Point"
    },
@@ -162578,25 +162578,6 @@
     "desc": "",
     "id": "12600",
     "name": "UBC Exchange @ Unloading Only",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.09865,
-     49.273853
-    ],
-    "type": "Point"
-   },
-   "id": "12602",
-   "properties": {
-    "code": "60351",
-    "desc": "",
-    "id": "12602",
-    "name": "Southbound Station St @ National Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -163992,8 +163973,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.12392,
-     49.260473
+     -123.122861,
+     49.260468
     ],
     "type": "Point"
    },
