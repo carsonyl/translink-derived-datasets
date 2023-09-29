@@ -1257,25 +1257,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.170432,
-     49.249627
-    ],
-    "type": "Point"
-   },
-   "id": "123",
-   "properties": {
-    "code": "50123",
-    "desc": "",
-    "id": "123",
-    "name": "Westbound W King Edward Ave @ Puget Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.171914,
      49.249603
     ],
@@ -12277,25 +12258,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.120872,
-     49.284132
-    ],
-    "type": "Point"
-   },
-   "id": "984",
-   "properties": {
-    "code": "50975",
-    "desc": "",
-    "id": "984",
-    "name": "Eastbound W Georgia St @ Burrard St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.118529,
      49.28264
     ],
@@ -20238,8 +20200,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.178332,
-     49.250104
+     -123.178326,
+     49.250101
     ],
     "type": "Point"
    },
@@ -20257,8 +20219,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.172439,
-     49.250072
+     -123.172391,
+     49.25007
     ],
     "type": "Point"
    },
@@ -21682,8 +21644,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.179077,
-     49.250183
+     -123.179095,
+     49.250186
     ],
     "type": "Point"
    },
@@ -28332,6 +28294,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.899151,
+     49.247258
+    ],
+    "type": "Point"
+   },
+   "id": "2126",
+   "properties": {
+    "code": "52106",
+    "desc": "",
+    "id": "2126",
+    "name": "Eastbound Government St @ Manchester Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.174769,
      49.191338
     ],
@@ -29871,8 +29852,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.103214,
-     49.211554
+     -123.102632,
+     49.211362
     ],
     "type": "Point"
    },
@@ -30547,6 +30528,101 @@
     "desc": "",
     "id": "2289",
     "name": "Northbound Cariboo Rd @ Avalon Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.910084,
+     49.250136
+    ],
+    "type": "Point"
+   },
+   "id": "2291",
+   "properties": {
+    "code": "52269",
+    "desc": "",
+    "id": "2291",
+    "name": "Eastbound Government St @ 8700 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.899309,
+     49.247557
+    ],
+    "type": "Point"
+   },
+   "id": "2296",
+   "properties": {
+    "code": "52274",
+    "desc": "",
+    "id": "2296",
+    "name": "Westbound Government St @ Cardston Court",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.906875,
+     49.248331
+    ],
+    "type": "Point"
+   },
+   "id": "2298",
+   "properties": {
+    "code": "59815",
+    "desc": "",
+    "id": "2298",
+    "name": "Westbound Government St @ Halston Court",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.907929,
+     49.249347
+    ],
+    "type": "Point"
+   },
+   "id": "2299",
+   "properties": {
+    "code": "52277",
+    "desc": "",
+    "id": "2299",
+    "name": "Westbound Government St @ Horne St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.91026,
+     49.25025
+    ],
+    "type": "Point"
+   },
+   "id": "2300",
+   "properties": {
+    "code": "52278",
+    "desc": "",
+    "id": "2300",
+    "name": "Westbound Government St @ 8700 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -62087,25 +62163,6 @@
     "desc": "",
     "id": "4520",
     "name": "Westbound W Keith Rd @ Delbruck Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.115989,
-     49.280989
-    ],
-    "type": "Point"
-   },
-   "id": "4523",
-   "properties": {
-    "code": "54473",
-    "desc": "",
-    "id": "4523",
-    "name": "Eastbound W Georgia St @ Richards St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -95801,25 +95858,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.113648,
-     49.133337
-    ],
-    "type": "Point"
-   },
-   "id": "6700",
-   "properties": {
-    "code": "56638",
-    "desc": "",
-    "id": "6700",
-    "name": "Eastbound Steveston Hwy @ No. 4 Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.110616,
      49.133361
     ],
@@ -117176,25 +117214,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.106644,
-     49.133349
-    ],
-    "type": "Point"
-   },
-   "id": "8338",
-   "properties": {
-    "code": "56640",
-    "desc": "",
-    "id": "8338",
-    "name": "Eastbound Steveston Hwy @ Southport Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.817531,
      49.26142
     ],
@@ -122488,25 +122507,6 @@
     "desc": "",
     "id": "8928",
     "name": "Southbound 208 St @ Grade Cres",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.64711,
-     49.08447
-    ],
-    "type": "Point"
-   },
-   "id": "8929",
-   "properties": {
-    "code": "58541",
-    "desc": "",
-    "id": "8929",
-    "name": "Southbound 208 St @ 45A Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -143301,6 +143301,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.906818,
+     49.247775
+    ],
+    "type": "Point"
+   },
+   "id": "11104",
+   "properties": {
+    "code": "59816",
+    "desc": "",
+    "id": "11104",
+    "name": "Eastbound Government St @ Halston Court",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.896174,
      49.188432
     ],
@@ -144755,7 +144774,7 @@
     "code": "61268",
     "desc": "",
     "id": "11191",
-    "name": "Eastbound 98 Ave @ 26400 Block (Flag)",
+    "name": "Eastbound 98 Ave @ 264 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166443,44 +166462,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.918846,
-     49.252175
-    ],
-    "type": "Point"
-   },
-   "id": "12912",
-   "properties": {
-    "code": "52836",
-    "desc": "",
-    "id": "12912",
-    "name": "Northbound Brighton Ave @ Lougheed Hwy",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.919089,
-     49.252785
-    ],
-    "type": "Point"
-   },
-   "id": "12913",
-   "properties": {
-    "code": "60649",
-    "desc": "",
-    "id": "12913",
-    "name": "Southbound Brighton Ave @ Lougheed Hwy",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.037874,
      49.331851
     ],
@@ -166823,17 +166804,17 @@
   {
    "geometry": {
     "coordinates": [
-     -122.654686,
-     49.118174
+     -122.64715,
+     49.083997
     ],
     "type": "Point"
    },
-   "id": "12932",
+   "id": "12933",
    "properties": {
-    "code": "58928",
+    "code": "60664",
     "desc": "",
-    "id": "12932",
-    "name": "Northbound 204 St @ Mufford Cres",
+    "id": "12933",
+    "name": "Southbound 208 St @ 45A Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
