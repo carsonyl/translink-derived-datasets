@@ -10909,25 +10909,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.057623,
-     49.26213
-    ],
-    "type": "Point"
-   },
-   "id": "897",
-   "properties": {
-    "code": "50890",
-    "desc": "",
-    "id": "897",
-    "name": "Eastbound E Broadway @ Garden Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.055558,
      49.261889
     ],
@@ -20200,8 +20181,27 @@
   {
    "geometry": {
     "coordinates": [
-     -123.178326,
-     49.250101
+     -123.184491,
+     49.249918
+    ],
+    "type": "Point"
+   },
+   "id": "1505",
+   "properties": {
+    "code": "51493",
+    "desc": "",
+    "id": "1505",
+    "name": "Eastbound W King Edward Ave @ Dunbar St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.178105,
+     49.249895
     ],
     "type": "Point"
    },
@@ -20219,8 +20219,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.172391,
-     49.25007
+     -123.172562,
+     49.249875
     ],
     "type": "Point"
    },
@@ -70436,25 +70436,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.845814,
-     49.179601
-    ],
-    "type": "Point"
-   },
-   "id": "5049",
-   "properties": {
-    "code": "54997",
-    "desc": "",
-    "id": "5049",
-    "name": "Southbound King George Blvd @ 98 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.847002,
      49.177135
     ],
@@ -73734,6 +73715,25 @@
     "desc": "",
     "id": "5257",
     "name": "Southbound Scott Rd @ 82 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.890537,
+     49.148954
+    ],
+    "type": "Point"
+   },
+   "id": "5258",
+   "properties": {
+    "code": "55206",
+    "desc": "",
+    "id": "5258",
+    "name": "Southbound Scott Rd @ 80 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -145296,25 +145296,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.66547,
-     49.177082
-    ],
-    "type": "Point"
-   },
-   "id": "11230",
-   "properties": {
-    "code": "61211",
-    "desc": "",
-    "id": "11230",
-    "name": "Westbound 96 Ave @ 201 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.680068,
      49.113418
     ],
@@ -147910,25 +147891,6 @@
     "desc": "",
     "id": "11434",
     "name": "Eastbound Fraser Way @ Bay Mill Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.022894,
-     49.254148
-    ],
-    "type": "Point"
-   },
-   "id": "11436",
-   "properties": {
-    "code": "51773",
-    "desc": "",
-    "id": "11436",
-    "name": "Eastbound Laurel St @ Boundary Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165645,8 +165607,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.113676,
-     49.28299
+     -123.113767,
+     49.28292
     ],
     "type": "Point"
    },
@@ -166576,25 +166538,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.890501,
-     49.147786
-    ],
-    "type": "Point"
-   },
-   "id": "12920",
-   "properties": {
-    "code": "60460",
-    "desc": "",
-    "id": "12920",
-    "name": "Southbound Scott Rd @ 80 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.558106,
      49.220254
     ],
@@ -166815,6 +166758,25 @@
     "desc": "",
     "id": "12933",
     "name": "Southbound 208 St @ 45A Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.022875,
+     49.254672
+    ],
+    "type": "Point"
+   },
+   "id": "12934",
+   "properties": {
+    "code": "61447",
+    "desc": "",
+    "id": "12934",
+    "name": "Eastbound Canaday Way @ Boundary Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
