@@ -7356,8 +7356,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.18575,
-     49.234593
+     -123.185758,
+     49.234625
     ],
     "type": "Point"
    },
@@ -8268,8 +8268,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.06615,
-     49.232771
+     -123.066082,
+     49.232792
     ],
     "type": "Point"
    },
@@ -12049,8 +12049,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.052402,
-     49.281228
+     -123.053371,
+     49.281243
     ],
     "type": "Point"
    },
@@ -21625,27 +21625,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.176132,
-     49.250163
-    ],
-    "type": "Point"
-   },
-   "id": "1601",
-   "properties": {
-    "code": "51589",
-    "desc": "",
-    "id": "1601",
-    "name": "Westbound W King Edward Ave @ Balaclava St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.179095,
-     49.250186
+     -123.178887,
+     49.249979
     ],
     "type": "Point"
    },
@@ -98936,25 +98917,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147742,
-     49.139133
-    ],
-    "type": "Point"
-   },
-   "id": "6873",
-   "properties": {
-    "code": "56808",
-    "desc": "",
-    "id": "6873",
-    "name": "Northbound Gilbert Rd @ Bamberton Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.147761,
      49.141262
     ],
@@ -99460,44 +99422,6 @@
     "desc": "",
     "id": "6901",
     "name": "Southbound Gilbert Rd @ Woodwards Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147996,
-     49.140645
-    ],
-    "type": "Point"
-   },
-   "id": "6902",
-   "properties": {
-    "code": "56837",
-    "desc": "",
-    "id": "6902",
-    "name": "Southbound Gilbert Rd @ Williams Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147951,
-     49.138498
-    ],
-    "type": "Point"
-   },
-   "id": "6903",
-   "properties": {
-    "code": "56838",
-    "desc": "",
-    "id": "6903",
-    "name": "Southbound Gilbert Rd @ Bamberton Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -110431,8 +110355,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.942699,
-     49.155649
+     -122.942489,
+     49.155491
     ],
     "type": "Point"
    },
@@ -137175,25 +137099,6 @@
     "desc": "",
     "id": "10558",
     "name": "Westbound Miller Rd @ Templeton St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.233387,
-     49.244611
-    ],
-    "type": "Point"
-   },
-   "id": "10559",
-   "properties": {
-    "code": "59489",
-    "desc": "",
-    "id": "10559",
-    "name": "Eastbound SW Marine Dr @ Wesbrook Mall",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166378,25 +166283,6 @@
     "desc": "",
     "id": "12908",
     "name": "Northbound Lonsdale Ave @ E 17 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.185314,
-     49.25086
-    ],
-    "type": "Point"
-   },
-   "id": "12910",
-   "properties": {
-    "code": "60648",
-    "desc": "",
-    "id": "12910",
-    "name": "Southbound Dunbar St @ W 24 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
