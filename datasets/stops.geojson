@@ -9370,25 +9370,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.090123,
-     49.25348
-    ],
-    "type": "Point"
-   },
-   "id": "786",
-   "properties": {
-    "code": "50779",
-    "desc": "",
-    "id": "786",
-    "name": "Southbound Fraser St @ E 19 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.090186,
      49.25162
     ],
@@ -32835,25 +32816,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.912859,
-     49.207323
-    ],
-    "type": "Point"
-   },
-   "id": "2463",
-   "properties": {
-    "code": "52439",
-    "desc": "",
-    "id": "2463",
-    "name": "Northbound 6th St @ Queens Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.914819,
      49.208885
     ],
@@ -43437,25 +43399,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.85052,
-     49.276572
-    ],
-    "type": "Point"
-   },
-   "id": "3180",
-   "properties": {
-    "code": "53147",
-    "desc": "",
-    "id": "3180",
-    "name": "Eastbound St. Johns St @ Moody St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.844333,
      49.276544
     ],
@@ -43760,8 +43703,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.850785,
-     49.276792
+     -122.850673,
+     49.276769
     ],
     "type": "Point"
    },
@@ -69296,6 +69239,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.874488,
+     49.204285
+    ],
+    "type": "Point"
+   },
+   "id": "4968",
+   "properties": {
+    "code": "54916",
+    "desc": "",
+    "id": "4968",
+    "name": "Scott Rd Station @ Bay 5",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.883545,
      49.198469
     ],
@@ -85655,25 +85617,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.841548,
-     49.133438
-    ],
-    "type": "Point"
-   },
-   "id": "6000",
-   "properties": {
-    "code": "55944",
-    "desc": "",
-    "id": "6000",
-    "name": "Newton Exchange @ Bay 8",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.828395,
      49.133595
     ],
@@ -98917,6 +98860,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.147742,
+     49.139133
+    ],
+    "type": "Point"
+   },
+   "id": "6873",
+   "properties": {
+    "code": "56808",
+    "desc": "",
+    "id": "6873",
+    "name": "Northbound Gilbert Rd @ Bamberton Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.147761,
      49.141262
     ],
@@ -99422,6 +99384,44 @@
     "desc": "",
     "id": "6901",
     "name": "Southbound Gilbert Rd @ Woodwards Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147996,
+     49.140645
+    ],
+    "type": "Point"
+   },
+   "id": "6902",
+   "properties": {
+    "code": "56837",
+    "desc": "",
+    "id": "6902",
+    "name": "Southbound Gilbert Rd @ Williams Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147951,
+     49.138498
+    ],
+    "type": "Point"
+   },
+   "id": "6903",
+   "properties": {
+    "code": "56838",
+    "desc": "",
+    "id": "6903",
+    "name": "Southbound Gilbert Rd @ Bamberton Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -120558,8 +120558,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.937843,
-     49.25641
+     -122.937855,
+     49.255883
     ],
     "type": "Point"
    },
@@ -141059,25 +141059,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.874861,
-     49.204438
-    ],
-    "type": "Point"
-   },
-   "id": "10914",
-   "properties": {
-    "code": "58150",
-    "desc": "",
-    "id": "10914",
-    "name": "Scott Road Station @ Bay 3",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.948345,
      49.200112
     ],
@@ -141222,6 +141203,25 @@
     "desc": "",
     "id": "10929",
     "name": "22nd Street Station @ Unloading Only",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.842877,
+     49.132811
+    ],
+    "type": "Point"
+   },
+   "id": "10931",
+   "properties": {
+    "code": "58506",
+    "desc": "",
+    "id": "10931",
+    "name": "Newton Exchange @ Unloading Bay",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -156297,6 +156297,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.090092,
+     49.253864
+    ],
+    "type": "Point"
+   },
+   "id": "12148",
+   "properties": {
+    "code": "59292",
+    "desc": "",
+    "id": "12148",
+    "name": "Southbound Fraser St @ E 19 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.485973,
      49.055535
     ],
@@ -161579,25 +161598,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.856207,
-     49.276631
-    ],
-    "type": "Point"
-   },
-   "id": "12506",
-   "properties": {
-    "code": "58224",
-    "desc": "",
-    "id": "12506",
-    "name": "Eastbound St. Johns St @ Kyle St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.814937,
      49.212398
     ],
@@ -164619,8 +164619,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.890315,
-     49.176453
+     -122.890321,
+     49.176272
     ],
     "type": "Point"
    },
@@ -166130,7 +166130,7 @@
     "code": "60254",
     "desc": "",
     "id": "12899",
-    "name": "Phibbs Exchange @ Bay 2",
+    "name": "Main St @ Phibbs Exchange",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166149,7 +166149,7 @@
     "code": "60255",
     "desc": "",
     "id": "12900",
-    "name": "Phibbs Exchange @ Bay 3",
+    "name": "Main St @ Phibbs Exchange",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166245,25 +166245,6 @@
     "desc": "",
     "id": "12906",
     "name": "Phibbs Exchange @ Bay 11",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.030202,
-     49.305003
-    ],
-    "type": "Point"
-   },
-   "id": "12907",
-   "properties": {
-    "code": "60264",
-    "desc": "",
-    "id": "12907",
-    "name": "Phibbs Exchange @ Bay 12",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166663,6 +166644,63 @@
     "desc": "",
     "id": "12934",
     "name": "Eastbound Canaday Way @ Boundary Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.849147,
+     49.276575
+    ],
+    "type": "Point"
+   },
+   "id": "12935",
+   "properties": {
+    "code": "60673",
+    "desc": "",
+    "id": "12935",
+    "name": "Eastbound St. Johns St @ Moody St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.807309,
+     49.133791
+    ],
+    "type": "Point"
+   },
+   "id": "12936",
+   "properties": {
+    "code": "60147",
+    "desc": "",
+    "id": "12936",
+    "name": "Westbound 72 Ave @ 150 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.805923,
+     49.133657
+    ],
+    "type": "Point"
+   },
+   "id": "12937",
+   "properties": {
+    "code": "60148",
+    "desc": "",
+    "id": "12937",
+    "name": "Eastbound 72 Ave @ 150 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
