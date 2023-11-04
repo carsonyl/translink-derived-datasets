@@ -4,3 +4,5 @@ geojson
 requests
 urllib3
 click
+# for PY 3.12 + fastkml 0.12
+setuptools
