@@ -1276,25 +1276,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.170308,
-     49.245848
-    ],
-    "type": "Point"
-   },
-   "id": "126",
-   "properties": {
-    "code": "50126",
-    "desc": "",
-    "id": "126",
-    "name": "Southbound Mackenzie St @ W 29 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.170345,
      49.241997
     ],
@@ -16419,25 +16400,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.170182,
-     49.237919
-    ],
-    "type": "Point"
-   },
-   "id": "1269",
-   "properties": {
-    "code": "51259",
-    "desc": "",
-    "id": "1269",
-    "name": "Northbound Mackenzie St @ W 38 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.170144,
      49.241595
     ],
@@ -16449,25 +16411,6 @@
     "desc": "",
     "id": "1271",
     "name": "Northbound Mackenzie St @ W 34 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.17011,
-     49.245547
-    ],
-    "type": "Point"
-   },
-   "id": "1273",
-   "properties": {
-    "code": "51263",
-    "desc": "",
-    "id": "1273",
-    "name": "Northbound Mackenzie St @ W 30 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -24133,8 +24076,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.025195,
-     49.312987
+     -123.025014,
+     49.313263
     ],
     "type": "Point"
    },
@@ -29141,25 +29084,6 @@
     "desc": "",
     "id": "2187",
     "name": "Eastbound 6th Ave @ 16 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.933296,
-     49.206089
-    ],
-    "type": "Point"
-   },
-   "id": "2188",
-   "properties": {
-    "code": "52168",
-    "desc": "",
-    "id": "2188",
-    "name": "Eastbound 6th Ave @ 14 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -35962,6 +35886,25 @@
     "desc": "",
     "id": "2686",
     "name": "Southbound Gilley Ave @ Carson St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.974399,
+     49.207307
+    ],
+    "type": "Point"
+   },
+   "id": "2687",
+   "properties": {
+    "code": "52662",
+    "desc": "",
+    "id": "2687",
+    "name": "Southbound Gilley Ave @ Keith St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -43399,6 +43342,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.858051,
+     49.276657
+    ],
+    "type": "Point"
+   },
+   "id": "3179",
+   "properties": {
+    "code": "53146",
+    "desc": "",
+    "id": "3179",
+    "name": "Eastbound St. Johns St @ Queens St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.844333,
      49.276544
     ],
@@ -43429,25 +43391,6 @@
     "desc": "",
     "id": "3182",
     "name": "Eastbound St. Johns St @ Buller St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.830951,
-     49.276372
-    ],
-    "type": "Point"
-   },
-   "id": "3184",
-   "properties": {
-    "code": "53151",
-    "desc": "",
-    "id": "3184",
-    "name": "Eastbound St. Johns St @ Clearview Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -61829,8 +61772,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.069918,
-     49.321984
+     -123.0688,
+     49.321958
     ],
     "type": "Point"
    },
@@ -61839,7 +61782,7 @@
     "code": "54457",
     "desc": "",
     "id": "4507",
-    "name": "Eastbound E 15 St @ St. Georges Ave",
+    "name": "Eastbound E 15th St @ St. Andrews Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -61943,8 +61886,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.065741,
-     49.32206
+     -123.066495,
+     49.322035
     ],
     "type": "Point"
    },
@@ -61953,7 +61896,7 @@
     "code": "54463",
     "desc": "",
     "id": "4513",
-    "name": "Westbound E 15 St @ St. Andrews Ave",
+    "name": "Westbound E 15th St @ St. Georges Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -70675,6 +70618,25 @@
     "desc": "",
     "id": "5066",
     "name": "Southbound Scott Rd @ 90 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.890541,
+     49.161084
+    ],
+    "type": "Point"
+   },
+   "id": "5067",
+   "properties": {
+    "code": "58694",
+    "desc": "",
+    "id": "5067",
+    "name": "Southbound Scott Rd @ Nordel Way",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -98841,44 +98803,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.14771,
-     49.136657
-    ],
-    "type": "Point"
-   },
-   "id": "6872",
-   "properties": {
-    "code": "56807",
-    "desc": "",
-    "id": "6872",
-    "name": "Northbound Gilbert Rd @ 10500 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147742,
-     49.139133
-    ],
-    "type": "Point"
-   },
-   "id": "6873",
-   "properties": {
-    "code": "56808",
-    "desc": "",
-    "id": "6873",
-    "name": "Northbound Gilbert Rd @ Bamberton Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.147761,
      49.141262
     ],
@@ -99384,63 +99308,6 @@
     "desc": "",
     "id": "6901",
     "name": "Southbound Gilbert Rd @ Woodwards Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147996,
-     49.140645
-    ],
-    "type": "Point"
-   },
-   "id": "6902",
-   "properties": {
-    "code": "56837",
-    "desc": "",
-    "id": "6902",
-    "name": "Southbound Gilbert Rd @ Williams Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147951,
-     49.138498
-    ],
-    "type": "Point"
-   },
-   "id": "6903",
-   "properties": {
-    "code": "56838",
-    "desc": "",
-    "id": "6903",
-    "name": "Southbound Gilbert Rd @ Bamberton Dr",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147912,
-     49.13515
-    ],
-    "type": "Point"
-   },
-   "id": "6904",
-   "properties": {
-    "code": "56839",
-    "desc": "",
-    "id": "6904",
-    "name": "Southbound Gilbert Rd @ Kimberley Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -122211,6 +122078,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.934473,
+     49.260979
+    ],
+    "type": "Point"
+   },
+   "id": "8915",
+   "properties": {
+    "code": "52880",
+    "desc": "",
+    "id": "8915",
+    "name": "Westbound Broadway @ 7900 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.069582,
      49.26342
     ],
@@ -131540,25 +131426,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.892395,
-     49.239155
-    ],
-    "type": "Point"
-   },
-   "id": "9966",
-   "properties": {
-    "code": "59346",
-    "desc": "",
-    "id": "9966",
-    "name": "Northbound North Rd @ 200 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.926613,
      49.214693
     ],
@@ -133964,6 +133831,25 @@
     "desc": "",
     "id": "10235",
     "name": "Northbound Patterson Ave @ Rumble St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.97389,
+     49.20769
+    ],
+    "type": "Point"
+   },
+   "id": "10239",
+   "properties": {
+    "code": "59690",
+    "desc": "",
+    "id": "10239",
+    "name": "Northbound Gilley Ave @ Keith St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -140945,6 +140831,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.890486,
+     49.189504
+    ],
+    "type": "Point"
+   },
+   "id": "10896",
+   "properties": {
+    "code": "54918",
+    "desc": "",
+    "id": "10896",
+    "name": "Southbound Scott Rd @ 103A Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.891384,
      49.190713
     ],
@@ -145193,6 +145098,25 @@
     "desc": "",
     "id": "11229",
     "name": "Coquitlam Central Station @ Bay 13",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.66547,
+     49.177082
+    ],
+    "type": "Point"
+   },
+   "id": "11230",
+   "properties": {
+    "code": "61211",
+    "desc": "",
+    "id": "11230",
+    "name": "Westbound 96 Ave @ 201 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -149506,6 +149430,25 @@
     "desc": "",
     "id": "11595",
     "name": "Westbound Main St @ Harbour Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.104471,
+     49.262911
+    ],
+    "type": "Point"
+   },
+   "id": "11596",
+   "properties": {
+    "code": "50878",
+    "desc": "",
+    "id": "11596",
+    "name": "Eastbound E Broadway @ Ontario St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165770,25 +165713,6 @@
     "desc": "",
     "id": "12875",
     "name": "Eastbound University Dr @ Glover Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.10514,
-     49.262929
-    ],
-    "type": "Point"
-   },
-   "id": "12877",
-   "properties": {
-    "code": "60613",
-    "desc": "",
-    "id": "12877",
-    "name": "Eastbound W Broadway @ Ontario St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
