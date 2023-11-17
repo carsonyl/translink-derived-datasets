@@ -573,8 +573,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.168222,
-     49.268681
+     -123.168208,
+     49.269101
     ],
     "type": "Point"
    },
@@ -583,7 +583,7 @@
     "code": "50063",
     "desc": "",
     "id": "63",
-    "name": "Northbound Macdonald St @ W 4th Ave",
+    "name": "Northbound Macdonald St @ W 3rd Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -24095,25 +24095,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.032716,
-     49.311044
-    ],
-    "type": "Point"
-   },
-   "id": "1771",
-   "properties": {
-    "code": "51757",
-    "desc": "",
-    "id": "1771",
-    "name": "Southbound Mountain Hwy @ Fern St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.032289,
      49.309442
     ],
@@ -29084,6 +29065,25 @@
     "desc": "",
     "id": "2187",
     "name": "Eastbound 6th Ave @ 16 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.933296,
+     49.206089
+    ],
+    "type": "Point"
+   },
+   "id": "2188",
+   "properties": {
+    "code": "52168",
+    "desc": "",
+    "id": "2188",
+    "name": "Eastbound 6th Ave @ 14 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -92381,8 +92381,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.835459,
-     49.179308
+     -122.834908,
+     49.179139
     ],
     "type": "Point"
    },
@@ -97921,25 +97921,6 @@
     "desc": "",
     "id": "6824",
     "name": "Northbound Railway Ave @ Woodwards Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.169713,
-     49.14712
-    ],
-    "type": "Point"
-   },
-   "id": "6825",
-   "properties": {
-    "code": "56760",
-    "desc": "",
-    "id": "6825",
-    "name": "Northbound Railway Ave @ Maple Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -119019,25 +119000,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.847504,
-     49.184316
-    ],
-    "type": "Point"
-   },
-   "id": "8566",
-   "properties": {
-    "code": "58273",
-    "desc": "",
-    "id": "8566",
-    "name": "Eastbound Old Yale Rd @ 13500 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.069596,
      49.265331
     ],
@@ -124502,25 +124464,6 @@
     "desc": "",
     "id": "9127",
     "name": "Westbound Foster Ave @ Midvale St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.121726,
-     49.284954
-    ],
-    "type": "Point"
-   },
-   "id": "9128",
-   "properties": {
-    "code": "58705",
-    "desc": "",
-    "id": "9128",
-    "name": "Westbound W Georgia St @ Burrard St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165465,7 +165408,7 @@
     "code": "60602",
     "desc": "",
     "id": "12859",
-    "name": "Southbound Richards St @ Dunsmuir St",
+    "name": "Southbound Richards St @ W Pender St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165626,8 +165569,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.167939,
-     49.268446
+     -123.167233,
+     49.268444
     ],
     "type": "Point"
    },
@@ -166625,6 +166568,25 @@
     "desc": "",
     "id": "12937",
     "name": "Eastbound 72 Ave @ 150 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.12073,
+     49.284306
+    ],
+    "type": "Point"
+   },
+   "id": "12948",
+   "properties": {
+    "code": "60665",
+    "desc": "",
+    "id": "12948",
+    "name": "Westbound W Georgia St @ Burrard St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
