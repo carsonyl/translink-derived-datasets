@@ -9332,8 +9332,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.090061,
-     49.255847
+     -123.090056,
+     49.255696
     ],
     "type": "Point"
    },
@@ -11907,7 +11907,7 @@
     "code": "50955",
     "desc": "",
     "id": "963",
-    "name": "Kootenay Loop @ Bay 5",
+    "name": "Kootenay Loop Loop @ Bay 5",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -18262,6 +18262,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.024952,
+     49.281026
+    ],
+    "type": "Point"
+   },
+   "id": "1387",
+   "properties": {
+    "code": "58143",
+    "desc": "",
+    "id": "1387",
+    "name": "Kootenay Loop Loop @ Bay 8",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.018168,
      49.280991
     ],
@@ -19849,7 +19868,7 @@
     "code": "51470",
     "desc": "",
     "id": "1482",
-    "name": "Kootenay Loop @ Bay 6",
+    "name": "Kootenay Loop Loop @ Bay 6",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -20704,7 +20723,7 @@
     "code": "51536",
     "desc": "",
     "id": "1548",
-    "name": "Eastbound E 22 Ave @ Kootenay St",
+    "name": "Eastbound E 22 Ave @ Kootenay Loop St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -23288,7 +23307,7 @@
     "code": "51693",
     "desc": "",
     "id": "1707",
-    "name": "Eastbound Adanac St @ Kootenay St",
+    "name": "Eastbound Adanac St @ Kootenay Loop St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -23326,7 +23345,7 @@
     "code": "51695",
     "desc": "",
     "id": "1709",
-    "name": "Kootenay Loop @ Bay 3",
+    "name": "Kootenay Loop Loop @ Bay 3",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -32740,6 +32759,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.912859,
+     49.207323
+    ],
+    "type": "Point"
+   },
+   "id": "2463",
+   "properties": {
+    "code": "52439",
+    "desc": "",
+    "id": "2463",
+    "name": "Northbound 6th St @ Queens Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.914819,
      49.208885
     ],
@@ -36797,7 +36835,7 @@
     "code": "52717",
     "desc": "",
     "id": "2742",
-    "name": "Kootenay Loop @ Bay 7",
+    "name": "Kootenay Loop Loop @ Bay 7",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -41974,8 +42012,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.88498,
-     49.263416
+     -122.883984,
+     49.263475
     ],
     "type": "Point"
    },
@@ -59407,7 +59445,7 @@
     "code": "54290",
     "desc": "",
     "id": "4337",
-    "name": "Grouse Mountain @ Skyride",
+    "name": "Grouse Mountain Mountain @ Skyride",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -59464,7 +59502,7 @@
     "code": "54293",
     "desc": "",
     "id": "4340",
-    "name": "Southbound Nancy Greene Way @ Blue Grouse Way",
+    "name": "Southbound Nancy Greene Way @ Blue Grouse Mountain Way",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -99297,6 +99335,63 @@
   {
    "geometry": {
     "coordinates": [
+     -123.147996,
+     49.140645
+    ],
+    "type": "Point"
+   },
+   "id": "6902",
+   "properties": {
+    "code": "56837",
+    "desc": "",
+    "id": "6902",
+    "name": "Southbound Gilbert Rd @ Williams Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147951,
+     49.138498
+    ],
+    "type": "Point"
+   },
+   "id": "6903",
+   "properties": {
+    "code": "56838",
+    "desc": "",
+    "id": "6903",
+    "name": "Southbound Gilbert Rd @ Bamberton Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147912,
+     49.13515
+    ],
+    "type": "Point"
+   },
+   "id": "6904",
+   "properties": {
+    "code": "56839",
+    "desc": "",
+    "id": "6904",
+    "name": "Southbound Gilbert Rd @ Kimberley Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.148504,
      49.133572
     ],
@@ -116673,7 +116768,7 @@
     "code": "58042",
     "desc": "",
     "id": "8139",
-    "name": "Kootenay Loop @ Bay 2",
+    "name": "Kootenay Loop Loop @ Bay 2",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -116692,7 +116787,7 @@
     "code": "58043",
     "desc": "",
     "id": "8140",
-    "name": "Kootenay Loop @ Bay 4",
+    "name": "Kootenay Loop Loop @ Bay 4",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -148032,6 +148127,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.24331,
+     49.266846
+    ],
+    "type": "Point"
+   },
+   "id": "11486",
+   "properties": {
+    "code": "50605",
+    "desc": "",
+    "id": "11486",
+    "name": "Westbound University Blvd @ Allison Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.785073,
      49.200713
     ],
@@ -158739,7 +158853,7 @@
     "code": "59889",
     "desc": "",
     "id": "12318",
-    "name": "Kootenay Loop @ Bay 1",
+    "name": "Kootenay Loop Loop @ Bay 1",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165352,25 +165466,6 @@
     "desc": "",
     "id": "12856",
     "name": "Eastbound Bedwell Bay Rd @ Crystal Creek Dr (Flag)",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.026286,
-     49.281036
-    ],
-    "type": "Point"
-   },
-   "id": "12857",
-   "properties": {
-    "code": "60600",
-    "desc": "",
-    "id": "12857",
-    "name": "Kootenay Loop @ Bay 8-",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
