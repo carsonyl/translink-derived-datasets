@@ -554,8 +554,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.168302,
-     49.266074
+     -123.168316,
+     49.266101
     ],
     "type": "Point"
    },
@@ -592,8 +592,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.168148,
-     49.270381
+     -123.168159,
+     49.270491
     ],
     "type": "Point"
    },
@@ -11907,7 +11907,7 @@
     "code": "50955",
     "desc": "",
     "id": "963",
-    "name": "Kootenay Loop Loop @ Bay 5",
+    "name": "Kootenay Loop @ Bay 5",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -18272,7 +18272,7 @@
     "code": "58143",
     "desc": "",
     "id": "1387",
-    "name": "Kootenay Loop Loop @ Bay 8",
+    "name": "Kootenay Loop @ Bay 8",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -19868,7 +19868,7 @@
     "code": "51470",
     "desc": "",
     "id": "1482",
-    "name": "Kootenay Loop Loop @ Bay 6",
+    "name": "Kootenay Loop @ Bay 6",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -20723,7 +20723,7 @@
     "code": "51536",
     "desc": "",
     "id": "1548",
-    "name": "Eastbound E 22 Ave @ Kootenay Loop St",
+    "name": "Eastbound E 22 Ave @ Kootenay St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -23307,7 +23307,7 @@
     "code": "51693",
     "desc": "",
     "id": "1707",
-    "name": "Eastbound Adanac St @ Kootenay Loop St",
+    "name": "Eastbound Adanac St @ Kootenay St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -23345,7 +23345,7 @@
     "code": "51695",
     "desc": "",
     "id": "1709",
-    "name": "Kootenay Loop Loop @ Bay 3",
+    "name": "Kootenay Loop @ Bay 3",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -36835,7 +36835,7 @@
     "code": "52717",
     "desc": "",
     "id": "2742",
-    "name": "Kootenay Loop Loop @ Bay 7",
+    "name": "Kootenay Loop @ Bay 7",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -58352,8 +58352,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.03457,
-     49.319201
+     -123.034495,
+     49.31959
     ],
     "type": "Point"
    },
@@ -59445,7 +59445,7 @@
     "code": "54290",
     "desc": "",
     "id": "4337",
-    "name": "Grouse Mountain Mountain @ Skyride",
+    "name": "Grouse Mountain @ Skyride",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -59502,7 +59502,7 @@
     "code": "54293",
     "desc": "",
     "id": "4340",
-    "name": "Southbound Nancy Greene Way @ Blue Grouse Mountain Way",
+    "name": "Southbound Nancy Greene Way @ Blue Grouse Way",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -97967,6 +97967,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.169713,
+     49.14712
+    ],
+    "type": "Point"
+   },
+   "id": "6825",
+   "properties": {
+    "code": "56760",
+    "desc": "",
+    "id": "6825",
+    "name": "Northbound Railway Ave @ Maple Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.169722,
      49.148833
     ],
@@ -116768,7 +116787,7 @@
     "code": "58042",
     "desc": "",
     "id": "8139",
-    "name": "Kootenay Loop Loop @ Bay 2",
+    "name": "Kootenay Loop @ Bay 2",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -116787,7 +116806,7 @@
     "code": "58043",
     "desc": "",
     "id": "8140",
-    "name": "Kootenay Loop Loop @ Bay 4",
+    "name": "Kootenay Loop @ Bay 4",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -158853,7 +158872,7 @@
     "code": "59889",
     "desc": "",
     "id": "12318",
-    "name": "Kootenay Loop Loop @ Bay 1",
+    "name": "Kootenay Loop @ Bay 1",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
