@@ -14614,8 +14614,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.06866,
-     49.246687
+     -123.068314,
+     49.246508
     ],
     "type": "Point"
    },
@@ -14624,7 +14624,7 @@
     "code": "51145",
     "desc": "",
     "id": "1154",
-    "name": "Eastbound Kingsway @ Miller St",
+    "name": "Eastbound Kingsway @ Commercial St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -15431,8 +15431,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.06911,
-     49.247137
+     -123.069355,
+     49.247236
     ],
     "type": "Point"
    },
@@ -15441,7 +15441,7 @@
     "code": "51190",
     "desc": "",
     "id": "1199",
-    "name": "Westbound Kingsway @ Miller St",
+    "name": "Westbound Kingsway @ Welwyn St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -24437,8 +24437,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.024677,
-     49.234978
+     -123.024219,
+     49.234751
     ],
     "type": "Point"
    },
@@ -25786,8 +25786,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.238457,
-     49.255191
+     -123.239452,
+     49.254822
     ],
     "type": "Point"
    },
@@ -32759,8 +32759,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.912859,
-     49.207323
+     -122.912964,
+     49.2074
     ],
     "type": "Point"
    },
@@ -43380,8 +43380,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.858051,
-     49.276657
+     -122.85693,
+     49.276649
     ],
     "type": "Point"
    },
@@ -43390,7 +43390,7 @@
     "code": "53146",
     "desc": "",
     "id": "3179",
-    "name": "Eastbound St. Johns St @ Queens St",
+    "name": "Eastbound St. Johns St @ Kyle St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -43429,6 +43429,25 @@
     "desc": "",
     "id": "3182",
     "name": "Eastbound St. Johns St @ Buller St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.830951,
+     49.276372
+    ],
+    "type": "Point"
+   },
+   "id": "3184",
+   "properties": {
+    "code": "53151",
+    "desc": "",
+    "id": "3184",
+    "name": "Eastbound St. Johns St @ Clearview Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -68422,8 +68441,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.890162,
-     49.135115
+     -122.890168,
+     49.135869
     ],
     "type": "Point"
    },
@@ -70333,25 +70352,6 @@
     "desc": "",
     "id": "5046",
     "name": "Southbound University Dr @ 10100 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.851078,
-     49.185705
-    ],
-    "type": "Point"
-   },
-   "id": "5047",
-   "properties": {
-    "code": "54995",
-    "desc": "",
-    "id": "5047",
-    "name": "Eastbound Old Yale Rd @ University Dr",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -112122,8 +112122,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.647913,
-     49.213562
+     -122.647919,
+     49.214072
     ],
     "type": "Point"
    },
@@ -112132,7 +112132,7 @@
     "code": "57684",
     "desc": "",
     "id": "7757",
-    "name": "Northbound 207 St @ River Rd",
+    "name": "Northbound 207 St @ 117 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -141306,8 +141306,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.237649,
-     49.255122
+     -123.23773,
+     49.255111
     ],
     "type": "Point"
    },
@@ -162814,8 +162814,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.154407,
-     49.234483
+     -123.154358,
+     49.234484
     ],
     "type": "Point"
    },
