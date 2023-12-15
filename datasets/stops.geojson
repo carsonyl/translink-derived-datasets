@@ -611,8 +611,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.154568,
-     49.272507
+     -123.154543,
+     49.272516
     ],
     "type": "Point"
    },
@@ -1010,8 +1010,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.164636,
-     49.272799
+     -123.164773,
+     49.272795
     ],
     "type": "Point"
    },
@@ -1219,8 +1219,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.167913,
-     49.249858
+     -123.167932,
+     49.249795
     ],
     "type": "Point"
    },
@@ -3442,8 +3442,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.179103,
-     49.234831
+     -123.179404,
+     49.23484
     ],
     "type": "Point"
    },
@@ -4487,8 +4487,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.181639,
-     49.234687
+     -123.181583,
+     49.234698
     ],
     "type": "Point"
    },
@@ -16419,8 +16419,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.1717,
-     49.249571
+     -123.171667,
+     49.24951
     ],
     "type": "Point"
    },
@@ -73590,6 +73590,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.874595,
+     49.204467
+    ],
+    "type": "Point"
+   },
+   "id": "5252",
+   "properties": {
+    "code": "55200",
+    "desc": "",
+    "id": "5252",
+    "name": "Scott Road Station @ Scott Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.890403,
      49.172243
     ],
@@ -79746,8 +79765,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.867617,
-     49.182414
+     -122.867615,
+     49.182622
     ],
     "type": "Point"
    },
@@ -79803,8 +79822,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.866865,
-     49.191624
+     -122.866588,
+     49.191629
     ],
     "type": "Point"
    },
@@ -79841,8 +79860,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.858379,
-     49.191596
+     -122.858307,
+     49.1916
     ],
     "type": "Point"
    },
@@ -79936,8 +79955,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.851667,
-     49.191734
+     -122.851717,
+     49.191741
     ],
     "type": "Point"
    },
@@ -79974,8 +79993,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.857116,
-     49.191756
+     -122.857157,
+     49.191764
     ],
     "type": "Point"
    },
@@ -80031,8 +80050,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.867865,
-     49.191324
+     -122.867873,
+     49.191219
     ],
     "type": "Point"
    },
@@ -85609,6 +85628,25 @@
     "desc": "",
     "id": "5999",
     "name": "Eastbound 72 Ave @ 130 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.841548,
+     49.133438
+    ],
+    "type": "Point"
+   },
+   "id": "6000",
+   "properties": {
+    "code": "55944",
+    "desc": "",
+    "id": "6000",
+    "name": "Newton Exchange @ Bay 8",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -92031,6 +92069,25 @@
     "desc": "",
     "id": "6457",
     "name": "Southbound King George Blvd @ 10 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.875132,
+     49.204407
+    ],
+    "type": "Point"
+   },
+   "id": "6458",
+   "properties": {
+    "code": "56397",
+    "desc": "",
+    "id": "6458",
+    "name": "Scott Rd Station @ Bay 2",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -141021,6 +141078,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.874861,
+     49.204438
+    ],
+    "type": "Point"
+   },
+   "id": "10914",
+   "properties": {
+    "code": "58150",
+    "desc": "",
+    "id": "10914",
+    "name": "Scott Road Station @ Bay 3",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.948345,
      49.200112
     ],
@@ -157722,82 +157798,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.88358,
-     49.256781
-    ],
-    "type": "Point"
-   },
-   "id": "12243",
-   "properties": {
-    "code": "59570",
-    "desc": "",
-    "id": "12243",
-    "name": "Westbound Foster Ave @ Fairview St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.887308,
-     49.256811
-    ],
-    "type": "Point"
-   },
-   "id": "12244",
-   "properties": {
-    "code": "58189",
-    "desc": "",
-    "id": "12244",
-    "name": "Westbound Foster Ave @ Aspen St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.886632,
-     49.256704
-    ],
-    "type": "Point"
-   },
-   "id": "12245",
-   "properties": {
-    "code": "58186",
-    "desc": "",
-    "id": "12245",
-    "name": "Eastbound Foster Ave @ Aspen St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.883377,
-     49.25667
-    ],
-    "type": "Point"
-   },
-   "id": "12246",
-   "properties": {
-    "code": "59585",
-    "desc": "",
-    "id": "12246",
-    "name": "Eastbound Foster Ave @ Fairview St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.737917,
      49.253526
     ],
@@ -158740,25 +158740,6 @@
     "desc": "",
     "id": "12309",
     "name": "Westbound Dominion Ave @ 500 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.891445,
-     49.256747
-    ],
-    "type": "Point"
-   },
-   "id": "12311",
-   "properties": {
-    "code": "53276",
-    "desc": "",
-    "id": "12311",
-    "name": "Eastbound Foster Ave @ Whiting Way",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165113,6 +165094,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.116088,
+     49.279934
+    ],
+    "type": "Point"
+   },
+   "id": "12833",
+   "properties": {
+    "code": "60591",
+    "desc": "",
+    "id": "12833",
+    "name": "Northbound Homer St @ Robson St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.003908,
      49.266305
     ],
@@ -166690,6 +166690,158 @@
   {
    "geometry": {
     "coordinates": [
+     -122.890425,
+     49.169699
+    ],
+    "type": "Point"
+   },
+   "id": "12938",
+   "properties": {
+    "code": "60666",
+    "desc": "",
+    "id": "12938",
+    "name": "Southbound Scott Rd @ 92 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.890367,
+     49.135093
+    ],
+    "type": "Point"
+   },
+   "id": "12939",
+   "properties": {
+    "code": "60667",
+    "desc": "",
+    "id": "12939",
+    "name": "Southbound Scott Rd @ 72 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.89022,
+     49.141016
+    ],
+    "type": "Point"
+   },
+   "id": "12940",
+   "properties": {
+    "code": "60670",
+    "desc": "",
+    "id": "12940",
+    "name": "Northbound Scott Rd @ 75A Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.890223,
+     49.14955
+    ],
+    "type": "Point"
+   },
+   "id": "12941",
+   "properties": {
+    "code": "60671",
+    "desc": "",
+    "id": "12941",
+    "name": "Northbound Scott Rd @ 80 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.890086,
+     49.170726
+    ],
+    "type": "Point"
+   },
+   "id": "12942",
+   "properties": {
+    "code": "54975",
+    "desc": "",
+    "id": "12942",
+    "name": "Northbound Scott Rd @ 92 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.889969,
+     49.177579
+    ],
+    "type": "Point"
+   },
+   "id": "12943",
+   "properties": {
+    "code": "60672",
+    "desc": "",
+    "id": "12943",
+    "name": "Northbound Scott Rd @ 96 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.87006,
+     49.133786
+    ],
+    "type": "Point"
+   },
+   "id": "12944",
+   "properties": {
+    "code": "60668",
+    "desc": "",
+    "id": "12944",
+    "name": "Eastbound 72 Ave @ 128 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.870456,
+     49.134001
+    ],
+    "type": "Point"
+   },
+   "id": "12945",
+   "properties": {
+    "code": "60669",
+    "desc": "",
+    "id": "12945",
+    "name": "Westbound 72 Ave @ 128 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.12073,
      49.284306
     ],
@@ -166701,6 +166853,25 @@
     "desc": "",
     "id": "12948",
     "name": "Westbound W Georgia St @ Burrard St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.841019,
+     49.133489
+    ],
+    "type": "Point"
+   },
+   "id": "12949",
+   "properties": {
+    "code": "60677",
+    "desc": "",
+    "id": "12949",
+    "name": "Newton Exchange @ Bay 11",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
