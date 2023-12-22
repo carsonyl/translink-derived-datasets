@@ -67510,6 +67510,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.890542,
+     49.135716
+    ],
+    "type": "Point"
+   },
+   "id": "4846",
+   "properties": {
+    "code": "54794",
+    "desc": "",
+    "id": "4846",
+    "name": "Southbound Scott Rd @ 7300 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.891097,
      49.134174
     ],
@@ -70352,6 +70371,25 @@
     "desc": "",
     "id": "5046",
     "name": "Southbound University Dr @ 10100 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.845814,
+     49.179601
+    ],
+    "type": "Point"
+   },
+   "id": "5049",
+   "properties": {
+    "code": "54997",
+    "desc": "",
+    "id": "5049",
+    "name": "Southbound King George Blvd @ 98 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -95839,17 +95877,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.110616,
-     49.133361
+     -123.113648,
+     49.133337
     ],
     "type": "Point"
    },
-   "id": "6701",
+   "id": "6700",
    "properties": {
-    "code": "56639",
+    "code": "56638",
     "desc": "",
-    "id": "6701",
-    "name": "Eastbound Steveston Hwy @ Swinton Cres",
+    "id": "6700",
+    "name": "Eastbound Steveston Hwy @ No. 4 Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -117157,6 +117195,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.106644,
+     49.133349
+    ],
+    "type": "Point"
+   },
+   "id": "8338",
+   "properties": {
+    "code": "56640",
+    "desc": "",
+    "id": "8338",
+    "name": "Eastbound Steveston Hwy @ Southport Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.817531,
      49.26142
     ],
@@ -129613,25 +129670,6 @@
     "desc": "",
     "id": "9584",
     "name": "Southbound Railway Ave @ Steveston Hwy",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.169903,
-     49.131707
-    ],
-    "type": "Point"
-   },
-   "id": "9585",
-   "properties": {
-    "code": "59075",
-    "desc": "",
-    "id": "9585",
-    "name": "Southbound Railway Ave @ 11200 Block",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -144479,25 +144517,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.034741,
-     49.243917
-    ],
-    "type": "Point"
-   },
-   "id": "11179",
-   "properties": {
-    "code": "51718",
-    "desc": "",
-    "id": "11179",
-    "name": "Southbound Rupert St @ Price St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.032729,
      49.241059
     ],
@@ -157798,6 +157817,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.88358,
+     49.256781
+    ],
+    "type": "Point"
+   },
+   "id": "12243",
+   "properties": {
+    "code": "59570",
+    "desc": "",
+    "id": "12243",
+    "name": "Westbound Foster Ave @ Fairview St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.887308,
+     49.256811
+    ],
+    "type": "Point"
+   },
+   "id": "12244",
+   "properties": {
+    "code": "58189",
+    "desc": "",
+    "id": "12244",
+    "name": "Westbound Foster Ave @ Aspen St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.737917,
      49.253526
     ],
@@ -166158,8 +166215,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.029698,
-     49.305263
+     -123.029619,
+     49.305369
     ],
     "type": "Point"
    },
@@ -166587,6 +166644,25 @@
     "desc": "",
     "id": "12931",
     "name": "Southbound 200 St @ 36 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.654686,
+     49.118174
+    ],
+    "type": "Point"
+   },
+   "id": "12932",
+   "properties": {
+    "code": "58928",
+    "desc": "",
+    "id": "12932",
+    "name": "Northbound 204 St @ Mufford Cres",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
