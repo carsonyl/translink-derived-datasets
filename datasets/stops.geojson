@@ -478,8 +478,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.17185,
-     49.257583
+     -123.171363,
+     49.257586
     ],
     "type": "Point"
    },
@@ -1010,25 +1010,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.164773,
-     49.272795
-    ],
-    "type": "Point"
-   },
-   "id": "106",
-   "properties": {
-    "code": "50106",
-    "desc": "",
-    "id": "106",
-    "name": "Westbound Cornwall Ave @ Trafalgar St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.168323,
      49.270753
     ],
@@ -1124,8 +1105,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.168496,
-     49.257315
+     -123.168508,
+     49.257261
     ],
     "type": "Point"
    },
@@ -1162,8 +1143,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.170777,
-     49.257839
+     -123.170847,
+     49.257845
     ],
     "type": "Point"
    },
@@ -1181,7 +1162,7 @@
   {
    "geometry": {
     "coordinates": [
-     -123.17458,
+     -123.174638,
      49.257904
     ],
     "type": "Point"
@@ -1276,8 +1257,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.170345,
-     49.241997
+     -123.17035,
+     49.242027
     ],
     "type": "Point"
    },
@@ -3442,8 +3423,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.179404,
-     49.23484
+     -123.179482,
+     49.234837
     ],
     "type": "Point"
    },
@@ -7337,8 +7318,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.185758,
-     49.234625
+     -123.185757,
+     49.234661
     ],
     "type": "Point"
    },
@@ -16400,8 +16381,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.170144,
-     49.241595
+     -123.170163,
+     49.241643
     ],
     "type": "Point"
    },
@@ -129678,6 +129659,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.169903,
+     49.131707
+    ],
+    "type": "Point"
+   },
+   "id": "9585",
+   "properties": {
+    "code": "59075",
+    "desc": "",
+    "id": "9585",
+    "name": "Southbound Railway Ave @ 11200 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.169945,
      49.12902
     ],
@@ -162700,8 +162700,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.168237,
-     49.26027
+     -123.168238,
+     49.260303
     ],
     "type": "Point"
    },
@@ -166168,7 +166168,7 @@
     "code": "60254",
     "desc": "",
     "id": "12899",
-    "name": "Main St @ Phibbs Exchange",
+    "name": "Phibbs Exchange @ Bay 2",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166187,7 +166187,7 @@
     "code": "60255",
     "desc": "",
     "id": "12900",
-    "name": "Main St @ Phibbs Exchange",
+    "name": "Phibbs Exchange @ Bay 3",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
