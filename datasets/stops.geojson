@@ -535,6 +535,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.168097,
+     49.263469
+    ],
+    "type": "Point"
+   },
+   "id": "59",
+   "properties": {
+    "code": "50059",
+    "desc": "",
+    "id": "59",
+    "name": "Northbound Macdonald St @ W 10 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.168205,
      49.264484
     ],
@@ -70360,6 +70379,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.851078,
+     49.185705
+    ],
+    "type": "Point"
+   },
+   "id": "5047",
+   "properties": {
+    "code": "54995",
+    "desc": "",
+    "id": "5047",
+    "name": "Eastbound Old Yale Rd @ University Dr",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.845814,
      49.179601
     ],
@@ -119209,6 +119247,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.847504,
+     49.184316
+    ],
+    "type": "Point"
+   },
+   "id": "8566",
+   "properties": {
+    "code": "58273",
+    "desc": "",
+    "id": "8566",
+    "name": "Eastbound Old Yale Rd @ 13500 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.069596,
      49.265331
     ],
@@ -152811,7 +152868,7 @@
     "code": "61703",
     "desc": "",
     "id": "11858",
-    "name": "Newton Exchange @ Bay 11",
+    "name": "Newton Exchange @ Bay 12",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166948,6 +167005,25 @@
     "desc": "",
     "id": "12949",
     "name": "Newton Exchange @ Bay 11",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.168503,
+     49.258001
+    ],
+    "type": "Point"
+   },
+   "id": "12958",
+   "properties": {
+    "code": "60595",
+    "desc": "",
+    "id": "12958",
+    "name": "Southbound Macdonald St @ W 16th Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
