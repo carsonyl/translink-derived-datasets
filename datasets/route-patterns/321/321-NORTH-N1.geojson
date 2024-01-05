@@ -2035,7 +2035,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "SURREY CTRL STN",
+  "destination": "KING GEORGE BLVD/TO SURREY CENTRAL",
   "direction": "NORTH",
   "name": "321-N1",
   "operating-company": "CMBC",

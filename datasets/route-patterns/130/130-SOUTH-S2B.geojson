@@ -975,7 +975,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "METROTOWN STN",
+  "destination": "WILLINGDON/TO METROTOWN STN",
   "direction": "SOUTH",
   "name": "130-S2B",
   "operating-company": "CMBC",

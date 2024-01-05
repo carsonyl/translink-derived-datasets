@@ -535,7 +535,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "NEWTON EXCH",
+  "destination": "KING GEORGE BLVD/TO NEWTON EXCH",
   "direction": "SOUTH",
   "name": "321-S6",
   "operating-company": "CMBC",

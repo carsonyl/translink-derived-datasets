@@ -1105,7 +1105,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "SCOTT RD STN",
+  "destination": "112 STREET/TO SCOTT RD STN",
   "direction": "NORTH",
   "name": "312-N1",
   "operating-company": "CMBC",

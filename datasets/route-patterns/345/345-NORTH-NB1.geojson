@@ -1215,7 +1215,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "KING GEORGE STN",
+  "destination": "152 STREET/TO KING GEORGE STN",
   "direction": "NORTH",
   "name": "345-NB1",
   "operating-company": "CMBC",

@@ -1255,7 +1255,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "GUILDFORD",
+  "destination": "152 STREET/TO GUILDFORD",
   "direction": "NORTH",
   "name": "375-N1",
   "operating-company": "CMBC",

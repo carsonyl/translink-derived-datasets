@@ -1485,7 +1485,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "SCOTTSDALE",
+  "destination": "64TH AVENUE/TO SCOTTSDALE",
   "direction": "WEST",
   "name": "364-WB1",
   "operating-company": "CMBC",

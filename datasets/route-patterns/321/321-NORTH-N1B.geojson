@@ -2535,7 +2535,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "SCOTT RD STN",
+  "destination": "KING GEORGE BLVD/TO SCOTT RD STN",
   "direction": "NORTH",
   "name": "321-N1B",
   "operating-company": "CMBC",
