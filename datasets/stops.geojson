@@ -16419,6 +16419,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.170103,
+     49.247424
+    ],
+    "type": "Point"
+   },
+   "id": "1274",
+   "properties": {
+    "code": "51264",
+    "desc": "",
+    "id": "1274",
+    "name": "Northbound Mackenzie St @ W 28 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.171667,
      49.24951
     ],
@@ -21568,8 +21587,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.178887,
-     49.249979
+     -123.178367,
+     49.249984
     ],
     "type": "Point"
    },
@@ -43380,25 +43399,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.85693,
-     49.276649
-    ],
-    "type": "Point"
-   },
-   "id": "3179",
-   "properties": {
-    "code": "53146",
-    "desc": "",
-    "id": "3179",
-    "name": "Eastbound St. Johns St @ Kyle St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.844333,
      49.276544
     ],
@@ -45489,8 +45489,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.843938,
-     49.246429
+     -122.843946,
+     49.246363
     ],
     "type": "Point"
    },
@@ -69258,25 +69258,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.874488,
-     49.204285
-    ],
-    "type": "Point"
-   },
-   "id": "4968",
-   "properties": {
-    "code": "54916",
-    "desc": "",
-    "id": "4968",
-    "name": "Scott Rd Station @ Bay 5",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.883545,
      49.198469
     ],
@@ -79328,25 +79309,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.873867,
-     49.134014
-    ],
-    "type": "Point"
-   },
-   "id": "5630",
-   "properties": {
-    "code": "55575",
-    "desc": "",
-    "id": "5630",
-    "name": "Westbound 72 Ave @ 126 St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.879754,
      49.134034
     ],
@@ -85647,25 +85609,6 @@
     "desc": "",
     "id": "5997",
     "name": "Scottsdale Exchange @ Bay 4",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.867395,
-     49.133798
-    ],
-    "type": "Point"
-   },
-   "id": "5998",
-   "properties": {
-    "code": "55942",
-    "desc": "",
-    "id": "5998",
-    "name": "Eastbound 72 Ave @ 128 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -135796,6 +135739,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.660143,
+     49.213596
+    ],
+    "type": "Point"
+   },
+   "id": "10377",
+   "properties": {
+    "code": "59649",
+    "desc": "",
+    "id": "10377",
+    "name": "Westbound Hammond Rd @ 20200 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.590426,
      49.220113
     ],
@@ -141192,25 +141154,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.948345,
-     49.200112
-    ],
-    "type": "Point"
-   },
-   "id": "10915",
-   "properties": {
-    "code": "58173",
-    "desc": "",
-    "id": "10915",
-    "name": "22nd Street Station @ Bay 1",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.804448,
      49.191357
     ],
@@ -141336,25 +141279,6 @@
     "desc": "",
     "id": "10929",
     "name": "22nd Street Station @ Unloading Only",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.842877,
-     49.132811
-    ],
-    "type": "Point"
-   },
-   "id": "10931",
-   "properties": {
-    "code": "58506",
-    "desc": "",
-    "id": "10931",
-    "name": "Newton Exchange @ Unloading Bay",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -147101,25 +147025,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.11464,
-     49.262826
-    ],
-    "type": "Point"
-   },
-   "id": "11352",
-   "properties": {
-    "code": "61027",
-    "desc": "",
-    "id": "11352",
-    "name": "Broadway-City Hall Station @ Bay 2",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.117599,
      49.233712
     ],
@@ -147861,8 +147766,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.6784,
-     49.210174
+     -122.678408,
+     49.210159
     ],
     "type": "Point"
    },
@@ -147871,7 +147776,7 @@
     "code": "61439",
     "desc": "",
     "id": "11431",
-    "name": "Southbound Bonson Rd @ Pitt Meadows Athletic Park",
+    "name": "Southbound Bonson Rd @ Aljumaili Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -161712,6 +161617,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.856207,
+     49.276631
+    ],
+    "type": "Point"
+   },
+   "id": "12506",
+   "properties": {
+    "code": "58224",
+    "desc": "",
+    "id": "12506",
+    "name": "Eastbound St. Johns St @ Kyle St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.814937,
      49.212398
     ],
@@ -165208,25 +165132,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116088,
-     49.279934
-    ],
-    "type": "Point"
-   },
-   "id": "12833",
-   "properties": {
-    "code": "60591",
-    "desc": "",
-    "id": "12833",
-    "name": "Northbound Homer St @ Robson St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.003908,
      49.266305
     ],
@@ -166519,25 +166424,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.69139,
-     49.060573
-    ],
-    "type": "Point"
-   },
-   "id": "12922",
-   "properties": {
-    "code": "60619",
-    "desc": "",
-    "id": "12922",
-    "name": "Northbound 192 St @ 32 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.691456,
      49.064871
     ],
@@ -166757,7 +166643,7 @@
     "code": "61447",
     "desc": "",
     "id": "12934",
-    "name": "Eastbound Canaday Way @ Boundary Rd",
+    "name": "Eastbound Canada Way @ Boundary Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -167024,6 +166910,44 @@
     "desc": "",
     "id": "12958",
     "name": "Southbound Macdonald St @ W 16th Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.04974,
+     49.111831
+    ],
+    "type": "Point"
+   },
+   "id": "12959",
+   "properties": {
+    "code": "60693",
+    "desc": "",
+    "id": "12959",
+    "name": "Eastbound 60 Ave @ 62B St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.114774,
+     49.262099
+    ],
+    "type": "Point"
+   },
+   "id": "12960",
+   "properties": {
+    "code": "60676",
+    "desc": "",
+    "id": "12960",
+    "name": "Broadway-City Hall Station @ Bay 2",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
