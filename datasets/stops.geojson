@@ -4867,8 +4867,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.119204,
-     49.287073
+     -123.119931,
+     49.287293
     ],
     "type": "Point"
    },
@@ -37300,82 +37300,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.983303,
-     49.258915
-    ],
-    "type": "Point"
-   },
-   "id": "2783",
-   "properties": {
-    "code": "52755",
-    "desc": "",
-    "id": "2783",
-    "name": "Southbound Douglas Rd @ Norland Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.982634,
-     49.256304
-    ],
-    "type": "Point"
-   },
-   "id": "2784",
-   "properties": {
-    "code": "52756",
-    "desc": "",
-    "id": "2784",
-    "name": "Southbound Douglas Rd @ Dominion St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.982039,
-     49.25327
-    ],
-    "type": "Point"
-   },
-   "id": "2785",
-   "properties": {
-    "code": "52757",
-    "desc": "",
-    "id": "2785",
-    "name": "Southbound Douglas Rd @ Laurel St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.981855,
-     49.252094
-    ],
-    "type": "Point"
-   },
-   "id": "2786",
-   "properties": {
-    "code": "52758",
-    "desc": "",
-    "id": "2786",
-    "name": "Southbound Douglas Rd @ Hardwick St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.981035,
      49.249671
     ],
@@ -37786,63 +37710,6 @@
     "desc": "",
     "id": "2812",
     "name": "Northbound Douglas Rd @ Sprott St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.98165,
-     49.251964
-    ],
-    "type": "Point"
-   },
-   "id": "2813",
-   "properties": {
-    "code": "52784",
-    "desc": "",
-    "id": "2813",
-    "name": "Northbound Douglas Rd @ Hardwick St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.982097,
-     49.255423
-    ],
-    "type": "Point"
-   },
-   "id": "2815",
-   "properties": {
-    "code": "52786",
-    "desc": "",
-    "id": "2815",
-    "name": "Northbound Douglas Rd @ Norfolk St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.982623,
-     49.256983
-    ],
-    "type": "Point"
-   },
-   "id": "2816",
-   "properties": {
-    "code": "52787",
-    "desc": "",
-    "id": "2816",
-    "name": "Northbound Douglas Rd @ Hwy One Overpass",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -44995,8 +44862,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.83468,
-     49.291903
+     -122.834909,
+     49.29198
     ],
     "type": "Point"
    },
@@ -54221,6 +54088,25 @@
     "desc": "",
     "id": "4008",
     "name": "Northbound Mountain Hwy @ E 20 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.037917,
+     49.330731
+    ],
+    "type": "Point"
+   },
+   "id": "4009",
+   "properties": {
+    "code": "53968",
+    "desc": "",
+    "id": "4009",
+    "name": "Northbound Mountain Hwy @ E 24 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -79309,6 +79195,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.873867,
+     49.134014
+    ],
+    "type": "Point"
+   },
+   "id": "5630",
+   "properties": {
+    "code": "55575",
+    "desc": "",
+    "id": "5630",
+    "name": "Westbound 72 Ave @ 126 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.879754,
      49.134034
     ],
@@ -85648,7 +85553,7 @@
     "id": "6000",
     "name": "Newton Exchange @ Bay 8",
     "wheelchair_boarding": null,
-    "zone": "BUS ZN"
+    "zone": "CL_AD"
    },
    "type": "Feature"
   },
@@ -95812,25 +95717,6 @@
     "desc": "",
     "id": "6698",
     "name": "Eastbound Steveston Hwy @ Mortfield Gate",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.117387,
-     49.13338
-    ],
-    "type": "Point"
-   },
-   "id": "6699",
-   "properties": {
-    "code": "56637",
-    "desc": "",
-    "id": "6699",
-    "name": "Eastbound Steveston Hwy @ Southridge Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -119980,25 +119866,6 @@
     "desc": "",
     "id": "8652",
     "name": "Westbound Southborough Dr @ Taylor Way",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.156826,
-     49.340258
-    ],
-    "type": "Point"
-   },
-   "id": "8653",
-   "properties": {
-    "code": "60909",
-    "desc": "",
-    "id": "8653",
-    "name": "Northbound 15 St @ Ottawa Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -157817,6 +157684,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.886632,
+     49.256704
+    ],
+    "type": "Point"
+   },
+   "id": "12245",
+   "properties": {
+    "code": "58186",
+    "desc": "",
+    "id": "12245",
+    "name": "Eastbound Foster Ave @ Aspen St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.883377,
+     49.25667
+    ],
+    "type": "Point"
+   },
+   "id": "12246",
+   "properties": {
+    "code": "59585",
+    "desc": "",
+    "id": "12246",
+    "name": "Eastbound Foster Ave @ Fairview St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.737917,
      49.253526
     ],
@@ -158759,6 +158664,25 @@
     "desc": "",
     "id": "12309",
     "name": "Westbound Dominion Ave @ 500 Block",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.891445,
+     49.256747
+    ],
+    "type": "Point"
+   },
+   "id": "12311",
+   "properties": {
+    "code": "53276",
+    "desc": "",
+    "id": "12311",
+    "name": "Eastbound Foster Ave @ Whiting Way",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -161799,25 +161723,6 @@
     "desc": "",
     "id": "12530",
     "name": "Eastbound Westminster Hwy @ No. 8 Rd",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.156999,
-     49.340163
-    ],
-    "type": "Point"
-   },
-   "id": "12531",
-   "properties": {
-    "code": "60276",
-    "desc": "",
-    "id": "12531",
-    "name": "Southbound 15 St @ Ottawa Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -165018,8 +164923,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115895,
-     49.281177
+     -123.115843,
+     49.281141
     ],
     "type": "Point"
    },
@@ -166044,25 +165949,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.981956,
-     49.253952
-    ],
-    "type": "Point"
-   },
-   "id": "12893",
-   "properties": {
-    "code": "59410",
-    "desc": "",
-    "id": "12893",
-    "name": "Northbound Douglas Rd @ Laurel St",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.594994,
      49.150251
     ],
@@ -166112,6 +165998,25 @@
     "desc": "",
     "id": "12896",
     "name": "Eastbound W Georgia St @ Cardero St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.028312,
+     49.304937
+    ],
+    "type": "Point"
+   },
+   "id": "12898",
+   "properties": {
+    "code": "60253",
+    "desc": "",
+    "id": "12898",
+    "name": "Phibbs Exchange @ Bay 1",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166196,44 +166101,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.029183,
-     49.305749
-    ],
-    "type": "Point"
-   },
-   "id": "12903",
-   "properties": {
-    "code": "60258",
-    "desc": "",
-    "id": "12903",
-    "name": "Phibbs Exchange @ Bay 6",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.029057,
-     49.306019
-    ],
-    "type": "Point"
-   },
-   "id": "12904",
-   "properties": {
-    "code": "60259",
-    "desc": "",
-    "id": "12904",
-    "name": "Phibbs Exchange @ Bay 7",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.029938,
      49.305348
     ],
@@ -166283,25 +166150,6 @@
     "desc": "",
     "id": "12911",
     "name": "Northbound Oak St @ W 67th Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.037874,
-     49.331851
-    ],
-    "type": "Point"
-   },
-   "id": "12914",
-   "properties": {
-    "code": "60650",
-    "desc": "",
-    "id": "12914",
-    "name": "Northbound Mountain Hwy @ St Stephens Place",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -166891,6 +166739,44 @@
     "desc": "",
     "id": "12949",
     "name": "Newton Exchange @ Bay 11",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.028764,
+     49.305404
+    ],
+    "type": "Point"
+   },
+   "id": "12956",
+   "properties": {
+    "code": "60689",
+    "desc": "",
+    "id": "12956",
+    "name": "Phibbs Exchange @ Bay 6",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.028462,
+     49.305374
+    ],
+    "type": "Point"
+   },
+   "id": "12957",
+   "properties": {
+    "code": "60691",
+    "desc": "",
+    "id": "12957",
+    "name": "Phibbs Exchange @ Bay 7",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
