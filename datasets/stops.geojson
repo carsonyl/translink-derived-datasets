@@ -7660,8 +7660,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.064604,
-     49.244769
+     -123.064447,
+     49.244693
     ],
     "type": "Point"
    },
@@ -20599,8 +20599,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.057651,
-     49.242099
+     -123.05759,
+     49.242191
     ],
     "type": "Point"
    },
@@ -156791,25 +156791,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.646025,
-     49.129378
-    ],
-    "type": "Point"
-   },
-   "id": "12195",
-   "properties": {
-    "code": "57920",
-    "desc": "",
-    "id": "12195",
-    "name": "Southbound 208 St @ 70 Ave",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.645844,
      49.130247
     ],
@@ -166272,6 +166253,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.69139,
+     49.060573
+    ],
+    "type": "Point"
+   },
+   "id": "12922",
+   "properties": {
+    "code": "60619",
+    "desc": "",
+    "id": "12922",
+    "name": "Northbound 192 St @ 32 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.691456,
      49.064871
     ],
@@ -166834,6 +166834,25 @@
     "desc": "",
     "id": "12960",
     "name": "Broadway-City Hall Station @ Bay 2",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.646133,
+     49.125742
+    ],
+    "type": "Point"
+   },
+   "id": "12961",
+   "properties": {
+    "code": "60679",
+    "desc": "",
+    "id": "12961",
+    "name": "Southbound Willowbrook Conn @ 68 Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
