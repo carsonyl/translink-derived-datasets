@@ -54742,6 +54742,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.038326,
+     49.326875
+    ],
+    "type": "Point"
+   },
+   "id": "4047",
+   "properties": {
+    "code": "54006",
+    "desc": "",
+    "id": "4047",
+    "name": "Southbound Mountain Hwy @ Kirkstone Rd",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.038465,
      49.323482
     ],
@@ -165455,25 +165474,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.038284,
-     49.327809
-    ],
-    "type": "Point"
-   },
-   "id": "12861",
-   "properties": {
-    "code": "60603",
-    "desc": "",
-    "id": "12861",
-    "name": "Southbound Mountain Hwy @ Barlynn Cres",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.016066,
      49.264235
     ],
@@ -166853,6 +166853,25 @@
     "desc": "",
     "id": "12961",
     "name": "Southbound Willowbrook Conn @ 68 Ave",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.982227,
+     49.259248
+    ],
+    "type": "Point"
+   },
+   "id": "12962",
+   "properties": {
+    "code": "60692",
+    "desc": "",
+    "id": "12962",
+    "name": "Eastbound Norland Ave @ Douglas Rd",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
