@@ -24133,6 +24133,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.032716,
+     49.311044
+    ],
+    "type": "Point"
+   },
+   "id": "1771",
+   "properties": {
+    "code": "51757",
+    "desc": "",
+    "id": "1771",
+    "name": "Southbound Mountain Hwy @ Fern St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.032289,
      49.309442
     ],
@@ -61734,8 +61753,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.0688,
-     49.321958
+     -123.069639,
+     49.321978
     ],
     "type": "Point"
    },
@@ -61744,7 +61763,7 @@
     "code": "54457",
     "desc": "",
     "id": "4507",
-    "name": "Eastbound E 15th St @ St. Andrews Ave",
+    "name": "Eastbound E 15 St @ St. Georges Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -61848,8 +61867,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.066495,
-     49.322035
+     -123.065219,
+     49.322053
     ],
     "type": "Point"
    },
@@ -61858,7 +61877,7 @@
     "code": "54463",
     "desc": "",
     "id": "4513",
-    "name": "Westbound E 15th St @ St. Georges Ave",
+    "name": "Westbound E 15 St @ St. Andrews Ave",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
@@ -117898,6 +117917,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.146197,
+     49.338085
+    ],
+    "type": "Point"
+   },
+   "id": "8465",
+   "properties": {
+    "code": "60911",
+    "desc": "",
+    "id": "8465",
+    "name": "Eastbound Mathers Ave @ 11 St",
+    "wheelchair_boarding": null,
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.14597,
      49.334271
     ],
@@ -139227,25 +139265,6 @@
     "desc": "",
     "id": "10759",
     "name": "Westbound Gordon Way @ 21300 Block",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.146219,
-     49.338072
-    ],
-    "type": "Point"
-   },
-   "id": "10761",
-   "properties": {
-    "code": "60969",
-    "desc": "",
-    "id": "10761",
-    "name": "Eastbound Mathers Ave @ 11 St",
     "wheelchair_boarding": null,
     "zone": "BUS ZN"
    },
