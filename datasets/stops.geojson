@@ -20428,8 +20428,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.121932,
-     49.248988
+     -123.121874,
+     49.248992
     ],
     "type": "Point"
    },
@@ -42145,8 +42145,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.964546,
-     49.261977
+     -122.964559,
+     49.262291
     ],
     "type": "Point"
    },
@@ -61753,8 +61753,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.069639,
-     49.321978
+     -123.070101,
+     49.321983
     ],
     "type": "Point"
    },
@@ -146911,25 +146911,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116479,
-     49.233099
-    ],
-    "type": "Point"
-   },
-   "id": "11350",
-   "properties": {
-    "code": "50981",
-    "desc": "",
-    "id": "11350",
-    "name": "Oakridge-41st Ave Station @ Bay 1",
-    "wheelchair_boarding": null,
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.117599,
      49.233712
     ],
@@ -147595,8 +147576,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.154352,
-     49.263936
+     -123.154464,
+     49.263948
     ],
     "type": "Point"
    },
@@ -163954,7 +163935,7 @@
   {
    "geometry": {
     "coordinates": [
-     -123.135746,
+     -123.134776,
      49.167576
     ],
     "type": "Point"
