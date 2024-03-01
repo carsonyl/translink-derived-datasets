@@ -212,46 +212,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.102896,
-     49.283285
-    ],
-    "type": "Point"
-   },
-   "id": "38",
-   "properties": {
-    "code": "50038",
-    "desc": "",
-    "id": "38",
-    "name": "Westbound Powell St @ Columbia St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.107364,
-     49.28411
-    ],
-    "type": "Point"
-   },
-   "id": "39",
-   "properties": {
-    "code": "59525",
-    "desc": "",
-    "id": "39",
-    "name": "Westbound Water St @ Abbott St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.112069,
-     49.285597
+     -123.112165,
+     49.285656
     ],
     "type": "Point"
    },
@@ -68927,7 +68889,7 @@
     "desc": "",
     "id": "4956",
     "name": "Northbound 114 St @ 94 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -69250,7 +69212,7 @@
     "desc": "",
     "id": "4975",
     "name": "Southbound 114 St @ 95A Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -69269,7 +69231,7 @@
     "desc": "",
     "id": "4976",
     "name": "Southbound 114 St @ Dawson Cres",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -69288,7 +69250,7 @@
     "desc": "",
     "id": "4977",
     "name": "Southbound 114 St @ 92A Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -92506,7 +92468,7 @@
     "desc": "",
     "id": "6487",
     "name": "Northbound No. 1 Rd @ Fundy Gate",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -92544,7 +92506,7 @@
     "desc": "",
     "id": "6489",
     "name": "Northbound No. 1 Rd @ Williams Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -124016,8 +123978,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.112372,
-     49.285803
+     -123.112537,
+     49.285902
     ],
     "type": "Point"
    },
@@ -148697,25 +148659,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.127034,
-     49.277974
-    ],
-    "type": "Point"
-   },
-   "id": "11542",
-   "properties": {
-    "code": "61522",
-    "desc": "",
-    "id": "11542",
-    "name": "Southbound Howe St @ Davie St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.843968,
      49.248581
     ],
@@ -149392,25 +149335,6 @@
     "desc": "",
     "id": "11594",
     "name": "Eastbound Main St @ Lynn Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.034951,
-     49.306096
-    ],
-    "type": "Point"
-   },
-   "id": "11595",
-   "properties": {
-    "code": "59111",
-    "desc": "",
-    "id": "11595",
-    "name": "Westbound Main St @ Harbour Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166854,6 +166778,63 @@
     "id": "12966",
     "name": "Westbound Austin Ave @ Gatensbury St",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.126009,
+     49.277382
+    ],
+    "type": "Point"
+   },
+   "id": "12967",
+   "properties": {
+    "code": "60656",
+    "desc": "",
+    "id": "12967",
+    "name": "Southbound Granville @ Davie",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.1276,
+     49.277607
+    ],
+    "type": "Point"
+   },
+   "id": "12968",
+   "properties": {
+    "code": "54834",
+    "desc": "",
+    "id": "12968",
+    "name": "Southbound Howe @ Davie",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.033307,
+     49.305657
+    ],
+    "type": "Point"
+   },
+   "id": "12969",
+   "properties": {
+    "code": "53957",
+    "desc": "",
+    "id": "12969",
+    "name": "Westbound Main St @ Harbour Ave",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
