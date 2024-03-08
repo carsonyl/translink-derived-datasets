@@ -245,7 +245,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "22ND ST STN",
+  "destination": "8TH AVENUE/TO 22ND ST STN",
   "direction": "WEST",
   "name": "128-WB5NW",
   "operating-company": "CMBC",
