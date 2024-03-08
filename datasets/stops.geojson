@@ -98,25 +98,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.126514,
-     49.277437
-    ],
-    "type": "Point"
-   },
-   "id": "25",
-   "properties": {
-    "code": "50025",
-    "desc": "",
-    "id": "25",
-    "name": "Westbound Davie St @ Granville St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.127493,
      49.278073
     ],
@@ -16392,7 +16373,7 @@
     "desc": "",
     "id": "1275",
     "name": "Northbound Quesnel Dr @ W King Edward Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -20561,8 +20542,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.056503,
-     49.244157
+     -123.056536,
+     49.244217
     ],
     "type": "Point"
    },
@@ -42088,8 +42069,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.964559,
-     49.262291
+     -122.964557,
+     49.261966
     ],
     "type": "Point"
    },
@@ -95649,8 +95630,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.124984,
-     49.133418
+     -123.123858,
+     49.133394
     ],
     "type": "Point"
    },
@@ -95660,25 +95641,6 @@
     "desc": "",
     "id": "6697",
     "name": "Eastbound Steveston Hwy @ 9000 Block",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.121436,
-     49.133398
-    ],
-    "type": "Point"
-   },
-   "id": "6698",
-   "properties": {
-    "code": "56636",
-    "desc": "",
-    "id": "6698",
-    "name": "Eastbound Steveston Hwy @ Mortfield Gate",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -98746,6 +98708,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.14771,
+     49.136657
+    ],
+    "type": "Point"
+   },
+   "id": "6872",
+   "properties": {
+    "code": "56807",
+    "desc": "",
+    "id": "6872",
+    "name": "Northbound Gilbert Rd @ 10500 Block",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.147761,
      49.141262
     ],
@@ -100638,6 +100619,25 @@
     "desc": "",
     "id": "6984",
     "name": "22nd Street Station @ Bay 7",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.968315,
+     49.177607
+    ],
+    "type": "Point"
+   },
+   "id": "6985",
+   "properties": {
+    "code": "56920",
+    "desc": "",
+    "id": "6985",
+    "name": "Westbound Westminster Hwy @ Fraserside Gate",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -147519,44 +147519,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.127092,
-     49.276487
-    ],
-    "type": "Point"
-   },
-   "id": "11426",
-   "properties": {
-    "code": "58593",
-    "desc": "",
-    "id": "11426",
-    "name": "Northbound Granville St @ Drake St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.126905,
-     49.276786
-    ],
-    "type": "Point"
-   },
-   "id": "11427",
-   "properties": {
-    "code": "50535",
-    "desc": "",
-    "id": "11427",
-    "name": "Southbound Granville St @ Davie St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.125372,
      49.277584
     ],
@@ -147873,25 +147835,6 @@
     "id": "11474",
     "name": "Southbound Granville St @ Nelson St",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.128375,
-     49.275854
-    ],
-    "type": "Point"
-   },
-   "id": "11475",
-   "properties": {
-    "code": "50536",
-    "desc": "",
-    "id": "11475",
-    "name": "Southbound Granville St @ Drake St",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -149830,25 +149773,6 @@
     "id": "11630",
     "name": "Eastbound Nordel Way @ Shepherd Way",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.968955,
-     49.176556
-    ],
-    "type": "Point"
-   },
-   "id": "11633",
-   "properties": {
-    "code": "61575",
-    "desc": "",
-    "id": "11633",
-    "name": "Westbound Westminster Hwy @ Gilley Rd",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166683,25 +166607,6 @@
     "id": "12958",
     "name": "Southbound Macdonald St @ W 16th Ave",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.04974,
-     49.111831
-    ],
-    "type": "Point"
-   },
-   "id": "12959",
-   "properties": {
-    "code": "60693",
-    "desc": "",
-    "id": "12959",
-    "name": "Eastbound 60 Ave @ 62B St",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
