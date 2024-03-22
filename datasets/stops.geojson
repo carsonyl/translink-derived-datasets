@@ -1219,6 +1219,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.170308,
+     49.245848
+    ],
+    "type": "Point"
+   },
+   "id": "126",
+   "properties": {
+    "code": "50126",
+    "desc": "",
+    "id": "126",
+    "name": "Southbound Mackenzie St @ W 29 Ave",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.17035,
      49.242027
     ],
@@ -4441,6 +4460,25 @@
     "desc": "",
     "id": "376",
     "name": "Southbound Dunbar St @ W 37 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.18543,
+     49.236105
+    ],
+    "type": "Point"
+   },
+   "id": "377",
+   "properties": {
+    "code": "50373",
+    "desc": "",
+    "id": "377",
+    "name": "Southbound Dunbar St @ W 39 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -16317,6 +16355,25 @@
     "id": "1266",
     "name": "Southbound Victoria Dr @ E 64 Ave",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.170182,
+     49.237919
+    ],
+    "type": "Point"
+   },
+   "id": "1269",
+   "properties": {
+    "code": "51259",
+    "desc": "",
+    "id": "1269",
+    "name": "Northbound Mackenzie St @ W 38 Ave",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -40796,25 +40853,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.912574,
-     49.278447
-    ],
-    "type": "Point"
-   },
-   "id": "3029",
-   "properties": {
-    "code": "52998",
-    "desc": "",
-    "id": "3029",
-    "name": "SFU Transit Exchange @ Bay 4",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.887093,
      49.263154
     ],
@@ -42840,7 +42878,7 @@
     "desc": "",
     "id": "3158",
     "name": "Northbound Clarke Rd @ Robinson St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -58048,25 +58086,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.026973,
-     49.330341
-    ],
-    "type": "Point"
-   },
-   "id": "4267",
-   "properties": {
-    "code": "54221",
-    "desc": "",
-    "id": "4267",
-    "name": "Southbound Hoskins Rd @ Torquay Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.027156,
      49.329086
     ],
@@ -58268,25 +58287,6 @@
     "desc": "",
     "id": "4279",
     "name": "Northbound Hoskins Rd @ Kilmarnock Cres South",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.026567,
-     49.330844
-    ],
-    "type": "Point"
-   },
-   "id": "4280",
-   "properties": {
-    "code": "54233",
-    "desc": "",
-    "id": "4280",
-    "name": "Northbound Hoskins Rd @ Torquay Ave",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -75091,25 +75091,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.66477,
-     49.104398
-    ],
-    "type": "Point"
-   },
-   "id": "5364",
-   "properties": {
-    "code": "55311",
-    "desc": "",
-    "id": "5364",
-    "name": "Westbound 56 Ave @ 201A St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.669281,
      49.104445
     ],
@@ -88240,25 +88221,6 @@
    "geometry": {
     "coordinates": [
      -122.801046,
-     49.027846
-    ],
-    "type": "Point"
-   },
-   "id": "6172",
-   "properties": {
-    "code": "56114",
-    "desc": "",
-    "id": "6172",
-    "name": "Northbound Johnston Rd @ Thrift Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.801046,
      49.029973
     ],
     "type": "Point"
@@ -88657,8 +88619,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.802497,
-     49.027658
+     -122.802635,
+     49.027624
     ],
     "type": "Point"
    },
@@ -91024,25 +90986,6 @@
     "desc": "",
     "id": "6356",
     "name": "Eastbound North Bluff Rd @ Blackwood St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.801323,
-     49.027828
-    ],
-    "type": "Point"
-   },
-   "id": "6357",
-   "properties": {
-    "code": "56297",
-    "desc": "",
-    "id": "6357",
-    "name": "Southbound Johnston Rd @ Thrift Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -119836,6 +119779,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.156826,
+     49.340258
+    ],
+    "type": "Point"
+   },
+   "id": "8653",
+   "properties": {
+    "code": "60909",
+    "desc": "",
+    "id": "8653",
+    "name": "Northbound 15 St @ Ottawa Ave",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.791163,
      49.162722
     ],
@@ -133402,8 +133364,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.761185,
-     49.284277
+     -122.760387,
+     49.284281
     ],
     "type": "Point"
    },
@@ -136852,7 +136814,7 @@
     "desc": "",
     "id": "10534",
     "name": "Northbound Great Canadian Way @ Beckwith Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -137669,7 +137631,7 @@
     "desc": "",
     "id": "10616",
     "name": "Westbound Dunkirk Ave @ Nestor St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -148613,25 +148575,6 @@
     "desc": "",
     "id": "11544",
     "name": "Northbound No. 3 Rd @ Jones Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.803368,
-     49.027511
-    ],
-    "type": "Point"
-   },
-   "id": "11545",
-   "properties": {
-    "code": "56113",
-    "desc": "",
-    "id": "11545",
-    "name": "Eastbound Thrift Ave @ Foster St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -161370,6 +161313,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.803458,
+     49.027655
+    ],
+    "type": "Point"
+   },
+   "id": "12511",
+   "properties": {
+    "code": "60245",
+    "desc": "",
+    "id": "12511",
+    "name": "Westbound Thrift Ave @ Foster St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.692402,
      49.118734
     ],
@@ -166778,6 +166740,44 @@
     "id": "12971",
     "name": "Westbound SE Marine Dr @ Poplar St",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.911191,
+     49.278047
+    ],
+    "type": "Point"
+   },
+   "id": "12972",
+   "properties": {
+    "code": "60662",
+    "desc": "",
+    "id": "12972",
+    "name": "University High Street @ Cornerstone Gate",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.800561,
+     49.027485
+    ],
+    "type": "Point"
+   },
+   "id": "12973",
+   "properties": {
+    "code": "59448",
+    "desc": "",
+    "id": "12973",
+    "name": "Eastbound Thrift Ave @ Johnston Rd",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
