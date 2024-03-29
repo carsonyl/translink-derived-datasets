@@ -2378,25 +2378,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.138595,
-     49.25921
-    ],
-    "type": "Point"
-   },
-   "id": "214",
-   "properties": {
-    "code": "50213",
-    "desc": "",
-    "id": "214",
-    "name": "Northbound Granville St @ W 14 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.13852,
      49.261157
     ],
@@ -27363,25 +27344,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.102131,
-     49.225733
-    ],
-    "type": "Point"
-   },
-   "id": "2047",
-   "properties": {
-    "code": "52030",
-    "desc": "",
-    "id": "2047",
-    "name": "Westbound E 49 Ave @ Main St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.113387,
      49.226074
     ],
@@ -42708,25 +42670,6 @@
     "id": "3147",
     "name": "Northbound North Rd @ Delestre Ave",
     "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.892661,
-     49.248513
-    ],
-    "type": "Point"
-   },
-   "id": "3150",
-   "properties": {
-    "code": "58191",
-    "desc": "",
-    "id": "3150",
-    "name": "Northbound North Rd @ Gatineau Place",
-    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -98670,25 +98613,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147761,
-     49.141262
-    ],
-    "type": "Point"
-   },
-   "id": "6874",
-   "properties": {
-    "code": "56809",
-    "desc": "",
-    "id": "6874",
-    "name": "Northbound Gilbert Rd @ Williams Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.147745,
      49.144183
     ],
@@ -143016,25 +142940,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115953,
-     49.234279
-    ],
-    "type": "Point"
-   },
-   "id": "11103",
-   "properties": {
-    "code": "50467",
-    "desc": "",
-    "id": "11103",
-    "name": "Oakridge-41st Ave Station @ Bay 6",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.906818,
      49.247775
     ],
@@ -166747,8 +166652,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.911191,
-     49.278047
+     -122.911827,
+     49.278146
     ],
     "type": "Point"
    },
@@ -166757,7 +166662,7 @@
     "code": "60662",
     "desc": "",
     "id": "12972",
-    "name": "University High Street @ Cornerstone Gate",
+    "name": "SFU Transit Exchange @ Bay 4",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166777,6 +166682,63 @@
     "desc": "",
     "id": "12973",
     "name": "Eastbound Thrift Ave @ Johnston Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.101339,
+     49.225723
+    ],
+    "type": "Point"
+   },
+   "id": "12974",
+   "properties": {
+    "code": "60732",
+    "desc": "",
+    "id": "12974",
+    "name": "Westbound E 49 Ave @ Main St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.115931,
+     49.234819
+    ],
+    "type": "Point"
+   },
+   "id": "12975",
+   "properties": {
+    "code": "60744",
+    "desc": "",
+    "id": "12975",
+    "name": "Northbound Cambie St @ W 40 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.138574,
+     49.260169
+    ],
+    "type": "Point"
+   },
+   "id": "12976",
+   "properties": {
+    "code": "60849",
+    "desc": "",
+    "id": "12976",
+    "name": "Northbound Granville St @ W 13th Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
