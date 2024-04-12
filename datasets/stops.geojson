@@ -7660,8 +7660,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.050472,
-     49.250756
+     -123.050631,
+     49.250757
     ],
     "type": "Point"
    },
@@ -7926,8 +7926,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.056774,
-     49.250268
+     -123.056793,
+     49.250206
     ],
     "type": "Point"
    },
@@ -20010,8 +20010,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.197494,
-     49.257986
+     -123.197445,
+     49.257993
     ],
     "type": "Point"
    },
@@ -20979,8 +20979,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.036911,
-     49.250669
+     -123.036977,
+     49.250673
     ],
     "type": "Point"
    },
@@ -20998,8 +20998,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.043612,
-     49.250692
+     -123.043691,
+     49.250695
     ],
     "type": "Point"
    },
@@ -21207,8 +21207,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.105388,
-     49.248922
+     -123.105487,
+     49.248929
     ],
     "type": "Point"
    },
@@ -21397,25 +21397,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.151701,
-     49.251216
-    ],
-    "type": "Point"
-   },
-   "id": "1595",
-   "properties": {
-    "code": "51583",
-    "desc": "",
-    "id": "1595",
-    "name": "Westbound W King Edward Ave @ Maple Cres",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.153726,
      49.251741
     ],
@@ -21587,8 +21568,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.20978,
-     49.258432
+     -123.209849,
+     49.258437
     ],
     "type": "Point"
    },
@@ -52436,25 +52417,6 @@
     "id": "3890",
     "name": "Southbound Coast Meridian Rd @ Victoria Dr",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.756671,
-     49.284336
-    ],
-    "type": "Point"
-   },
-   "id": "3891",
-   "properties": {
-    "code": "53851",
-    "desc": "",
-    "id": "3891",
-    "name": "Westbound Greenmount Ave @ Coast Meridian Rd",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -94653,7 +94615,7 @@
     "desc": "",
     "id": "6648",
     "name": "Southbound No. 2 Rd @ Steveston Hwy",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -109131,7 +109093,7 @@
     "desc": "",
     "id": "7585",
     "name": "Southbound Westminster Ave @ Chamberlayne Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -116845,6 +116807,25 @@
     "desc": "",
     "id": "8329",
     "name": "Westbound Mountain View Blvd @ Clarence Taylor Cres",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.106644,
+     49.133349
+    ],
+    "type": "Point"
+   },
+   "id": "8338",
+   "properties": {
+    "code": "56640",
+    "desc": "",
+    "id": "8338",
+    "name": "Eastbound Steveston Hwy @ Southport Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -133307,25 +133288,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.760387,
-     49.284281
-    ],
-    "type": "Point"
-   },
-   "id": "10195",
-   "properties": {
-    "code": "59043",
-    "desc": "",
-    "id": "10195",
-    "name": "Eastbound Greenmount Ave @ Wellington St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.079842,
      49.265975
     ],
@@ -135313,25 +135275,6 @@
     "desc": "",
     "id": "10362",
     "name": "Eastbound E 2nd Ave @ Ontario St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.100066,
-     49.268684
-    ],
-    "type": "Point"
-   },
-   "id": "10363",
-   "properties": {
-    "code": "59762",
-    "desc": "",
-    "id": "10363",
-    "name": "Eastbound E 2nd Ave @ Main St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -137582,25 +137525,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.778858,
-     49.287718
-    ],
-    "type": "Point"
-   },
-   "id": "10616",
-   "properties": {
-    "code": "60703",
-    "desc": "",
-    "id": "10616",
-    "name": "Westbound Dunkirk Ave @ Nestor St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.101649,
      49.22134
     ],
@@ -139398,7 +139322,7 @@
     "desc": "",
     "id": "10798",
     "name": "Southbound Admiral Blvd @ Cove Link Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -148727,6 +148651,25 @@
     "desc": "",
     "id": "11544",
     "name": "Northbound No. 3 Rd @ Jones Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.803368,
+     49.027511
+    ],
+    "type": "Point"
+   },
+   "id": "11545",
+   "properties": {
+    "code": "56113",
+    "desc": "",
+    "id": "11545",
+    "name": "Eastbound Thrift Ave @ Foster St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -164809,6 +164752,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.099412,
+     49.268312
+    ],
+    "type": "Point"
+   },
+   "id": "12818",
+   "properties": {
+    "code": "60554",
+    "desc": "",
+    "id": "12818",
+    "name": "Eastbound E 2nd Ave @ Lorne St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.130869,
      49.26601
     ],
@@ -166092,7 +166054,7 @@
     "code": "60268",
     "desc": "",
     "id": "12911",
-    "name": "Northbound Oak St @ W 67th Ave",
+    "name": "Northbound Oak St @ W 67 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -167175,7 +167137,7 @@
     "code": "60783",
     "desc": "",
     "id": "12977",
-    "name": "Southbound W 37th Ave @ Oak St",
+    "name": "Southbound Oak St @ W 37 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -167195,6 +167157,63 @@
     "desc": "",
     "id": "12978",
     "name": "Westbound King Edward Ave @ St. George St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.761732,
+     49.283605
+    ],
+    "type": "Point"
+   },
+   "id": "12980",
+   "properties": {
+    "code": "53852",
+    "desc": "",
+    "id": "12980",
+    "name": "Southbound Wellington @ Renton",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.150852,
+     49.25072
+    ],
+    "type": "Point"
+   },
+   "id": "12981",
+   "properties": {
+    "code": "60698",
+    "desc": "",
+    "id": "12981",
+    "name": "Westbound King Edward Ave  @ Maple Cres",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.059177,
+     49.242491
+    ],
+    "type": "Point"
+   },
+   "id": "12982",
+   "properties": {
+    "code": "60659",
+    "desc": "",
+    "id": "12982",
+    "name": "Westbound Kingsway @ Nanaimo St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
