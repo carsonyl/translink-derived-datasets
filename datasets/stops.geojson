@@ -8078,6 +8078,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.062011,
+     49.243784
+    ],
+    "type": "Point"
+   },
+   "id": "703",
+   "properties": {
+    "code": "50696",
+    "desc": "",
+    "id": "703",
+    "name": "Westbound Kingsway @ Gladstone St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.0653,
      49.244809
     ],
@@ -20371,25 +20390,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.107042,
-     49.248819
-    ],
-    "type": "Point"
-   },
-   "id": "1528",
-   "properties": {
-    "code": "51516",
-    "desc": "",
-    "id": "1528",
-    "name": "Eastbound W King Edward Ave @ Manitoba St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.100559,
      49.248697
     ],
@@ -20960,8 +20960,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.034851,
-     49.250678
+     -123.034451,
+     49.250668
     ],
     "type": "Point"
    },
@@ -20970,7 +20970,7 @@
     "code": "51555",
     "desc": "",
     "id": "1567",
-    "name": "Westbound E 22 Ave @ Rupert St",
+    "name": "Westbound E 22nd Ave @ Windermere St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -21162,25 +21162,6 @@
     "id": "1580",
     "name": "Westbound E King Edward Ave @ Fraser St",
     "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.097125,
-     49.248783
-    ],
-    "type": "Point"
-   },
-   "id": "1582",
-   "properties": {
-    "code": "51570",
-    "desc": "",
-    "id": "1582",
-    "name": "Westbound E King Edward Ave @ Prince Edward St",
-    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -21568,7 +21549,7 @@
   {
    "geometry": {
     "coordinates": [
-     -123.209849,
+     -123.209896,
      49.258437
     ],
     "type": "Point"
@@ -69657,6 +69638,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.895989,
+     49.155859
+    ],
+    "type": "Point"
+   },
+   "id": "5022",
+   "properties": {
+    "code": "54970",
+    "desc": "",
+    "id": "5022",
+    "name": "Eastbound 84 Ave @ 117B St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.893492,
      49.15588
     ],
@@ -93969,7 +93969,7 @@
     "desc": "",
     "id": "6598",
     "name": "Eastbound Blundell Rd @ 6400 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -143178,7 +143178,7 @@
     "code": "59098",
     "desc": "",
     "id": "11109",
-    "name": "Southbound Laity St @ Ridge Meadows Hospital",
+    "name": "Southbound Laity St @ 117 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -156639,6 +156639,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.653523,
+     49.119085
+    ],
+    "type": "Point"
+   },
+   "id": "12196",
+   "properties": {
+    "code": "57917",
+    "desc": "",
+    "id": "12196",
+    "name": "Northbound Willowbrook Conn @ Mufford Cres",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.645844,
      49.130247
     ],
@@ -163308,25 +163327,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.061464,
-     49.24353
-    ],
-    "type": "Point"
-   },
-   "id": "12679",
-   "properties": {
-    "code": "60433",
-    "desc": "",
-    "id": "12679",
-    "name": "Westbound Kingsway @ Gladstone",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.118293,
      49.28616
     ],
@@ -164990,7 +164990,7 @@
     "code": "60516",
     "desc": "",
     "id": "12836",
-    "name": "Brentwood Station @ Bay 5",
+    "name": "Lougheed Hwy @ Willingdon Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166367,25 +166367,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.654686,
-     49.118174
-    ],
-    "type": "Point"
-   },
-   "id": "12932",
-   "properties": {
-    "code": "58928",
-    "desc": "",
-    "id": "12932",
-    "name": "Northbound 204 St @ Mufford Cres",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.64715,
      49.083997
     ],
@@ -166795,7 +166776,7 @@
     "code": "60689",
     "desc": "",
     "id": "12956",
-    "name": "Phibbs Exchange @ Bay 6",
+    "name": "Phibbs Exchange @ Bay 12",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166814,7 +166795,7 @@
     "code": "60691",
     "desc": "",
     "id": "12957",
-    "name": "Phibbs Exchange @ Bay 7",
+    "name": "Phibbs Exchange @ Bay 13",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -167215,6 +167196,120 @@
     "id": "12982",
     "name": "Westbound Kingsway @ Nanaimo St",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.969975,
+     49.278224
+    ],
+    "type": "Point"
+   },
+   "id": "12983",
+   "properties": {
+    "code": "58378",
+    "desc": "",
+    "id": "12983",
+    "name": "Northbound Kensington Ave @ Union St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.964771,
+     49.279848
+    ],
+    "type": "Point"
+   },
+   "id": "12984",
+   "properties": {
+    "code": "58373",
+    "desc": "",
+    "id": "12984",
+    "name": "Southbound Sperling Ave @ Hastings St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.964739,
+     49.277515
+    ],
+    "type": "Point"
+   },
+   "id": "12985",
+   "properties": {
+    "code": "58375",
+    "desc": "",
+    "id": "12985",
+    "name": "Southbound Sperling Ave @ Union St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.096539,
+     49.248792
+    ],
+    "type": "Point"
+   },
+   "id": "12987",
+   "properties": {
+    "code": "60657",
+    "desc": "",
+    "id": "12987",
+    "name": "Westbound E King Edward Ave @ Prince Edward Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.648178,
+     49.123215
+    ],
+    "type": "Point"
+   },
+   "id": "12988",
+   "properties": {
+    "code": "60680",
+    "desc": "",
+    "id": "12988",
+    "name": "Northbound Willowbrook Conn @ 66A Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.109768,
+     49.24879
+    ],
+    "type": "Point"
+   },
+   "id": "12989",
+   "properties": {
+    "code": "51515",
+    "desc": "",
+    "id": "12989",
+    "name": "Eastbound W King Edward Ave @ Columbia St",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
