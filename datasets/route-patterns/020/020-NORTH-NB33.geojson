@@ -1255,7 +1255,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "DOWNTOWN",
+  "destination": "VICTORIA/TO DOWNTOWN",
   "direction": "NORTH",
   "name": "020-NB33",
   "operating-company": "CMBC",

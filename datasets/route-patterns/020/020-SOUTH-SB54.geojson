@@ -1635,7 +1635,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "VICTORIA TO 54TH AVE",
+  "destination": "VICTORIA/TO 54TH AVENUE",
   "direction": "SOUTH",
   "name": "020-SB54",
   "operating-company": "CMBC",

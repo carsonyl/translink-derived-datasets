@@ -1755,7 +1755,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "VICTORIA",
+  "destination": "VICTORIA/TO SE MARINE DR",
   "direction": "SOUTH",
   "name": "020-SB1",
   "operating-company": "CMBC",

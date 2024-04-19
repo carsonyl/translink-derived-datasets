@@ -445,7 +445,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "VICTORIA TO 41ST AVE",
+  "destination": "VICTORIA/TO 41ST AVENUE",
   "direction": "NORTH",
   "name": "020-NB5V4",
   "operating-company": "CMBC",

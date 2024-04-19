@@ -1005,7 +1005,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "LANGLEY CTR VIA BROOKSWOOD",
+  "destination": "LANGLEY CTR",
   "direction": "NORTH",
   "name": "563-NB1",
   "operating-company": "First Transit",
