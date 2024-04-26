@@ -21093,8 +21093,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.076586,
-     49.248608
+     -123.076646,
+     49.248614
     ],
     "type": "Point"
    },
@@ -37976,25 +37976,6 @@
     "desc": "",
     "id": "2849",
     "name": "Eastbound Curtis St @ Fell Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.969579,
-     49.275151
-    ],
-    "type": "Point"
-   },
-   "id": "2850",
-   "properties": {
-    "code": "52821",
-    "desc": "",
-    "id": "2850",
-    "name": "Eastbound Curtis St @ Kensington Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -85674,25 +85655,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.823478,
-     49.111368
-    ],
-    "type": "Point"
-   },
-   "id": "6020",
-   "properties": {
-    "code": "55963",
-    "desc": "",
-    "id": "6020",
-    "name": "Southbound 144 St @ 60 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.823515,
      49.106697
     ],
@@ -117404,25 +117366,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.892571,
-     49.24647
-    ],
-    "type": "Point"
-   },
-   "id": "8434",
-   "properties": {
-    "code": "58128",
-    "desc": "",
-    "id": "8434",
-    "name": "Northbound North Rd @ Lougheed Hwy",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.060783,
      49.087928
     ],
@@ -122926,25 +122869,6 @@
     "id": "8989",
     "name": "Eastbound Fraser Hwy @ 196 St",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.967268,
-     49.204332
-    ],
-    "type": "Point"
-   },
-   "id": "8992",
-   "properties": {
-    "code": "58761",
-    "desc": "",
-    "id": "8992",
-    "name": "Northbound Byrnepark Dr @ Marine Dr",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -151699,25 +151623,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.248724,
-     49.265726
-    ],
-    "type": "Point"
-   },
-   "id": "11792",
-   "properties": {
-    "code": "58895",
-    "desc": "",
-    "id": "11792",
-    "name": "UBC Exchange @ Bay 9",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.248129,
      49.26581
     ],
@@ -156734,8 +156639,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.645658,
-     49.152061
+     -122.645605,
+     49.15328
     ],
     "type": "Point"
    },
@@ -156745,7 +156650,7 @@
     "desc": "",
     "id": "12201",
     "name": "Northbound 208 St @ 83 Ave",
-    "wheelchair_boarding": "1",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -162605,44 +162510,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.030021,
-     49.305578
-    ],
-    "type": "Point"
-   },
-   "id": "12628",
-   "properties": {
-    "code": "60278",
-    "desc": "",
-    "id": "12628",
-    "name": "Phibbs Exchange @ Bay 10",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.030281,
-     49.305651
-    ],
-    "type": "Point"
-   },
-   "id": "12629",
-   "properties": {
-    "code": "60279",
-    "desc": "",
-    "id": "12629",
-    "name": "Phibbs Exchange @ Bay 9",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.154358,
      49.234484
     ],
@@ -164961,25 +164828,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.003908,
-     49.266305
-    ],
-    "type": "Point"
-   },
-   "id": "12835",
-   "properties": {
-    "code": "60515",
-    "desc": "",
-    "id": "12835",
-    "name": "Brentwood Station @ Bay 4",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.004628,
      49.266331
     ],
@@ -165930,25 +165778,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.028714,
-     49.304927
-    ],
-    "type": "Point"
-   },
-   "id": "12899",
-   "properties": {
-    "code": "60254",
-    "desc": "",
-    "id": "12899",
-    "name": "Phibbs Exchange @ Bay 2",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.029461,
      49.304904
     ],
@@ -165998,25 +165827,6 @@
     "desc": "",
     "id": "12902",
     "name": "Phibbs Exchange @ Bay 5",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.029938,
-     49.305348
-    ],
-    "type": "Point"
-   },
-   "id": "12906",
-   "properties": {
-    "code": "60260",
-    "desc": "",
-    "id": "12906",
-    "name": "Phibbs Exchange @ Bay 11",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -167214,7 +167024,7 @@
     "desc": "",
     "id": "12983",
     "name": "Northbound Kensington Ave @ Union St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -167233,7 +167043,7 @@
     "desc": "",
     "id": "12984",
     "name": "Southbound Sperling Ave @ Hastings St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -167309,6 +167119,25 @@
     "desc": "",
     "id": "12989",
     "name": "Eastbound W King Edward Ave @ Columbia St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.823463,
+     49.112549
+    ],
+    "type": "Point"
+   },
+   "id": "12990",
+   "properties": {
+    "code": "60855",
+    "desc": "",
+    "id": "12990",
+    "name": "Southbound 144 St @ 60 Ave",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
