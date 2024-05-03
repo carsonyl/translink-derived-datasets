@@ -3613,8 +3613,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.185003,
-     49.256755
+     -123.185013,
+     49.256842
     ],
     "type": "Point"
    },
@@ -21093,8 +21093,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.076646,
-     49.248614
+     -123.076713,
+     49.248617
     ],
     "type": "Point"
    },
@@ -41929,25 +41929,6 @@
     "id": "3103",
     "name": "Westbound Deer Lake Ave @ Rowan Ave",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.964557,
-     49.261966
-    ],
-    "type": "Point"
-   },
-   "id": "3105",
-   "properties": {
-    "code": "53072",
-    "desc": "",
-    "id": "3105",
-    "name": "Northbound Sperling Ave @ Broadway",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -98510,6 +98491,25 @@
     "desc": "",
     "id": "6872",
     "name": "Northbound Gilbert Rd @ 10500 Block",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147742,
+     49.139133
+    ],
+    "type": "Point"
+   },
+   "id": "6873",
+   "properties": {
+    "code": "56808",
+    "desc": "",
+    "id": "6873",
+    "name": "Northbound Gilbert Rd @ Bamberton Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -157076,8 +157076,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.091394,
-     49.037774
+     -123.091152,
+     49.037689
     ],
     "type": "Point"
    },
@@ -162510,6 +162510,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.030021,
+     49.305578
+    ],
+    "type": "Point"
+   },
+   "id": "12628",
+   "properties": {
+    "code": "60278",
+    "desc": "",
+    "id": "12628",
+    "name": "Phibbs Exchange @ Bay 10",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.030281,
+     49.305651
+    ],
+    "type": "Point"
+   },
+   "id": "12629",
+   "properties": {
+    "code": "60279",
+    "desc": "",
+    "id": "12629",
+    "name": "Phibbs Exchange @ Bay 9",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.154358,
      49.234484
     ],
@@ -165778,6 +165816,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.028714,
+     49.304927
+    ],
+    "type": "Point"
+   },
+   "id": "12899",
+   "properties": {
+    "code": "60254",
+    "desc": "",
+    "id": "12899",
+    "name": "Phibbs Exchange @ Bay 2",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.029461,
      49.304904
     ],
@@ -165827,6 +165884,25 @@
     "desc": "",
     "id": "12902",
     "name": "Phibbs Exchange @ Bay 5",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.029938,
+     49.305348
+    ],
+    "type": "Point"
+   },
+   "id": "12906",
+   "properties": {
+    "code": "60260",
+    "desc": "",
+    "id": "12906",
+    "name": "Phibbs Exchange @ Bay 11",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166462,120 +166538,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.029543,
-     49.305155
-    ],
-    "type": "Point"
-   },
-   "id": "12950",
-   "properties": {
-    "code": "60683",
-    "desc": "",
-    "id": "12950",
-    "name": "Phibbs Exchange @ Bay 6",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.028753,
-     49.305038
-    ],
-    "type": "Point"
-   },
-   "id": "12951",
-   "properties": {
-    "code": "60684",
-    "desc": "",
-    "id": "12951",
-    "name": "Phibbs Exchange @ Bay 7",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.028284,
-     49.305069
-    ],
-    "type": "Point"
-   },
-   "id": "12952",
-   "properties": {
-    "code": "60685",
-    "desc": "",
-    "id": "12952",
-    "name": "Phibbs Exchange @ Bay 8",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.028848,
-     49.305212
-    ],
-    "type": "Point"
-   },
-   "id": "12953",
-   "properties": {
-    "code": "60686",
-    "desc": "",
-    "id": "12953",
-    "name": "Phibbs Exchange @ Bay 9",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.028334,
-     49.305231
-    ],
-    "type": "Point"
-   },
-   "id": "12954",
-   "properties": {
-    "code": "60687",
-    "desc": "",
-    "id": "12954",
-    "name": "Phibbs Exchange @ Bay 10",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.029043,
-     49.305435
-    ],
-    "type": "Point"
-   },
-   "id": "12955",
-   "properties": {
-    "code": "60688",
-    "desc": "",
-    "id": "12955",
-    "name": "Phibbs Exchange @ Bay 11",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.028764,
      49.305404
     ],
@@ -166586,7 +166548,7 @@
     "code": "60689",
     "desc": "",
     "id": "12956",
-    "name": "Phibbs Exchange @ Bay 12",
+    "name": "Phibbs Exchange @ Bay 6",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166605,7 +166567,7 @@
     "code": "60691",
     "desc": "",
     "id": "12957",
-    "name": "Phibbs Exchange @ Bay 13",
+    "name": "Phibbs Exchange @ Bay 7",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166956,6 +166918,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.84755,
+     49.190788
+    ],
+    "type": "Point"
+   },
+   "id": "12979",
+   "properties": {
+    "code": "60697",
+    "desc": "",
+    "id": "12979",
+    "name": "Northbound City Parkway @ 10300 Block",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.761732,
      49.283605
     ],
@@ -167119,7 +167100,7 @@
     "desc": "",
     "id": "12989",
     "name": "Eastbound W King Edward Ave @ Columbia St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
