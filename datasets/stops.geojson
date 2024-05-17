@@ -5277,7 +5277,7 @@
     "desc": "",
     "id": "449",
     "name": "Westbound Eton St @ N Renfrew St",
-    "wheelchair_boarding": "1",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -9294,8 +9294,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.090056,
-     49.255696
+     -123.090057,
+     49.256115
     ],
     "type": "Point"
    },
@@ -12239,8 +12239,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116906,
-     49.221502
+     -123.116936,
+     49.221299
     ],
     "type": "Point"
    },
@@ -13892,8 +13892,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.153214,
-     49.251137
+     -123.153269,
+     49.250717
     ],
     "type": "Point"
    },
@@ -21188,8 +21188,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.090591,
-     49.248724
+     -123.090666,
+     49.248731
     ],
     "type": "Point"
    },
@@ -21416,8 +21416,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.153726,
-     49.251741
+     -123.154219,
+     49.251732
     ],
     "type": "Point"
    },
@@ -27515,8 +27515,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.163563,
-     49.227329
+     -123.163668,
+     49.227333
     ],
     "type": "Point"
    },
@@ -53803,6 +53803,25 @@
     "desc": "",
     "id": "4002",
     "name": "Westbound E 3rd St @ Moody Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.032491,
+     49.311744
+    ],
+    "type": "Point"
+   },
+   "id": "4003",
+   "properties": {
+    "code": "53962",
+    "desc": "",
+    "id": "4003",
+    "name": "Northbound Mountain Hwy @ Fern St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -98556,25 +98575,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147745,
-     49.144183
-    ],
-    "type": "Point"
-   },
-   "id": "6875",
-   "properties": {
-    "code": "56810",
-    "desc": "",
-    "id": "6875",
-    "name": "Northbound Gilbert Rd @ Gilhurst Gate",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.147743,
      49.146292
     ],
@@ -122888,6 +122888,25 @@
     "id": "8989",
     "name": "Eastbound Fraser Hwy @ 196 St",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.966602,
+     49.203837
+    ],
+    "type": "Point"
+   },
+   "id": "8992",
+   "properties": {
+    "code": "58761",
+    "desc": "",
+    "id": "8992",
+    "name": "Westbound Marine Dr @ Byrnepark Dr",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
