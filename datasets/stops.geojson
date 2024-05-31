@@ -4050,6 +4050,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.214363,
+     49.269015
+    ],
+    "type": "Point"
+   },
+   "id": "350",
+   "properties": {
+    "code": "50346",
+    "desc": "",
+    "id": "350",
+    "name": "Eastbound W 4th Ave @ Blanca St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.21149,
      49.268974
     ],
@@ -8108,25 +8127,6 @@
     "desc": "",
     "id": "702",
     "name": "Westbound Kingsway @ Nanaimo St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.062011,
-     49.243784
-    ],
-    "type": "Point"
-   },
-   "id": "703",
-   "properties": {
-    "code": "50696",
-    "desc": "",
-    "id": "703",
-    "name": "Westbound Kingsway @ Gladstone St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -23943,25 +23943,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.032543,
-     49.310961
-    ],
-    "type": "Point"
-   },
-   "id": "1764",
-   "properties": {
-    "code": "51750",
-    "desc": "",
-    "id": "1764",
-    "name": "Northbound Mountain Hwy @ Hunter St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.023902,
      49.315778
     ],
@@ -38611,8 +38592,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.892697,
-     49.250068
+     -122.892713,
+     49.250455
     ],
     "type": "Point"
    },
@@ -42498,25 +42479,6 @@
     "desc": "",
     "id": "3143",
     "name": "Northbound E Columbia St @ Alberta St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.892761,
-     49.226166
-    ],
-    "type": "Point"
-   },
-   "id": "3144",
-   "properties": {
-    "code": "53111",
-    "desc": "",
-    "id": "3144",
-    "name": "Northbound E Columbia St @ Keary St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -95421,36 +95383,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.129947,
-     49.133431
+     -123.121436,
+     49.133398
     ],
     "type": "Point"
    },
-   "id": "6696",
+   "id": "6698",
    "properties": {
-    "code": "56634",
+    "code": "56636",
     "desc": "",
-    "id": "6696",
-    "name": "Eastbound Steveston Hwy @ Roseland Gate",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.123858,
-     49.133394
-    ],
-    "type": "Point"
-   },
-   "id": "6697",
-   "properties": {
-    "code": "56635",
-    "desc": "",
-    "id": "6697",
-    "name": "Eastbound Steveston Hwy @ 9000 Block",
+    "id": "6698",
+    "name": "Eastbound Steveston Hwy @ Mortfield Gate",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -149229,6 +149172,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.034951,
+     49.306096
+    ],
+    "type": "Point"
+   },
+   "id": "11595",
+   "properties": {
+    "code": "59111",
+    "desc": "",
+    "id": "11595",
+    "name": "Westbound Main St @ Harbour Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.104471,
      49.262911
     ],
@@ -163194,6 +163156,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.061464,
+     49.24353
+    ],
+    "type": "Point"
+   },
+   "id": "12679",
+   "properties": {
+    "code": "60433",
+    "desc": "",
+    "id": "12679",
+    "name": "Westbound Kingsway @ Gladstone",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.077751,
      49.312929
     ],
@@ -163965,25 +163946,6 @@
     "desc": "",
     "id": "12761",
     "name": "Eastbound Sawmill Cres @ River District Crossing",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.214932,
-     49.268423
-    ],
-    "type": "Point"
-   },
-   "id": "12762",
-   "properties": {
-    "code": "60533",
-    "desc": "",
-    "id": "12762",
-    "name": "Northbound Blanca St @ W 5th Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166740,25 +166702,6 @@
     "id": "12968",
     "name": "Southbound Howe @ Davie",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.033307,
-     49.305657
-    ],
-    "type": "Point"
-   },
-   "id": "12969",
-   "properties": {
-    "code": "53957",
-    "desc": "",
-    "id": "12969",
-    "name": "Westbound Main St @ Harbour Ave",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
