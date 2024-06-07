@@ -174,8 +174,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.109649,
-     49.283765
+     -123.109642,
+     49.283754
     ],
     "type": "Point"
    },
@@ -4829,25 +4829,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.119931,
-     49.287293
-    ],
-    "type": "Point"
-   },
-   "id": "410",
-   "properties": {
-    "code": "50406",
-    "desc": "",
-    "id": "410",
-    "name": "Eastbound W Pender St @ Thurlow St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.111441,
      49.282981
     ],
@@ -5999,25 +5980,6 @@
     "desc": "",
     "id": "524",
     "name": "Eastbound E Pender St @ Main St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.119463,
-     49.285361
-    ],
-    "type": "Point"
-   },
-   "id": "534",
-   "properties": {
-    "code": "50530",
-    "desc": "",
-    "id": "534",
-    "name": "Northbound Burrard St @ Dunsmuir St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -18243,25 +18205,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.123062,
-     49.288213
-    ],
-    "type": "Point"
-   },
-   "id": "1385",
-   "properties": {
-    "code": "51373",
-    "desc": "",
-    "id": "1385",
-    "name": "Eastbound W Pender St @ Bute St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.024952,
      49.281026
     ],
@@ -27260,25 +27203,6 @@
     "desc": "",
     "id": "2046",
     "name": "Westbound E 49 Ave @ Prince Edward St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.113387,
-     49.226074
-    ],
-    "type": "Point"
-   },
-   "id": "2050",
-   "properties": {
-    "code": "52033",
-    "desc": "",
-    "id": "2050",
-    "name": "Westbound W 49 Ave @ Alberta St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -51144,25 +51068,6 @@
     "id": "3803",
     "name": "Southbound Westwood St @ Lincoln Ave",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.790591,
-     49.276795
-    ],
-    "type": "Point"
-   },
-   "id": "3804",
-   "properties": {
-    "code": "53765",
-    "desc": "",
-    "id": "3804",
-    "name": "Southbound Westwood St @ Anson Ave",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -93958,25 +93863,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147059,
-     49.155494
-    ],
-    "type": "Point"
-   },
-   "id": "6600",
-   "properties": {
-    "code": "56539",
-    "desc": "",
-    "id": "6600",
-    "name": "Eastbound Blundell Rd @ Gilbert Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.143124,
      49.155523
     ],
@@ -94349,25 +94235,6 @@
     "desc": "",
     "id": "6636",
     "name": "Westbound Blundell Rd @ Moffatt Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.148365,
-     49.155642
-    ],
-    "type": "Point"
-   },
-   "id": "6637",
-   "properties": {
-    "code": "56576",
-    "desc": "",
-    "id": "6637",
-    "name": "Westbound Blundell Rd @ Gilbert Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -98461,25 +98328,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147695,
-     49.134245
-    ],
-    "type": "Point"
-   },
-   "id": "6871",
-   "properties": {
-    "code": "56806",
-    "desc": "",
-    "id": "6871",
-    "name": "Northbound Gilbert Rd @ Kimberley Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.14771,
      49.136657
     ],
@@ -98510,25 +98358,6 @@
     "desc": "",
     "id": "6873",
     "name": "Northbound Gilbert Rd @ Bamberton Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147743,
-     49.146292
-    ],
-    "type": "Point"
-   },
-   "id": "6876",
-   "properties": {
-    "code": "56811",
-    "desc": "",
-    "id": "6876",
-    "name": "Northbound Gilbert Rd @ Broadmoor Blvd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -98606,25 +98435,6 @@
     "id": "6880",
     "name": "Northbound Gilbert Rd @ 8200 Block",
     "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147687,
-     49.155937
-    ],
-    "type": "Point"
-   },
-   "id": "6881",
-   "properties": {
-    "code": "56816",
-    "desc": "",
-    "id": "6881",
-    "name": "Northbound Gilbert Rd @ Blundell Rd",
-    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -98860,25 +98670,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147922,
-     49.15526
-    ],
-    "type": "Point"
-   },
-   "id": "6895",
-   "properties": {
-    "code": "56830",
-    "desc": "",
-    "id": "6895",
-    "name": "Southbound Gilbert Rd @ Blundell Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.147928,
      49.153305
     ],
@@ -98936,63 +98727,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147947,
-     49.148009
-    ],
-    "type": "Point"
-   },
-   "id": "6899",
-   "properties": {
-    "code": "56834",
-    "desc": "",
-    "id": "6899",
-    "name": "Southbound Gilbert Rd @ Francis Rd",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147961,
-     49.145755
-    ],
-    "type": "Point"
-   },
-   "id": "6900",
-   "properties": {
-    "code": "56835",
-    "desc": "",
-    "id": "6900",
-    "name": "Southbound Gilbert Rd @ Broadmoor Blvd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147971,
-     49.143488
-    ],
-    "type": "Point"
-   },
-   "id": "6901",
-   "properties": {
-    "code": "56836",
-    "desc": "",
-    "id": "6901",
-    "name": "Southbound Gilbert Rd @ Woodwards Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.147996,
      49.140645
     ],
@@ -99042,25 +98776,6 @@
     "desc": "",
     "id": "6904",
     "name": "Southbound Gilbert Rd @ Kimberley Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.148504,
-     49.133572
-    ],
-    "type": "Point"
-   },
-   "id": "6905",
-   "properties": {
-    "code": "56840",
-    "desc": "",
-    "id": "6905",
-    "name": "Westbound Steveston Hwy @ Gilbert Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -104180,6 +103895,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.602068,
+     49.143103
+    ],
+    "type": "Point"
+   },
+   "id": "7267",
+   "properties": {
+    "code": "57196",
+    "desc": "",
+    "id": "7267",
+    "name": "Northbound Glover Rd @ 76A Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.598945,
+     49.146072
+    ],
+    "type": "Point"
+   },
+   "id": "7268",
+   "properties": {
+    "code": "57197",
+    "desc": "",
+    "id": "7268",
+    "name": "Northbound Glover Rd @ 79 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.585489,
      49.163012
     ],
@@ -105198,6 +104951,44 @@
     "desc": "",
     "id": "7323",
     "name": "Southbound Glover Rd @ 88 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.59901,
+     49.146227
+    ],
+    "type": "Point"
+   },
+   "id": "7324",
+   "properties": {
+    "code": "57253",
+    "desc": "",
+    "id": "7324",
+    "name": "Southbound Glover Rd @ 79 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.602681,
+     49.142895
+    ],
+    "type": "Point"
+   },
+   "id": "7325",
+   "properties": {
+    "code": "57254",
+    "desc": "",
+    "id": "7325",
+    "name": "Southbound Glover Rd @ Labonte Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -114642,25 +114433,6 @@
     "id": "7961",
     "name": "Southbound Tamarack Lane @ 108B Ave",
     "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.567868,
-     49.198696
-    ],
-    "type": "Point"
-   },
-   "id": "7962",
-   "properties": {
-    "code": "57887",
-    "desc": "",
-    "id": "7962",
-    "name": "Southbound Tamarack Lane @ 108 Ave",
-    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -139919,25 +139691,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116096,
-     49.230066
-    ],
-    "type": "Point"
-   },
-   "id": "10853",
-   "properties": {
-    "code": "60996",
-    "desc": "",
-    "id": "10853",
-    "name": "Northbound Cambie St @ W 45 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.949453,
      49.188232
     ],
@@ -140926,8 +140679,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.234956,
-     49.256287
+     -123.235061,
+     49.25626
     ],
     "type": "Point"
    },
@@ -154815,6 +154568,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.594593,
+     49.149732
+    ],
+    "type": "Point"
+   },
+   "id": "12038",
+   "properties": {
+    "code": "61929",
+    "desc": "",
+    "id": "12038",
+    "name": "Northbound Glover Rd @ Telegraph Trail",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.59478,
+     49.149783
+    ],
+    "type": "Point"
+   },
+   "id": "12039",
+   "properties": {
+    "code": "61928",
+    "desc": "",
+    "id": "12039",
+    "name": "Southbound Glover Rd @ Telegraph Trail",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.163937,
      49.272658
     ],
@@ -163175,6 +162966,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.118293,
+     49.28616
+    ],
+    "type": "Point"
+   },
+   "id": "12681",
+   "properties": {
+    "code": "53312",
+    "desc": "",
+    "id": "12681",
+    "name": "Burrard Station @ Bay 6",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.077751,
      49.312929
     ],
@@ -165360,44 +165170,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.604032,
-     49.14335
-    ],
-    "type": "Point"
-   },
-   "id": "12874",
-   "properties": {
-    "code": "60616",
-    "desc": "",
-    "id": "12874",
-    "name": "Westbound University Dr @ Glover Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.603844,
-     49.143091
-    ],
-    "type": "Point"
-   },
-   "id": "12875",
-   "properties": {
-    "code": "60617",
-    "desc": "",
-    "id": "12875",
-    "name": "Eastbound University Dr @ Glover Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.182682,
      49.342252
     ],
@@ -165638,44 +165410,6 @@
     "id": "12891",
     "name": "Northbound Fraser St @ E 41 Ave",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.594994,
-     49.150251
-    ],
-    "type": "Point"
-   },
-   "id": "12894",
-   "properties": {
-    "code": "60642",
-    "desc": "",
-    "id": "12894",
-    "name": "Westbound Telegraph Trail @ Glover Rd",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.595327,
-     49.150244
-    ],
-    "type": "Point"
-   },
-   "id": "12895",
-   "properties": {
-    "code": "60643",
-    "desc": "",
-    "id": "12895",
-    "name": "Eastbound Telegraph Trail @ Glover Rd",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -167062,6 +166796,25 @@
     "desc": "",
     "id": "12990",
     "name": "Southbound 144 St @ 60 Ave",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.11615,
+     49.229082
+    ],
+    "type": "Point"
+   },
+   "id": "13005",
+   "properties": {
+    "code": "51001",
+    "desc": "",
+    "id": "13005",
+    "name": "Northbound Cambie St @ W 46 Ave",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
