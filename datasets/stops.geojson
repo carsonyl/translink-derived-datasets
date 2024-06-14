@@ -39542,25 +39542,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.962229,
-     49.268034
-    ],
-    "type": "Point"
-   },
-   "id": "2958",
-   "properties": {
-    "code": "52927",
-    "desc": "",
-    "id": "2958",
-    "name": "Westbound Halifax St @ Yeovil Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.965074,
      49.268037
     ],
@@ -93513,7 +93494,7 @@
     "desc": "",
     "id": "6581",
     "name": "Eastbound Moncton St @ Phoenix Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -100486,7 +100467,7 @@
     "desc": "",
     "id": "7017",
     "name": "Eastbound Bridgeport Rd @ No. 5 Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -101759,25 +101740,6 @@
     "desc": "",
     "id": "7096",
     "name": "Westbound Fraser Hwy @ 56 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.660798,
-     49.105736
-    ],
-    "type": "Point"
-   },
-   "id": "7097",
-   "properties": {
-    "code": "57029",
-    "desc": "",
-    "id": "7097",
-    "name": "Westbound Fraser Hwy @ 203 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -138342,25 +138304,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.720802,
-     49.118811
-    ],
-    "type": "Point"
-   },
-   "id": "10729",
-   "properties": {
-    "code": "60795",
-    "desc": "",
-    "id": "10729",
-    "name": "Westbound 64 Ave @ 181A St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.726507,
      49.118836
     ],
@@ -151338,6 +151281,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.248724,
+     49.265726
+    ],
+    "type": "Point"
+   },
+   "id": "11792",
+   "properties": {
+    "code": "58895",
+    "desc": "",
+    "id": "11792",
+    "name": "UBC Exchange @ Bay 9",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.248129,
      49.26581
     ],
@@ -151349,25 +151311,6 @@
     "desc": "",
     "id": "11793",
     "name": "UBC Exchange @ Bay 10",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.247364,
-     49.265923
-    ],
-    "type": "Point"
-   },
-   "id": "11794",
-   "properties": {
-    "code": "61702",
-    "desc": "",
-    "id": "11794",
-    "name": "UBC Exchange @ Bay 11",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -161779,7 +161722,7 @@
     "code": "50137",
     "desc": "",
     "id": "12585",
-    "name": "Eastbound W 41 Ave @ Cambie St",
+    "name": "Oakridge-41st Ave Station @ Bay 2",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -161798,7 +161741,7 @@
     "code": "60349",
     "desc": "",
     "id": "12586",
-    "name": "Eastbound W 41 Ave @ Cambie St",
+    "name": "Oakridge-41st Ave Station @ Bay 3",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
