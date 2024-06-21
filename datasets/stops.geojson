@@ -8097,6 +8097,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.062011,
+     49.243784
+    ],
+    "type": "Point"
+   },
+   "id": "703",
+   "properties": {
+    "code": "50696",
+    "desc": "",
+    "id": "703",
+    "name": "Westbound Kingsway @ Gladstone St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.0653,
      49.244809
     ],
@@ -9096,25 +9115,6 @@
     "desc": "",
     "id": "776",
     "name": "Northbound Granville St @ W 46 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.139507,
-     49.232803
-    ],
-    "type": "Point"
-   },
-   "id": "777",
-   "properties": {
-    "code": "50770",
-    "desc": "",
-    "id": "777",
-    "name": "Northbound Granville St @ W 43 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -10415,25 +10415,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.139799,
-     49.232098
-    ],
-    "type": "Point"
-   },
-   "id": "861",
-   "properties": {
-    "code": "50854",
-    "desc": "",
-    "id": "861",
-    "name": "Southbound Granville St @ W 43 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.139921,
      49.228469
     ],
@@ -11433,25 +11414,6 @@
     "desc": "",
     "id": "939",
     "name": "Eastbound W Hastings St @ Homer St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.107568,
-     49.281981
-    ],
-    "type": "Point"
-   },
-   "id": "940",
-   "properties": {
-    "code": "50932",
-    "desc": "",
-    "id": "940",
-    "name": "Eastbound W Hastings St @ Abbott St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -23943,8 +23905,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.025014,
-     49.313263
+     -123.025219,
+     49.31298
     ],
     "type": "Point"
    },
@@ -85636,25 +85598,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.81174,
-     49.111724
-    ],
-    "type": "Point"
-   },
-   "id": "6026",
-   "properties": {
-    "code": "55969",
-    "desc": "",
-    "id": "6026",
-    "name": "Eastbound 60 Ave @ 148 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.80605,
      49.111688
     ],
@@ -86065,25 +86008,6 @@
     "desc": "",
     "id": "6054",
     "name": "Westbound 60 Ave @ 150 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.812964,
-     49.111845
-    ],
-    "type": "Point"
-   },
-   "id": "6055",
-   "properties": {
-    "code": "55997",
-    "desc": "",
-    "id": "6055",
-    "name": "Westbound 60 Ave @ 148 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -86787,7 +86711,7 @@
     "desc": "",
     "id": "6099",
     "name": "Northbound 152 St @ 4400 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -86806,7 +86730,7 @@
     "desc": "",
     "id": "6100",
     "name": "Northbound 152 St @ 48 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -87243,7 +87167,7 @@
     "desc": "",
     "id": "6128",
     "name": "Southbound 152 St @ 48 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -87262,7 +87186,7 @@
     "desc": "",
     "id": "6129",
     "name": "Southbound 152 St @ 4400 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -93817,25 +93741,6 @@
     "desc": "",
     "id": "6598",
     "name": "Eastbound Blundell Rd @ 6400 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.149443,
-     49.155496
-    ],
-    "type": "Point"
-   },
-   "id": "6599",
-   "properties": {
-    "code": "56538",
-    "desc": "",
-    "id": "6599",
-    "name": "Eastbound Blundell Rd @ Minler Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -117081,6 +116986,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.892571,
+     49.24647
+    ],
+    "type": "Point"
+   },
+   "id": "8434",
+   "properties": {
+    "code": "58128",
+    "desc": "",
+    "id": "8434",
+    "name": "Northbound North Rd @ Lougheed Hwy",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.060783,
      49.087928
     ],
@@ -126866,8 +126790,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.749986,
-     49.285757
+     -122.749947,
+     49.285831
     ],
     "type": "Point"
    },
@@ -138297,25 +138221,6 @@
     "id": "10727",
     "name": "Eastbound 64 Ave @ 181A St",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.726507,
-     49.118836
-    ],
-    "type": "Point"
-   },
-   "id": "10730",
-   "properties": {
-    "code": "60793",
-    "desc": "",
-    "id": "10730",
-    "name": "Westbound 64 Ave @ 179 St",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -151034,6 +150939,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.125757,
+     49.195649
+    ],
+    "type": "Point"
+   },
+   "id": "11763",
+   "properties": {
+    "code": "61430",
+    "desc": "",
+    "id": "11763",
+    "name": "Bridgeport Station @ Bay 13",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.849708,
      49.189461
     ],
@@ -160800,6 +160724,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.106526,
+     49.28179
+    ],
+    "type": "Point"
+   },
+   "id": "12489",
+   "properties": {
+    "code": "59468",
+    "desc": "",
+    "id": "12489",
+    "name": "Eastbound W Hastings St @ Abbott St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.131265,
      49.277837
     ],
@@ -166538,25 +166481,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.84755,
-     49.190788
-    ],
-    "type": "Point"
-   },
-   "id": "12979",
-   "properties": {
-    "code": "60697",
-    "desc": "",
-    "id": "12979",
-    "name": "Northbound City Parkway @ 10300 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.761732,
      49.283605
     ],
@@ -166740,6 +166664,82 @@
     "id": "12990",
     "name": "Southbound 144 St @ 60 Ave",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.138626,
+     49.265846
+    ],
+    "type": "Point"
+   },
+   "id": "13001",
+   "properties": {
+    "code": "61464",
+    "desc": "",
+    "id": "13001",
+    "name": "Southbound Granville St @ W 6th Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.138826,
+     49.260427
+    ],
+    "type": "Point"
+   },
+   "id": "13002",
+   "properties": {
+    "code": "61462",
+    "desc": "",
+    "id": "13002",
+    "name": "Southbound Granville St @ W 12 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.138643,
+     49.258305
+    ],
+    "type": "Point"
+   },
+   "id": "13003",
+   "properties": {
+    "code": "61315",
+    "desc": "",
+    "id": "13003",
+    "name": "Northbound Granville St @ W 15 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.139175,
+     49.260876
+    ],
+    "type": "Point"
+   },
+   "id": "13004",
+   "properties": {
+    "code": "61517",
+    "desc": "",
+    "id": "13004",
+    "name": "Westbound W 12 Ave @ Granville St",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
