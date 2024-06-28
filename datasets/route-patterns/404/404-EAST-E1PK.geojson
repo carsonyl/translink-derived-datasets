@@ -827,9 +827,9 @@
  "properties": {
   "destination": "FOUR ROAD",
   "direction": "EAST",
-  "name": "404-E1A",
+  "name": "404-E1PK",
   "operating-company": "CMBC",
-  "pattern-number": "E1A",
+  "pattern-number": "E1PK",
   "route-name": "FOUR ROAD/BRIGHOUSE STATION",
   "route-number": "404",
   "stroke": "#267cff",
