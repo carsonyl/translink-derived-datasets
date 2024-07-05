@@ -27762,8 +27762,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.898874,
-     49.249434
+     -122.899753,
+     49.249872
     ],
     "type": "Point"
    },
@@ -93969,7 +93969,7 @@
     "desc": "",
     "id": "6650",
     "name": "Southbound No. 2 Rd @ Kittiwake Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -94718,17 +94718,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.135984,
-     49.133419
+     -123.129947,
+     49.133431
     ],
     "type": "Point"
    },
-   "id": "6695",
+   "id": "6696",
    "properties": {
-    "code": "56633",
+    "code": "56634",
     "desc": "",
-    "id": "6695",
-    "name": "Eastbound Steveston Hwy @ No. 3 Rd",
+    "id": "6696",
+    "name": "Eastbound Steveston Hwy @ Roseland Gate",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -146607,25 +146607,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.126771,
-     49.285774
-    ],
-    "type": "Point"
-   },
-   "id": "11480",
-   "properties": {
-    "code": "50614",
-    "desc": "",
-    "id": "11480",
-    "name": "Eastbound Robson St @ Bute St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.123086,
      49.283556
     ],
@@ -163660,7 +163641,7 @@
     "code": "60516",
     "desc": "",
     "id": "12836",
-    "name": "Lougheed Hwy @ Willingdon Ave",
+    "name": "Brentwood Station @ Bay 5",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165922,6 +165903,44 @@
     "desc": "",
     "id": "13007",
     "name": "Westbound Lansdowne Rd @ No. 3 Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.121385,
+     49.226199
+    ],
+    "type": "Point"
+   },
+   "id": "13008",
+   "properties": {
+    "code": "60742",
+    "desc": "",
+    "id": "13008",
+    "name": "Eastbound W 49th Ave @ Tisdall St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.84397,
+     49.187891
+    ],
+    "type": "Point"
+   },
+   "id": "13009",
+   "properties": {
+    "code": "60719",
+    "desc": "",
+    "id": "13009",
+    "name": "Westbound 102 Ave @ Whalley Blvd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
