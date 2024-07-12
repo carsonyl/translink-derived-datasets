@@ -745,7 +745,7 @@
   "type": "MultiLineString"
  },
  "properties": {
-  "destination": "PENDER/TO MAIN ST STN",
+  "destination": "PENDER/TO BROADWAY",
   "direction": "EAST",
   "name": "019-EBSP",
   "operating-company": "CMBC",
