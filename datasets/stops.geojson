@@ -38364,25 +38364,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.892713,
-     49.250455
-    ],
-    "type": "Point"
-   },
-   "id": "2891",
-   "properties": {
-    "code": "52861",
-    "desc": "",
-    "id": "2891",
-    "name": "Northbound North Rd @ Austin Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.894241,
      49.253503
     ],
@@ -93950,7 +93931,7 @@
     "desc": "",
     "id": "6649",
     "name": "Southbound No. 2 Rd @ 11500 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -101911,25 +101892,6 @@
     "desc": "",
     "id": "7146",
     "name": "Eastbound Fraser Hwy @ 200 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.663417,
-     49.106396
-    ],
-    "type": "Point"
-   },
-   "id": "7147",
-   "properties": {
-    "code": "57079",
-    "desc": "",
-    "id": "7147",
-    "name": "Eastbound Fraser Hwy @ 201A St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
