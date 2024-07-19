@@ -963,7 +963,7 @@
     "code": "50105",
     "desc": "",
     "id": "105",
-    "name": "Westbound Cornwall Ave @ Point Grey Rd",
+    "name": "Westbound Cornwall Ave @ Balsam St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -8002,8 +8002,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.062011,
-     49.243784
+     -123.062124,
+     49.243838
     ],
     "type": "Point"
    },
@@ -11794,25 +11794,6 @@
     "desc": "",
     "id": "969",
     "name": "Westbound E Hastings St @ Kaslo St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.053371,
-     49.281243
-    ],
-    "type": "Point"
-   },
-   "id": "970",
-   "properties": {
-    "code": "50961",
-    "desc": "",
-    "id": "970",
-    "name": "Westbound E Hastings St @ Penticton St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -24068,25 +24049,6 @@
     "desc": "",
     "id": "1790",
     "name": "Southbound Smith Ave @ Nithsdale St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.019899,
-     49.25
-    ],
-    "type": "Point"
-   },
-   "id": "1791",
-   "properties": {
-    "code": "51777",
-    "desc": "",
-    "id": "1791",
-    "name": "Southbound Smith Ave @ Sunset St",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -41879,63 +41841,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.964676,
-     49.26752
-    ],
-    "type": "Point"
-   },
-   "id": "3117",
-   "properties": {
-    "code": "53084",
-    "desc": "",
-    "id": "3117",
-    "name": "Southbound Sperling Ave @ Halifax St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.964685,
-     49.265137
-    ],
-    "type": "Point"
-   },
-   "id": "3118",
-   "properties": {
-    "code": "53085",
-    "desc": "",
-    "id": "3118",
-    "name": "Southbound Sperling Ave @ Jordan Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.964697,
-     49.263654
-    ],
-    "type": "Point"
-   },
-   "id": "3119",
-   "properties": {
-    "code": "53086",
-    "desc": "",
-    "id": "3119",
-    "name": "Southbound Sperling Ave @ Hummel St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.972366,
      49.241745
     ],
@@ -42137,25 +42042,6 @@
     "desc": "",
     "id": "3133",
     "name": "Southbound E Columbia St @ Braid St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.892923,
-     49.227569
-    ],
-    "type": "Point"
-   },
-   "id": "3134",
-   "properties": {
-    "code": "53101",
-    "desc": "",
-    "id": "3134",
-    "name": "Southbound E Columbia St @ Sherbrooke St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -84926,7 +84812,7 @@
     "id": "6000",
     "name": "Newton Exchange @ Bay 8",
     "wheelchair_boarding": "1",
-    "zone": "CL_AD"
+    "zone": "BUS ZN"
    },
    "type": "Feature"
   },
@@ -98112,25 +97998,6 @@
     "id": "6893",
     "name": "Southbound Gilbert Rd @ Mang Rd",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147926,
-     49.157333
-    ],
-    "type": "Point"
-   },
-   "id": "6894",
-   "properties": {
-    "code": "56829",
-    "desc": "",
-    "id": "6894",
-    "name": "Southbound Gilbert Rd @ Donald Rd",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -125129,6 +124996,25 @@
     "desc": "",
     "id": "9306",
     "name": "Eastbound 64 Ave @ 200 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.118031,
+     49.286833
+    ],
+    "type": "Point"
+   },
+   "id": "9307",
+   "properties": {
+    "code": "58893",
+    "desc": "",
+    "id": "9307",
+    "name": "Westbound W Pender St @ Burrard St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -161153,7 +161039,7 @@
     "desc": "",
     "id": "12615",
     "name": "Eastbound Blundell Rd @ No. 8 Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -165341,25 +165227,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.982227,
-     49.259248
-    ],
-    "type": "Point"
-   },
-   "id": "12962",
-   "properties": {
-    "code": "60692",
-    "desc": "",
-    "id": "12962",
-    "name": "Eastbound Norland Ave @ Douglas Rd",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.002954,
      49.267684
     ],
@@ -165429,6 +165296,25 @@
     "id": "12968",
     "name": "Southbound Howe @ Davie",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.164082,
+     49.272793
+    ],
+    "type": "Point"
+   },
+   "id": "12970",
+   "properties": {
+    "code": "60695",
+    "desc": "",
+    "id": "12970",
+    "name": "Westbound Cornwall Ave @ Trafalgar St",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -165903,6 +165789,44 @@
     "desc": "",
     "id": "13009",
     "name": "Westbound 102 Ave @ Whalley Blvd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147932,
+     49.158054
+    ],
+    "type": "Point"
+   },
+   "id": "13010",
+   "properties": {
+    "code": "61725",
+    "desc": "",
+    "id": "13010",
+    "name": "Southbound Gilbert Rd @ Donald Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.051351,
+     49.281245
+    ],
+    "type": "Point"
+   },
+   "id": "13011",
+   "properties": {
+    "code": "61699",
+    "desc": "",
+    "id": "13011",
+    "name": "Westbound E Hastings St @ Penticton St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
