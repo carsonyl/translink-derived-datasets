@@ -73115,25 +73115,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.84108,
-     49.191475
-    ],
-    "type": "Point"
-   },
-   "id": "5266",
-   "properties": {
-    "code": "55214",
-    "desc": "",
-    "id": "5266",
-    "name": "Eastbound 104 Ave @ Whalley Blvd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.837192,
      49.191424
     ],
@@ -75482,25 +75463,6 @@
     "desc": "",
     "id": "5425",
     "name": "Westbound 104 Ave @ 138A St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.842718,
-     49.191674
-    ],
-    "type": "Point"
-   },
-   "id": "5426",
-   "properties": {
-    "code": "55373",
-    "desc": "",
-    "id": "5426",
-    "name": "Westbound 104 Ave @ Whalley Blvd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -109063,25 +109025,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.01324,
-     49.140399
-    ],
-    "type": "Point"
-   },
-   "id": "7642",
-   "properties": {
-    "code": "57569",
-    "desc": "",
-    "id": "7642",
-    "name": "Westbound River Rd @ Ross Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.798559,
      49.275505
     ],
@@ -137392,8 +137335,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.664945,
-     49.216763
+     -122.664953,
+     49.216815
     ],
     "type": "Point"
    },
@@ -146474,6 +146417,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.125037,
+     49.28483
+    ],
+    "type": "Point"
+   },
+   "id": "11482",
+   "properties": {
+    "code": "50625",
+    "desc": "",
+    "id": "11482",
+    "name": "Westbound Robson St @ Thurlow St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.130152,
      49.288152
     ],
@@ -148632,6 +148594,25 @@
     "desc": "",
     "id": "11664",
     "name": "Guildford Exchange @ Bay 4",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.124658,
+     49.284394
+    ],
+    "type": "Point"
+   },
+   "id": "11666",
+   "properties": {
+    "code": "50615",
+    "desc": "",
+    "id": "11666",
+    "name": "Eastbound Robson St @ Thurlow St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -154454,8 +154435,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.061513,
-     49.243302
+     -123.061284,
+     49.243197
     ],
     "type": "Point"
    },
@@ -158664,25 +158645,6 @@
     "desc": "",
     "id": "12419",
     "name": "Westbound Buena Vista Ave @ Merklin St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.150198,
-     49.18195
-    ],
-    "type": "Point"
-   },
-   "id": "12420",
-   "properties": {
-    "code": "61248",
-    "desc": "",
-    "id": "12420",
-    "name": "Northbound Russ Baker Way @ Gilbert Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
