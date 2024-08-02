@@ -2473,25 +2473,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.100189,
-     49.273072
-    ],
-    "type": "Point"
-   },
-   "id": "235",
-   "properties": {
-    "code": "50233",
-    "desc": "",
-    "id": "235",
-    "name": "Main Street-Science World Station @ Bay 1",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.100821,
      49.270621
     ],
@@ -13702,8 +13683,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.153269,
-     49.250717
+     -123.153241,
+     49.251152
     ],
     "type": "Point"
    },
@@ -16210,18 +16191,18 @@
   {
    "geometry": {
     "coordinates": [
-     -123.170103,
-     49.247424
+     -123.17011,
+     49.245547
     ],
     "type": "Point"
    },
-   "id": "1274",
+   "id": "1273",
    "properties": {
-    "code": "51264",
+    "code": "51263",
     "desc": "",
-    "id": "1274",
-    "name": "Northbound Mackenzie St @ W 28 Ave",
-    "wheelchair_boarding": "1",
+    "id": "1273",
+    "name": "Northbound Mackenzie St @ W 30 Ave",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -19972,8 +19953,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.167306,
-     49.247954
+     -123.167226,
+     49.247959
     ],
     "type": "Point"
    },
@@ -20333,8 +20314,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.075675,
-     49.248429
+     -123.075263,
+     49.248433
     ],
     "type": "Point"
    },
@@ -21207,8 +21188,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.154219,
-     49.251732
+     -123.153741,
+     49.251747
     ],
     "type": "Point"
    },
@@ -77181,6 +77162,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.800556,
+     49.031023
+    ],
+    "type": "Point"
+   },
+   "id": "5543",
+   "properties": {
+    "code": "55489",
+    "desc": "",
+    "id": "5543",
+    "name": "White Rock Centre @ Bay 4",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.794581,
      49.030997
     ],
@@ -86844,6 +86844,25 @@
     "desc": "",
     "id": "6132",
     "name": "Southbound 152 St @ 34 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.801368,
+     49.061127
+    ],
+    "type": "Point"
+   },
+   "id": "6133",
+   "properties": {
+    "code": "56075",
+    "desc": "",
+    "id": "6133",
+    "name": "Southbound 152 St @ 32 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -121755,6 +121774,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.966602,
+     49.203837
+    ],
+    "type": "Point"
+   },
+   "id": "8992",
+   "properties": {
+    "code": "58761",
+    "desc": "",
+    "id": "8992",
+    "name": "Westbound Marine Dr @ Byrnepark Dr",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.634926,
      49.169771
     ],
@@ -124901,44 +124939,6 @@
     "desc": "",
     "id": "9303",
     "name": "Westbound 64 Ave @ 202 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.666228,
-     49.119074
-    ],
-    "type": "Point"
-   },
-   "id": "9304",
-   "properties": {
-    "code": "58908",
-    "desc": "",
-    "id": "9304",
-    "name": "Westbound 64 Ave @ 201 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.66738,
-     49.11889
-    ],
-    "type": "Point"
-   },
-   "id": "9306",
-   "properties": {
-    "code": "58909",
-    "desc": "",
-    "id": "9306",
-    "name": "Eastbound 64 Ave @ 200 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -132015,8 +132015,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.079842,
-     49.265975
+     -123.080036,
+     49.266014
     ],
     "type": "Point"
    },
@@ -137278,25 +137278,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.725507,
-     49.118699
-    ],
-    "type": "Point"
-   },
-   "id": "10725",
-   "properties": {
-    "code": "60794",
-    "desc": "",
-    "id": "10725",
-    "name": "Eastbound 64 Ave @ 179 St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.730037,
      49.118673
     ],
@@ -139482,8 +139463,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.079447,
-     49.265476
+     -123.079816,
+     49.265986
     ],
     "type": "Point"
    },
@@ -155651,25 +155632,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.086041,
-     49.040632
-    ],
-    "type": "Point"
-   },
-   "id": "12221",
-   "properties": {
-    "code": "59532",
-    "desc": "",
-    "id": "12221",
-    "name": "Eastbound Canoe Pass Way @ Mall Access Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.087622,
      49.040314
     ],
@@ -160279,25 +160241,6 @@
     "desc": "",
     "id": "12536",
     "name": "Westbound Bedwell Bay Rd @ White Pine Beach Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.799229,
-     49.031015
-    ],
-    "type": "Point"
-   },
-   "id": "12543",
-   "properties": {
-    "code": "60292",
-    "desc": "",
-    "id": "12543",
-    "name": "White Rock Centre @ Bay 4",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
