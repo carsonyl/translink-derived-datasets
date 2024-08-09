@@ -24912,25 +24912,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.12119,
-     49.286899
-    ],
-    "type": "Point"
-   },
-   "id": "1856",
-   "properties": {
-    "code": "51842",
-    "desc": "",
-    "id": "1856",
-    "name": "Burrard Station @ Bay 4",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.121757,
      49.286391
     ],
@@ -92989,25 +92970,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.158778,
-     49.135984
-    ],
-    "type": "Point"
-   },
-   "id": "6588",
-   "properties": {
-    "code": "56527",
-    "desc": "",
-    "id": "6588",
-    "name": "Northbound No. 2 Rd @ Spender Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.15879,
      49.137774
     ],
@@ -94566,17 +94528,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.129947,
-     49.133431
+     -123.135984,
+     49.133419
     ],
     "type": "Point"
    },
-   "id": "6696",
+   "id": "6695",
    "properties": {
-    "code": "56634",
+    "code": "56633",
     "desc": "",
-    "id": "6696",
-    "name": "Eastbound Steveston Hwy @ Roseland Gate",
+    "id": "6695",
+    "name": "Eastbound Steveston Hwy @ No. 3 Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -111837,44 +111799,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.631401,
-     49.226296
-    ],
-    "type": "Point"
-   },
-   "id": "7835",
-   "properties": {
-    "code": "57761",
-    "desc": "",
-    "id": "7835",
-    "name": "Eastbound 123 Ave @ Laity St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.62514,
-     49.22641
-    ],
-    "type": "Point"
-   },
-   "id": "7836",
-   "properties": {
-    "code": "57762",
-    "desc": "",
-    "id": "7836",
-    "name": "Eastbound 123 Ave @ 21500 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.622535,
      49.226767
     ],
@@ -112476,44 +112400,6 @@
     "id": "7887",
     "name": "Southbound 216 St @ 124 Ave",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.623375,
-     49.226474
-    ],
-    "type": "Point"
-   },
-   "id": "7888",
-   "properties": {
-    "code": "57814",
-    "desc": "",
-    "id": "7888",
-    "name": "Westbound 123 Ave @ 216 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.629109,
-     49.226455
-    ],
-    "type": "Point"
-   },
-   "id": "7889",
-   "properties": {
-    "code": "57815",
-    "desc": "",
-    "id": "7889",
-    "name": "Westbound 123 Ave @ 214 St",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -125547,6 +125433,25 @@
     "desc": "",
     "id": "9358",
     "name": "Eastbound Riverside Dr @ Nile Gate",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.043632,
+     49.285674
+    ],
+    "type": "Point"
+   },
+   "id": "9359",
+   "properties": {
+    "code": "58030",
+    "desc": "",
+    "id": "9359",
+    "name": "Bus Stop @ Pne Coliseum Loop",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -149970,6 +149875,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.044987,
+     49.244392
+    ],
+    "type": "Point"
+   },
+   "id": "11762",
+   "properties": {
+    "code": "61616",
+    "desc": "",
+    "id": "11762",
+    "name": "29th Avenue Station @ Bay 5",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.125757,
      49.195649
     ],
@@ -165732,6 +165656,25 @@
     "desc": "",
     "id": "13011",
     "name": "Westbound E Hastings St @ Penticton St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.12266,
+     49.28697
+    ],
+    "type": "Point"
+   },
+   "id": "13012",
+   "properties": {
+    "code": "61756",
+    "desc": "",
+    "id": "13012",
+    "name": "Westbound Melville St  @ Thurlow St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
