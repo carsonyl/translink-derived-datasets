@@ -2473,6 +2473,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.100189,
+     49.273072
+    ],
+    "type": "Point"
+   },
+   "id": "235",
+   "properties": {
+    "code": "50233",
+    "desc": "",
+    "id": "235",
+    "name": "Main Street-Science World Station @ Bay 1",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.100821,
      49.270621
     ],
@@ -37281,6 +37300,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.982097,
+     49.255423
+    ],
+    "type": "Point"
+   },
+   "id": "2815",
+   "properties": {
+    "code": "52786",
+    "desc": "",
+    "id": "2815",
+    "name": "Northbound Douglas Rd @ Norfolk St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.983586,
      49.259866
     ],
@@ -38280,6 +38318,25 @@
     "desc": "",
     "id": "2888",
     "name": "Eastbound Cameron St @ Morrey Court",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.892713,
+     49.250455
+    ],
+    "type": "Point"
+   },
+   "id": "2891",
+   "properties": {
+    "code": "52861",
+    "desc": "",
+    "id": "2891",
+    "name": "Northbound North Rd @ Austin Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -42069,25 +42126,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.892761,
-     49.226166
-    ],
-    "type": "Point"
-   },
-   "id": "3144",
-   "properties": {
-    "code": "53111",
-    "desc": "",
-    "id": "3144",
-    "name": "Northbound E Columbia St @ Keary St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.892653,
      49.230458
     ],
@@ -42156,25 +42194,6 @@
     "desc": "",
     "id": "3150",
     "name": "Northbound North Rd @ Gatineau Place",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.892752,
-     49.253122
-    ],
-    "type": "Point"
-   },
-   "id": "3151",
-   "properties": {
-    "code": "53118",
-    "desc": "",
-    "id": "3151",
-    "name": "Northbound North Rd @ Cameron St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -43600,25 +43619,6 @@
     "desc": "",
     "id": "3252",
     "name": "Southbound E Columbia St @ Keary St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.893032,
-     49.223325
-    ],
-    "type": "Point"
-   },
-   "id": "3253",
-   "properties": {
-    "code": "53219",
-    "desc": "",
-    "id": "3253",
-    "name": "Southbound E Columbia St @ Alberta St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -67274,6 +67274,25 @@
     "desc": "",
     "id": "4884",
     "name": "Southbound Howe St @ Nelson St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.138572,
+     49.266704
+    ],
+    "type": "Point"
+   },
+   "id": "4887",
+   "properties": {
+    "code": "54835",
+    "desc": "",
+    "id": "4887",
+    "name": "Southbound Granville St @ W Cloverleaf",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -116986,25 +117005,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.182246,
-     49.336801
-    ],
-    "type": "Point"
-   },
-   "id": "8474",
-   "properties": {
-    "code": "60897",
-    "desc": "",
-    "id": "8474",
-    "name": "Northbound 24 St @ Jefferson Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.17396,
      49.338233
     ],
@@ -117813,7 +117813,7 @@
     "code": "60923",
     "desc": "",
     "id": "8529",
-    "name": "Southbound 11 St @ Fulton Ave",
+    "name": "Southbound 11 St @ Kings Ave",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -156221,6 +156221,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.086041,
+     49.040632
+    ],
+    "type": "Point"
+   },
+   "id": "12221",
+   "properties": {
+    "code": "59532",
+    "desc": "",
+    "id": "12221",
+    "name": "Eastbound Canoe Pass Way @ Mall Access Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.087622,
      49.040314
     ],
@@ -164847,6 +164866,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.981956,
+     49.253952
+    ],
+    "type": "Point"
+   },
+   "id": "12893",
+   "properties": {
+    "code": "59410",
+    "desc": "",
+    "id": "12893",
+    "name": "Northbound Douglas Rd @ Laurel St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.130384,
      49.290268
     ],
@@ -166272,8 +166310,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.105323,
-     49.047481
+     -123.105647,
+     49.047483
     ],
     "type": "Point"
    },
@@ -166291,8 +166329,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.098791,
-     49.052899
+     -123.099091,
+     49.052907
     ],
     "type": "Point"
    },
@@ -166310,8 +166348,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.098773,
-     49.052709
+     -123.099266,
+     49.052735
     ],
     "type": "Point"
    },
@@ -166329,8 +166367,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.110197,
-     49.054468
+     -123.110124,
+     49.05526
     ],
     "type": "Point"
    },
@@ -166348,8 +166386,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.109877,
-     49.05524
+     -123.10988,
+     49.055373
     ],
     "type": "Point"
    },
@@ -166379,25 +166417,6 @@
     "id": "13000",
     "name": "Westbound Blue Heron Way @ Swan Rd",
     "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.138626,
-     49.265846
-    ],
-    "type": "Point"
-   },
-   "id": "13001",
-   "properties": {
-    "code": "61464",
-    "desc": "",
-    "id": "13001",
-    "name": "Southbound Granville St @ W 6th Ave",
-    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
