@@ -193,8 +193,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.112165,
-     49.285656
+     -123.112074,
+     49.285599
     ],
     "type": "Point"
    },
@@ -2883,25 +2883,6 @@
     "desc": "",
     "id": "265",
     "name": "Southbound Main St @ E 62 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.102245,
-     49.212975
-    ],
-    "type": "Point"
-   },
-   "id": "266",
-   "properties": {
-    "code": "50264",
-    "desc": "",
-    "id": "266",
-    "name": "Southbound Main St @ E 63 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -24931,6 +24912,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.12119,
+     49.286899
+    ],
+    "type": "Point"
+   },
+   "id": "1856",
+   "properties": {
+    "code": "51842",
+    "desc": "",
+    "id": "1856",
+    "name": "Burrard Station @ Bay 4",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.121757,
      49.286391
     ],
@@ -36882,6 +36882,63 @@
   {
    "geometry": {
     "coordinates": [
+     -122.982634,
+     49.256304
+    ],
+    "type": "Point"
+   },
+   "id": "2784",
+   "properties": {
+    "code": "52756",
+    "desc": "",
+    "id": "2784",
+    "name": "Southbound Douglas Rd @ Dominion St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.982039,
+     49.25327
+    ],
+    "type": "Point"
+   },
+   "id": "2785",
+   "properties": {
+    "code": "52757",
+    "desc": "",
+    "id": "2785",
+    "name": "Southbound Douglas Rd @ Laurel St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.981855,
+     49.252094
+    ],
+    "type": "Point"
+   },
+   "id": "2786",
+   "properties": {
+    "code": "52758",
+    "desc": "",
+    "id": "2786",
+    "name": "Southbound Douglas Rd @ Hardwick St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.981035,
      49.249671
     ],
@@ -37300,6 +37357,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.98165,
+     49.251964
+    ],
+    "type": "Point"
+   },
+   "id": "2813",
+   "properties": {
+    "code": "52784",
+    "desc": "",
+    "id": "2813",
+    "name": "Northbound Douglas Rd @ Hardwick St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.982097,
      49.255423
     ],
@@ -37311,6 +37387,25 @@
     "desc": "",
     "id": "2815",
     "name": "Northbound Douglas Rd @ Norfolk St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.982623,
+     49.256983
+    ],
+    "type": "Point"
+   },
+   "id": "2816",
+   "properties": {
+    "code": "52787",
+    "desc": "",
+    "id": "2816",
+    "name": "Northbound Douglas Rd @ Hwy One Overpass",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -42810,25 +42905,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.80093,
-     49.285094
-    ],
-    "type": "Point"
-   },
-   "id": "3198",
-   "properties": {
-    "code": "53164",
-    "desc": "",
-    "id": "3198",
-    "name": "Eastbound Guildford Way @ Johnson St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.797418,
      49.285107
     ],
@@ -43619,6 +43695,25 @@
     "desc": "",
     "id": "3252",
     "name": "Southbound E Columbia St @ Keary St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.893032,
+     49.223325
+    ],
+    "type": "Point"
+   },
+   "id": "3253",
+   "properties": {
+    "code": "53219",
+    "desc": "",
+    "id": "3253",
+    "name": "Southbound E Columbia St @ Alberta St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -50478,25 +50573,6 @@
     "desc": "",
     "id": "3782",
     "name": "Lafarge Lake-Douglas Station @ Bay 3",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.797263,
-     49.285315
-    ],
-    "type": "Point"
-   },
-   "id": "3783",
-   "properties": {
-    "code": "53744",
-    "desc": "",
-    "id": "3783",
-    "name": "Westbound Guildford Way @ Pacific St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -97967,17 +98043,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.14771,
-     49.136657
+     -123.147761,
+     49.141262
     ],
     "type": "Point"
    },
-   "id": "6872",
+   "id": "6874",
    "properties": {
-    "code": "56807",
+    "code": "56809",
     "desc": "",
-    "id": "6872",
-    "name": "Northbound Gilbert Rd @ 10500 Block",
+    "id": "6874",
+    "name": "Northbound Gilbert Rd @ Williams Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -97986,17 +98062,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147742,
-     49.139133
+     -123.147745,
+     49.144183
     ],
     "type": "Point"
    },
-   "id": "6873",
+   "id": "6875",
    "properties": {
-    "code": "56808",
+    "code": "56810",
     "desc": "",
-    "id": "6873",
-    "name": "Northbound Gilbert Rd @ Bamberton Dr",
+    "id": "6875",
+    "name": "Northbound Gilbert Rd @ Gilhurst Gate",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -98005,75 +98081,18 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147711,
-     49.14866
+     -123.147743,
+     49.146292
     ],
     "type": "Point"
    },
-   "id": "6877",
+   "id": "6876",
    "properties": {
-    "code": "56812",
+    "code": "56811",
     "desc": "",
-    "id": "6877",
-    "name": "Northbound Gilbert Rd @ Francis Rd",
+    "id": "6876",
+    "name": "Northbound Gilbert Rd @ Broadmoor Blvd",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147721,
-     49.150018
-    ],
-    "type": "Point"
-   },
-   "id": "6878",
-   "properties": {
-    "code": "56813",
-    "desc": "",
-    "id": "6878",
-    "name": "Northbound Gilbert Rd @ 8600 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147713,
-     49.152222
-    ],
-    "type": "Point"
-   },
-   "id": "6879",
-   "properties": {
-    "code": "56814",
-    "desc": "",
-    "id": "6879",
-    "name": "Northbound Gilbert Rd @ Lucas Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147714,
-     49.153483
-    ],
-    "type": "Point"
-   },
-   "id": "6880",
-   "properties": {
-    "code": "56815",
-    "desc": "",
-    "id": "6880",
-    "name": "Northbound Gilbert Rd @ 8200 Block",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -98290,17 +98309,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147928,
-     49.153305
+     -123.147947,
+     49.148009
     ],
     "type": "Point"
    },
-   "id": "6896",
+   "id": "6899",
    "properties": {
-    "code": "56831",
+    "code": "56834",
     "desc": "",
-    "id": "6896",
-    "name": "Southbound Gilbert Rd @ 8200 Block",
+    "id": "6899",
+    "name": "Southbound Gilbert Rd @ Francis Rd",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -98309,17 +98328,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147941,
-     49.151536
+     -123.147961,
+     49.145755
     ],
     "type": "Point"
    },
-   "id": "6897",
+   "id": "6900",
    "properties": {
-    "code": "56832",
+    "code": "56835",
     "desc": "",
-    "id": "6897",
-    "name": "Southbound Gilbert Rd @ Lucas Rd",
+    "id": "6900",
+    "name": "Southbound Gilbert Rd @ Broadmoor Blvd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -98328,74 +98347,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147938,
-     49.149595
+     -123.147971,
+     49.143488
     ],
     "type": "Point"
    },
-   "id": "6898",
+   "id": "6901",
    "properties": {
-    "code": "56833",
+    "code": "56836",
     "desc": "",
-    "id": "6898",
-    "name": "Southbound Gilbert Rd @ 8600 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147996,
-     49.140645
-    ],
-    "type": "Point"
-   },
-   "id": "6902",
-   "properties": {
-    "code": "56837",
-    "desc": "",
-    "id": "6902",
-    "name": "Southbound Gilbert Rd @ Williams Rd",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147951,
-     49.138498
-    ],
-    "type": "Point"
-   },
-   "id": "6903",
-   "properties": {
-    "code": "56838",
-    "desc": "",
-    "id": "6903",
-    "name": "Southbound Gilbert Rd @ Bamberton Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147912,
-     49.13515
-    ],
-    "type": "Point"
-   },
-   "id": "6904",
-   "properties": {
-    "code": "56839",
-    "desc": "",
-    "id": "6904",
-    "name": "Southbound Gilbert Rd @ Kimberley Dr",
+    "id": "6901",
+    "name": "Southbound Gilbert Rd @ Woodwards Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -117813,7 +117775,7 @@
     "code": "60923",
     "desc": "",
     "id": "8529",
-    "name": "Southbound 11 St @ Kings Ave",
+    "name": "Southbound 11th St @ Kings Ave",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -122971,8 +122933,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.112537,
-     49.285902
+     -123.112392,
+     49.285809
     ],
     "type": "Point"
    },
@@ -157714,7 +157676,7 @@
     "desc": "",
     "id": "12313",
     "name": "Eastbound Blue Heron Way @ Swan Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -161275,8 +161237,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.11467,
-     49.233377
+     -123.114517,
+     49.233373
     ],
     "type": "Point"
    },
@@ -166245,7 +166207,7 @@
     "desc": "",
     "id": "12991",
     "name": "Southbound Dragonfly Dr @ Cormorant Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166264,7 +166226,7 @@
     "desc": "",
     "id": "12992",
     "name": "Northbound Dragonfly Dr @ Cormorant Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166283,7 +166245,7 @@
     "desc": "",
     "id": "12993",
     "name": "Northbound Tsawwassen Dr N @ Falcon Way",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166302,7 +166264,7 @@
     "desc": "",
     "id": "12994",
     "name": "Eastbound Wolf Way @ Wren Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166321,7 +166283,7 @@
     "desc": "",
     "id": "12995",
     "name": "Westbound Wolf Way @ Wren Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166340,7 +166302,7 @@
     "desc": "",
     "id": "12996",
     "name": "Westbound Salish Sea Way @ Dragonfly Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166359,7 +166321,7 @@
     "desc": "",
     "id": "12997",
     "name": "Eastbound Salish Sea Way @ Dragonfly Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166378,7 +166340,7 @@
     "desc": "",
     "id": "12998",
     "name": "Southbound 41B St @ 28B Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166397,7 +166359,7 @@
     "desc": "",
     "id": "12999",
     "name": "Northbound 41B St @ 28B Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166416,7 +166378,7 @@
     "desc": "",
     "id": "13000",
     "name": "Westbound Blue Heron Way @ Swan Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166587,25 +166549,6 @@
     "desc": "",
     "id": "13011",
     "name": "Westbound E Hastings St @ Penticton St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.12266,
-     49.28697
-    ],
-    "type": "Point"
-   },
-   "id": "13012",
-   "properties": {
-    "code": "61756",
-    "desc": "",
-    "id": "13012",
-    "name": "Westbound Melville St  @ Thurlow St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
