@@ -98,6 +98,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.126514,
+     49.277437
+    ],
+    "type": "Point"
+   },
+   "id": "25",
+   "properties": {
+    "code": "50025",
+    "desc": "",
+    "id": "25",
+    "name": "Westbound Davie St @ Granville St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.127493,
      49.278073
     ],
@@ -6957,8 +6976,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116425,
-     49.234
+     -123.116399,
+     49.234584
     ],
     "type": "Point"
    },
@@ -9780,44 +9799,6 @@
     "desc": "",
     "id": "820",
     "name": "Southbound Oak St @ Park Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.130325,
-     49.21048
-    ],
-    "type": "Point"
-   },
-   "id": "822",
-   "properties": {
-    "code": "50815",
-    "desc": "",
-    "id": "822",
-    "name": "Southbound Oak St @ W 67 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.130386,
-     49.208654
-    ],
-    "type": "Point"
-   },
-   "id": "823",
-   "properties": {
-    "code": "50816",
-    "desc": "",
-    "id": "823",
-    "name": "Southbound Oak St @ W 70 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -29920,7 +29901,7 @@
     "desc": "",
     "id": "2280",
     "name": "Eastbound Armstrong Ave @ Cumberland St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -41795,7 +41776,7 @@
     "desc": "",
     "id": "3105",
     "name": "Northbound Sperling Ave @ Broadway",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -42973,25 +42954,6 @@
     "desc": "",
     "id": "3196",
     "name": "Northbound Johnson St @ Packard Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.797418,
-     49.285107
-    ],
-    "type": "Point"
-   },
-   "id": "3199",
-   "properties": {
-    "code": "53165",
-    "desc": "",
-    "id": "3199",
-    "name": "Eastbound Guildford Way @ Pacific St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -48966,8 +48928,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.853697,
-     49.245093
+     -122.854844,
+     49.24507
     ],
     "type": "Point"
    },
@@ -48977,7 +48939,7 @@
     "desc": "",
     "id": "3646",
     "name": "Westbound Rochester Ave @ Schoolhouse St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -71587,7 +71549,7 @@
     "desc": "",
     "id": "5160",
     "name": "Southbound 133A St @ 114 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -72233,7 +72195,7 @@
     "desc": "",
     "id": "5197",
     "name": "Westbound Grosvenor Rd @ 142 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -72385,7 +72347,7 @@
     "desc": "",
     "id": "5205",
     "name": "Northbound 133A St @ Crestview Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -83158,7 +83120,7 @@
     "desc": "",
     "id": "5877",
     "name": "Westbound 75 Ave @ 123A St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -83177,7 +83139,7 @@
     "desc": "",
     "id": "5878",
     "name": "Westbound 75 Ave @ 122A St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -83215,7 +83177,7 @@
     "desc": "",
     "id": "5881",
     "name": "Eastbound 75 Ave @ 122A St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -85932,7 +85894,7 @@
     "desc": "",
     "id": "6058",
     "name": "Southbound 142 St @ 60 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -94946,6 +94908,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.129947,
+     49.133431
+    ],
+    "type": "Point"
+   },
+   "id": "6696",
+   "properties": {
+    "code": "56634",
+    "desc": "",
+    "id": "6696",
+    "name": "Eastbound Steveston Hwy @ Roseland Gate",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.123858,
+     49.133394
+    ],
+    "type": "Point"
+   },
+   "id": "6697",
+   "properties": {
+    "code": "56635",
+    "desc": "",
+    "id": "6697",
+    "name": "Eastbound Steveston Hwy @ 9000 Block",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.121436,
      49.133398
     ],
@@ -102861,6 +102861,25 @@
     "desc": "",
     "id": "7210",
     "name": "Westbound Fraser Hwy @ 194 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.845209,
+     49.18822
+    ],
+    "type": "Point"
+   },
+   "id": "7213",
+   "properties": {
+    "code": "57142",
+    "desc": "",
+    "id": "7213",
+    "name": "Northbound King George Blvd @ 102 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -132102,7 +132121,7 @@
     "desc": "",
     "id": "10179",
     "name": "Southbound 124 St @ 59A Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -137593,7 +137612,7 @@
     "desc": "",
     "id": "10723",
     "name": "Southbound 132 St @ 115 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -141116,25 +141135,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.105056,
-     49.240633
-    ],
-    "type": "Point"
-   },
-   "id": "11047",
-   "properties": {
-    "code": "61119",
-    "desc": "",
-    "id": "11047",
-    "name": "Westbound E 33 Ave @ Ontario St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.059192,
      49.239843
     ],
@@ -141146,25 +141146,6 @@
     "desc": "",
     "id": "11048",
     "name": "Westbound E 33 Ave @ Nanaimo St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.104966,
-     49.240505
-    ],
-    "type": "Point"
-   },
-   "id": "11049",
-   "properties": {
-    "code": "61101",
-    "desc": "",
-    "id": "11049",
-    "name": "Eastbound E 33 Ave @ Ontario St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -146227,6 +146208,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.126905,
+     49.276786
+    ],
+    "type": "Point"
+   },
+   "id": "11427",
+   "properties": {
+    "code": "50535",
+    "desc": "",
+    "id": "11427",
+    "name": "Southbound Granville St @ Davie St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.125372,
      49.277584
     ],
@@ -147283,6 +147283,25 @@
     "desc": "",
     "id": "11541",
     "name": "Southbound West Blvd @ W 57 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.126768,
+     49.278166
+    ],
+    "type": "Point"
+   },
+   "id": "11542",
+   "properties": {
+    "code": "61522",
+    "desc": "",
+    "id": "11542",
+    "name": "Southbound Howe St @ Davie St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165447,44 +165466,6 @@
     "desc": "",
     "id": "12966",
     "name": "Westbound Austin Ave @ Gatensbury St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.126009,
-     49.277382
-    ],
-    "type": "Point"
-   },
-   "id": "12967",
-   "properties": {
-    "code": "60656",
-    "desc": "",
-    "id": "12967",
-    "name": "Southbound Granville @ Davie",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.1276,
-     49.277607
-    ],
-    "type": "Point"
-   },
-   "id": "12968",
-   "properties": {
-    "code": "54834",
-    "desc": "",
-    "id": "12968",
-    "name": "Southbound Howe @ Davie",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
