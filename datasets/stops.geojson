@@ -10539,7 +10539,7 @@
     "code": "50880",
     "desc": "",
     "id": "887",
-    "name": "Eastbound E Broadway @ Kingsway St",
+    "name": "Eastbound E Broadway @ Kingsway",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -21264,8 +21264,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.178367,
-     49.249984
+     -123.179099,
+     49.250186
     ],
     "type": "Point"
    },
@@ -36882,6 +36882,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.983303,
+     49.258915
+    ],
+    "type": "Point"
+   },
+   "id": "2783",
+   "properties": {
+    "code": "52755",
+    "desc": "",
+    "id": "2783",
+    "name": "Southbound Douglas Rd @ Norland Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.982634,
      49.256304
     ],
@@ -42373,17 +42392,17 @@
   {
    "geometry": {
     "coordinates": [
-     -122.892802,
-     49.255307
+     -122.892752,
+     49.253122
     ],
     "type": "Point"
    },
-   "id": "3152",
+   "id": "3151",
    "properties": {
-    "code": "53119",
+    "code": "53118",
     "desc": "",
-    "id": "3152",
-    "name": "Northbound North Rd @ 600 Block",
+    "id": "3151",
+    "name": "Northbound North Rd @ Cameron St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -42461,25 +42480,6 @@
     "id": "3156",
     "name": "Northbound Clarke Rd @ Como Lake Ave",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.884903,
-     49.265491
-    ],
-    "type": "Point"
-   },
-   "id": "3157",
-   "properties": {
-    "code": "53124",
-    "desc": "",
-    "id": "3157",
-    "name": "Northbound Clarke Rd @ Morrison Ave",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -77629,7 +77629,7 @@
     "desc": "",
     "id": "5567",
     "name": "Southbound Scott Rd @ Preddy Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -93331,17 +93331,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.15879,
-     49.137774
+     -123.158778,
+     49.135984
     ],
     "type": "Point"
    },
-   "id": "6589",
+   "id": "6588",
    "properties": {
-    "code": "56528",
+    "code": "56527",
     "desc": "",
-    "id": "6589",
-    "name": "Northbound No. 2 Rd @ Wallace Rd",
+    "id": "6588",
+    "name": "Northbound No. 2 Rd @ Spender Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -117756,7 +117756,7 @@
     "code": "60923",
     "desc": "",
     "id": "8529",
-    "name": "Southbound 11th St @ Kings Ave",
+    "name": "Southbound 11th St @ Fulton Ave",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -136566,7 +136566,7 @@
     "code": "58614",
     "desc": "",
     "id": "10620",
-    "name": "Eastbound E Broadway St @ Fraser St",
+    "name": "Eastbound E Broadway  @ Fraser St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -137384,7 +137384,7 @@
     "desc": "",
     "id": "10710",
     "name": "Westbound 115 Ave @ 132 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -146208,6 +146208,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.127092,
+     49.276487
+    ],
+    "type": "Point"
+   },
+   "id": "11426",
+   "properties": {
+    "code": "58593",
+    "desc": "",
+    "id": "11426",
+    "name": "Northbound Granville St @ Drake St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.126905,
      49.276786
     ],
@@ -151520,25 +151539,6 @@
     "desc": "",
     "id": "11880",
     "name": "Eastbound 86 Ave @ 200 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.126431,
-     49.280758
-    ],
-    "type": "Point"
-   },
-   "id": "11881",
-   "properties": {
-    "code": "61759",
-    "desc": "",
-    "id": "11881",
-    "name": "Northbound Burrard St @ Comox St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166207,6 +166207,82 @@
     "desc": "",
     "id": "13015",
     "name": "Southbound McKenzie Ave @ Sunshine Alley",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.883423,
+     49.266694
+    ],
+    "type": "Point"
+   },
+   "id": "13030",
+   "properties": {
+    "code": "61942",
+    "desc": "",
+    "id": "13030",
+    "name": "Northbound Clarke Rd @ Kemsley Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.172648,
+     49.250158
+    ],
+    "type": "Point"
+   },
+   "id": "13031",
+   "properties": {
+    "code": "60660",
+    "desc": "",
+    "id": "13031",
+    "name": "Westbound W King Edward Ave @ Quesnel Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.130427,
+     49.207837
+    ],
+    "type": "Point"
+   },
+   "id": "13032",
+   "properties": {
+    "code": "61991",
+    "desc": "",
+    "id": "13032",
+    "name": "Southbound Oak St @ W 70 Ave",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.130288,
+     49.211806
+    ],
+    "type": "Point"
+   },
+   "id": "13033",
+   "properties": {
+    "code": "61992",
+    "desc": "",
+    "id": "13033",
+    "name": "Southbound Oak St @ W 67 Ave",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
