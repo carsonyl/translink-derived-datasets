@@ -15184,6 +15184,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.072897,
+     49.248894
+    ],
+    "type": "Point"
+   },
+   "id": "1201",
+   "properties": {
+    "code": "51192",
+    "desc": "",
+    "id": "1201",
+    "name": "Westbound Kingsway @ Dumfries St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.076585,
      49.25051
     ],
@@ -27971,44 +27990,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.138831,
-     49.208535
-    ],
-    "type": "Point"
-   },
-   "id": "2138",
-   "properties": {
-    "code": "52118",
-    "desc": "",
-    "id": "2138",
-    "name": "Eastbound W 70 Ave @ French St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.1347,
-     49.208213
-    ],
-    "type": "Point"
-   },
-   "id": "2139",
-   "properties": {
-    "code": "52119",
-    "desc": "",
-    "id": "2139",
-    "name": "Southbound Hudson St @ W 70 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.134764,
      49.2063
     ],
@@ -36019,25 +36000,6 @@
     "desc": "",
     "id": "2717",
     "name": "Metrotown Station @ Bay 1",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.998195,
-     49.222
-    ],
-    "type": "Point"
-   },
-   "id": "2718",
-   "properties": {
-    "code": "52693",
-    "desc": "",
-    "id": "2718",
-    "name": "Westbound Imperial St @ Waverley Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -67244,8 +67206,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.138259,
-     49.267404
+     -123.138273,
+     49.267439
     ],
     "type": "Point"
    },
@@ -70200,7 +70162,7 @@
     "desc": "",
     "id": "5075",
     "name": "Westbound 84 Ave @ 110A St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -71416,7 +71378,7 @@
     "desc": "",
     "id": "5145",
     "name": "Southbound 116 St @ 76A Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -101311,6 +101273,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.660798,
+     49.105736
+    ],
+    "type": "Point"
+   },
+   "id": "7097",
+   "properties": {
+    "code": "57029",
+    "desc": "",
+    "id": "7097",
+    "name": "Westbound Fraser Hwy @ 203 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.664865,
      49.107254
     ],
@@ -107003,7 +106984,7 @@
     "desc": "",
     "id": "7512",
     "name": "Eastbound Milsom Wynd @ Galway Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -107516,7 +107497,7 @@
     "desc": "",
     "id": "7540",
     "name": "Westbound 1st Ave @ 5400 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -107649,7 +107630,7 @@
     "desc": "",
     "id": "7547",
     "name": "Eastbound 1st Ave @ 53A St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -108314,7 +108295,7 @@
     "desc": "",
     "id": "7583",
     "name": "Southbound Admiral Blvd @ Commodore Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -108409,7 +108390,7 @@
     "desc": "",
     "id": "7588",
     "name": "Southbound 57 St @ Crescent Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -108428,7 +108409,7 @@
     "desc": "",
     "id": "7589",
     "name": "Southbound 57 St @ Grove Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -108447,7 +108428,7 @@
     "desc": "",
     "id": "7590",
     "name": "Southbound 57 St @ 49B Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -108504,7 +108485,7 @@
     "desc": "",
     "id": "7593",
     "name": "Westbound Harvest Dr @ 57 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -108523,7 +108504,7 @@
     "desc": "",
     "id": "7594",
     "name": "Westbound 44 Ave @ Hutcherson Lane",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -108542,7 +108523,7 @@
     "desc": "",
     "id": "7595",
     "name": "Westbound 44 Ave @ 5400 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -108561,7 +108542,7 @@
     "desc": "",
     "id": "7596",
     "name": "Westbound 44 Ave @ Maple Lane",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -108827,7 +108808,7 @@
     "desc": "",
     "id": "7610",
     "name": "Eastbound Harvest Dr @ 57 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -140185,8 +140166,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.099733,
-     49.282699
+     -123.099741,
+     49.282713
     ],
     "type": "Point"
    },
@@ -143597,7 +143578,7 @@
     "desc": "",
     "id": "11219",
     "name": "Northbound Admiral Blvd @ Commodore Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -162928,25 +162909,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.073752,
-     49.249256
-    ],
-    "type": "Point"
-   },
-   "id": "12775",
-   "properties": {
-    "code": "60540",
-    "desc": "",
-    "id": "12775",
-    "name": "Westbound Kingsway @ Dumfries St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.783603,
      49.263652
     ],
@@ -166188,25 +166150,6 @@
     "desc": "",
     "id": "13032",
     "name": "Southbound Oak St @ W 70 Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.130288,
-     49.211806
-    ],
-    "type": "Point"
-   },
-   "id": "13033",
-   "properties": {
-    "code": "61992",
-    "desc": "",
-    "id": "13033",
-    "name": "Southbound Oak St @ W 67 Ave",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
