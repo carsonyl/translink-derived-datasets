@@ -136,6 +136,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.125521,
+     49.281364
+    ],
+    "type": "Point"
+   },
+   "id": "29",
+   "properties": {
+    "code": "50029",
+    "desc": "",
+    "id": "29",
+    "name": "Northbound Burrard St @ Nelson St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.12214,
      49.283593
     ],
@@ -20865,8 +20884,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.073107,
-     49.24854
+     -123.073165,
+     49.248545
     ],
     "type": "Point"
    },
@@ -42335,25 +42354,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.89284,
-     49.257159
-    ],
-    "type": "Point"
-   },
-   "id": "3153",
-   "properties": {
-    "code": "53120",
-    "desc": "",
-    "id": "3153",
-    "name": "Northbound North Rd @ Foster Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.892871,
      49.258543
     ],
@@ -50277,25 +50277,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.795058,
-     49.284897
-    ],
-    "type": "Point"
-   },
-   "id": "3768",
-   "properties": {
-    "code": "53729",
-    "desc": "",
-    "id": "3768",
-    "name": "Eastbound Guildford Way @ Town Centre Blvd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.798427,
      49.275845
     ],
@@ -50497,25 +50478,6 @@
     "desc": "",
     "id": "3780",
     "name": "Northbound Pinetree Way @ Anson Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.793781,
-     49.285085
-    ],
-    "type": "Point"
-   },
-   "id": "3782",
-   "properties": {
-    "code": "53743",
-    "desc": "",
-    "id": "3782",
-    "name": "Lafarge Lake-Douglas Station @ Bay 3",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
