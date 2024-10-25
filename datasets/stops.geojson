@@ -11698,7 +11698,7 @@
     "code": "50955",
     "desc": "",
     "id": "963",
-    "name": "Kootenay Loop Loop @ Bay 5",
+    "name": "Kootenay Loop @ Bay 5",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -18044,7 +18044,7 @@
     "code": "58143",
     "desc": "",
     "id": "1387",
-    "name": "Kootenay Loop Loop @ Bay 8",
+    "name": "Kootenay Loop @ Bay 8",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -19640,7 +19640,7 @@
     "code": "51470",
     "desc": "",
     "id": "1482",
-    "name": "Kootenay Loop Loop @ Bay 6",
+    "name": "Kootenay Loop @ Bay 6",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -20476,7 +20476,7 @@
     "code": "51536",
     "desc": "",
     "id": "1548",
-    "name": "Eastbound E 22 Ave @ Kootenay Loop St",
+    "name": "Eastbound E 22 Ave @ Kootenay St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -23003,7 +23003,7 @@
     "code": "51693",
     "desc": "",
     "id": "1707",
-    "name": "Eastbound Adanac St @ Kootenay Loop St",
+    "name": "Eastbound Adanac St @ Kootenay St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -23041,7 +23041,7 @@
     "code": "51695",
     "desc": "",
     "id": "1709",
-    "name": "Kootenay Loop Loop @ Bay 3",
+    "name": "Kootenay Loop @ Bay 3",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -34716,63 +34716,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.955497,
-     49.210902
-    ],
-    "type": "Point"
-   },
-   "id": "2631",
-   "properties": {
-    "code": "52606",
-    "desc": "",
-    "id": "2631",
-    "name": "Southbound Griffiths Dr @ Southpoint Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.953152,
-     49.210392
-    ],
-    "type": "Point"
-   },
-   "id": "2632",
-   "properties": {
-    "code": "52607",
-    "desc": "",
-    "id": "2632",
-    "name": "Eastbound 14 Ave @ Griffiths Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.948,
-     49.213997
-    ],
-    "type": "Point"
-   },
-   "id": "2634",
-   "properties": {
-    "code": "52609",
-    "desc": "",
-    "id": "2634",
-    "name": "Westbound 14th Ave @ 15th St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.943021,
      49.21627
     ],
@@ -35088,25 +35031,6 @@
     "desc": "",
     "id": "2654",
     "name": "Eastbound 14 Ave @ 15 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.953538,
-     49.210182
-    ],
-    "type": "Point"
-   },
-   "id": "2656",
-   "properties": {
-    "code": "52631",
-    "desc": "",
-    "id": "2656",
-    "name": "Westbound 14 Ave @ Griffiths Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -36379,7 +36303,7 @@
     "code": "52717",
     "desc": "",
     "id": "2742",
-    "name": "Kootenay Loop Loop @ Bay 7",
+    "name": "Kootenay Loop @ Bay 7",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -73096,6 +73020,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.84108,
+     49.191475
+    ],
+    "type": "Point"
+   },
+   "id": "5266",
+   "properties": {
+    "code": "55214",
+    "desc": "",
+    "id": "5266",
+    "name": "Eastbound 104 Ave @ Whalley Blvd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.837192,
      49.191424
     ],
@@ -75444,6 +75387,25 @@
     "desc": "",
     "id": "5425",
     "name": "Westbound 104 Ave @ 138A St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.842718,
+     49.191674
+    ],
+    "type": "Point"
+   },
+   "id": "5426",
+   "properties": {
+    "code": "55373",
+    "desc": "",
+    "id": "5426",
+    "name": "Westbound 104 Ave @ Whalley Blvd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -95858,25 +95820,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.091838,
-     49.16978
-    ],
-    "type": "Point"
-   },
-   "id": "6758",
-   "properties": {
-    "code": "56694",
-    "desc": "",
-    "id": "6758",
-    "name": "Southbound No. 5 Rd @ Westminster Hwy",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.09177,
      49.166032
     ],
@@ -115590,7 +115533,7 @@
     "code": "58042",
     "desc": "",
     "id": "8139",
-    "name": "Kootenay Loop Loop @ Bay 2",
+    "name": "Kootenay Loop @ Bay 2",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -115609,7 +115552,7 @@
     "code": "58043",
     "desc": "",
     "id": "8140",
-    "name": "Kootenay Loop Loop @ Bay 4",
+    "name": "Kootenay Loop @ Bay 4",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -133915,25 +133858,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.953563,
-     49.209454
-    ],
-    "type": "Point"
-   },
-   "id": "10333",
-   "properties": {
-    "code": "59744",
-    "desc": "",
-    "id": "10333",
-    "name": "Southbound Griffiths Dr @ 14 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.977921,
      49.204316
     ],
@@ -151462,7 +151386,7 @@
     "code": "61806",
     "desc": "",
     "id": "11878",
-    "name": "Southbound Willingdon Ave @ Buchanan St",
+    "name": "Brentwood Station @ Bay 6",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -157314,7 +157238,7 @@
     "code": "59889",
     "desc": "",
     "id": "12318",
-    "name": "Kootenay Loop Loop @ Bay 1",
+    "name": "Kootenay Loop @ Bay 1",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -162206,8 +162130,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.148612,
-     49.260992
+     -123.149018,
+     49.261008
     ],
     "type": "Point"
    },
@@ -162236,25 +162160,6 @@
     "desc": "",
     "id": "12706",
     "name": "Eastbound W 12 Ave @ Pine St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.143876,
-     49.260917
-    ],
-    "type": "Point"
-   },
-   "id": "12707",
-   "properties": {
-    "code": "60412",
-    "desc": "",
-    "id": "12707",
-    "name": "Westbound W 12th Ave @ Pine St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -162655,6 +162560,25 @@
     "id": "12744",
     "name": "Westbound W 49 Ave @ Yew St",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.945786,
+     49.213415
+    ],
+    "type": "Point"
+   },
+   "id": "12746",
+   "properties": {
+    "code": "60513",
+    "desc": "",
+    "id": "12746",
+    "name": "Southbound 15 St @ 14 Ave",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166151,6 +166075,25 @@
     "id": "13035",
     "name": "Eastbound Smith @ Fairview",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.142116,
+     49.26091
+    ],
+    "type": "Point"
+   },
+   "id": "13036",
+   "properties": {
+    "code": "61995",
+    "desc": "",
+    "id": "13036",
+    "name": "Westbound W 12 Ave @ Pine St",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
