@@ -1010,25 +1010,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.155439,
-     49.272645
-    ],
-    "type": "Point"
-   },
-   "id": "104",
-   "properties": {
-    "code": "50104",
-    "desc": "",
-    "id": "104",
-    "name": "Westbound Cornwall Ave @ Yew St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.160216,
      49.272731
     ],
@@ -24030,6 +24011,25 @@
     "desc": "",
     "id": "1790",
     "name": "Southbound Smith Ave @ Nithsdale St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.019899,
+     49.25
+    ],
+    "type": "Point"
+   },
+   "id": "1791",
+   "properties": {
+    "code": "51777",
+    "desc": "",
+    "id": "1791",
+    "name": "Southbound Smith Ave @ Sunset St",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -60993,8 +60993,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.070101,
-     49.321983
+     -123.0688,
+     49.321969
     ],
     "type": "Point"
    },
@@ -61107,8 +61107,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.065219,
-     49.322053
+     -123.066504,
+     49.322074
     ],
     "type": "Point"
    },
@@ -79917,25 +79917,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.856704,
-     49.148507
-    ],
-    "type": "Point"
-   },
-   "id": "5710",
-   "properties": {
-    "code": "55655",
-    "desc": "",
-    "id": "5710",
-    "name": "Northbound 132 St @ 80 Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.856702,
      49.151125
     ],
@@ -83424,6 +83405,25 @@
     "desc": "",
     "id": "5903",
     "name": "Westbound 108 Ave @ 142 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.834564,
+     49.19892
+    ],
+    "type": "Point"
+   },
+   "id": "5904",
+   "properties": {
+    "code": "55849",
+    "desc": "",
+    "id": "5904",
+    "name": "Westbound 108 Ave @ 140 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -123389,25 +123389,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.780733,
-     49.29401
-    ],
-    "type": "Point"
-   },
-   "id": "9134",
-   "properties": {
-    "code": "58815",
-    "desc": "",
-    "id": "9134",
-    "name": "Southbound Pipeline Rd @ Dayanee Springs Blvd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.140711,
      49.20811
     ],
@@ -149628,25 +149609,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.929167,
-     49.220753
-    ],
-    "type": "Point"
-   },
-   "id": "11733",
-   "properties": {
-    "code": "61601",
-    "desc": "",
-    "id": "11733",
-    "name": "Westbound 12 Ave @ 6th St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.795077,
      49.045508
     ],
@@ -155301,6 +155263,25 @@
     "desc": "",
     "id": "12194",
     "name": "Southbound 208 St @ 76 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.646025,
+     49.129378
+    ],
+    "type": "Point"
+   },
+   "id": "12195",
+   "properties": {
+    "code": "57920",
+    "desc": "",
+    "id": "12195",
+    "name": "Southbound 208 St @ 70 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -163889,25 +163870,6 @@
     "desc": "",
     "id": "12864",
     "name": "Northbound Gilmore Ave @ Dawson St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.83316,
-     49.198923
-    ],
-    "type": "Point"
-   },
-   "id": "12865",
-   "properties": {
-    "code": "60606",
-    "desc": "",
-    "id": "12865",
-    "name": "Westbound 108 Ave @ 140 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
