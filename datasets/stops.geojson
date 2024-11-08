@@ -48624,63 +48624,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.867437,
-     49.238202
-    ],
-    "type": "Point"
-   },
-   "id": "3637",
-   "properties": {
-    "code": "53598",
-    "desc": "",
-    "id": "3637",
-    "name": "Northbound Lebleu St @ Brunette Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.866325,
-     49.239664
-    ],
-    "type": "Point"
-   },
-   "id": "3638",
-   "properties": {
-    "code": "53599",
-    "desc": "",
-    "id": "3638",
-    "name": "Eastbound Alderson Ave @ Lebleu St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.86469,
-     49.239688
-    ],
-    "type": "Point"
-   },
-   "id": "3639",
-   "properties": {
-    "code": "53600",
-    "desc": "",
-    "id": "3639",
-    "name": "Eastbound Alderson Ave @ Nelson St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.862168,
      49.241541
     ],
@@ -53184,25 +53127,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.778497,
-     49.298489
-    ],
-    "type": "Point"
-   },
-   "id": "3987",
-   "properties": {
-    "code": "53946",
-    "desc": "",
-    "id": "3987",
-    "name": "Southbound Pipeline Rd @ Robson Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.062174,
      49.308441
     ],
@@ -56463,25 +56387,6 @@
     "desc": "",
     "id": "4196",
     "name": "Westbound E 3rd St @ St. Andrews Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.074445,
-     49.312375
-    ],
-    "type": "Point"
-   },
-   "id": "4197",
-   "properties": {
-    "code": "54152",
-    "desc": "",
-    "id": "4197",
-    "name": "Westbound E 3rd St @ St. Georges Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -75015,25 +74920,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.768544,
-     49.153407
-    ],
-    "type": "Point"
-   },
-   "id": "5406",
-   "properties": {
-    "code": "55353",
-    "desc": "",
-    "id": "5406",
-    "name": "Westbound Fraser Hwy @ 164 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.775055,
      49.155963
     ],
@@ -80764,25 +80650,6 @@
     "desc": "",
     "id": "5755",
     "name": "Northbound 140 St @ 86A Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.834507,
-     49.163216
-    ],
-    "type": "Point"
-   },
-   "id": "5756",
-   "properties": {
-    "code": "55701",
-    "desc": "",
-    "id": "5756",
-    "name": "Northbound 140 St @ 88 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -87518,6 +87385,25 @@
    "geometry": {
     "coordinates": [
      -122.801046,
+     49.027846
+    ],
+    "type": "Point"
+   },
+   "id": "6172",
+   "properties": {
+    "code": "56114",
+    "desc": "",
+    "id": "6172",
+    "name": "Northbound Johnston Rd @ Thrift Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.801046,
      49.029973
     ],
     "type": "Point"
@@ -90283,6 +90169,25 @@
     "desc": "",
     "id": "6356",
     "name": "Eastbound North Bluff Rd @ Blackwood St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.801323,
+     49.027828
+    ],
+    "type": "Point"
+   },
+   "id": "6357",
+   "properties": {
+    "code": "56297",
+    "desc": "",
+    "id": "6357",
+    "name": "Southbound Johnston Rd @ Thrift Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -117623,7 +117528,7 @@
     "code": "60923",
     "desc": "",
     "id": "8529",
-    "name": "Southbound 11th St @ Fulton Ave",
+    "name": "Southbound 11th St @ Kings Ave",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -135796,25 +135701,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.746555,
-     49.246538
-    ],
-    "type": "Point"
-   },
-   "id": "10569",
-   "properties": {
-    "code": "59913",
-    "desc": "",
-    "id": "10569",
-    "name": "Eastbound Mary Hill Bypass @ Kingsway Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.001707,
      49.144143
     ],
@@ -141002,6 +140888,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.105056,
+     49.240633
+    ],
+    "type": "Point"
+   },
+   "id": "11047",
+   "properties": {
+    "code": "61119",
+    "desc": "",
+    "id": "11047",
+    "name": "Westbound E 33 Ave @ Ontario St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.059192,
      49.239843
     ],
@@ -141013,6 +140918,25 @@
     "desc": "",
     "id": "11048",
     "name": "Westbound E 33 Ave @ Nanaimo St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.104966,
+     49.240505
+    ],
+    "type": "Point"
+   },
+   "id": "11049",
+   "properties": {
+    "code": "61101",
+    "desc": "",
+    "id": "11049",
+    "name": "Eastbound E 33 Ave @ Ontario St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -152193,25 +152117,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.78232,
-     49.292731
-    ],
-    "type": "Point"
-   },
-   "id": "11952",
-   "properties": {
-    "code": "59400",
-    "desc": "",
-    "id": "11952",
-    "name": "Eastbound David Ave @ Pipeline Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.770088,
      49.253331
     ],
@@ -160002,25 +159907,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.803458,
-     49.027655
-    ],
-    "type": "Point"
-   },
-   "id": "12511",
-   "properties": {
-    "code": "60245",
-    "desc": "",
-    "id": "12511",
-    "name": "Westbound Thrift Ave @ Foster St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.692402,
      49.118734
     ],
@@ -160659,25 +160545,6 @@
     "desc": "",
     "id": "12581",
     "name": "Southbound Cambie St @ W Georgia St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.115623,
-     49.233415
-    ],
-    "type": "Point"
-   },
-   "id": "12585",
-   "properties": {
-    "code": "50137",
-    "desc": "",
-    "id": "12585",
-    "name": "Oakridge-41st Ave Station @ Bay 2",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -161837,25 +161704,6 @@
     "desc": "",
     "id": "12681",
     "name": "Burrard Station @ Bay 6",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.077751,
-     49.312929
-    ],
-    "type": "Point"
-   },
-   "id": "12682",
-   "properties": {
-    "code": "60380",
-    "desc": "",
-    "id": "12682",
-    "name": "Southbound Lonsdale Ave @ W 3rd St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165257,25 +165105,6 @@
     "desc": "",
     "id": "12972",
     "name": "SFU Transit Exchange @ Bay 4",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.800561,
-     49.027485
-    ],
-    "type": "Point"
-   },
-   "id": "12973",
-   "properties": {
-    "code": "59448",
-    "desc": "",
-    "id": "12973",
-    "name": "Eastbound Thrift Ave @ Johnston Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
