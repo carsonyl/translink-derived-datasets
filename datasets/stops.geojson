@@ -12478,7 +12478,7 @@
     "desc": "",
     "id": "1033",
     "name": "Northbound West Blvd @ W 37 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -12497,7 +12497,7 @@
     "desc": "",
     "id": "1035",
     "name": "Northbound Arbutus St @ Quilchena Cres",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -35951,25 +35951,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.001621,
-     49.222
-    ],
-    "type": "Point"
-   },
-   "id": "2719",
-   "properties": {
-    "code": "52694",
-    "desc": "",
-    "id": "2719",
-    "name": "Westbound Imperial St @ Frederick Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.003694,
      49.222001
     ],
@@ -44330,8 +44311,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.830278,
-     49.294524
+     -122.830027,
+     49.294455
     ],
     "type": "Point"
    },
@@ -51809,6 +51790,25 @@
     "id": "3890",
     "name": "Southbound Coast Meridian Rd @ Victoria Dr",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.756671,
+     49.284336
+    ],
+    "type": "Point"
+   },
+   "id": "3891",
+   "properties": {
+    "code": "53851",
+    "desc": "",
+    "id": "3891",
+    "name": "Westbound Greenmount Ave @ Coast Meridian Rd",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -96078,7 +96078,7 @@
     "desc": "",
     "id": "6777",
     "name": "Westbound Machrina Way @ No. 5 Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -104419,7 +104419,7 @@
     "desc": "",
     "id": "7334",
     "name": "Southbound 213 St @ 93B Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -104438,7 +104438,7 @@
     "desc": "",
     "id": "7335",
     "name": "Southbound 213 St @ 92B Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -104590,7 +104590,7 @@
     "desc": "",
     "id": "7344",
     "name": "Northbound 213 St @ 93B Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -108227,8 +108227,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.065334,
-     49.093077
+     -123.065351,
+     49.092668
     ],
     "type": "Point"
    },
@@ -121006,7 +121006,7 @@
     "desc": "",
     "id": "8925",
     "name": "Westbound 46 Ave @ 217B St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -121025,7 +121025,7 @@
     "desc": "",
     "id": "8926",
     "name": "Westbound 46 Ave @ 216 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -121280,6 +121280,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.668233,
+     49.100663
+    ],
+    "type": "Point"
+   },
+   "id": "8941",
+   "properties": {
+    "code": "58554",
+    "desc": "",
+    "id": "8941",
+    "name": "Eastbound Michaud Cres @ 200 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.663872,
      49.102161
     ],
@@ -121500,7 +121519,7 @@
     "desc": "",
     "id": "8956",
     "name": "Eastbound 46 Ave @ 220 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -123085,6 +123104,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.094673,
+     49.31613
+    ],
+    "type": "Point"
+   },
+   "id": "9111",
+   "properties": {
+    "code": "58738",
+    "desc": "",
+    "id": "9111",
+    "name": "Northbound Fell Ave @ AutoMall Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.120673,
      49.284015
     ],
@@ -123921,8 +123959,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.830662,
-     49.294756
+     -122.83086,
+     49.294819
     ],
     "type": "Point"
    },
@@ -123932,7 +123970,7 @@
     "desc": "",
     "id": "9217",
     "name": "Westbound Ravine Dr @ Buckhorn Place",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -132091,6 +132129,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.760387,
+     49.284281
+    ],
+    "type": "Point"
+   },
+   "id": "10195",
+   "properties": {
+    "code": "59043",
+    "desc": "",
+    "id": "10195",
+    "name": "Eastbound Greenmount Ave @ Wellington St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.080036,
      49.266014
     ],
@@ -137460,7 +137517,7 @@
     "desc": "",
     "id": "10737",
     "name": "Northbound 201A St @ Michaud Cres",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -165189,25 +165246,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.761732,
-     49.283605
-    ],
-    "type": "Point"
-   },
-   "id": "12980",
-   "properties": {
-    "code": "53852",
-    "desc": "",
-    "id": "12980",
-    "name": "Southbound Wellington @ Renton",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.150852,
      49.25072
     ],
@@ -165885,6 +165923,25 @@
     "id": "13036",
     "name": "Westbound W 12 Ave @ Pine St",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.746634,
+     49.246057
+    ],
+    "type": "Point"
+   },
+   "id": "13037",
+   "properties": {
+    "code": "61997",
+    "desc": "",
+    "id": "13037",
+    "name": "Westbound Kingsway Ave @ Mary Hill Bypass",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
