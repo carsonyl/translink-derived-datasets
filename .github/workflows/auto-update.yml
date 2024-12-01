@@ -1,6 +1,4 @@
-# This is a basic workflow to help you get started with Actions
-
-name: Update from GTFS and RTTI
+name: Update from GTFS
 
 on:
   schedule:
@@ -32,8 +30,6 @@ jobs:
           git config --local user.name "github-actions[bot]"
       
       - name: Download and detect changes
-        env:
-          TL_API_KEY: ${{ secrets.TL_API_KEY }}
         run: |
           python workflow.py changes
           python workflow.py git

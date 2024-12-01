@@ -3,18 +3,15 @@ import shutil
 import subprocess
 from csv import DictReader, DictWriter
 from datetime import date, timedelta
-from io import BytesIO
 from itertools import groupby
 from tempfile import TemporaryFile
 from zipfile import ZipFile
 
 import click
 import geojson
-from fastkml import KML, LineStyle
-from geojson import Point, Feature, FeatureCollection, LineString, MultiLineString
+from geojson import Point, Feature, FeatureCollection, LineString
 from requests import Session
 from requests.adapters import HTTPAdapter
-from tilapya import RTTI, TransLinkAPIError
 from urllib3 import Retry
 
 
@@ -117,130 +114,6 @@ def gtfs_route_numbers():
     )
 
 
-def kmz_to_kml(kmz_handle):
-    with ZipFile(kmz_handle) as zipf:
-        with zipf.open("doc.kml") as inf:
-            k = KML()
-            k.from_string(inf.read())
-            return k
-
-
-def get_kml_placemark(kml):
-    doc = next(kml.features())
-    folder = next(doc.features())
-    return next(folder.features())
-
-
-def get_linestyle(placemark):
-    for style in next(placemark.styles()).styles():
-        if isinstance(style, LineStyle):
-            return "#" + style.color[2:], style.width
-
-
-def get_kml_multilinestring(kml):
-    doc = next(kml.features())
-    folder = next(doc.features())
-    placemark = next(folder.features())
-    return placemark.geometry
-
-
-def kml_multilinestring_to_geojson(kml_mls):
-    segments = []
-    for linestring in kml_mls.geoms:
-        segments.append([(round(pt.x, 6), round(pt.y, 6)) for pt in linestring.geoms])
-    return MultiLineString(segments)
-
-
-def make_geojson_feature(geometry, name, stroke_color, stroke_width):
-    # https://github.com/mapbox/simplestyle-spec/tree/master/1.1.0
-    return Feature(
-        geometry=geometry,
-        properties={
-            "name": name,
-            "stroke": stroke_color,
-            "stroke-width": stroke_width,
-        },
-    )
-
-
-@cli.command()
-def routes():
-    root_dir = os.path.join("datasets", "route-patterns")
-    if os.path.exists(root_dir):
-        shutil.rmtree(root_dir)
-
-    api = RTTI(os.environ["TL_API_KEY"])
-
-    route_headsign_info_file = open(
-        os.path.join("datasets", "route_headsign_info.csv"), "w", newline="\n"
-    )
-    route_headsign_info = DictWriter(
-        route_headsign_info_file,
-        ["route_number", "pattern_number", "direction", "destination"],
-    )
-    route_headsign_info.writeheader()
-
-    for route_num in gtfs_route_numbers():
-        try:
-            route = api.route(route_num)
-        except TransLinkAPIError as e:
-            print(f"Route {route_num} failed")
-            print(e)
-            continue
-
-        dest_dir = os.path.join(root_dir, route.RouteNo)
-        try:
-            os.makedirs(dest_dir)
-        except FileExistsError:
-            pass
-
-        for pattern in route.Patterns:
-            print(f"{route.RouteNo} - {pattern.Destination} - {pattern.PatternNo}")
-
-            filename = f"{route.RouteNo}-{pattern.Direction}-{pattern.PatternNo}"
-
-            resp = session.get(pattern.RouteMap.Href)
-            content_type = resp.headers["content-type"]
-            if not content_type.endswith(".kmz"):
-                print(
-                    f"{pattern.RouteMap.Href} is {content_type}. Writing 'missing' placeholder"
-                )
-                filename = f"{filename}.missing"
-                with open(os.path.join(dest_dir, filename), "w") as outf:
-                    outf.write("Pattern could not be retrieved.")
-                continue
-
-            kml = kmz_to_kml(BytesIO(resp.content))
-            placemark = get_kml_placemark(kml)
-            color, width = get_linestyle(placemark)
-            geojson_mls = kml_multilinestring_to_geojson(placemark.geometry)
-            js = make_geojson_feature(geojson_mls, placemark.name, color, width)
-            js.properties.update(
-                {
-                    "destination": pattern.Destination,
-                    "direction": pattern.Direction,
-                    "pattern-number": pattern.PatternNo,
-                    "route-name": route.Name.strip(),
-                    "route-number": route.RouteNo,
-                    "operating-company": route.OperatingCompany,
-                }
-            )
-
-            filename = f"{filename}.geojson"
-            with open(os.path.join(dest_dir, filename), "w") as outf:
-                outf.write(geojson.dumps(js, sort_keys=True, indent=1))
-
-            route_headsign_info.writerow(
-                {
-                    "route_number": route.RouteNo,
-                    "pattern_number": pattern.PatternNo,
-                    "direction": pattern.Direction,
-                    "destination": pattern.Destination,
-                }
-            )
-            route_headsign_info_file.flush()
-
-
 def stop_to_feature(stop):
     point = Point((float(stop["stop_lon"]), float(stop["stop_lat"])))
     return Feature(
@@ -273,8 +146,6 @@ def stops():
     with open(os.path.join(dest_dir, "stops.geojson"), "w") as outf:
         outf.write(geojson.dumps(coll, sort_keys=True, indent=1))
 
-    # with open_bom(os.path.join('gtfs', 'stops.csv')) as f:
-    #     fields = DictReader(f).fieldnames
     fields = "stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,wheelchair_boarding,stop_timezone"
     fields = fields.split(",")
 
@@ -290,8 +161,6 @@ def git():
     commands = [
         ["git", "add", "datasets/stops*"],
         ["git", "commit", "-m", f"Stops {last_friday.isoformat()}."],
-        ["git", "add", "datasets/route-patterns"],
-        ["git", "commit", "-m", f"Routes {last_friday.isoformat()}."],
         ["git", "add", "datasets/shapes"],
         ["git", "commit", "-m", f"Shapes {last_friday.isoformat()}."],
     ]
@@ -306,7 +175,6 @@ def changes(ctx):
     ctx.invoke(gtfs)
     ctx.invoke(stops)
     ctx.invoke(shapes)
-    ctx.invoke(routes)
 
 
 if __name__ == "__main__":
