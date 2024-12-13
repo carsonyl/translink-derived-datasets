@@ -125832,7 +125832,7 @@
     "desc": "",
     "id": "9352",
     "name": "Southbound Fremont St @ Riverside Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -126383,7 +126383,7 @@
     "desc": "",
     "id": "9395",
     "name": "Northbound Wellington St @ Greenmount Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -127246,8 +127246,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.677041,
-     49.115376
+     -122.677051,
+     49.115383
     ],
     "type": "Point"
    },
@@ -133565,7 +133565,7 @@
     "desc": "",
     "id": "10286",
     "name": "Northbound Blakely Rd @ 117 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -148621,6 +148621,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.102082,
+     49.233207
+    ],
+    "type": "Point"
+   },
+   "id": "11632",
+   "properties": {
+    "code": "50156",
+    "desc": "",
+    "id": "11632",
+    "name": "Westbound E 41 Ave @ Main St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.107725,
      49.28074
     ],
@@ -152003,27 +152022,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.696268,
-     49.045761
-    ],
-    "type": "Point"
-   },
-   "id": "11921",
-   "properties": {
-    "code": "61795",
-    "desc": "",
-    "id": "11921",
-    "name": "Westbound 24 Ave @ 190 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.696216,
-     49.045617
+     -122.69634,
+     49.045614
     ],
     "type": "Point"
    },
@@ -152432,7 +152432,7 @@
     "desc": "",
     "id": "11955",
     "name": "Northbound Shaughnessy St @ Central Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -162339,8 +162339,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.149018,
-     49.261008
+     -123.148634,
+     49.260998
     ],
     "type": "Point"
    },
@@ -162369,6 +162369,25 @@
     "desc": "",
     "id": "12706",
     "name": "Eastbound W 12 Ave @ Pine St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.143876,
+     49.260917
+    ],
+    "type": "Point"
+   },
+   "id": "12707",
+   "properties": {
+    "code": "60412",
+    "desc": "",
+    "id": "12707",
+    "name": "Westbound W 12th Ave @ Pine St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166158,25 +166177,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.142116,
-     49.26091
-    ],
-    "type": "Point"
-   },
-   "id": "13036",
-   "properties": {
-    "code": "61995",
-    "desc": "",
-    "id": "13036",
-    "name": "Westbound W 12 Ave @ Pine St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.746634,
      49.246057
     ],
@@ -166226,6 +166226,63 @@
     "desc": "",
     "id": "13039",
     "name": "Southbound Burrard St @ W Pender St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.697552,
+     49.04578
+    ],
+    "type": "Point"
+   },
+   "id": "13040",
+   "properties": {
+    "code": "62003",
+    "desc": "",
+    "id": "13040",
+    "name": "Westbound 24 Ave @ 190 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.675924,
+     49.067469
+    ],
+    "type": "Point"
+   },
+   "id": "13041",
+   "properties": {
+    "code": "62002",
+    "desc": "",
+    "id": "13041",
+    "name": "Westbound 36 Ave @ 198 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.674796,
+     49.067363
+    ],
+    "type": "Point"
+   },
+   "id": "13042",
+   "properties": {
+    "code": "62001",
+    "desc": "",
+    "id": "13042",
+    "name": "Eastbound 36 Ave @ 198 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
