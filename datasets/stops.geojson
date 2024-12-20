@@ -1010,6 +1010,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.155439,
+     49.272645
+    ],
+    "type": "Point"
+   },
+   "id": "104",
+   "properties": {
+    "code": "50104",
+    "desc": "",
+    "id": "104",
+    "name": "Westbound Cornwall Ave @ Yew St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.160216,
      49.272731
     ],
@@ -9685,25 +9704,6 @@
     "desc": "",
     "id": "811",
     "name": "Eastbound W 41 Ave @ Oak St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.128231,
-     49.233541
-    ],
-    "type": "Point"
-   },
-   "id": "812",
-   "properties": {
-    "code": "50805",
-    "desc": "",
-    "id": "812",
-    "name": "Southbound Oak St @ W 41 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -34830,6 +34830,63 @@
   {
    "geometry": {
     "coordinates": [
+     -122.955497,
+     49.210902
+    ],
+    "type": "Point"
+   },
+   "id": "2631",
+   "properties": {
+    "code": "52606",
+    "desc": "",
+    "id": "2631",
+    "name": "Southbound Griffiths Dr @ Southpoint Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.953152,
+     49.210392
+    ],
+    "type": "Point"
+   },
+   "id": "2632",
+   "properties": {
+    "code": "52607",
+    "desc": "",
+    "id": "2632",
+    "name": "Eastbound 14 Ave @ Griffiths Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.948,
+     49.213997
+    ],
+    "type": "Point"
+   },
+   "id": "2634",
+   "properties": {
+    "code": "52609",
+    "desc": "",
+    "id": "2634",
+    "name": "Westbound 14th Ave @ 15th St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.943021,
      49.21627
     ],
@@ -35145,6 +35202,25 @@
     "desc": "",
     "id": "2654",
     "name": "Eastbound 14 Ave @ 15 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.953538,
+     49.210182
+    ],
+    "type": "Point"
+   },
+   "id": "2656",
+   "properties": {
+    "code": "52631",
+    "desc": "",
+    "id": "2656",
+    "name": "Westbound 14 Ave @ Griffiths Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -42354,6 +42430,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.892802,
+     49.255307
+    ],
+    "type": "Point"
+   },
+   "id": "3152",
+   "properties": {
+    "code": "53119",
+    "desc": "",
+    "id": "3152",
+    "name": "Northbound North Rd @ 600 Block",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.89284,
      49.257159
     ],
@@ -42897,6 +42992,44 @@
     "desc": "",
     "id": "3196",
     "name": "Northbound Johnson St @ Packard Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.80093,
+     49.285094
+    ],
+    "type": "Point"
+   },
+   "id": "3198",
+   "properties": {
+    "code": "53164",
+    "desc": "",
+    "id": "3198",
+    "name": "Eastbound Guildford Way @ Johnson St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.797418,
+     49.285107
+    ],
+    "type": "Point"
+   },
+   "id": "3199",
+   "properties": {
+    "code": "53165",
+    "desc": "",
+    "id": "3199",
+    "name": "Eastbound Guildford Way @ Pacific St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -48776,8 +48909,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.854844,
-     49.24507
+     -122.854837,
+     49.245083
     ],
     "type": "Point"
    },
@@ -50201,6 +50334,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.795058,
+     49.284897
+    ],
+    "type": "Point"
+   },
+   "id": "3768",
+   "properties": {
+    "code": "53729",
+    "desc": "",
+    "id": "3768",
+    "name": "Eastbound Guildford Way @ Town Centre Blvd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.798427,
      49.275845
     ],
@@ -50402,6 +50554,25 @@
     "desc": "",
     "id": "3780",
     "name": "Northbound Pinetree Way @ Anson Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.797263,
+     49.285315
+    ],
+    "type": "Point"
+   },
+   "id": "3783",
+   "properties": {
+    "code": "53744",
+    "desc": "",
+    "id": "3783",
+    "name": "Westbound Guildford Way @ Pacific St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -69592,7 +69763,7 @@
     "desc": "",
     "id": "5051",
     "name": "Westbound 96 Ave @ 134 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -74988,25 +75159,6 @@
     "desc": "",
     "id": "5404",
     "name": "Westbound Fraser Hwy @ 168 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.763113,
-     49.151322
-    ],
-    "type": "Point"
-   },
-   "id": "5405",
-   "properties": {
-    "code": "55352",
-    "desc": "",
-    "id": "5405",
-    "name": "Westbound Fraser Hwy @ 166 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -84439,8 +84591,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.771563,
-     49.19146
+     -122.771585,
+     49.191464
     ],
     "type": "Point"
    },
@@ -84458,8 +84610,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.766973,
-     49.191462
+     -122.766956,
+     49.191468
     ],
     "type": "Point"
    },
@@ -84477,8 +84629,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.760834,
-     49.191524
+     -122.760849,
+     49.191528
     ],
     "type": "Point"
    },
@@ -134048,6 +134200,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.953563,
+     49.209454
+    ],
+    "type": "Point"
+   },
+   "id": "10333",
+   "properties": {
+    "code": "59744",
+    "desc": "",
+    "id": "10333",
+    "name": "Southbound Griffiths Dr @ 14 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.977921,
      49.204316
     ],
@@ -137669,25 +137840,6 @@
     "desc": "",
     "id": "10723",
     "name": "Southbound 132 St @ 115 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.730037,
-     49.118673
-    ],
-    "type": "Point"
-   },
-   "id": "10726",
-   "properties": {
-    "code": "60792",
-    "desc": "",
-    "id": "10726",
-    "name": "Eastbound 64 Ave @ 177B St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -162795,25 +162947,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.945786,
-     49.213415
-    ],
-    "type": "Point"
-   },
-   "id": "12746",
-   "properties": {
-    "code": "60513",
-    "desc": "",
-    "id": "12746",
-    "name": "Southbound 15 St @ 13 Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.101128,
      49.263326
     ],
@@ -166283,6 +166416,44 @@
     "desc": "",
     "id": "13042",
     "name": "Eastbound 36 Ave @ 198 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.128241,
+     49.234316
+    ],
+    "type": "Point"
+   },
+   "id": "13043",
+   "properties": {
+    "code": "62000",
+    "desc": "",
+    "id": "13043",
+    "name": "Southbound Oak St @ W 41st Ave",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.761434,
+     49.15061
+    ],
+    "type": "Point"
+   },
+   "id": "13044",
+   "properties": {
+    "code": "61996",
+    "desc": "",
+    "id": "13044",
+    "name": "Westbound Fraser Hwy @ 166 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
