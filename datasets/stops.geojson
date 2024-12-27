@@ -1048,6 +1048,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.164773,
+     49.272795
+    ],
+    "type": "Point"
+   },
+   "id": "106",
+   "properties": {
+    "code": "50106",
+    "desc": "",
+    "id": "106",
+    "name": "Westbound Cornwall Ave @ Trafalgar St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.168323,
      49.270753
     ],
@@ -9837,6 +9856,44 @@
     "desc": "",
     "id": "820",
     "name": "Southbound Oak St @ Park Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.130325,
+     49.21048
+    ],
+    "type": "Point"
+   },
+   "id": "822",
+   "properties": {
+    "code": "50815",
+    "desc": "",
+    "id": "822",
+    "name": "Southbound Oak St @ W 67 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.130386,
+     49.208654
+    ],
+    "type": "Point"
+   },
+   "id": "823",
+   "properties": {
+    "code": "50816",
+    "desc": "",
+    "id": "823",
+    "name": "Southbound Oak St @ W 70 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -84591,6 +84648,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.779707,
+     49.19131
+    ],
+    "type": "Point"
+   },
+   "id": "5970",
+   "properties": {
+    "code": "55914",
+    "desc": "",
+    "id": "5970",
+    "name": "Westbound 104 Ave @ 160 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.771585,
      49.191464
     ],
@@ -92924,7 +93000,7 @@
     "desc": "",
     "id": "6564",
     "name": "Southbound No. 1 Rd @ 10200 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -93540,6 +93616,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.149443,
+     49.155496
+    ],
+    "type": "Point"
+   },
+   "id": "6599",
+   "properties": {
+    "code": "56538",
+    "desc": "",
+    "id": "6599",
+    "name": "Eastbound Blundell Rd @ Minler Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147059,
+     49.155494
+    ],
+    "type": "Point"
+   },
+   "id": "6600",
+   "properties": {
+    "code": "56539",
+    "desc": "",
+    "id": "6600",
+    "name": "Eastbound Blundell Rd @ Gilbert Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.143124,
      49.155523
     ],
@@ -93912,6 +94026,25 @@
     "desc": "",
     "id": "6636",
     "name": "Westbound Blundell Rd @ Moffatt Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.148365,
+     49.155642
+    ],
+    "type": "Point"
+   },
+   "id": "6637",
+   "properties": {
+    "code": "56576",
+    "desc": "",
+    "id": "6637",
+    "name": "Westbound Blundell Rd @ Gilbert Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -95991,6 +96124,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.091838,
+     49.16978
+    ],
+    "type": "Point"
+   },
+   "id": "6758",
+   "properties": {
+    "code": "56694",
+    "desc": "",
+    "id": "6758",
+    "name": "Southbound No. 5 Rd @ Westminster Hwy",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.09177,
      49.166032
     ],
@@ -96610,7 +96762,7 @@
     "desc": "",
     "id": "6792",
     "name": "Westbound Westminster Hwy @ No. 5 Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -97712,7 +97864,7 @@
     "desc": "",
     "id": "6853",
     "name": "Southbound Railway Ave @ 8600 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -98176,6 +98328,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.147687,
+     49.155937
+    ],
+    "type": "Point"
+   },
+   "id": "6881",
+   "properties": {
+    "code": "56816",
+    "desc": "",
+    "id": "6881",
+    "name": "Northbound Gilbert Rd @ Blundell Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.147674,
      49.157991
     ],
@@ -98624,7 +98795,7 @@
     "desc": "",
     "id": "6910",
     "name": "Westbound Steveston Hwy @ Lassam Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -116332,6 +116503,44 @@
     "desc": "",
     "id": "8361",
     "name": "Southbound Mariner Way @ 500 Block",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.131683,
+     49.188584
+    ],
+    "type": "Point"
+   },
+   "id": "8366",
+   "properties": {
+    "code": "58113",
+    "desc": "",
+    "id": "8366",
+    "name": "Westbound Capstan Way @ No. 3 Rd",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.132065,
+     49.189054
+    ],
+    "type": "Point"
+   },
+   "id": "8367",
+   "properties": {
+    "code": "58097",
+    "desc": "",
+    "id": "8367",
+    "name": "Northbound No. 3 Rd @ Capstan Way",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -143700,25 +143909,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.841659,
-     49.278898
-    ],
-    "type": "Point"
-   },
-   "id": "11207",
-   "properties": {
-    "code": "61235",
-    "desc": "",
-    "id": "11207",
-    "name": "Westbound Murray St @ Electronic Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.181409,
      49.133314
     ],
@@ -160819,25 +161009,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.807134,
-     49.168408
-    ],
-    "type": "Point"
-   },
-   "id": "12551",
-   "properties": {
-    "code": "61764",
-    "desc": "",
-    "id": "12551",
-    "name": "Westbound Fraser Hwy @ 150 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.785083,
      49.155559
     ],
@@ -165284,6 +165455,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.131869,
+     49.189131
+    ],
+    "type": "Point"
+   },
+   "id": "12946",
+   "properties": {
+    "code": "60674",
+    "desc": "",
+    "id": "12946",
+    "name": "Capstan Station @ Platform 1",
+    "wheelchair_boarding": "1",
+    "zone": "ZN 2"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.131956,
+     49.189163
+    ],
+    "type": "Point"
+   },
+   "id": "12947",
+   "properties": {
+    "code": "60675",
+    "desc": "",
+    "id": "12947",
+    "name": "Capstan Station @ Platform 2",
+    "wheelchair_boarding": "1",
+    "zone": "ZN 2"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.12073,
      49.284306
     ],
@@ -165523,7 +165732,7 @@
     "desc": "",
     "id": "12961",
     "name": "Southbound Willowbrook Connector @ 68 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -165562,25 +165771,6 @@
     "id": "12966",
     "name": "Westbound Austin Ave @ Gatensbury St",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.164082,
-     49.272793
-    ],
-    "type": "Point"
-   },
-   "id": "12970",
-   "properties": {
-    "code": "60695",
-    "desc": "",
-    "id": "12970",
-    "name": "Westbound Cornwall Ave @ Trafalgar St",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166253,6 +166443,272 @@
   {
    "geometry": {
     "coordinates": [
+     -122.730765,
+     49.186626
+    ],
+    "type": "Point"
+   },
+   "id": "13016",
+   "properties": {
+    "code": "60450",
+    "desc": "",
+    "id": "13016",
+    "name": "Northbound 177A St @ 101A Ave",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.777907,
+     49.191523
+    ],
+    "type": "Point"
+   },
+   "id": "13017",
+   "properties": {
+    "code": "55915",
+    "desc": "",
+    "id": "13017",
+    "name": "Northbound 160 St @ 104 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.755808,
+     49.191554
+    ],
+    "type": "Point"
+   },
+   "id": "13018",
+   "properties": {
+    "code": "60447",
+    "desc": "",
+    "id": "13018",
+    "name": "Eastbound 104 Ave @ 168 St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.749372,
+     49.191495
+    ],
+    "type": "Point"
+   },
+   "id": "13019",
+   "properties": {
+    "code": "60448",
+    "desc": "",
+    "id": "13019",
+    "name": "Eastbound 104 Ave @ 170A St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.741335,
+     49.19144
+    ],
+    "type": "Point"
+   },
+   "id": "13020",
+   "properties": {
+    "code": "60449",
+    "desc": "",
+    "id": "13020",
+    "name": "Eastbound 104 Ave @ 174 St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.732288,
+     49.185588
+    ],
+    "type": "Point"
+   },
+   "id": "13021",
+   "properties": {
+    "code": "60451",
+    "desc": "",
+    "id": "13021",
+    "name": "Westbound Barnston Dr E @ 177A St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.736775,
+     49.184942
+    ],
+    "type": "Point"
+   },
+   "id": "13022",
+   "properties": {
+    "code": "60452",
+    "desc": "",
+    "id": "13022",
+    "name": "Westbound Barnston Dr E @ 175 St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.740721,
+     49.184331
+    ],
+    "type": "Point"
+   },
+   "id": "13023",
+   "properties": {
+    "code": "60453",
+    "desc": "",
+    "id": "13023",
+    "name": "Westbound 100 Ave @ 174 St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.74607,
+     49.184939
+    ],
+    "type": "Point"
+   },
+   "id": "13024",
+   "properties": {
+    "code": "60454",
+    "desc": "",
+    "id": "13024",
+    "name": "Westbound Barnston Dr W @ 172 St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.750468,
+     49.186069
+    ],
+    "type": "Point"
+   },
+   "id": "13025",
+   "properties": {
+    "code": "60455",
+    "desc": "",
+    "id": "13025",
+    "name": "Westbound Barnston Dr W @ 170A St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.772876,
+     49.191615
+    ],
+    "type": "Point"
+   },
+   "id": "13026",
+   "properties": {
+    "code": "60459",
+    "desc": "",
+    "id": "13026",
+    "name": "Westbound 104 Ave @ Fraserglen Dr",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.756399,
+     49.189756
+    ],
+    "type": "Point"
+   },
+   "id": "13027",
+   "properties": {
+    "code": "60456",
+    "desc": "",
+    "id": "13027",
+    "name": "Northbound 168 St @ 102 Ave",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.768216,
+     49.19158
+    ],
+    "type": "Point"
+   },
+   "id": "13028",
+   "properties": {
+    "code": "60458",
+    "desc": "",
+    "id": "13028",
+    "name": "Westbound 104 Ave @ 164 St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.762732,
+     49.191636
+    ],
+    "type": "Point"
+   },
+   "id": "13029",
+   "properties": {
+    "code": "60457",
+    "desc": "",
+    "id": "13029",
+    "name": "Westbound 104 Ave @ Oak Gate",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.883423,
      49.266694
     ],
@@ -166284,25 +166740,6 @@
     "id": "13031",
     "name": "Westbound W King Edward Ave @ Quesnel Dr",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.130427,
-     49.207837
-    ],
-    "type": "Point"
-   },
-   "id": "13032",
-   "properties": {
-    "code": "61991",
-    "desc": "",
-    "id": "13032",
-    "name": "Southbound Oak St @ W 70 Ave",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166454,6 +166891,25 @@
     "desc": "",
     "id": "13044",
     "name": "Westbound Fraser Hwy @ 166 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.806183,
+     49.168036
+    ],
+    "type": "Point"
+   },
+   "id": "13046",
+   "properties": {
+    "code": "61998",
+    "desc": "",
+    "id": "13046",
+    "name": "Westbound Fraser Hwy @ 150 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -167556,6 +168012,25 @@
     "desc": "",
     "id": "99958",
     "name": "Lonsdale Quay Station",
+    "wheelchair_boarding": "1",
+    "zone": "ZN 2"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.131862,
+     49.189147
+    ],
+    "type": "Point"
+   },
+   "id": "99959",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "99959",
+    "name": "Capstan Station",
     "wheelchair_boarding": "1",
     "zone": "ZN 2"
    },
