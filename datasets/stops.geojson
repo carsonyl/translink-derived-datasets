@@ -11650,8 +11650,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.048668,
-     49.281041
+     -123.048711,
+     49.281056
     ],
     "type": "Point"
    },
@@ -28116,6 +28116,44 @@
     "id": "2137",
     "name": "Northbound Granville St @ W 71 Ave",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.138831,
+     49.208535
+    ],
+    "type": "Point"
+   },
+   "id": "2138",
+   "properties": {
+    "code": "52118",
+    "desc": "",
+    "id": "2138",
+    "name": "Eastbound W 70 Ave @ French St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.1347,
+     49.208213
+    ],
+    "type": "Point"
+   },
+   "id": "2139",
+   "properties": {
+    "code": "52119",
+    "desc": "",
+    "id": "2139",
+    "name": "Southbound Hudson St @ W 70 Ave",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
