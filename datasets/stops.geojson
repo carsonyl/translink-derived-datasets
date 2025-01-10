@@ -136,25 +136,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.125521,
-     49.281364
-    ],
-    "type": "Point"
-   },
-   "id": "29",
-   "properties": {
-    "code": "50029",
-    "desc": "",
-    "id": "29",
-    "name": "Northbound Burrard St @ Nelson St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.12214,
      49.283593
     ],
@@ -242,25 +223,6 @@
     "desc": "",
     "id": "38",
     "name": "Westbound Powell St @ Columbia St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.107364,
-     49.28411
-    ],
-    "type": "Point"
-   },
-   "id": "39",
-   "properties": {
-    "code": "59525",
-    "desc": "",
-    "id": "39",
-    "name": "Westbound Water St @ Abbott St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -50429,25 +50391,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.795058,
-     49.284897
-    ],
-    "type": "Point"
-   },
-   "id": "3768",
-   "properties": {
-    "code": "53729",
-    "desc": "",
-    "id": "3768",
-    "name": "Eastbound Guildford Way @ Town Centre Blvd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.798427,
      49.275845
     ],
@@ -58497,25 +58440,6 @@
     "id": "4314",
     "name": "Westbound E Braemar Rd @ Braemar Place",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.066137,
-     49.343593
-    ],
-    "type": "Point"
-   },
-   "id": "4315",
-   "properties": {
-    "code": "54268",
-    "desc": "",
-    "id": "4315",
-    "name": "Westbound E Braemar Rd @ 200 Block",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -116559,8 +116483,8 @@
     "code": "58113",
     "desc": "",
     "id": "8366",
-    "name": "Westbound Capstan Way @ No. 3 Rd",
-    "wheelchair_boarding": "2",
+    "name": "Capstan Station @ Bay 3",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -116578,7 +116502,7 @@
     "code": "58097",
     "desc": "",
     "id": "8367",
-    "name": "Northbound No. 3 Rd @ Capstan Way",
+    "name": "Capstan Station @ Bay 1",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -116882,7 +116806,7 @@
     "code": "58114",
     "desc": "",
     "id": "8412",
-    "name": "Eastbound Capstan Way @ No. 3 Rd",
+    "name": "Capstan Station @ Bay 4",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -152003,6 +151927,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.126502,
+     49.280741
+    ],
+    "type": "Point"
+   },
+   "id": "11881",
+   "properties": {
+    "code": "61759",
+    "desc": "",
+    "id": "11881",
+    "name": "Northbound Burrard St @ Comox St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.847582,
      49.189133
     ],
@@ -163242,7 +163185,7 @@
     "code": "60537",
     "desc": "",
     "id": "12766",
-    "name": "Southbound No. 3rd Rd @ Sea Island Way",
+    "name": "Capstan Station @ Bay 2",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166492,7 +166435,7 @@
     "desc": "",
     "id": "13016",
     "name": "Northbound 177A St @ 101A Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166530,7 +166473,7 @@
     "desc": "",
     "id": "13018",
     "name": "Eastbound 104 Ave @ 168 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166549,7 +166492,7 @@
     "desc": "",
     "id": "13019",
     "name": "Eastbound 104 Ave @ 170A St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166568,7 +166511,7 @@
     "desc": "",
     "id": "13020",
     "name": "Eastbound 104 Ave @ 174 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166587,7 +166530,7 @@
     "desc": "",
     "id": "13021",
     "name": "Westbound Barnston Dr E @ 177A St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166606,7 +166549,7 @@
     "desc": "",
     "id": "13022",
     "name": "Westbound Barnston Dr E @ 175 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166625,7 +166568,7 @@
     "desc": "",
     "id": "13023",
     "name": "Westbound 100 Ave @ 174 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166644,26 +166587,7 @@
     "desc": "",
     "id": "13024",
     "name": "Westbound Barnston Dr W @ 172 St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.750468,
-     49.186069
-    ],
-    "type": "Point"
-   },
-   "id": "13025",
-   "properties": {
-    "code": "60455",
-    "desc": "",
-    "id": "13025",
-    "name": "Westbound Barnston Dr W @ 170A St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166682,7 +166606,7 @@
     "desc": "",
     "id": "13026",
     "name": "Westbound 104 Ave @ Fraserglen Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166701,7 +166625,7 @@
     "desc": "",
     "id": "13027",
     "name": "Northbound 168 St @ 102 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166720,7 +166644,7 @@
     "desc": "",
     "id": "13028",
     "name": "Westbound 104 Ave @ 164 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166739,7 +166663,7 @@
     "desc": "",
     "id": "13029",
     "name": "Westbound 104 Ave @ Oak Gate",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166948,6 +166872,44 @@
     "desc": "",
     "id": "13046",
     "name": "Westbound Fraser Hwy @ 150 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.757052,
+     49.19169
+    ],
+    "type": "Point"
+   },
+   "id": "13047",
+   "properties": {
+    "code": "61686",
+    "desc": "",
+    "id": "13047",
+    "name": "Westbound 104 Ave @ 168 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.109875,
+     49.284573
+    ],
+    "type": "Point"
+   },
+   "id": "13048",
+   "properties": {
+    "code": "50039",
+    "desc": "",
+    "id": "13048",
+    "name": "Westbound Water St @ Cambie St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
