@@ -27819,25 +27819,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.067725,
-     49.262833
-    ],
-    "type": "Point"
-   },
-   "id": "2111",
-   "properties": {
-    "code": "58621",
-    "desc": "",
-    "id": "2111",
-    "name": "Southbound N Grandview Hwy @ E 8th Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.120173,
      49.263212
     ],
@@ -36806,25 +36787,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.004372,
-     49.280153
-    ],
-    "type": "Point"
-   },
-   "id": "2766",
-   "properties": {
-    "code": "52943",
-    "desc": "",
-    "id": "2766",
-    "name": "Westbound Pender St @ Willingdon Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.003443,
      49.233488
     ],
@@ -43828,25 +43790,6 @@
     "desc": "",
     "id": "3252",
     "name": "Southbound E Columbia St @ Keary St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.893032,
-     49.223325
-    ],
-    "type": "Point"
-   },
-   "id": "3253",
-   "properties": {
-    "code": "53219",
-    "desc": "",
-    "id": "3253",
-    "name": "Southbound E Columbia St @ Alberta St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -50878,6 +50821,25 @@
     "id": "3803",
     "name": "Southbound Westwood St @ Lincoln Ave",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.790591,
+     49.276795
+    ],
+    "type": "Point"
+   },
+   "id": "3804",
+   "properties": {
+    "code": "53765",
+    "desc": "",
+    "id": "3804",
+    "name": "Southbound Westwood St @ Anson Ave",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -67768,25 +67730,6 @@
     "desc": "",
     "id": "4915",
     "name": "Eastbound 72 Ave @ 116 St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.895578,
-     49.133963
-    ],
-    "type": "Point"
-   },
-   "id": "4916",
-   "properties": {
-    "code": "54864",
-    "desc": "",
-    "id": "4916",
-    "name": "Eastbound 72 Ave @ 118 St",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -114212,6 +114155,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.567868,
+     49.198696
+    ],
+    "type": "Point"
+   },
+   "id": "7962",
+   "properties": {
+    "code": "57887",
+    "desc": "",
+    "id": "7962",
+    "name": "Southbound Tamarack Lane @ 108 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.564724,
      49.195829
     ],
@@ -117385,8 +117347,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.087853,
-     49.133342
+     -123.088597,
+     49.133346
     ],
     "type": "Point"
    },
@@ -117396,7 +117358,7 @@
     "desc": "",
     "id": "8483",
     "name": "Eastbound Steveston Hwy @ Hwy 99",
-    "wheelchair_boarding": "1",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -124768,25 +124730,6 @@
     "desc": "",
     "id": "9232",
     "name": "Northbound Pinetree Way @ Pinewood Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.780129,
-     49.294697
-    ],
-    "type": "Point"
-   },
-   "id": "9233",
-   "properties": {
-    "code": "58816",
-    "desc": "",
-    "id": "9233",
-    "name": "Northbound Pipeline Rd @ El Casa Court",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -136909,6 +136852,25 @@
     "desc": "",
     "id": "10615",
     "name": "Southbound Nestor St @ Tory Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.778858,
+     49.287718
+    ],
+    "type": "Point"
+   },
+   "id": "10616",
+   "properties": {
+    "code": "60703",
+    "desc": "",
+    "id": "10616",
+    "name": "Westbound Dunkirk Ave @ Nestor St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -150597,25 +150559,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.125757,
-     49.195649
-    ],
-    "type": "Point"
-   },
-   "id": "11763",
-   "properties": {
-    "code": "61430",
-    "desc": "",
-    "id": "11763",
-    "name": "Bridgeport Station @ Bay 13",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.849708,
      49.189461
     ],
@@ -161560,25 +161503,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.044877,
-     49.15544
-    ],
-    "type": "Point"
-   },
-   "id": "12617",
-   "properties": {
-    "code": "60387",
-    "desc": "",
-    "id": "12617",
-    "name": "Westbound Blundell Rd @ 16100 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.168238,
      49.260303
     ],
@@ -166911,6 +166835,44 @@
     "id": "13048",
     "name": "Westbound Water St @ Cambie St",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.622018,
+     49.227909
+    ],
+    "type": "Point"
+   },
+   "id": "13049",
+   "properties": {
+    "code": "62006",
+    "desc": "",
+    "id": "13049",
+    "name": "Westbound 124 Ave @ 216 St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.6215,
+     49.227796
+    ],
+    "type": "Point"
+   },
+   "id": "13050",
+   "properties": {
+    "code": "62007",
+    "desc": "",
+    "id": "13050",
+    "name": "Eastbound 124 Ave @ 216 St",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
