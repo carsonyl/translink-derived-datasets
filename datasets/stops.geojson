@@ -36179,6 +36179,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.001621,
+     49.222
+    ],
+    "type": "Point"
+   },
+   "id": "2719",
+   "properties": {
+    "code": "52694",
+    "desc": "",
+    "id": "2719",
+    "name": "Westbound Imperial St @ Frederick Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.003694,
      49.222001
     ],
@@ -42365,6 +42384,25 @@
     "desc": "",
     "id": "3143",
     "name": "Northbound E Columbia St @ Alberta St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.892836,
+     49.225777
+    ],
+    "type": "Point"
+   },
+   "id": "3144",
+   "properties": {
+    "code": "53111",
+    "desc": "",
+    "id": "3144",
+    "name": "Northbound E Columbia St @ Keary St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -69536,25 +69574,6 @@
     "id": "5038",
     "name": "Eastbound 96 Ave @ 134 St",
     "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.846016,
-     49.176019
-    ],
-    "type": "Point"
-   },
-   "id": "5039",
-   "properties": {
-    "code": "54987",
-    "desc": "",
-    "id": "5039",
-    "name": "Southbound King George Blvd @ 96 Ave",
-    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -96979,44 +96998,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.154796,
-     49.133444
-    ],
-    "type": "Point"
-   },
-   "id": "6809",
-   "properties": {
-    "code": "56744",
-    "desc": "",
-    "id": "6809",
-    "name": "Eastbound Steveston Hwy @ Housman St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.151449,
-     49.133441
-    ],
-    "type": "Point"
-   },
-   "id": "6810",
-   "properties": {
-    "code": "56745",
-    "desc": "",
-    "id": "6810",
-    "name": "Eastbound Steveston Hwy @ Constable Gate",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.191743,
      49.134063
     ],
@@ -119418,6 +119399,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.014187,
+     49.264851
+    ],
+    "type": "Point"
+   },
+   "id": "8673",
+   "properties": {
+    "code": "58344",
+    "desc": "",
+    "id": "8673",
+    "name": "Gilmore Station @ Bay 1",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.015179,
      49.26457
     ],
@@ -131426,25 +131426,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.135648,
-     49.277896
-    ],
-    "type": "Point"
-   },
-   "id": "10048",
-   "properties": {
-    "code": "59392",
-    "desc": "",
-    "id": "10048",
-    "name": "Westbound Beach Ave @ Thurlow St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.137338,
      49.279589
     ],
@@ -135587,25 +135568,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.102218,
-     49.279008
-    ],
-    "type": "Point"
-   },
-   "id": "10466",
-   "properties": {
-    "code": "59924",
-    "desc": "",
-    "id": "10466",
-    "name": "Southbound Quebec St @ Keefer St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.114446,
      49.274212
     ],
@@ -135674,25 +135636,6 @@
     "desc": "",
     "id": "10471",
     "name": "Westbound Pacific Blvd @ Cambie St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.101464,
-     49.27487
-    ],
-    "type": "Point"
-   },
-   "id": "10478",
-   "properties": {
-    "code": "59926",
-    "desc": "",
-    "id": "10478",
-    "name": "Eastbound National Ave @ Quebec St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -135940,25 +135883,6 @@
     "desc": "",
     "id": "10492",
     "name": "Northbound Pat Quinn Way @ Expo Blvd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.116234,
-     49.274765
-    ],
-    "type": "Point"
-   },
-   "id": "10513",
-   "properties": {
-    "code": "60014",
-    "desc": "",
-    "id": "10513",
-    "name": "Westbound Expo Blvd @ Nelson St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -136245,25 +136169,6 @@
     "id": "10565",
     "name": "Westbound United Blvd @ Schooner St",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.76024,
-     49.241462
-    ],
-    "type": "Point"
-   },
-   "id": "10567",
-   "properties": {
-    "code": "59911",
-    "desc": "",
-    "id": "10567",
-    "name": "Eastbound Mary Hill Bypass @ Broadway St",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -164269,44 +164174,6 @@
     "desc": "",
     "id": "12860",
     "name": "Eastbound E Hastings St @ Dunlevy Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.016066,
-     49.264235
-    ],
-    "type": "Point"
-   },
-   "id": "12862",
-   "properties": {
-    "code": "52724",
-    "desc": "",
-    "id": "12862",
-    "name": "Eastbound Henning Dr @ Gilmore Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.014185,
-     49.263583
-    ],
-    "type": "Point"
-   },
-   "id": "12864",
-   "properties": {
-    "code": "52730",
-    "desc": "",
-    "id": "12864",
-    "name": "Northbound Gilmore Ave @ Dawson St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
