@@ -6017,7 +6017,7 @@
     "code": "50537",
     "desc": "",
     "id": "542",
-    "name": "Westbound W Cloverleaf @ Granville St",
+    "name": "Westbound W 5th Ave Offramp @ Granville St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -37509,25 +37509,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.983586,
-     49.259866
-    ],
-    "type": "Point"
-   },
-   "id": "2817",
-   "properties": {
-    "code": "52788",
-    "desc": "",
-    "id": "2817",
-    "name": "Northbound Douglas Rd @ Norland Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.98873,
      49.263533
     ],
@@ -39268,7 +39249,7 @@
     "desc": "",
     "id": "2940",
     "name": "Southbound Holdom Ave @ Georgia St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -39781,7 +39762,7 @@
     "desc": "",
     "id": "2972",
     "name": "Northbound Holdom Ave @ Union St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -42449,6 +42430,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.892495,
+     49.243516
+    ],
+    "type": "Point"
+   },
+   "id": "3147",
+   "properties": {
+    "code": "53114",
+    "desc": "",
+    "id": "3147",
+    "name": "Northbound North Rd @ Delestre Ave",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.892661,
      49.248513
     ],
@@ -43779,6 +43779,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.892772,
+     49.244275
+    ],
+    "type": "Point"
+   },
+   "id": "3249",
+   "properties": {
+    "code": "53215",
+    "desc": "",
+    "id": "3249",
+    "name": "Southbound North Rd @ Rochester St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.892775,
      49.242795
     ],
@@ -44721,6 +44740,25 @@
     "desc": "",
     "id": "3334",
     "name": "Coquitlam Central Station @ Bay 1",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.891738,
+     49.245232
+    ],
+    "type": "Point"
+   },
+   "id": "3350",
+   "properties": {
+    "code": "53314",
+    "desc": "",
+    "id": "3350",
+    "name": "Eastbound Lougheed Hwy @ North Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -56680,6 +56718,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.074445,
+     49.312375
+    ],
+    "type": "Point"
+   },
+   "id": "4197",
+   "properties": {
+    "code": "54152",
+    "desc": "",
+    "id": "4197",
+    "name": "Westbound E 3rd St @ St. Georges Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.072529,
      49.319603
     ],
@@ -67368,7 +67425,7 @@
     "code": "54835",
     "desc": "",
     "id": "4887",
-    "name": "Southbound Granville St @ W Cloverleaf",
+    "name": "Southbound Granville St @ W 5th Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -162225,6 +162282,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.077751,
+     49.312929
+    ],
+    "type": "Point"
+   },
+   "id": "12682",
+   "properties": {
+    "code": "60380",
+    "desc": "",
+    "id": "12682",
+    "name": "Southbound Lonsdale Ave @ W 3rd St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.121976,
      49.324309
     ],
@@ -166225,7 +166301,7 @@
     "code": "60450",
     "desc": "",
     "id": "13016",
-    "name": "Northbound 177A St @ 101A Ave",
+    "name": "Southbound 177A St @ 101A Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166519,25 +166595,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.074603,
-     49.311616
-    ],
-    "type": "Point"
-   },
-   "id": "13038",
-   "properties": {
-    "code": "61999",
-    "desc": "",
-    "id": "13038",
-    "name": "Southbound St Georges Ave @ E 2nd St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.118847,
      49.286063
     ],
@@ -166740,6 +166797,25 @@
     "id": "13050",
     "name": "Eastbound 124 Ave @ 216 St",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.984385,
+     49.260679
+    ],
+    "type": "Point"
+   },
+   "id": "13051",
+   "properties": {
+    "code": "62011",
+    "desc": "",
+    "id": "13051",
+    "name": "Northbound Douglas Rd @ Still Creek Ave",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
