@@ -4004,7 +4004,7 @@
     "desc": "",
     "id": "342",
     "name": "Southbound Oak St @ Nanton Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -26660,8 +26660,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.009158,
-     49.226048
+     -123.009541,
+     49.225697
     ],
     "type": "Point"
    },
@@ -42441,7 +42441,7 @@
     "desc": "",
     "id": "3147",
     "name": "Northbound North Rd @ Delestre Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -162263,6 +162263,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.031611,
+     49.205981
+    ],
+    "type": "Point"
+   },
+   "id": "12677",
+   "properties": {
+    "code": "60443",
+    "desc": "",
+    "id": "12677",
+    "name": "Westbound Sawmill Cres @ River District Crossing",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.118293,
      49.28616
     ],
@@ -164744,25 +164763,6 @@
     "desc": "",
     "id": "12911",
     "name": "Northbound Oak St @ W 67 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.031907,
-     49.205918
-    ],
-    "type": "Point"
-   },
-   "id": "12915",
-   "properties": {
-    "code": "60653",
-    "desc": "",
-    "id": "12915",
-    "name": "Eastbound Sawmill Cres @ River District Crossing",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
