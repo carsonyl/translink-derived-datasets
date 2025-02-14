@@ -2036,25 +2036,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.11242,
-     49.283796
-    ],
-    "type": "Point"
-   },
-   "id": "189",
-   "properties": {
-    "code": "50189",
-    "desc": "",
-    "id": "189",
-    "name": "Southbound Richards St @ W Hastings St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.115253,
      49.281944
     ],
@@ -7234,6 +7215,25 @@
     "desc": "",
     "id": "644",
     "name": "Eastbound Davie St @ Thurlow St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.111471,
+     49.2844
+    ],
+    "type": "Point"
+   },
+   "id": "645",
+   "properties": {
+    "code": "50639",
+    "desc": "",
+    "id": "645",
+    "name": "Southbound Richards St @ W Cordova St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -71093,7 +71093,7 @@
     "desc": "",
     "id": "5125",
     "name": "Westbound 100 Ave @ 132 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -91545,25 +91545,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.833717,
-     49.178455
-    ],
-    "type": "Point"
-   },
-   "id": "6469",
-   "properties": {
-    "code": "56408",
-    "desc": "",
-    "id": "6469",
-    "name": "Eastbound Fraser Hwy @ 140 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.811446,
      49.169833
     ],
@@ -91841,7 +91822,7 @@
     "desc": "",
     "id": "6485",
     "name": "Northbound No. 1 Rd @ Georgia St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -116085,7 +116066,7 @@
     "desc": "",
     "id": "8282",
     "name": "Northbound Hwy 99 Offramp @ Steveston Hwy",
-    "wheelchair_boarding": "1",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -137042,25 +137023,6 @@
     "desc": "",
     "id": "10644",
     "name": "Eastbound Fraser Hwy @ 188 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.706601,
-     49.126043
-    ],
-    "type": "Point"
-   },
-   "id": "10645",
-   "properties": {
-    "code": "60715",
-    "desc": "",
-    "id": "10645",
-    "name": "Westbound Fraser Hwy @ 68 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -160259,7 +160221,7 @@
     "code": "60223",
     "desc": "",
     "id": "12487",
-    "name": "Northbound Fraser St @ E 20 Ave",
+    "name": "Northbound Fraser St @ E 19 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166815,6 +166777,25 @@
     "desc": "",
     "id": "13051",
     "name": "Northbound Douglas Rd @ Still Creek Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.836332,
+     49.1794
+    ],
+    "type": "Point"
+   },
+   "id": "13052",
+   "properties": {
+    "code": "62012",
+    "desc": "",
+    "id": "13052",
+    "name": "Eastbound Fraser Hwy @ 140 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
