@@ -14434,7 +14434,7 @@
     "code": "51145",
     "desc": "",
     "id": "1154",
-    "name": "Eastbound Kingsway @ Commercial St",
+    "name": "Eastbound Kingsway @ Miller St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -32276,25 +32276,6 @@
     "desc": "",
     "id": "2443",
     "name": "Southbound 6th St @ 13 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.919959,
-     49.21275
-    ],
-    "type": "Point"
-   },
-   "id": "2444",
-   "properties": {
-    "code": "52420",
-    "desc": "",
-    "id": "2444",
-    "name": "Southbound 6th St @ 6th Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -85427,6 +85408,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.81174,
+     49.111724
+    ],
+    "type": "Point"
+   },
+   "id": "6026",
+   "properties": {
+    "code": "55969",
+    "desc": "",
+    "id": "6026",
+    "name": "Eastbound 60 Ave @ 148 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.80605,
      49.111688
     ],
@@ -85837,6 +85837,25 @@
     "desc": "",
     "id": "6054",
     "name": "Westbound 60 Ave @ 150 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.812964,
+     49.111845
+    ],
+    "type": "Point"
+   },
+   "id": "6055",
+   "properties": {
+    "code": "55997",
+    "desc": "",
+    "id": "6055",
+    "name": "Westbound 60 Ave @ 148 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -96952,44 +96971,6 @@
     "desc": "",
     "id": "6804",
     "name": "Eastbound Steveston Hwy @ Trimaran Gate",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.16888,
-     49.133621
-    ],
-    "type": "Point"
-   },
-   "id": "6805",
-   "properties": {
-    "code": "56740",
-    "desc": "",
-    "id": "6805",
-    "name": "Eastbound Steveston Hwy @ Railway Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.162861,
-     49.133497
-    ],
-    "type": "Point"
-   },
-   "id": "6806",
-   "properties": {
-    "code": "56741",
-    "desc": "",
-    "id": "6806",
-    "name": "Eastbound Steveston Hwy @ Lassam Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -137905,6 +137886,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.730037,
+     49.118673
+    ],
+    "type": "Point"
+   },
+   "id": "10726",
+   "properties": {
+    "code": "60792",
+    "desc": "",
+    "id": "10726",
+    "name": "Eastbound 64 Ave @ 177B St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.719315,
      49.118669
     ],
@@ -160602,7 +160602,7 @@
     "desc": "",
     "id": "12525",
     "name": "Southbound 80 St @ 4500 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -161324,7 +161324,7 @@
     "desc": "",
     "id": "12608",
     "name": "Northbound 80 St @ 4500 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166377,7 +166377,7 @@
     "code": "60452",
     "desc": "",
     "id": "13022",
-    "name": "Westbound Barnston Dr E @ 175 St",
+    "name": "Westbound Barnston Dr E @ 175A St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166453,7 +166453,7 @@
     "code": "60456",
     "desc": "",
     "id": "13027",
-    "name": "Northbound 168 St @ 102 Ave",
+    "name": "Northbound 168 St @ 103 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166796,6 +166796,25 @@
     "desc": "",
     "id": "13052",
     "name": "Eastbound Fraser Hwy @ 140 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.92083,
+     49.213416
+    ],
+    "type": "Point"
+   },
+   "id": "13054",
+   "properties": {
+    "code": "62015",
+    "desc": "",
+    "id": "13054",
+    "name": "Southbound 6th St @ Princess St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
