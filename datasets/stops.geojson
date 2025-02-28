@@ -131445,6 +131445,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.135648,
+     49.277896
+    ],
+    "type": "Point"
+   },
+   "id": "10048",
+   "properties": {
+    "code": "59392",
+    "desc": "",
+    "id": "10048",
+    "name": "Westbound Beach Ave @ Thurlow St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.137338,
      49.279589
     ],
@@ -135587,6 +135606,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.102218,
+     49.279008
+    ],
+    "type": "Point"
+   },
+   "id": "10466",
+   "properties": {
+    "code": "59924",
+    "desc": "",
+    "id": "10466",
+    "name": "Southbound Quebec St @ Keefer St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.114446,
      49.274212
     ],
@@ -135655,6 +135693,25 @@
     "desc": "",
     "id": "10471",
     "name": "Westbound Pacific Blvd @ Cambie St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.101464,
+     49.27487
+    ],
+    "type": "Point"
+   },
+   "id": "10478",
+   "properties": {
+    "code": "59926",
+    "desc": "",
+    "id": "10478",
+    "name": "Eastbound National Ave @ Quebec St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -135902,6 +135959,25 @@
     "desc": "",
     "id": "10492",
     "name": "Northbound Pat Quinn Way @ Expo Blvd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.116234,
+     49.274765
+    ],
+    "type": "Point"
+   },
+   "id": "10513",
+   "properties": {
+    "code": "60014",
+    "desc": "",
+    "id": "10513",
+    "name": "Westbound Expo Blvd @ Nelson St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -151007,25 +151083,6 @@
     "desc": "",
     "id": "11813",
     "name": "Westbound Great Northern Way @ Thornton St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.732747,
-     49.13705
-    ],
-    "type": "Point"
-   },
-   "id": "11815",
-   "properties": {
-    "code": "57090",
-    "desc": "",
-    "id": "11815",
-    "name": "Eastbound Fraser Hwy @ 176 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166815,6 +166872,25 @@
     "desc": "",
     "id": "13054",
     "name": "Southbound 6th St @ Princess St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.736915,
+     49.138911
+    ],
+    "type": "Point"
+   },
+   "id": "13055",
+   "properties": {
+    "code": "62014",
+    "desc": "",
+    "id": "13055",
+    "name": "Eastbound Fraser Hwy @ 176 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
