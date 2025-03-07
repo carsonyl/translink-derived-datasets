@@ -137145,25 +137145,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.696744,
-     49.121576
-    ],
-    "type": "Point"
-   },
-   "id": "10649",
-   "properties": {
-    "code": "60716",
-    "desc": "",
-    "id": "10649",
-    "name": "Westbound Fraser Hwy @ 18900 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.17742,
      49.264155
     ],
@@ -145782,25 +145763,6 @@
     "desc": "",
     "id": "11331",
     "name": "Eastbound Fraser Hwy @ 64 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.692199,
-     49.119471
-    ],
-    "type": "Point"
-   },
-   "id": "11332",
-   "properties": {
-    "code": "59086",
-    "desc": "",
-    "id": "11332",
-    "name": "Westbound Fraser Hwy @ 64 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166891,6 +166853,25 @@
     "desc": "",
     "id": "13055",
     "name": "Eastbound Fraser Hwy @ 176 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.690567,
+     49.118852
+    ],
+    "type": "Point"
+   },
+   "id": "13056",
+   "properties": {
+    "code": "62018",
+    "desc": "",
+    "id": "13056",
+    "name": "Westbound Fraser Hwy @ 64 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
