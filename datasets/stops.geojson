@@ -9085,8 +9085,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.100514,
-     49.263824
+     -123.100509,
+     49.263792
     ],
     "type": "Point"
    },
@@ -124073,25 +124073,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.89572,
-     49.216059
-    ],
-    "type": "Point"
-   },
-   "id": "9182",
-   "properties": {
-    "code": "58743",
-    "desc": "",
-    "id": "9182",
-    "name": "Northbound Jamieson Court @ Richmond St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.915059,
      49.221941
     ],
@@ -128910,25 +128891,6 @@
     "desc": "",
     "id": "9597",
     "name": "Eastbound 88 Ave @ 202 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.779807,
-     49.295795
-    ],
-    "type": "Point"
-   },
-   "id": "9598",
-   "properties": {
-    "code": "59093",
-    "desc": "",
-    "id": "9598",
-    "name": "Southbound Pipeline Rd @ 1300 Block",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -151756,6 +151718,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.000899,
+     49.266239
+    ],
+    "type": "Point"
+   },
+   "id": "11876",
+   "properties": {
+    "code": "61804",
+    "desc": "",
+    "id": "11876",
+    "name": "Brentwood Station @ Bay 5 New",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.003374,
      49.267569
     ],
@@ -163840,25 +163821,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.004628,
-     49.266331
-    ],
-    "type": "Point"
-   },
-   "id": "12836",
-   "properties": {
-    "code": "60516",
-    "desc": "",
-    "id": "12836",
-    "name": "Brentwood Station @ Bay 5",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.021073,
      49.317665
     ],
@@ -163909,25 +163871,6 @@
     "id": "12839",
     "name": "Eastbound Broadway @ Camrose Dr",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.004065,
-     49.26451
-    ],
-    "type": "Point"
-   },
-   "id": "12840",
-   "properties": {
-    "code": "52728",
-    "desc": "",
-    "id": "12840",
-    "name": "Westbound Dawson St @ Willingdon Ave",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -164326,25 +164269,6 @@
     "desc": "",
     "id": "12869",
     "name": "Westbound W 4th Ave @ Macdonald St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.003591,
-     49.260514
-    ],
-    "type": "Point"
-   },
-   "id": "12870",
-   "properties": {
-    "code": "60614",
-    "desc": "",
-    "id": "12870",
-    "name": "Northbound Willingdon Ave @ Still Creek Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166861,8 +166785,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.690567,
-     49.118852
+     -122.690775,
+     49.118766
     ],
     "type": "Point"
    },
@@ -166872,6 +166796,44 @@
     "desc": "",
     "id": "13056",
     "name": "Westbound Fraser Hwy @ 64 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.649148,
+     49.122691
+    ],
+    "type": "Point"
+   },
+   "id": "13057",
+   "properties": {
+    "code": "60682",
+    "desc": "",
+    "id": "13057",
+    "name": "Southbound Willowbrook Connector @ 66A Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.708622,
+     49.127101
+    ],
+    "type": "Point"
+   },
+   "id": "13058",
+   "properties": {
+    "code": "62021",
+    "desc": "",
+    "id": "13058",
+    "name": "Westbound Fraser Hwy @ 68 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
