@@ -2036,17 +2036,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115253,
-     49.281944
+     -123.116035,
+     49.281407
     ],
     "type": "Point"
    },
-   "id": "190",
+   "id": "191",
    "properties": {
-    "code": "50190",
+    "code": "50191",
     "desc": "",
-    "id": "190",
-    "name": "Southbound Richards St @ Dunsmuir St",
+    "id": "191",
+    "name": "Southbound Richards St @ W Georgia St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -12676,25 +12676,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.152972,
-     49.258543
-    ],
-    "type": "Point"
-   },
-   "id": "1043",
-   "properties": {
-    "code": "51034",
-    "desc": "",
-    "id": "1043",
-    "name": "Northbound Arbutus St @ W 15 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.044219,
      49.280776
     ],
@@ -13656,25 +13637,6 @@
     "desc": "",
     "id": "1103",
     "name": "Southbound Arbutus St @ W 12 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.153203,
-     49.258823
-    ],
-    "type": "Point"
-   },
-   "id": "1104",
-   "properties": {
-    "code": "51095",
-    "desc": "",
-    "id": "1104",
-    "name": "Southbound Arbutus St @ W 14 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -23707,7 +23669,7 @@
     "desc": "",
     "id": "1757",
     "name": "Northbound Boundary Rd @ Kitchener St",
-    "wheelchair_boarding": "1",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -46677,7 +46639,7 @@
     "code": "53438",
     "desc": "",
     "id": "3476",
-    "name": "Northbound Lougheed Hwy @ Como Lake Ave",
+    "name": "Northbound Lougheed Hwy @ Westwood St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -75186,6 +75148,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.768544,
+     49.153407
+    ],
+    "type": "Point"
+   },
+   "id": "5406",
+   "properties": {
+    "code": "55353",
+    "desc": "",
+    "id": "5406",
+    "name": "Westbound Fraser Hwy @ 164 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.775055,
      49.155963
     ],
@@ -81304,44 +81285,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.834759,
-     49.1698
-    ],
-    "type": "Point"
-   },
-   "id": "5779",
-   "properties": {
-    "code": "55724",
-    "desc": "",
-    "id": "5779",
-    "name": "Southbound 140 St @ 92 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.834774,
-     49.166042
-    ],
-    "type": "Point"
-   },
-   "id": "5780",
-   "properties": {
-    "code": "55725",
-    "desc": "",
-    "id": "5780",
-    "name": "Southbound 140 St @ 90 Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.834765,
      49.162433
     ],
@@ -87213,8 +87156,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.867458,
-     49.052483
+     -122.867474,
+     49.052235
     ],
     "type": "Point"
    },
@@ -88574,25 +88517,6 @@
     "id": "6222",
     "name": "Eastbound Crescent Rd @ 128 St",
     "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.868165,
-     49.053159
-    ],
-    "type": "Point"
-   },
-   "id": "6223",
-   "properties": {
-    "code": "56163",
-    "desc": "",
-    "id": "6223",
-    "name": "Westbound Crescent Rd @ 128 St",
-    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -124073,6 +123997,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.89572,
+     49.216059
+    ],
+    "type": "Point"
+   },
+   "id": "9182",
+   "properties": {
+    "code": "58743",
+    "desc": "",
+    "id": "9182",
+    "name": "Northbound Jamieson Court @ Richmond St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.915059,
      49.221941
     ],
@@ -135568,8 +135511,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.102218,
-     49.279008
+     -123.102244,
+     49.278929
     ],
     "type": "Point"
    },
@@ -135929,8 +135872,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116234,
-     49.274765
+     -123.11631,
+     49.274744
     ],
     "type": "Point"
    },
@@ -165759,8 +165702,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.109768,
-     49.24879
+     -123.109515,
+     49.248879
     ],
     "type": "Point"
    },
