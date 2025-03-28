@@ -16381,6 +16381,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.098889,
+     49.272477
+    ],
+    "type": "Point"
+   },
+   "id": "1286",
+   "properties": {
+    "code": "51275",
+    "desc": "",
+    "id": "1286",
+    "name": "Eastbound Terminal Ave @ Western St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.093947,
      49.271619
     ],
@@ -17779,25 +17798,6 @@
     "desc": "",
     "id": "1366",
     "name": "Westbound Terminal Ave @ 300 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.077215,
-     49.269991
-    ],
-    "type": "Point"
-   },
-   "id": "1367",
-   "properties": {
-    "code": "51356",
-    "desc": "",
-    "id": "1367",
-    "name": "Northbound Clark Dr @ E 1st Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -31087,25 +31087,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.948324,
-     49.163708
-    ],
-    "type": "Point"
-   },
-   "id": "2371",
-   "properties": {
-    "code": "52347",
-    "desc": "",
-    "id": "2371",
-    "name": "Eastbound Derwent Way @ Derwent Place",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.942522,
      49.167828
     ],
@@ -31440,25 +31421,6 @@
     "desc": "",
     "id": "2393",
     "name": "Westbound Westminster Hwy @ Willett Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.946975,
-     49.18668
-    ],
-    "type": "Point"
-   },
-   "id": "2396",
-   "properties": {
-    "code": "52372",
-    "desc": "",
-    "id": "2396",
-    "name": "Northbound Howes St @ Ewen Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -54571,25 +54533,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.018117,
-     49.306496
-    ],
-    "type": "Point"
-   },
-   "id": "4068",
-   "properties": {
-    "code": "58492",
-    "desc": "",
-    "id": "4068",
-    "name": "Eastbound Old Dollarton Rd @ Front St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.020454,
      49.311141
     ],
@@ -57269,8 +57212,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.07203,
-     49.328621
+     -123.072061,
+     49.32888
     ],
     "type": "Point"
    },
@@ -58799,7 +58742,7 @@
     "code": "54290",
     "desc": "",
     "id": "4337",
-    "name": "Grouse Mountain Mountain @ Skyride",
+    "name": "Grouse Mountain @ Skyride",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -58856,7 +58799,7 @@
     "code": "54293",
     "desc": "",
     "id": "4340",
-    "name": "Southbound Nancy Greene Way @ Blue Grouse Mountain Way",
+    "name": "Southbound Nancy Greene Way @ Blue Grouse Way",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -80981,8 +80924,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.834084,
-     49.17923
+     -122.834227,
+     49.180425
     ],
     "type": "Point"
    },
@@ -80992,25 +80935,6 @@
     "desc": "",
     "id": "5762",
     "name": "Northbound 140 St @ Fraser Hwy",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.834191,
-     49.181387
-    ],
-    "type": "Point"
-   },
-   "id": "5763",
-   "properties": {
-    "code": "55708",
-    "desc": "",
-    "id": "5763",
-    "name": "Northbound 140 St @ Green Timbers Way",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -98081,6 +98005,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.147761,
+     49.141262
+    ],
+    "type": "Point"
+   },
+   "id": "6874",
+   "properties": {
+    "code": "56809",
+    "desc": "",
+    "id": "6874",
+    "name": "Northbound Gilbert Rd @ Williams Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.147745,
      49.144183
     ],
@@ -98111,25 +98054,6 @@
     "desc": "",
     "id": "6876",
     "name": "Northbound Gilbert Rd @ Broadmoor Blvd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147711,
-     49.14866
-    ],
-    "type": "Point"
-   },
-   "id": "6877",
-   "properties": {
-    "code": "56812",
-    "desc": "",
-    "id": "6877",
-    "name": "Northbound Gilbert Rd @ Francis Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -98404,44 +98328,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147938,
-     49.149595
-    ],
-    "type": "Point"
-   },
-   "id": "6898",
-   "properties": {
-    "code": "56833",
-    "desc": "",
-    "id": "6898",
-    "name": "Southbound Gilbert Rd @ 8600 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147947,
-     49.148009
-    ],
-    "type": "Point"
-   },
-   "id": "6899",
-   "properties": {
-    "code": "56834",
-    "desc": "",
-    "id": "6899",
-    "name": "Southbound Gilbert Rd @ Francis Rd",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.147961,
      49.145755
     ],
@@ -98473,6 +98359,25 @@
     "id": "6901",
     "name": "Southbound Gilbert Rd @ Woodwards Rd",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147996,
+     49.140645
+    ],
+    "type": "Point"
+   },
+   "id": "6902",
+   "properties": {
+    "code": "56837",
+    "desc": "",
+    "id": "6902",
+    "name": "Southbound Gilbert Rd @ Williams Rd",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -135522,7 +135427,7 @@
     "desc": "",
     "id": "10466",
     "name": "Southbound Quebec St @ Keefer St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -141147,25 +141052,6 @@
     "id": "11032",
     "name": "Southbound 240 St @ McClure Dr",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.555714,
-     49.19129
-    ],
-    "type": "Point"
-   },
-   "id": "11033",
-   "properties": {
-    "code": "59192",
-    "desc": "",
-    "id": "11033",
-    "name": "Eastbound 104 Ave @ 240 St",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166778,6 +166664,25 @@
     "id": "13058",
     "name": "Westbound Fraser Hwy @ 68 Ave",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.018567,
+     49.306059
+    ],
+    "type": "Point"
+   },
+   "id": "13059",
+   "properties": {
+    "code": "54027",
+    "desc": "",
+    "id": "13059",
+    "name": "Eastbound Old Dollarton Rd @ Amherst Ave",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
