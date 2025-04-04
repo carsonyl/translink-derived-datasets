@@ -31429,6 +31429,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.946975,
+     49.18668
+    ],
+    "type": "Point"
+   },
+   "id": "2396",
+   "properties": {
+    "code": "52372",
+    "desc": "",
+    "id": "2396",
+    "name": "Northbound Howes St @ Ewen Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.949358,
      49.199792
     ],
@@ -35184,63 +35203,6 @@
     "id": "2657",
     "name": "Northbound Griffiths Dr @ Southpoint Dr",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.994325,
-     49.209736
-    ],
-    "type": "Point"
-   },
-   "id": "2660",
-   "properties": {
-    "code": "52635",
-    "desc": "",
-    "id": "2660",
-    "name": "Northbound Nelson Ave @ Carson Place",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.993842,
-     49.211114
-    ],
-    "type": "Point"
-   },
-   "id": "2661",
-   "properties": {
-    "code": "52636",
-    "desc": "",
-    "id": "2661",
-    "name": "Northbound Nelson Ave @ McKee Place",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.993814,
-     49.212432
-    ],
-    "type": "Point"
-   },
-   "id": "2662",
-   "properties": {
-    "code": "52637",
-    "desc": "",
-    "id": "2662",
-    "name": "Northbound Nelson Ave @ Portland St",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -42213,6 +42175,25 @@
     "desc": "",
     "id": "3133",
     "name": "Southbound E Columbia St @ Braid St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.892923,
+     49.227569
+    ],
+    "type": "Point"
+   },
+   "id": "3134",
+   "properties": {
+    "code": "53101",
+    "desc": "",
+    "id": "3134",
+    "name": "Southbound E Columbia St @ Sherbrooke St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -61031,82 +61012,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.081636,
-     49.320339
-    ],
-    "type": "Point"
-   },
-   "id": "4503",
-   "properties": {
-    "code": "54453",
-    "desc": "",
-    "id": "4503",
-    "name": "Northbound Jones Ave @ W Keith Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.081147,
-     49.322094
-    ],
-    "type": "Point"
-   },
-   "id": "4504",
-   "properties": {
-    "code": "54454",
-    "desc": "",
-    "id": "4504",
-    "name": "Eastbound W 15 St @ Jones Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.078179,
-     49.322067
-    ],
-    "type": "Point"
-   },
-   "id": "4505",
-   "properties": {
-    "code": "54455",
-    "desc": "",
-    "id": "4505",
-    "name": "Eastbound W 15 St @ Mahon Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.074863,
-     49.322025
-    ],
-    "type": "Point"
-   },
-   "id": "4506",
-   "properties": {
-    "code": "54456",
-    "desc": "",
-    "id": "4506",
-    "name": "Eastbound W 15 St @ Chesterfield Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.0688,
      49.321969
     ],
@@ -61232,101 +61137,6 @@
     "desc": "",
     "id": "4513",
     "name": "Westbound E 15 St @ St. Andrews Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.072934,
-     49.322138
-    ],
-    "type": "Point"
-   },
-   "id": "4514",
-   "properties": {
-    "code": "54464",
-    "desc": "",
-    "id": "4514",
-    "name": "Westbound W 15 St @ Lonsdale Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.075947,
-     49.322167
-    ],
-    "type": "Point"
-   },
-   "id": "4515",
-   "properties": {
-    "code": "54465",
-    "desc": "",
-    "id": "4515",
-    "name": "Westbound W 15 St @ Chesterfield Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.079052,
-     49.322197
-    ],
-    "type": "Point"
-   },
-   "id": "4516",
-   "properties": {
-    "code": "54466",
-    "desc": "",
-    "id": "4516",
-    "name": "Westbound W 15 St @ Mahon Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.081783,
-     49.321847
-    ],
-    "type": "Point"
-   },
-   "id": "4517",
-   "properties": {
-    "code": "54467",
-    "desc": "",
-    "id": "4517",
-    "name": "Southbound Jones Ave @ W 15 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.08182,
-     49.320339
-    ],
-    "type": "Point"
-   },
-   "id": "4518",
-   "properties": {
-    "code": "54468",
-    "desc": "",
-    "id": "4518",
-    "name": "Southbound Jones Ave @ W Keith Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -73476,25 +73286,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.789383,
-     49.1613
-    ],
-    "type": "Point"
-   },
-   "id": "5288",
-   "properties": {
-    "code": "55236",
-    "desc": "",
-    "id": "5288",
-    "name": "Eastbound Fraser Hwy @ 156 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.784641,
      49.159462
     ],
@@ -75121,25 +74912,6 @@
     "desc": "",
     "id": "5407",
     "name": "Westbound Fraser Hwy @ 84 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.78029,
-     49.158027
-    ],
-    "type": "Point"
-   },
-   "id": "5408",
-   "properties": {
-    "code": "55355",
-    "desc": "",
-    "id": "5408",
-    "name": "Westbound Fraser Hwy @ 160 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -96838,25 +96610,6 @@
     "desc": "",
     "id": "6807",
     "name": "Eastbound Steveston Hwy @ Kingfisher Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.158275,
-     49.133422
-    ],
-    "type": "Point"
-   },
-   "id": "6808",
-   "properties": {
-    "code": "56743",
-    "desc": "",
-    "id": "6808",
-    "name": "Eastbound Steveston Hwy @ No. 2 Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -130183,7 +129936,7 @@
     "desc": "",
     "id": "9930",
     "name": "Northbound King George Blvd @ Bolivar Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -135435,8 +135188,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.114446,
-     49.274212
+     -123.114389,
+     49.274253
     ],
     "type": "Point"
    },
@@ -138011,25 +137764,6 @@
     "desc": "",
     "id": "10755",
     "name": "Northbound Wesbrook Mall @ 2900 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.983805,
-     49.168184
-    ],
-    "type": "Point"
-   },
-   "id": "10757",
-   "properties": {
-    "code": "60858",
-    "desc": "",
-    "id": "10757",
-    "name": "Southbound Fraserwood Place @ Westminster Hwy",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -147424,8 +147158,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.126768,
-     49.278166
+     -123.127052,
+     49.277987
     ],
     "type": "Point"
    },
@@ -158273,25 +158007,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.580567,
-     49.256017
-    ],
-    "type": "Point"
-   },
-   "id": "12382",
-   "properties": {
-    "code": "60178",
-    "desc": "",
-    "id": "12382",
-    "name": "Northbound 232 St @ Anderson Creek Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.014624,
      49.310394
     ],
@@ -166683,6 +166398,63 @@
     "id": "13059",
     "name": "Eastbound Old Dollarton Rd @ Amherst Ave",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.076015,
+     49.320111
+    ],
+    "type": "Point"
+   },
+   "id": "13060",
+   "properties": {
+    "code": "62022",
+    "desc": "",
+    "id": "13060",
+    "name": "Westbound W 13 St @ Chesterfield Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.078221,
+     49.319973
+    ],
+    "type": "Point"
+   },
+   "id": "13061",
+   "properties": {
+    "code": "62023",
+    "desc": "",
+    "id": "13061",
+    "name": "Eastbound W 13 St @ Chesterfield Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.790569,
+     49.161761
+    ],
+    "type": "Point"
+   },
+   "id": "13062",
+   "properties": {
+    "code": "62026",
+    "desc": "",
+    "id": "13062",
+    "name": "Eastbound Fraser Hwy @ 156 St",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
