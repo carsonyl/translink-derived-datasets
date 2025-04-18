@@ -2036,6 +2036,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.11242,
+     49.283796
+    ],
+    "type": "Point"
+   },
+   "id": "189",
+   "properties": {
+    "code": "50189",
+    "desc": "",
+    "id": "189",
+    "name": "Southbound Richards St @ W Hastings St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.116035,
      49.281407
     ],
@@ -7215,25 +7234,6 @@
     "desc": "",
     "id": "644",
     "name": "Eastbound Davie St @ Thurlow St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.111471,
-     49.2844
-    ],
-    "type": "Point"
-   },
-   "id": "645",
-   "properties": {
-    "code": "50639",
-    "desc": "",
-    "id": "645",
-    "name": "Southbound Richards St @ W Cordova St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -31106,6 +31106,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.948324,
+     49.163708
+    ],
+    "type": "Point"
+   },
+   "id": "2371",
+   "properties": {
+    "code": "52347",
+    "desc": "",
+    "id": "2371",
+    "name": "Eastbound Derwent Way @ Derwent Place",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.942522,
      49.167828
     ],
@@ -46734,7 +46753,7 @@
     "code": "53449",
     "desc": "",
     "id": "3487",
-    "name": "Southbound Lougheed Hwy @ Como Lake Ave",
+    "name": "Southbound Lougheed Hwy @ Chilko Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -51389,7 +51408,7 @@
     "code": "53808",
     "desc": "",
     "id": "3847",
-    "name": "Eastbound Victoria Dr @ 900 Block",
+    "name": "Eastbound Victoria Dr @ Mitchell St",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -51997,7 +52016,7 @@
     "code": "53846",
     "desc": "",
     "id": "3886",
-    "name": "Westbound Victoria Dr @ 3500 Block",
+    "name": "Westbound Victoria Dr @ Mitchell St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -78910,25 +78929,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.867615,
-     49.182622
-    ],
-    "type": "Point"
-   },
-   "id": "5658",
-   "properties": {
-    "code": "55603",
-    "desc": "",
-    "id": "5658",
-    "name": "Northbound 128 St @ 99 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.867536,
      49.18472
     ],
@@ -79244,25 +79244,6 @@
     "desc": "",
     "id": "5675",
     "name": "Southbound 128 St @ 100 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.867845,
-     49.181905
-    ],
-    "type": "Point"
-   },
-   "id": "5676",
-   "properties": {
-    "code": "55621",
-    "desc": "",
-    "id": "5676",
-    "name": "Southbound 128 St @ 99 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -96675,17 +96656,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.160811,
-     49.133462
+     -123.16888,
+     49.133621
     ],
     "type": "Point"
    },
-   "id": "6807",
+   "id": "6805",
    "properties": {
-    "code": "56742",
+    "code": "56740",
     "desc": "",
-    "id": "6807",
-    "name": "Eastbound Steveston Hwy @ Kingfisher Dr",
+    "id": "6805",
+    "name": "Eastbound Steveston Hwy @ Railway Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -130913,25 +130894,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.938606,
-     49.25443
-    ],
-    "type": "Point"
-   },
-   "id": "10028",
-   "properties": {
-    "code": "53308",
-    "desc": "",
-    "id": "10028",
-    "name": "Westbound Lougheed Hwy @ Lake City Way",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.937052,
      49.254139
     ],
@@ -137639,8 +137601,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.725507,
-     49.118699
+     -122.724987,
+     49.1187
     ],
     "type": "Point"
    },
@@ -163129,7 +163091,7 @@
     "desc": "",
     "id": "12771",
     "name": "Eastbound Pacific St @ Thurlow St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -164137,25 +164099,6 @@
     "id": "12858",
     "name": "Westbound Burley Dr @ Kings Ave",
     "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.113767,
-     49.28292
-    ],
-    "type": "Point"
-   },
-   "id": "12859",
-   "properties": {
-    "code": "60602",
-    "desc": "",
-    "id": "12859",
-    "name": "Southbound Richards St @ W Pender St",
-    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166929,6 +166872,44 @@
     "desc": "",
     "id": "13064",
     "name": "Eastbound Robson St @ Bute St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.102462,
+     49.276942
+    ],
+    "type": "Point"
+   },
+   "id": "13066",
+   "properties": {
+    "code": "61245",
+    "desc": "",
+    "id": "13066",
+    "name": "Northbound Expo Blvd @ Quebec St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.724444,
+     49.118853
+    ],
+    "type": "Point"
+   },
+   "id": "13067",
+   "properties": {
+    "code": "62029",
+    "desc": "",
+    "id": "13067",
+    "name": "Westbound 64 Ave @ 180 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
