@@ -3,8 +3,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.140424,
-     49.286458
+     -123.140661,
+     49.286592
     ],
     "type": "Point"
    },
@@ -33,25 +33,6 @@
     "desc": "",
     "id": "11",
     "name": "Eastbound Davie St @ Howe St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.125546,
-     49.272929
-    ],
-    "type": "Point"
-   },
-   "id": "14",
-   "properties": {
-    "code": "50014",
-    "desc": "",
-    "id": "14",
-    "name": "Eastbound Pacific Blvd @ Homer St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -9446,8 +9427,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.090705,
-     49.232478
+     -123.09072,
+     49.232532
     ],
     "type": "Point"
    },
@@ -79822,6 +79803,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.856704,
+     49.148507
+    ],
+    "type": "Point"
+   },
+   "id": "5710",
+   "properties": {
+    "code": "55655",
+    "desc": "",
+    "id": "5710",
+    "name": "Northbound 132 St @ 80 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.856702,
      49.151125
     ],
@@ -85104,25 +85104,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.81174,
-     49.111724
-    ],
-    "type": "Point"
-   },
-   "id": "6026",
-   "properties": {
-    "code": "55969",
-    "desc": "",
-    "id": "6026",
-    "name": "Eastbound 60 Ave @ 148 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.80605,
      49.111688
     ],
@@ -85533,25 +85514,6 @@
     "desc": "",
     "id": "6054",
     "name": "Westbound 60 Ave @ 150 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.812964,
-     49.111845
-    ],
-    "type": "Point"
-   },
-   "id": "6055",
-   "properties": {
-    "code": "55997",
-    "desc": "",
-    "id": "6055",
-    "name": "Westbound 60 Ave @ 148 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -115732,8 +115694,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.105515,
-     49.279294
+     -123.105167,
+     49.279254
     ],
     "type": "Point"
    },
@@ -131065,27 +131027,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.132974,
-     49.275543
-    ],
-    "type": "Point"
-   },
-   "id": "10047",
-   "properties": {
-    "code": "59393",
-    "desc": "",
-    "id": "10047",
-    "name": "Westbound Beach Ave @ Hornby St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.135648,
-     49.277896
+     -123.135706,
+     49.27794
     ],
     "type": "Point"
    },
@@ -131133,25 +131076,6 @@
     "desc": "",
     "id": "10057",
     "name": "Westbound Pacific St @ Richards St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.124214,
-     49.27342
-    ],
-    "type": "Point"
-   },
-   "id": "10058",
-   "properties": {
-    "code": "50086",
-    "desc": "",
-    "id": "10058",
-    "name": "Westbound Pacific Blvd @ Drake St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -135055,25 +134979,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.123135,
-     49.273429
-    ],
-    "type": "Point"
-   },
-   "id": "10441",
-   "properties": {
-    "code": "50015",
-    "desc": "",
-    "id": "10441",
-    "name": "Eastbound Pacific Blvd @ Drake St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.845091,
      49.194719
     ],
@@ -135245,25 +135150,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.117633,
-     49.27421
-    ],
-    "type": "Point"
-   },
-   "id": "10465",
-   "properties": {
-    "code": "59916",
-    "desc": "",
-    "id": "10465",
-    "name": "Eastbound Pacific Blvd @ Boathouse Mews",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.102244,
      49.278929
     ],
@@ -135302,8 +135188,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.120842,
-     49.274036
+     -123.12074,
+     49.274071
     ],
     "type": "Point"
    },
@@ -135321,8 +135207,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.105758,
-     49.279326
+     -123.1057,
+     49.27934
     ],
     "type": "Point"
    },
@@ -135332,25 +135218,6 @@
     "desc": "",
     "id": "10470",
     "name": "Eastbound Keefer Place @ Taylor St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.119683,
-     49.274606
-    ],
-    "type": "Point"
-   },
-   "id": "10471",
-   "properties": {
-    "code": "59914",
-    "desc": "",
-    "id": "10471",
-    "name": "Westbound Pacific Blvd @ Cambie St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -135503,44 +135370,6 @@
     "desc": "",
     "id": "10485",
     "name": "Southbound 80 St @ 4700 Block",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.099334,
-     49.274846
-    ],
-    "type": "Point"
-   },
-   "id": "10486",
-   "properties": {
-    "code": "59928",
-    "desc": "",
-    "id": "10486",
-    "name": "Eastbound National Ave @ Main St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.102946,
-     49.279267
-    ],
-    "type": "Point"
-   },
-   "id": "10487",
-   "properties": {
-    "code": "51133",
-    "desc": "",
-    "id": "10487",
-    "name": "Westbound Keefer St @ Columbia St",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -138068,7 +137897,7 @@
     "desc": "",
     "id": "10772",
     "name": "Northbound Byrne Rd @ North Fraser Way",
-    "wheelchair_boarding": "1",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -145676,8 +145505,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.121945,
-     49.27402
+     -123.121965,
+     49.274016
     ],
     "type": "Point"
    },
@@ -146162,25 +145991,6 @@
     "desc": "",
     "id": "11398",
     "name": "Northbound Garden City Rd @ Westminster Hwy",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.106439,
-     49.279581
-    ],
-    "type": "Point"
-   },
-   "id": "11401",
-   "properties": {
-    "code": "59923",
-    "desc": "",
-    "id": "11401",
-    "name": "Westbound Keefer Place @ Taylor St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -146816,25 +146626,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.125037,
-     49.28483
-    ],
-    "type": "Point"
-   },
-   "id": "11482",
-   "properties": {
-    "code": "50625",
-    "desc": "",
-    "id": "11482",
-    "name": "Westbound Robson St @ Thurlow St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.130152,
      49.288152
     ],
@@ -147112,25 +146903,6 @@
     "desc": "",
     "id": "11500",
     "name": "Eastbound E 33 Ave @ Main St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.107546,
-     49.277432
-    ],
-    "type": "Point"
-   },
-   "id": "11502",
-   "properties": {
-    "code": "59919",
-    "desc": "",
-    "id": "11502",
-    "name": "Northbound Pat Quinn Way @ Pacific Blvd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -149039,25 +148811,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.124658,
-     49.284394
-    ],
-    "type": "Point"
-   },
-   "id": "11666",
-   "properties": {
-    "code": "50615",
-    "desc": "",
-    "id": "11666",
-    "name": "Eastbound Robson St @ Thurlow St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.129537,
      49.325824
     ],
@@ -150646,25 +150399,6 @@
     "desc": "",
     "id": "11788",
     "name": "Bridgeport Station @ Bay 6",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.248724,
-     49.265726
-    ],
-    "type": "Point"
-   },
-   "id": "11792",
-   "properties": {
-    "code": "58895",
-    "desc": "",
-    "id": "11792",
-    "name": "UBC Exchange @ Bay 9",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -163061,8 +162795,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.137988,
-     49.280513
+     -123.137828,
+     49.280455
     ],
     "type": "Point"
    },
@@ -163080,8 +162814,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.13473,
-     49.278412
+     -123.134614,
+     49.27838
     ],
     "type": "Point"
    },
@@ -164099,6 +163833,25 @@
     "id": "12858",
     "name": "Westbound Burley Dr @ Kings Ave",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.113767,
+     49.28292
+    ],
+    "type": "Point"
+   },
+   "id": "12859",
+   "properties": {
+    "code": "60602",
+    "desc": "",
+    "id": "12859",
+    "name": "Southbound Richards St @ W Pender St",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
