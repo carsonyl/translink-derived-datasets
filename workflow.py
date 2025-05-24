@@ -44,10 +44,15 @@ def cli():
 
 
 @cli.command()
-def gtfs():
+@click.option(
+    "--url",
+    default=lambda: os.environ.get("GTFS_URL"),
+    show_default="from GTFS_URL env var",
+)
+def gtfs(url):
     """Download the latest GTFS dataset and extract routes, shapes, and stops."""
-    last_friday = date.today() + timedelta(days=4 - date.today().weekday())
-    url = f"http://gtfs.translink.ca/static/latest"
+    if not url:
+        raise click.UsageError("GTFS_URL is not set.")
     with TemporaryFile() as outf:
         with session.get(url, stream=True) as dl:
             dl.raise_for_status()
