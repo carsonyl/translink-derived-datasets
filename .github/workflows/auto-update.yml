@@ -2,7 +2,7 @@ name: Update from GTFS
 
 on:
   schedule:
-    - cron: '35 4 * * 5'
+    - cron: '35 2 * * 6'
   workflow_dispatch:
 
 jobs:
@@ -30,6 +30,8 @@ jobs:
           git config --local user.name "github-actions[bot]"
       
       - name: Download and detect changes
+        env:
+          GTFS_URL: ${{ vars.GTFS_URL }}
         run: |
           python workflow.py changes
           python workflow.py git
