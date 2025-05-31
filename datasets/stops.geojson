@@ -17293,63 +17293,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.076944,
-     49.214995
-    ],
-    "type": "Point"
-   },
-   "id": "1338",
-   "properties": {
-    "code": "51327",
-    "desc": "",
-    "id": "1338",
-    "name": "Northbound Knight St @ E 61 Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.076922,
-     49.216763
-    ],
-    "type": "Point"
-   },
-   "id": "1339",
-   "properties": {
-    "code": "51328",
-    "desc": "",
-    "id": "1339",
-    "name": "Northbound Knight St @ E 59 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.076884,
-     49.218444
-    ],
-    "type": "Point"
-   },
-   "id": "1340",
-   "properties": {
-    "code": "51329",
-    "desc": "",
-    "id": "1340",
-    "name": "Northbound Knight St @ E 57 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.077282,
      49.221998
     ],
@@ -39306,7 +39249,7 @@
     "desc": "",
     "id": "2949",
     "name": "Eastbound Halifax St @ Yeovil Ave",
-    "wheelchair_boarding": "1",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -51560,7 +51503,7 @@
     "code": "53815",
     "desc": "",
     "id": "3854",
-    "name": "Westbound Prairie Ave @ Newberry St",
+    "name": "Westbound Prairie Ave @ Kilmer St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -67598,6 +67541,25 @@
     "id": "4915",
     "name": "Eastbound 72 Ave @ 116 St",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.895578,
+     49.133963
+    ],
+    "type": "Point"
+   },
+   "id": "4916",
+   "properties": {
+    "code": "54864",
+    "desc": "",
+    "id": "4916",
+    "name": "Eastbound 72 Ave @ 118 St",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -135036,25 +134998,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.098684,
-     49.273162
-    ],
-    "type": "Point"
-   },
-   "id": "10435",
-   "properties": {
-    "code": "59929",
-    "desc": "",
-    "id": "10435",
-    "name": "Main Street-Science World Station @ Bay 3",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.827603,
      49.284375
     ],
@@ -143654,25 +143597,6 @@
     "desc": "",
     "id": "11204",
     "name": "Eastbound 6th Ave @ 6th St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.877081,
-     49.053934
-    ],
-    "type": "Point"
-   },
-   "id": "11205",
-   "properties": {
-    "code": "56165",
-    "desc": "",
-    "id": "11205",
-    "name": "Westbound Bayview St @ Beecher St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -160344,25 +160268,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.098659,
-     49.273628
-    ],
-    "type": "Point"
-   },
-   "id": "12519",
-   "properties": {
-    "code": "60250",
-    "desc": "",
-    "id": "12519",
-    "name": "Southbound Station St @ Terminal Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.01295,
      49.168301
     ],
@@ -161096,6 +161001,25 @@
     "desc": "",
     "id": "12600",
     "name": "UBC Exchange @ Unloading Only",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.09865,
+     49.273853
+    ],
+    "type": "Point"
+   },
+   "id": "12602",
+   "properties": {
+    "code": "60351",
+    "desc": "",
+    "id": "12602",
+    "name": "Southbound Station St @ National Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
