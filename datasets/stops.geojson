@@ -19573,25 +19573,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.014877,
-     49.281147
-    ],
-    "type": "Point"
-   },
-   "id": "1479",
-   "properties": {
-    "code": "51467",
-    "desc": "",
-    "id": "1479",
-    "name": "Westbound Hastings St @ Gilmore Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.01911,
      49.281179
     ],
@@ -27116,18 +27097,18 @@
   {
    "geometry": {
     "coordinates": [
-     -123.140335,
-     49.227032
+     -123.138278,
+     49.226981
     ],
     "type": "Point"
    },
-   "id": "2058",
+   "id": "2057",
    "properties": {
-    "code": "52041",
+    "code": "52040",
     "desc": "",
-    "id": "2058",
-    "name": "Westbound W 49 Ave @ Granville St",
-    "wheelchair_boarding": "1",
+    "id": "2057",
+    "name": "Westbound W 49 Ave @ Cartier St",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -43790,7 +43771,7 @@
     "desc": "",
     "id": "3265",
     "name": "Westbound Ioco Rd @ Metta St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -43828,7 +43809,7 @@
     "desc": "",
     "id": "3267",
     "name": "Westbound Ioco Rd @ Mercier Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -43866,7 +43847,7 @@
     "desc": "",
     "id": "3270",
     "name": "Westbound Ioco Rd @ Barber St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -126030,6 +126011,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.043632,
+     49.285674
+    ],
+    "type": "Point"
+   },
+   "id": "9359",
+   "properties": {
+    "code": "58030",
+    "desc": "",
+    "id": "9359",
+    "name": "Bus Stop @ Pne Coliseum Loop",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.742182,
      49.264247
     ],
@@ -127390,7 +127390,7 @@
     "desc": "",
     "id": "9500",
     "name": "Westbound Ioco Rd @ Alderside Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -137259,6 +137259,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.134884,
+     49.164647
+    ],
+    "type": "Point"
+   },
+   "id": "10706",
+   "properties": {
+    "code": "59731",
+    "desc": "",
+    "id": "10706",
+    "name": "Eastbound Park Rd @ Buswell St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.896549,
      49.119346
     ],
@@ -146645,25 +146664,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.135822,
-     49.173763
-    ],
-    "type": "Point"
-   },
-   "id": "11471",
-   "properties": {
-    "code": "56454",
-    "desc": "",
-    "id": "11471",
-    "name": "Lansdowne Station @ Bay 2",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.145428,
      49.269179
     ],
@@ -150274,6 +150274,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.044987,
+     49.244392
+    ],
+    "type": "Point"
+   },
+   "id": "11762",
+   "properties": {
+    "code": "61616",
+    "desc": "",
+    "id": "11762",
+    "name": "29th Avenue Station @ Bay 5",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.125757,
+     49.195649
+    ],
+    "type": "Point"
+   },
+   "id": "11763",
+   "properties": {
+    "code": "61430",
+    "desc": "",
+    "id": "11763",
+    "name": "Bridgeport Station @ Bay 13",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.849708,
      49.189461
     ],
@@ -151919,25 +151957,6 @@
     "desc": "",
     "id": "11911",
     "name": "Eastbound 8th Ave @ 8th St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.859689,
-     49.230419
-    ],
-    "type": "Point"
-   },
-   "id": "11912",
-   "properties": {
-    "code": "61515",
-    "desc": "",
-    "id": "11912",
-    "name": "Eastbound United Blvd @ King Edward St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -162947,6 +162966,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.016705,
+     49.281164
+    ],
+    "type": "Point"
+   },
+   "id": "12777",
+   "properties": {
+    "code": "60542",
+    "desc": "",
+    "id": "12777",
+    "name": "Westbound Hastings St @ MacDonald Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.783603,
      49.263652
     ],
@@ -166720,7 +166758,26 @@
     "desc": "",
     "id": "13068",
     "name": "Southbound Douglas Rd @ Regent St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.013374,
+     49.281146
+    ],
+    "type": "Point"
+   },
+   "id": "13069",
+   "properties": {
+    "code": "62017",
+    "desc": "",
+    "id": "13069",
+    "name": "Westbound Hastings St @ Gilmore Ave",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166834,6 +166891,44 @@
     "desc": "",
     "id": "13075",
     "name": "Southbound Glenayre Dr @ Clarke Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.645827,
+     49.126734
+    ],
+    "type": "Point"
+   },
+   "id": "13076",
+   "properties": {
+    "code": "60678",
+    "desc": "",
+    "id": "13076",
+    "name": "Northbound 208 St @ 68 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.137624,
+     49.173763
+    ],
+    "type": "Point"
+   },
+   "id": "13077",
+   "properties": {
+    "code": "61773",
+    "desc": "",
+    "id": "13077",
+    "name": "Eastbound Lansdowne Rd @ No. 3 Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
