@@ -5105,7 +5105,7 @@
     "code": "50429",
     "desc": "",
     "id": "433",
-    "name": "Eastbound Powell St @ Glen Dr",
+    "name": "Eastbound Powell St @",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -5903,7 +5903,7 @@
     "code": "50512",
     "desc": "",
     "id": "516",
-    "name": "Westbound Powell St @ Glen Dr",
+    "name": "Westbound Powell St @",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -16856,25 +16856,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.076911,
-     49.238186
-    ],
-    "type": "Point"
-   },
-   "id": "1313",
-   "properties": {
-    "code": "51302",
-    "desc": "",
-    "id": "1313",
-    "name": "Southbound Knight St @ E 35 Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.07705,
      49.236514
     ],
@@ -27108,7 +27089,7 @@
     "desc": "",
     "id": "2057",
     "name": "Westbound W 49 Ave @ Cartier St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -66647,7 +66628,7 @@
     "desc": "",
     "id": "4848",
     "name": "Westbound 72 Ave @ 118 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -75368,25 +75349,6 @@
     "desc": "",
     "id": "5431",
     "name": "Westbound 16 Ave @ King George Blvd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.779695,
-     49.03115
-    ],
-    "type": "Point"
-   },
-   "id": "5432",
-   "properties": {
-    "code": "55379",
-    "desc": "",
-    "id": "5432",
-    "name": "Westbound 16 Ave @ 160 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -113509,8 +113471,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.47562,
-     49.173324
+     -122.476041,
+     49.173425
     ],
     "type": "Point"
    },
@@ -113519,7 +113481,7 @@
     "code": "57855",
     "desc": "",
     "id": "7929",
-    "name": "Northbound 272 St @ 9400 Block (Flag)",
+    "name": "Eastbound River Rd @ 22927 Block (Flag)",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
