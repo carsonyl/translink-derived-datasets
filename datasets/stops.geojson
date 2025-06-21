@@ -412,7 +412,7 @@
     "code": "50054",
     "desc": "",
     "id": "54",
-    "name": "Eastbound W 16 Ave @ Trutch St",
+    "name": "Eastbound W 16 Ave @ Musqueamview St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -2199,82 +2199,6 @@
     "desc": "",
     "id": "202",
     "name": "Northbound Granville St @ W 41 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.139374,
-     49.237418
-    ],
-    "type": "Point"
-   },
-   "id": "204",
-   "properties": {
-    "code": "50203",
-    "desc": "",
-    "id": "204",
-    "name": "Northbound Granville St @ W 38 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.13931,
-     49.239279
-    ],
-    "type": "Point"
-   },
-   "id": "205",
-   "properties": {
-    "code": "50204",
-    "desc": "",
-    "id": "205",
-    "name": "Northbound Granville St @ W 36 Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.13924,
-     49.241186
-    ],
-    "type": "Point"
-   },
-   "id": "206",
-   "properties": {
-    "code": "50205",
-    "desc": "",
-    "id": "206",
-    "name": "Northbound Granville St @ W 34 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.139178,
-     49.243144
-    ],
-    "type": "Point"
-   },
-   "id": "207",
-   "properties": {
-    "code": "50206",
-    "desc": "",
-    "id": "207",
-    "name": "Northbound Granville St @ Minto Cres",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -6102,44 +6026,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.139073,
-     49.252781
-    ],
-    "type": "Point"
-   },
-   "id": "551",
-   "properties": {
-    "code": "50546",
-    "desc": "",
-    "id": "551",
-    "name": "Southbound Granville St @ Matthews Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.139186,
-     49.2505
-    ],
-    "type": "Point"
-   },
-   "id": "552",
-   "properties": {
-    "code": "50547",
-    "desc": "",
-    "id": "552",
-    "name": "Southbound Granville St @ Laurier Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.139289,
      49.247111
     ],
@@ -6178,25 +6064,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.139408,
-     49.243251
-    ],
-    "type": "Point"
-   },
-   "id": "556",
-   "properties": {
-    "code": "50551",
-    "desc": "",
-    "id": "556",
-    "name": "Southbound Granville St @ W 32 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.139454,
      49.241525
     ],
@@ -6216,25 +6083,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.139528,
-     49.239615
-    ],
-    "type": "Point"
-   },
-   "id": "558",
-   "properties": {
-    "code": "50553",
-    "desc": "",
-    "id": "558",
-    "name": "Southbound Granville St @ W 35 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.139593,
      49.237706
     ],
@@ -6246,44 +6094,6 @@
     "desc": "",
     "id": "559",
     "name": "Southbound Granville St @ W 37 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.139659,
-     49.235947
-    ],
-    "type": "Point"
-   },
-   "id": "560",
-   "properties": {
-    "code": "50555",
-    "desc": "",
-    "id": "560",
-    "name": "Southbound Granville St @ S Connaught Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.139751,
-     49.235048
-    ],
-    "type": "Point"
-   },
-   "id": "561",
-   "properties": {
-    "code": "50556",
-    "desc": "",
-    "id": "561",
-    "name": "Southbound Granville St @ W 40 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -8971,25 +8781,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.140212,
-     49.213646
-    ],
-    "type": "Point"
-   },
-   "id": "767",
-   "properties": {
-    "code": "50760",
-    "desc": "",
-    "id": "767",
-    "name": "Northbound Granville St @ W 64 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.140165,
      49.215299
     ],
@@ -9028,25 +8819,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.139943,
-     49.221123
-    ],
-    "type": "Point"
-   },
-   "id": "771",
-   "properties": {
-    "code": "50764",
-    "desc": "",
-    "id": "771",
-    "name": "Northbound Granville St @ W 55 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.139886,
      49.222949
     ],
@@ -9077,25 +8849,6 @@
     "desc": "",
     "id": "774",
     "name": "Northbound Granville St @ W 49 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.139609,
-     49.229985
-    ],
-    "type": "Point"
-   },
-   "id": "776",
-   "properties": {
-    "code": "50769",
-    "desc": "",
-    "id": "776",
-    "name": "Northbound Granville St @ W 46 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -10377,25 +10130,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.139921,
-     49.228469
-    ],
-    "type": "Point"
-   },
-   "id": "862",
-   "properties": {
-    "code": "50855",
-    "desc": "",
-    "id": "862",
-    "name": "Southbound Granville St @ W 47 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.139991,
      49.226415
     ],
@@ -10484,25 +10218,6 @@
     "id": "867",
     "name": "Southbound Granville St @ W 59 Ave",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.140408,
-     49.215526
-    ],
-    "type": "Point"
-   },
-   "id": "868",
-   "properties": {
-    "code": "50861",
-    "desc": "",
-    "id": "868",
-    "name": "Southbound Granville St @ W 61 Ave",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -15822,7 +15537,7 @@
     "desc": "",
     "id": "1241",
     "name": "Northbound Commercial Dr @ E Georgia St",
-    "wheelchair_boarding": "1",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -73305,6 +73020,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.789383,
+     49.1613
+    ],
+    "type": "Point"
+   },
+   "id": "5288",
+   "properties": {
+    "code": "55236",
+    "desc": "",
+    "id": "5288",
+    "name": "Eastbound Fraser Hwy @ 156 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.784641,
      49.159462
     ],
@@ -78826,6 +78560,25 @@
     "desc": "",
     "id": "5657",
     "name": "Northbound 128 St @ 98 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.867615,
+     49.182622
+    ],
+    "type": "Point"
+   },
+   "id": "5658",
+   "properties": {
+    "code": "55603",
+    "desc": "",
+    "id": "5658",
+    "name": "Northbound 128 St @ 99 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -97891,25 +97644,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147711,
-     49.14866
-    ],
-    "type": "Point"
-   },
-   "id": "6877",
-   "properties": {
-    "code": "56812",
-    "desc": "",
-    "id": "6877",
-    "name": "Northbound Gilbert Rd @ Francis Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.147721,
      49.150018
     ],
@@ -98016,44 +97750,6 @@
     "desc": "",
     "id": "6884",
     "name": "Northbound Gilbert Rd @ Granville Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147587,
-     49.166463
-    ],
-    "type": "Point"
-   },
-   "id": "6886",
-   "properties": {
-    "code": "56821",
-    "desc": "",
-    "id": "6886",
-    "name": "Northbound Gilbert Rd @ Azure Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147599,
-     49.16801
-    ],
-    "type": "Point"
-   },
-   "id": "6887",
-   "properties": {
-    "code": "56822",
-    "desc": "",
-    "id": "6887",
-    "name": "Northbound Gilbert Rd @ 6300 Block",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -117100,8 +116796,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.088597,
-     49.133346
+     -123.087932,
+     49.133352
     ],
     "type": "Point"
    },
@@ -129973,7 +129669,7 @@
     "code": "58964",
     "desc": "",
     "id": "9851",
-    "name": "Westbound 84 Ave @ 108 St",
+    "name": "Westbound 84 Ave @ Delsom Cres",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -140537,7 +140233,7 @@
     "code": "61219",
     "desc": "",
     "id": "11003",
-    "name": "Eastbound 84 Ave @ 108 St",
+    "name": "Eastbound 84 Ave @ Delsom Cres",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -148974,7 +148670,7 @@
     "desc": "",
     "id": "11679",
     "name": "Eastbound Como Lake Ave @ Robinson St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166614,25 +166310,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.790569,
-     49.161761
-    ],
-    "type": "Point"
-   },
-   "id": "13062",
-   "properties": {
-    "code": "62026",
-    "desc": "",
-    "id": "13062",
-    "name": "Eastbound Fraser Hwy @ 156 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.126674,
      49.28586
     ],
@@ -166891,6 +166568,101 @@
     "desc": "",
     "id": "13077",
     "name": "Eastbound Lansdowne Rd @ No. 3 Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.139145,
+     49.251607
+    ],
+    "type": "Point"
+   },
+   "id": "13078",
+   "properties": {
+    "code": "61339",
+    "desc": "",
+    "id": "13078",
+    "name": "Southbound Granville St @ Balfour Ave",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.139199,
+     49.242211
+    ],
+    "type": "Point"
+   },
+   "id": "13079",
+   "properties": {
+    "code": "60786",
+    "desc": "",
+    "id": "13079",
+    "name": "Northbound Granville St @ W 33rd Ave",
+    "wheelchair_boarding": "2",
+    "zone": "ZN 1"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.139327,
+     49.238311
+    ],
+    "type": "Point"
+   },
+   "id": "13080",
+   "properties": {
+    "code": "60787",
+    "desc": "",
+    "id": "13080",
+    "name": "Northbound Granville St @ W 37 Ave",
+    "wheelchair_boarding": "2",
+    "zone": "ZN 1"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.139594,
+     49.23093
+    ],
+    "type": "Point"
+   },
+   "id": "13081",
+   "properties": {
+    "code": "59472",
+    "desc": "",
+    "id": "13081",
+    "name": "Northbound Granville St @ W 45 Ave",
+    "wheelchair_boarding": "2",
+    "zone": "ZN 1"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.013528,
+     49.266023
+    ],
+    "type": "Point"
+   },
+   "id": "13082",
+   "properties": {
+    "code": "59954",
+    "desc": "",
+    "id": "13082",
+    "name": "Eastbound Lougheed Hwy @ Gilmore Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
