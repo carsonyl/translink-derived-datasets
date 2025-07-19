@@ -3765,8 +3765,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.134715,
-     49.263448
+     -123.134487,
+     49.263445
     ],
     "type": "Point"
    },
@@ -10027,25 +10027,6 @@
     "desc": "",
     "id": "853",
     "name": "Northbound Fraser St @ E 10 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.093535,
-     49.262598
-    ],
-    "type": "Point"
-   },
-   "id": "855",
-   "properties": {
-    "code": "50848",
-    "desc": "",
-    "id": "855",
-    "name": "Westbound E Broadway @ St. George St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -25816,44 +25797,6 @@
     "desc": "",
     "id": "1985",
     "name": "Eastbound W 49 Ave @ Alberta St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.107863,
-     49.22573
-    ],
-    "type": "Point"
-   },
-   "id": "1986",
-   "properties": {
-    "code": "51969",
-    "desc": "",
-    "id": "1986",
-    "name": "Eastbound W 49 Ave @ Manitoba St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.103335,
-     49.225636
-    ],
-    "type": "Point"
-   },
-   "id": "1987",
-   "properties": {
-    "code": "51970",
-    "desc": "",
-    "id": "1987",
-    "name": "Eastbound E 49 Ave @ Quebec St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -67244,25 +67187,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.900393,
-     49.133902
-    ],
-    "type": "Point"
-   },
-   "id": "4915",
-   "properties": {
-    "code": "54863",
-    "desc": "",
-    "id": "4915",
-    "name": "Eastbound 72 Ave @ 116 St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.895578,
      49.133963
     ],
@@ -91355,25 +91279,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.158091,
-     49.170023
-    ],
-    "type": "Point"
-   },
-   "id": "6505",
-   "properties": {
-    "code": "56444",
-    "desc": "",
-    "id": "6505",
-    "name": "Eastbound Westminster Hwy @ No. 2 Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.156096,
      49.170032
     ],
@@ -91784,25 +91689,6 @@
     "desc": "",
     "id": "6546",
     "name": "Westbound Westminster Hwy @ Elmbridge Way",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.157896,
-     49.170259
-    ],
-    "type": "Point"
-   },
-   "id": "6547",
-   "properties": {
-    "code": "56486",
-    "desc": "",
-    "id": "6547",
-    "name": "Westbound Westminster Hwy @ No. 2 Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -129792,8 +129678,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.040479,
-     49.224659
+     -123.040495,
+     49.224663
     ],
     "type": "Point"
    },
@@ -148716,25 +148602,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.85073,
-     49.197675
-    ],
-    "type": "Point"
-   },
-   "id": "11721",
-   "properties": {
-    "code": "61658",
-    "desc": "",
-    "id": "11721",
-    "name": "Northbound University Dr @ 107A Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.537577,
      49.069471
     ],
@@ -156251,7 +156118,7 @@
     "desc": "",
     "id": "12300",
     "name": "Southbound Pipeline Rd @ Glen Dr",
-    "wheelchair_boarding": "1",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -163555,25 +163422,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.107959,
-     49.225866
-    ],
-    "type": "Point"
-   },
-   "id": "12918",
-   "properties": {
-    "code": "61435",
-    "desc": "",
-    "id": "12918",
-    "name": "Westbound W 49th Ave @ Manitoba St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.06976,
      49.267975
     ],
@@ -164410,8 +164258,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.101339,
-     49.225723
+     -123.100866,
+     49.225716
     ],
     "type": "Point"
    },
@@ -165436,25 +165284,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.806183,
-     49.168036
-    ],
-    "type": "Point"
-   },
-   "id": "13046",
-   "properties": {
-    "code": "61998",
-    "desc": "",
-    "id": "13046",
-    "name": "Westbound Fraser Hwy @ 150 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.757052,
      49.19169
     ],
@@ -166094,6 +165923,63 @@
     "id": "13086",
     "name": "Southbound Purcell Dr @ Robson Dr",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.092634,
+     49.262606
+    ],
+    "type": "Point"
+   },
+   "id": "13087",
+   "properties": {
+    "code": "62060",
+    "desc": "",
+    "id": "13087",
+    "name": "Westbound E Broadway @ St. George St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.110487,
+     49.225969
+    ],
+    "type": "Point"
+   },
+   "id": "13088",
+   "properties": {
+    "code": "62057",
+    "desc": "",
+    "id": "13088",
+    "name": "Westbound W 49 Ave @ Columbia St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.110257,
+     49.225824
+    ],
+    "type": "Point"
+   },
+   "id": "13089",
+   "properties": {
+    "code": "62058",
+    "desc": "",
+    "id": "13089",
+    "name": "Eastbound W 49 Ave @ Columbia St",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
