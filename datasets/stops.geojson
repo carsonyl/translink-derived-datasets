@@ -545,7 +545,7 @@
     "code": "50063",
     "desc": "",
     "id": "63",
-    "name": "Northbound Macdonald St @ W 3rd Ave",
+    "name": "Northbound Macdonald St @ W 4th Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -5855,8 +5855,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.089941,
-     49.283076
+     -123.090031,
+     49.28308
     ],
     "type": "Point"
    },
@@ -145638,6 +145638,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.128375,
+     49.275854
+    ],
+    "type": "Point"
+   },
+   "id": "11475",
+   "properties": {
+    "code": "50536",
+    "desc": "",
+    "id": "11475",
+    "name": "Southbound Granville St @ Drake St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.133644,
      49.29023
     ],
@@ -159926,8 +159945,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.09865,
-     49.273853
+     -123.098665,
+     49.273996
     ],
     "type": "Point"
    },
