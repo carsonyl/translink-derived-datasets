@@ -1846,25 +1846,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.100505,
-     49.269455
-    ],
-    "type": "Point"
-   },
-   "id": "179",
-   "properties": {
-    "code": "50179",
-    "desc": "",
-    "id": "179",
-    "name": "Northbound Main St @ E 2nd Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.100432,
      49.270803
     ],
@@ -72403,7 +72384,7 @@
     "code": "55200",
     "desc": "",
     "id": "5252",
-    "name": "Scott Road Station @ Scott Rd",
+    "name": "Scott Road Station @ Bay 4",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -130362,25 +130343,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.127085,
-     49.273623
-    ],
-    "type": "Point"
-   },
-   "id": "10057",
-   "properties": {
-    "code": "50087",
-    "desc": "",
-    "id": "10057",
-    "name": "Westbound Pacific St @ Richards St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.567124,
      49.186932
     ],
@@ -142590,6 +142552,25 @@
     "desc": "",
     "id": "11204",
     "name": "Eastbound 6th Ave @ 6th St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.877081,
+     49.053934
+    ],
+    "type": "Point"
+   },
+   "id": "11205",
+   "properties": {
+    "code": "56165",
+    "desc": "",
+    "id": "11205",
+    "name": "Westbound Bayview St @ Beecher St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165999,6 +165980,44 @@
     "id": "13089",
     "name": "Eastbound W 49 Ave @ Columbia St",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.100561,
+     49.268662
+    ],
+    "type": "Point"
+   },
+   "id": "13090",
+   "properties": {
+    "code": "62063",
+    "desc": "",
+    "id": "13090",
+    "name": "Northbound Main St @ E 2nd Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.127726,
+     49.274065
+    ],
+    "type": "Point"
+   },
+   "id": "13091",
+   "properties": {
+    "code": "61989",
+    "desc": "",
+    "id": "13091",
+    "name": "Westbound Pacific St @ Richards St",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
