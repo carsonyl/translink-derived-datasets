@@ -18034,25 +18034,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.985898,
-     49.249929
-    ],
-    "type": "Point"
-   },
-   "id": "1408",
-   "properties": {
-    "code": "51396",
-    "desc": "",
-    "id": "1408",
-    "name": "Eastbound Canada Way @ 4800 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.978665,
      49.247739
     ],
@@ -19034,25 +19015,6 @@
     "id": "1463",
     "name": "Westbound Canada Way @ Douglas Rd",
     "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.985846,
-     49.250067
-    ],
-    "type": "Point"
-   },
-   "id": "1464",
-   "properties": {
-    "code": "51452",
-    "desc": "",
-    "id": "1464",
-    "name": "Westbound Canada Way @ 4800 Block",
-    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -31420,7 +31382,7 @@
     "code": "52398",
     "desc": "",
     "id": "2422",
-    "name": "Eastbound Kingsway @ Merritt Ave",
+    "name": "Eastbound Kingsway @ Imperial St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -111514,6 +111476,63 @@
   {
    "geometry": {
     "coordinates": [
+     -122.631401,
+     49.226296
+    ],
+    "type": "Point"
+   },
+   "id": "7835",
+   "properties": {
+    "code": "57761",
+    "desc": "",
+    "id": "7835",
+    "name": "Eastbound 123 Ave @ Laity St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.62514,
+     49.22641
+    ],
+    "type": "Point"
+   },
+   "id": "7836",
+   "properties": {
+    "code": "57762",
+    "desc": "",
+    "id": "7836",
+    "name": "Eastbound 123 Ave @ 21500 Block",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.622535,
+     49.226767
+    ],
+    "type": "Point"
+   },
+   "id": "7837",
+   "properties": {
+    "code": "57763",
+    "desc": "",
+    "id": "7837",
+    "name": "Northbound 216 St @ 123 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.618554,
      49.227784
     ],
@@ -112077,6 +112096,63 @@
     "id": "7886",
     "name": "Westbound 124 Ave @ 217 St",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.62272,
+     49.227509
+    ],
+    "type": "Point"
+   },
+   "id": "7887",
+   "properties": {
+    "code": "57813",
+    "desc": "",
+    "id": "7887",
+    "name": "Southbound 216 St @ 124 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.623375,
+     49.226474
+    ],
+    "type": "Point"
+   },
+   "id": "7888",
+   "properties": {
+    "code": "57814",
+    "desc": "",
+    "id": "7888",
+    "name": "Westbound 123 Ave @ 216 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.629109,
+     49.226455
+    ],
+    "type": "Point"
+   },
+   "id": "7889",
+   "properties": {
+    "code": "57815",
+    "desc": "",
+    "id": "7889",
+    "name": "Westbound 123 Ave @ 214 St",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -116378,8 +116454,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.087932,
-     49.133352
+     -123.08787,
+     49.133351
     ],
     "type": "Point"
    },
@@ -146607,25 +146683,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.130164,
-     49.278573
-    ],
-    "type": "Point"
-   },
-   "id": "11563",
-   "properties": {
-    "code": "58721",
-    "desc": "",
-    "id": "11563",
-    "name": "Southbound Burrard St @ Burnaby St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.096987,
      49.122709
     ],
@@ -147055,25 +147112,6 @@
     "desc": "",
     "id": "11595",
     "name": "Westbound Main St @ Harbour Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.104471,
-     49.262911
-    ],
-    "type": "Point"
-   },
-   "id": "11596",
-   "properties": {
-    "code": "50878",
-    "desc": "",
-    "id": "11596",
-    "name": "Eastbound E Broadway @ Ontario St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -158919,25 +158957,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.131265,
-     49.277837
-    ],
-    "type": "Point"
-   },
-   "id": "12494",
-   "properties": {
-    "code": "60197",
-    "desc": "",
-    "id": "12494",
-    "name": "Southbound Burrard St @ Harwood St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.124475,
      49.166861
     ],
@@ -161731,8 +161750,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116463,
-     49.263144
+     -123.11569,
+     49.263125
     ],
     "type": "Point"
    },
@@ -161741,7 +161760,7 @@
     "code": "60535",
     "desc": "",
     "id": "12764",
-    "name": "Eastbound W Broadway @ Cambie St",
+    "name": "Eastbound W Broadway @ Ash St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -162996,6 +163015,25 @@
     "desc": "",
     "id": "12873",
     "name": "Westbound SE Marine Dr @ Knight St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.105734,
+     49.262944
+    ],
+    "type": "Point"
+   },
+   "id": "12877",
+   "properties": {
+    "code": "60613",
+    "desc": "",
+    "id": "12877",
+    "name": "Eastbound W Broadway @ Ontario St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165296,44 +165334,6 @@
     "id": "13047",
     "name": "Westbound 104 Ave @ 168 St",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.622018,
-     49.227909
-    ],
-    "type": "Point"
-   },
-   "id": "13049",
-   "properties": {
-    "code": "62006",
-    "desc": "",
-    "id": "13049",
-    "name": "Westbound 124 Ave @ 216 St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.6215,
-     49.227796
-    ],
-    "type": "Point"
-   },
-   "id": "13050",
-   "properties": {
-    "code": "62007",
-    "desc": "",
-    "id": "13050",
-    "name": "Eastbound 124 Ave @ 216 St",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
