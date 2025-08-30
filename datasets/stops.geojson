@@ -9180,8 +9180,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.09072,
-     49.232532
+     -123.090717,
+     49.232476
     ],
     "type": "Point"
    },
@@ -32237,7 +32237,7 @@
     "code": "52462",
     "desc": "",
     "id": "2486",
-    "name": "Westbound Kingsway @ Elgin Ave",
+    "name": "Westbound Kingsway @ Macpherson Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -54970,25 +54970,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.987007,
-     49.308491
-    ],
-    "type": "Point"
-   },
-   "id": "4125",
-   "properties": {
-    "code": "54083",
-    "desc": "",
-    "id": "4125",
-    "name": "Eastbound Dollarton Hwy @ 3100 Block",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.979451,
      49.307684
     ],
@@ -66305,7 +66286,7 @@
     "desc": "",
     "id": "4849",
     "name": "Westbound 72 Ave @ 116 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -67141,6 +67122,25 @@
     "desc": "",
     "id": "4914",
     "name": "Eastbound 72 Ave @ 114A St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.900393,
+     49.133902
+    ],
+    "type": "Point"
+   },
+   "id": "4915",
+   "properties": {
+    "code": "54863",
+    "desc": "",
+    "id": "4915",
+    "name": "Eastbound 72 Ave @ 116 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -78834,6 +78834,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.867845,
+     49.181905
+    ],
+    "type": "Point"
+   },
+   "id": "5676",
+   "properties": {
+    "code": "55621",
+    "desc": "",
+    "id": "5676",
+    "name": "Southbound 128 St @ 99 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.867941,
      49.179577
     ],
@@ -80745,25 +80764,6 @@
     "desc": "",
     "id": "5785",
     "name": "Southbound 140 St @ 8300 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.834691,
-     49.150585
-    ],
-    "type": "Point"
-   },
-   "id": "5786",
-   "properties": {
-    "code": "55731",
-    "desc": "",
-    "id": "5786",
-    "name": "Southbound 140 St @ Bear Creek Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -97587,6 +97587,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.147714,
+     49.153483
+    ],
+    "type": "Point"
+   },
+   "id": "6880",
+   "properties": {
+    "code": "56815",
+    "desc": "",
+    "id": "6880",
+    "name": "Northbound Gilbert Rd @ 8200 Block",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.147687,
      49.155937
     ],
@@ -100076,25 +100095,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.103179,
-     49.192076
-    ],
-    "type": "Point"
-   },
-   "id": "7039",
-   "properties": {
-    "code": "56972",
-    "desc": "",
-    "id": "7039",
-    "name": "Westbound Bridgeport Rd @ Shell Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.108364,
      49.192065
     ],
@@ -101911,25 +101911,6 @@
     "desc": "",
     "id": "7161",
     "name": "Eastbound Fraser Hwy @ 194 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.681364,
-     49.11441
-    ],
-    "type": "Point"
-   },
-   "id": "7162",
-   "properties": {
-    "code": "57094",
-    "desc": "",
-    "id": "7162",
-    "name": "Eastbound Fraser Hwy @ 195A St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -111866,7 +111847,7 @@
     "code": "57762",
     "desc": "",
     "id": "7836",
-    "name": "Eastbound 123 Ave @ 21500 Block",
+    "name": "Eastbound 123 Ave @ Creston St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -123686,25 +123667,6 @@
     "id": "9199",
     "name": "Southbound 1st St @ Agnes St",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.769332,
-     49.255645
-    ],
-    "type": "Point"
-   },
-   "id": "9201",
-   "properties": {
-    "code": "58772",
-    "desc": "",
-    "id": "9201",
-    "name": "Eastbound Kingsway Ave @ 1900 Block",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -145771,8 +145733,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.765179,
-     49.253348
+     -122.765311,
+     49.253362
     ],
     "type": "Point"
    },
@@ -147462,8 +147424,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.764961,
-     49.253237
+     -122.765066,
+     49.253232
     ],
     "type": "Point"
    },
@@ -151007,25 +150969,6 @@
     "desc": "",
     "id": "11866",
     "name": "Park Royal @ Bay 1",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.138645,
-     49.326832
-    ],
-    "type": "Point"
-   },
-   "id": "11867",
-   "properties": {
-    "code": "61782",
-    "desc": "",
-    "id": "11867",
-    "name": "Park Royal @ Bay 4",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -159975,7 +159918,7 @@
     "desc": "",
     "id": "12536",
     "name": "Westbound Bedwell Bay Rd @ White Pine Beach Rd",
-    "wheelchair_boarding": "1",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166607,6 +166550,44 @@
     "id": "13092",
     "name": "Southbound 232 St @ Silver Valley Rd",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.765061,
+     49.253922
+    ],
+    "type": "Point"
+   },
+   "id": "13093",
+   "properties": {
+    "code": "53698",
+    "desc": "",
+    "id": "13093",
+    "name": "Eastbound Kingsway Ave @ McLean Ave",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.993239,
+     49.265545
+    ],
+    "type": "Point"
+   },
+   "id": "13094",
+   "properties": {
+    "code": "52791",
+    "desc": "",
+    "id": "13094",
+    "name": "Westbound Lougheed Hwy @ Delta Ave",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
