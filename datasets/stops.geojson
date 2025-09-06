@@ -4848,25 +4848,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115282,
-     49.254674
-    ],
-    "type": "Point"
-   },
-   "id": "420",
-   "properties": {
-    "code": "50416",
-    "desc": "",
-    "id": "420",
-    "name": "Southbound Cambie St @ W 18 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.115447,
      49.250985
     ],
@@ -7462,25 +7443,6 @@
     "desc": "",
     "id": "672",
     "name": "Westbound E 22 Ave @ Slocan St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.185714,
-     49.264644
-    ],
-    "type": "Point"
-   },
-   "id": "674",
-   "properties": {
-    "code": "50667",
-    "desc": "",
-    "id": "674",
-    "name": "Northbound Alma St @ W Broadway",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -30479,6 +30441,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.922576,
+     49.199906
+    ],
+    "type": "Point"
+   },
+   "id": "2358",
+   "properties": {
+    "code": "52335",
+    "desc": "",
+    "id": "2358",
+    "name": "Eastbound Quayside Dr @ Laguna Court",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.91808,
+     49.198963
+    ],
+    "type": "Point"
+   },
+   "id": "2359",
+   "properties": {
+    "code": "52336",
+    "desc": "",
+    "id": "2359",
+    "name": "Eastbound Quayside Dr @ Reliance Court",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.967538,
      49.161416
     ],
@@ -42354,25 +42354,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.817386,
-     49.277765
-    ],
-    "type": "Point"
-   },
-   "id": "3187",
-   "properties": {
-    "code": "53153",
-    "desc": "",
-    "id": "3187",
-    "name": "Eastbound Barnet Hwy @ Falcon Dr",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.806687,
      49.277677
     ],
@@ -42498,25 +42479,6 @@
     "desc": "",
     "id": "3204",
     "name": "Coquitlam Central Station @ Bay 7",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.80971,
-     49.277979
-    ],
-    "type": "Point"
-   },
-   "id": "3205",
-   "properties": {
-    "code": "53171",
-    "desc": "",
-    "id": "3205",
-    "name": "Westbound Barnet Hwy @ Lansdowne Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -52834,6 +52796,44 @@
     "desc": "",
     "id": "3984",
     "name": "Eastbound Robson Dr @ Pinetree Way",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.782859,
+     49.297167
+    ],
+    "type": "Point"
+   },
+   "id": "3985",
+   "properties": {
+    "code": "53944",
+    "desc": "",
+    "id": "3985",
+    "name": "Eastbound Robson Dr @ Purcell Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.780868,
+     49.298466
+    ],
+    "type": "Point"
+   },
+   "id": "3986",
+   "properties": {
+    "code": "53945",
+    "desc": "",
+    "id": "3986",
+    "name": "Eastbound Robson Dr @ Blackwater Place",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -75007,6 +75007,25 @@
     "desc": "",
     "id": "5431",
     "name": "Westbound 16 Ave @ King George Blvd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.779695,
+     49.03115
+    ],
+    "type": "Point"
+   },
+   "id": "5432",
+   "properties": {
+    "code": "55379",
+    "desc": "",
+    "id": "5432",
+    "name": "Westbound 16 Ave @ 160 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -111837,8 +111856,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.62514,
-     49.22641
+     -122.627105,
+     49.226415
     ],
     "type": "Point"
    },
@@ -112464,8 +112483,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.623375,
-     49.226474
+     -122.623091,
+     49.22647
     ],
     "type": "Point"
    },
@@ -124548,6 +124567,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.779039,
+     49.299226
+    ],
+    "type": "Point"
+   },
+   "id": "9259",
+   "properties": {
+    "code": "58818",
+    "desc": "",
+    "id": "9259",
+    "name": "Westbound Robson Dr @ Kenney St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.781306,
+     49.298216
+    ],
+    "type": "Point"
+   },
+   "id": "9260",
+   "properties": {
+    "code": "58817",
+    "desc": "",
+    "id": "9260",
+    "name": "Southbound Robson Dr @ Blackwater Place",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.783865,
      49.297263
     ],
@@ -125585,25 +125642,6 @@
     "desc": "",
     "id": "9358",
     "name": "Eastbound Riverside Dr @ Nile Gate",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.043632,
-     49.285674
-    ],
-    "type": "Point"
-   },
-   "id": "9359",
-   "properties": {
-    "code": "58030",
-    "desc": "",
-    "id": "9359",
-    "name": "Bus Stop @ Pne Coliseum Loop",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -127436,25 +127474,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.88605,
-     49.323873
-    ],
-    "type": "Point"
-   },
-   "id": "9541",
-   "properties": {
-    "code": "53249",
-    "desc": "",
-    "id": "9541",
-    "name": "Bus Stop @ White Pine Beach",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.11995,
      49.324033
     ],
@@ -128379,25 +128398,6 @@
     "id": "9632",
     "name": "Southbound Jackson Rd @ 104 Ave",
     "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.856819,
-     49.33871
-    ],
-    "type": "Point"
-   },
-   "id": "9633",
-   "properties": {
-    "code": "59225",
-    "desc": "",
-    "id": "9633",
-    "name": "Buntzen Lake @ Parking Lot",
-    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -134561,25 +134561,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.827603,
-     49.284375
-    ],
-    "type": "Point"
-   },
-   "id": "10436",
-   "properties": {
-    "code": "53228",
-    "desc": "",
-    "id": "10436",
-    "name": "Westbound Ungless Way @ Noons Creek Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.822421,
      49.07214
     ],
@@ -134800,25 +134781,6 @@
     "desc": "",
     "id": "10456",
     "name": "Southbound Wesbrook Mall @ Iona Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.102244,
-     49.278929
-    ],
-    "type": "Point"
-   },
-   "id": "10466",
-   "properties": {
-    "code": "59924",
-    "desc": "",
-    "id": "10466",
-    "name": "Southbound Quebec St @ Keefer St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -138570,25 +138532,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.855612,
-     49.322425
-    ],
-    "type": "Point"
-   },
-   "id": "10858",
-   "properties": {
-    "code": "61018",
-    "desc": "",
-    "id": "10858",
-    "name": "Northbound Park Access Rd @ Anmore Grocery Store",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.84529,
      49.277676
     ],
@@ -140090,25 +140033,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.215494,
-     49.276328
-    ],
-    "type": "Point"
-   },
-   "id": "11002",
-   "properties": {
-    "code": "61143",
-    "desc": "",
-    "id": "11002",
-    "name": "Bus Stop @ Spanish Banks Loop",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.922785,
      49.155985
     ],
@@ -140793,82 +140717,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.203022,
-     49.271904
-    ],
-    "type": "Point"
-   },
-   "id": "11053",
-   "properties": {
-    "code": "51934",
-    "desc": "",
-    "id": "11053",
-    "name": "Westbound NW Marine Dr @ Discovery St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.203426,
-     49.271953
-    ],
-    "type": "Point"
-   },
-   "id": "11054",
-   "properties": {
-    "code": "51910",
-    "desc": "",
-    "id": "11054",
-    "name": "Eastbound NW Marine Dr @ Discovery St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.209135,
-     49.274502
-    ],
-    "type": "Point"
-   },
-   "id": "11055",
-   "properties": {
-    "code": "51937",
-    "desc": "",
-    "id": "11055",
-    "name": "Westbound NW Marine Dr @ Sasamat St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.200827,
-     49.268799
-    ],
-    "type": "Point"
-   },
-   "id": "11056",
-   "properties": {
-    "code": "51912",
-    "desc": "",
-    "id": "11056",
-    "name": "Eastbound NW Marine Dr @ Locarno Cres",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.097295,
      49.240485
     ],
@@ -141021,44 +140869,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.205593,
-     49.274065
-    ],
-    "type": "Point"
-   },
-   "id": "11065",
-   "properties": {
-    "code": "51935",
-    "desc": "",
-    "id": "11065",
-    "name": "Northbound NW Marine Dr @ Belmont Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.211352,
-     49.274742
-    ],
-    "type": "Point"
-   },
-   "id": "11066",
-   "properties": {
-    "code": "51906",
-    "desc": "",
-    "id": "11066",
-    "name": "Eastbound NW Marine Dr @ Tolmie St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.134406,
      49.257964
     ],
@@ -141078,44 +140888,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.205803,
-     49.273327
-    ],
-    "type": "Point"
-   },
-   "id": "11068",
-   "properties": {
-    "code": "61133",
-    "desc": "",
-    "id": "11068",
-    "name": "Southbound Trimble St @ Belmont Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.212054,
-     49.275093
-    ],
-    "type": "Point"
-   },
-   "id": "11069",
-   "properties": {
-    "code": "51938",
-    "desc": "",
-    "id": "11069",
-    "name": "Westbound NW Marine Dr @ Tolmie St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.55709,
      49.217262
     ],
@@ -141127,25 +140899,6 @@
     "desc": "",
     "id": "11070",
     "name": "Southbound 240 St @ 118 Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.200648,
-     49.268938
-    ],
-    "type": "Point"
-   },
-   "id": "11071",
-   "properties": {
-    "code": "61138",
-    "desc": "",
-    "id": "11071",
-    "name": "Westbound NW Marine Dr @ W 4th Ave",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -148640,25 +148393,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.859594,
-     49.230572
-    ],
-    "type": "Point"
-   },
-   "id": "11684",
-   "properties": {
-    "code": "61617",
-    "desc": "",
-    "id": "11684",
-    "name": "Westbound United Blvd @ King Edward St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.864253,
      49.234857
     ],
@@ -149791,25 +149525,6 @@
     "desc": "",
     "id": "11760",
     "name": "Northbound Wesbrook Mall @ Birney Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.044987,
-     49.244392
-    ],
-    "type": "Point"
-   },
-   "id": "11762",
-   "properties": {
-    "code": "61616",
-    "desc": "",
-    "id": "11762",
-    "name": "29th Avenue Station @ Bay 5",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -151444,7 +151159,7 @@
     "desc": "",
     "id": "11909",
     "name": "Eastbound 8th Ave @ 6th St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -163023,25 +162738,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.884767,
-     49.314325
-    ],
-    "type": "Point"
-   },
-   "id": "12829",
-   "properties": {
-    "code": "60588",
-    "desc": "",
-    "id": "12829",
-    "name": "Southbound White Pine Beach Rd @ Bedwell Bay Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.783538,
      49.263567
     ],
@@ -166367,44 +166063,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.785613,
-     49.293557
-    ],
-    "type": "Point"
-   },
-   "id": "13083",
-   "properties": {
-    "code": "59567",
-    "desc": "",
-    "id": "13083",
-    "name": "Southbound Genest Way @ Dayanee Springs Blvd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.785307,
-     49.293526
-    ],
-    "type": "Point"
-   },
-   "id": "13084",
-   "properties": {
-    "code": "58676",
-    "desc": "",
-    "id": "13084",
-    "name": "Northbound Genest Way @ David Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.139847,
      49.230974
     ],
@@ -166417,25 +166075,6 @@
     "id": "13085",
     "name": "Southbound Granville St @ W 45 Ave",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.783644,
-     49.296775
-    ],
-    "type": "Point"
-   },
-   "id": "13086",
-   "properties": {
-    "code": "60564",
-    "desc": "",
-    "id": "13086",
-    "name": "Southbound Purcell Dr @ Robson Dr",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
