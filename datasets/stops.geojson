@@ -32379,6 +32379,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.903375,
+     49.209727
+    ],
+    "type": "Point"
+   },
+   "id": "2496",
+   "properties": {
+    "code": "52472",
+    "desc": "",
+    "id": "2496",
+    "name": "Westbound Royal Ave @ 1st St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.905374,
      49.20971
     ],
@@ -54970,6 +54989,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.987007,
+     49.308491
+    ],
+    "type": "Point"
+   },
+   "id": "4125",
+   "properties": {
+    "code": "54083",
+    "desc": "",
+    "id": "4125",
+    "name": "Eastbound Dollarton Hwy @ Sleil-Waututh Rd",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.979451,
      49.307684
     ],
@@ -59739,8 +59777,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.084871,
-     49.316762
+     -123.084748,
+     49.316725
     ],
     "type": "Point"
    },
@@ -77952,25 +77990,6 @@
     "desc": "",
     "id": "5626",
     "name": "Northbound 128 St @ 69A Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.867696,
-     49.132255
-    ],
-    "type": "Point"
-   },
-   "id": "5627",
-   "properties": {
-    "code": "55572",
-    "desc": "",
-    "id": "5627",
-    "name": "Northbound 128 St @ 7100 Block",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -121470,25 +121489,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.624775,
-     49.088506
-    ],
-    "type": "Point"
-   },
-   "id": "8953",
-   "properties": {
-    "code": "58565",
-    "desc": "",
-    "id": "8953",
-    "name": "Southbound 216 St @ 47A Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.623705,
      49.085801
     ],
@@ -124567,8 +124567,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.779039,
-     49.299226
+     -122.779054,
+     49.29924
     ],
     "type": "Point"
    },
@@ -148393,6 +148393,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.859594,
+     49.230572
+    ],
+    "type": "Point"
+   },
+   "id": "11684",
+   "properties": {
+    "code": "61617",
+    "desc": "",
+    "id": "11684",
+    "name": "Westbound United Blvd @ King Edward St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.864253,
      49.234857
     ],
@@ -162653,7 +162672,7 @@
     "code": "60579",
     "desc": "",
     "id": "12822",
-    "name": "Westbound E Broadway @ Quebec",
+    "name": "Westbound E Broadway @ Quebec St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165588,25 +165607,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.92083,
-     49.213416
-    ],
-    "type": "Point"
-   },
-   "id": "13054",
-   "properties": {
-    "code": "62015",
-    "desc": "",
-    "id": "13054",
-    "name": "Southbound 6th St @ Princess St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.736915,
      49.138911
     ],
@@ -166226,7 +166226,26 @@
     "desc": "",
     "id": "13094",
     "name": "Westbound Lougheed Hwy @ Delta Ave",
-    "wheelchair_boarding": "1",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.779159,
+     49.299147
+    ],
+    "type": "Point"
+   },
+   "id": "13095",
+   "properties": {
+    "code": "62070",
+    "desc": "",
+    "id": "13095",
+    "name": "Eastbound Robson Dr @ Kenney St",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
