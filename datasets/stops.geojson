@@ -48368,7 +48368,7 @@
     "code": "53607",
     "desc": "",
     "id": "3646",
-    "name": "Westbound Rochester Ave @ Schoolhouse St",
+    "name": "Westbound Rochester Ave @ Goyer Court",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -93654,8 +93654,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.177476,
-     49.125227
+     -123.17806,
+     49.125239
     ],
     "type": "Point"
    },
@@ -147652,44 +147652,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.695491,
-     49.133542
-    ],
-    "type": "Point"
-   },
-   "id": "11611",
-   "properties": {
-    "code": "60758",
-    "desc": "",
-    "id": "11611",
-    "name": "Eastbound 72 Ave @ 190 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.696881,
-     49.133647
-    ],
-    "type": "Point"
-   },
-   "id": "11612",
-   "properties": {
-    "code": "60768",
-    "desc": "",
-    "id": "11612",
-    "name": "Westbound 72 Ave @ 190 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.976893,
      49.168577
     ],
@@ -158482,25 +158444,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.700632,
-     49.133553
-    ],
-    "type": "Point"
-   },
-   "id": "12441",
-   "properties": {
-    "code": "60769",
-    "desc": "",
-    "id": "12441",
-    "name": "Westbound 72 Ave @ 188 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.712606,
      49.132895
     ],
@@ -166246,6 +166189,44 @@
     "id": "13095",
     "name": "Eastbound Robson Dr @ Kenney St",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.90397,
+     49.211025
+    ],
+    "type": "Point"
+   },
+   "id": "13097",
+   "properties": {
+    "code": "58749",
+    "desc": "",
+    "id": "13097",
+    "name": "Southbound 1st St @ Park Row",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.702071,
+     49.133545
+    ],
+    "type": "Point"
+   },
+   "id": "13098",
+   "properties": {
+    "code": "62066",
+    "desc": "",
+    "id": "13098",
+    "name": "Westbound 72 Ave @ 188 St",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
