@@ -34716,6 +34716,63 @@
   {
    "geometry": {
     "coordinates": [
+     -122.994622,
+     49.209406
+    ],
+    "type": "Point"
+   },
+   "id": "2660",
+   "properties": {
+    "code": "52635",
+    "desc": "",
+    "id": "2660",
+    "name": "Northbound Nelson Ave @ Carson Place",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.993842,
+     49.211114
+    ],
+    "type": "Point"
+   },
+   "id": "2661",
+   "properties": {
+    "code": "52636",
+    "desc": "",
+    "id": "2661",
+    "name": "Northbound Nelson Ave @ McKee Place",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.993814,
+     49.212432
+    ],
+    "type": "Point"
+   },
+   "id": "2662",
+   "properties": {
+    "code": "52637",
+    "desc": "",
+    "id": "2662",
+    "name": "Northbound Nelson Ave @ Portland St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.993362,
      49.214773
     ],
@@ -41832,7 +41889,7 @@
     "code": "53114",
     "desc": "",
     "id": "3147",
-    "name": "Northbound North Rd @ Delestre Ave",
+    "name": "Northbound North Rd @ Young Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -92932,6 +92989,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.147059,
+     49.155494
+    ],
+    "type": "Point"
+   },
+   "id": "6600",
+   "properties": {
+    "code": "56539",
+    "desc": "",
+    "id": "6600",
+    "name": "Eastbound Blundell Rd @ Gilbert Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.143124,
      49.155523
     ],
@@ -96553,7 +96629,7 @@
     "desc": "",
     "id": "6821",
     "name": "Eastbound Williams Rd @ Fortune Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -113129,8 +113205,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.445359,
-     49.18019
+     -122.444645,
+     49.179936
     ],
     "type": "Point"
    },
@@ -113160,25 +113236,6 @@
     "id": "7925",
     "name": "(Southbound 280 St In 9600-Block Area) (Flag)",
     "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.444274,
-     49.174293
-    ],
-    "type": "Point"
-   },
-   "id": "7926",
-   "properties": {
-    "code": "57852",
-    "desc": "",
-    "id": "7926",
-    "name": "Southbound 280 St @ Lougheed Hwy",
-    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -128074,7 +128131,7 @@
     "desc": "",
     "id": "9579",
     "name": "Westbound Williams Rd @ Swift Lane",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -133166,6 +133223,82 @@
     "desc": "",
     "id": "10286",
     "name": "Northbound Blakely Rd @ 117 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.993973,
+     49.214497
+    ],
+    "type": "Point"
+   },
+   "id": "10288",
+   "properties": {
+    "code": "59671",
+    "desc": "",
+    "id": "10288",
+    "name": "Southbound Nelson Ave @ Rumble St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.994004,
+     49.212593
+    ],
+    "type": "Point"
+   },
+   "id": "10290",
+   "properties": {
+    "code": "59670",
+    "desc": "",
+    "id": "10290",
+    "name": "Southbound Nelson Ave @ Clinton St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.994011,
+     49.210732
+    ],
+    "type": "Point"
+   },
+   "id": "10292",
+   "properties": {
+    "code": "59669",
+    "desc": "",
+    "id": "10292",
+    "name": "Southbound Nelson Ave @ McKee Place",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.996792,
+     49.208615
+    ],
+    "type": "Point"
+   },
+   "id": "10293",
+   "properties": {
+    "code": "59668",
+    "desc": "",
+    "id": "10293",
+    "name": "Southbound Nelson Ave @ Patrick Place",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -148925,6 +149058,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.85073,
+     49.197675
+    ],
+    "type": "Point"
+   },
+   "id": "11721",
+   "properties": {
+    "code": "61658",
+    "desc": "",
+    "id": "11721",
+    "name": "Northbound University Dr @ 107A Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.537577,
      49.069471
     ],
@@ -149506,25 +149658,6 @@
     "desc": "",
     "id": "11760",
     "name": "Northbound Wesbrook Mall @ Birney Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.125757,
-     49.195649
-    ],
-    "type": "Point"
-   },
-   "id": "11763",
-   "properties": {
-    "code": "61430",
-    "desc": "",
-    "id": "11763",
-    "name": "Bridgeport Station @ Bay 13",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166227,6 +166360,44 @@
     "id": "13098",
     "name": "Westbound 72 Ave @ 188 St",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.272897,
+     49.373958
+    ],
+    "type": "Point"
+   },
+   "id": "13101",
+   "properties": {
+    "code": "62079",
+    "desc": "",
+    "id": "13101",
+    "name": "Keith Rd @ Horseshoe Bay Ferry Terminal",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.102858,
+     49.279168
+    ],
+    "type": "Point"
+   },
+   "id": "13102",
+   "properties": {
+    "code": "62096",
+    "desc": "",
+    "id": "13102",
+    "name": "Eastbound Keefer St @ Quebec St",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
