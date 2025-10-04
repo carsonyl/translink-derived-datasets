@@ -62266,8 +62266,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.272831,
-     49.374191
+     -123.272848,
+     49.374133
     ],
     "type": "Point"
    },
@@ -70504,6 +70504,25 @@
     "desc": "",
     "id": "5122",
     "name": "Surrey Central Station @ Bay 9",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.85232,
+     49.186348
+    ],
+    "type": "Point"
+   },
+   "id": "5123",
+   "properties": {
+    "code": "55071",
+    "desc": "",
+    "id": "5123",
+    "name": "Westbound Old Yale Rd @ University Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -91621,6 +91640,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.158091,
+     49.170023
+    ],
+    "type": "Point"
+   },
+   "id": "6505",
+   "properties": {
+    "code": "56444",
+    "desc": "",
+    "id": "6505",
+    "name": "Eastbound Westminster Hwy @ No. 2 Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.156096,
      49.170032
     ],
@@ -100390,7 +100428,7 @@
     "code": "56984",
     "desc": "",
     "id": "7051",
-    "name": "Northbound Cowley Cres @ Airport Rd South",
+    "name": "Northbound Cowley Cres @ South Airport Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -100409,7 +100447,7 @@
     "code": "56985",
     "desc": "",
     "id": "7052",
-    "name": "Southbound Cowley Cres @ Airport Rd South",
+    "name": "Vancouver Airport @ South Terminal",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -128074,25 +128112,6 @@
     "desc": "",
     "id": "9576",
     "name": "Westbound Williams Rd @ Deagle Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.148379,
-     49.141026
-    ],
-    "type": "Point"
-   },
-   "id": "9577",
-   "properties": {
-    "code": "59059",
-    "desc": "",
-    "id": "9577",
-    "name": "Westbound Williams Rd @ Gilbert Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -157570,6 +157589,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.580567,
+     49.256017
+    ],
+    "type": "Point"
+   },
+   "id": "12382",
+   "properties": {
+    "code": "60178",
+    "desc": "",
+    "id": "12382",
+    "name": "Northbound 232 St @ Anderson Creek Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.014624,
      49.310394
     ],
@@ -158949,6 +158987,63 @@
     "desc": "",
     "id": "12464",
     "name": "Eastbound Foreman Dr @ 232 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.57448,
+     49.258601
+    ],
+    "type": "Point"
+   },
+   "id": "12465",
+   "properties": {
+    "code": "60179",
+    "desc": "",
+    "id": "12465",
+    "name": "Southbound Silver Valley Rd @ 141 Ave",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.5771,
+     49.254678
+    ],
+    "type": "Point"
+   },
+   "id": "12466",
+   "properties": {
+    "code": "60180",
+    "desc": "",
+    "id": "12466",
+    "name": "Southbound Silver Valley Rd @ 13800 Block",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.579478,
+     49.252226
+    ],
+    "type": "Point"
+   },
+   "id": "12467",
+   "properties": {
+    "code": "60182",
+    "desc": "",
+    "id": "12467",
+    "name": "Westbound Silver Valley Rd @ 232A St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166246,25 +166341,6 @@
     "id": "13091",
     "name": "Westbound Pacific St @ Richards St",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.580374,
-     49.252496
-    ],
-    "type": "Point"
-   },
-   "id": "13092",
-   "properties": {
-    "code": "62064",
-    "desc": "",
-    "id": "13092",
-    "name": "Southbound 232 St @ Silver Valley Rd",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
