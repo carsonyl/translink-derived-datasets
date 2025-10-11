@@ -2948,8 +2948,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.211737,
-     49.26381
+     -123.211277,
+     49.263797
     ],
     "type": "Point"
    },
@@ -4840,6 +4840,25 @@
     "desc": "",
     "id": "419",
     "name": "Southbound Cambie St @ W 16 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.115282,
+     49.254674
+    ],
+    "type": "Point"
+   },
+   "id": "420",
+   "properties": {
+    "code": "50416",
+    "desc": "",
+    "id": "420",
+    "name": "Southbound Cambie St @ W 18 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -52872,44 +52891,6 @@
     "desc": "",
     "id": "3984",
     "name": "Eastbound Robson Dr @ Pinetree Way",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.782859,
-     49.297167
-    ],
-    "type": "Point"
-   },
-   "id": "3985",
-   "properties": {
-    "code": "53944",
-    "desc": "",
-    "id": "3985",
-    "name": "Eastbound Robson Dr @ Purcell Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.780868,
-     49.298466
-    ],
-    "type": "Point"
-   },
-   "id": "3986",
-   "properties": {
-    "code": "53945",
-    "desc": "",
-    "id": "3986",
-    "name": "Eastbound Robson Dr @ Blackwater Place",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -124662,44 +124643,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.779054,
-     49.29924
-    ],
-    "type": "Point"
-   },
-   "id": "9259",
-   "properties": {
-    "code": "58818",
-    "desc": "",
-    "id": "9259",
-    "name": "Westbound Robson Dr @ Kenney St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.781306,
-     49.298216
-    ],
-    "type": "Point"
-   },
-   "id": "9260",
-   "properties": {
-    "code": "58817",
-    "desc": "",
-    "id": "9260",
-    "name": "Southbound Robson Dr @ Blackwater Place",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.783865,
      49.297263
     ],
@@ -149476,25 +149419,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.691368,
-     49.04959
-    ],
-    "type": "Point"
-   },
-   "id": "11746",
-   "properties": {
-    "code": "61641",
-    "desc": "",
-    "id": "11746",
-    "name": "Northbound 192 St @ 26 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.691575,
      49.048942
     ],
@@ -150209,6 +150133,25 @@
     "desc": "",
     "id": "11813",
     "name": "Westbound Great Northern Way @ Thornton St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.732747,
+     49.13705
+    ],
+    "type": "Point"
+   },
+   "id": "11815",
+   "properties": {
+    "code": "57090",
+    "desc": "",
+    "id": "11815",
+    "name": "Eastbound Fraser Hwy @ 176 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -163612,25 +163555,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147015,
-     49.172391
-    ],
-    "type": "Point"
-   },
-   "id": "12888",
-   "properties": {
-    "code": "56944",
-    "desc": "",
-    "id": "12888",
-    "name": "Southbound Gilbert Rd @ Elmbridge Way",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.133819,
      49.352197
     ],
@@ -165778,25 +165702,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.736915,
-     49.138911
-    ],
-    "type": "Point"
-   },
-   "id": "13055",
-   "properties": {
-    "code": "62014",
-    "desc": "",
-    "id": "13055",
-    "name": "Eastbound Fraser Hwy @ 176 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.690775,
      49.118766
     ],
@@ -166234,6 +166139,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.785613,
+     49.293557
+    ],
+    "type": "Point"
+   },
+   "id": "13083",
+   "properties": {
+    "code": "59567",
+    "desc": "",
+    "id": "13083",
+    "name": "Southbound Genest Way @ Dayanee Springs Blvd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.785307,
+     49.293526
+    ],
+    "type": "Point"
+   },
+   "id": "13084",
+   "properties": {
+    "code": "58676",
+    "desc": "",
+    "id": "13084",
+    "name": "Northbound Genest Way @ David Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.139847,
      49.230974
     ],
@@ -166246,6 +166189,25 @@
     "id": "13085",
     "name": "Southbound Granville St @ W 45 Ave",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.783644,
+     49.296775
+    ],
+    "type": "Point"
+   },
+   "id": "13086",
+   "properties": {
+    "code": "60564",
+    "desc": "",
+    "id": "13086",
+    "name": "Southbound Purcell Dr @ Robson Dr",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166378,25 +166340,6 @@
     "desc": "",
     "id": "13094",
     "name": "Westbound Lougheed Hwy @ Delta Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.779159,
-     49.299147
-    ],
-    "type": "Point"
-   },
-   "id": "13095",
-   "properties": {
-    "code": "62070",
-    "desc": "",
-    "id": "13095",
-    "name": "Eastbound Robson Dr @ Kenney St",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
