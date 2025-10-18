@@ -14139,8 +14139,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.035167,
-     49.233641
+     -123.035646,
+     49.233886
     ],
     "type": "Point"
    },
@@ -29255,25 +29255,6 @@
     "desc": "",
     "id": "2268",
     "name": "Northbound 6th St @ 10 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.92926,
-     49.220388
-    ],
-    "type": "Point"
-   },
-   "id": "2269",
-   "properties": {
-    "code": "52247",
-    "desc": "",
-    "id": "2269",
-    "name": "Northbound 6th St @ 12 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -92476,44 +92457,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.187261,
-     49.129007
-    ],
-    "type": "Point"
-   },
-   "id": "6570",
-   "properties": {
-    "code": "56509",
-    "desc": "",
-    "id": "6570",
-    "name": "Southbound 4th Ave @ Garry St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.187257,
-     49.127171
-    ],
-    "type": "Point"
-   },
-   "id": "6571",
-   "properties": {
-    "code": "56510",
-    "desc": "",
-    "id": "6571",
-    "name": "Southbound 4th Ave @ Broadway St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.186626,
      49.12636
     ],
@@ -97511,25 +97454,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.187096,
-     49.126985
-    ],
-    "type": "Point"
-   },
-   "id": "6868",
-   "properties": {
-    "code": "56803",
-    "desc": "",
-    "id": "6868",
-    "name": "Northbound 4th Ave @ Chatham St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.187102,
      49.12863
     ],
@@ -100228,6 +100152,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.103179,
+     49.192076
+    ],
+    "type": "Point"
+   },
+   "id": "7039",
+   "properties": {
+    "code": "56972",
+    "desc": "",
+    "id": "7039",
+    "name": "Westbound Bridgeport Rd @ Shell Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.108364,
      49.192065
     ],
@@ -102576,25 +102519,6 @@
     "desc": "",
     "id": "7207",
     "name": "Langley Centre @ Bay 2",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.681102,
-     49.11457
-    ],
-    "type": "Point"
-   },
-   "id": "7209",
-   "properties": {
-    "code": "57138",
-    "desc": "",
-    "id": "7209",
-    "name": "Westbound Fraser Hwy @ 195A St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -121565,6 +121489,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.624775,
+     49.088506
+    ],
+    "type": "Point"
+   },
+   "id": "8953",
+   "properties": {
+    "code": "58565",
+    "desc": "",
+    "id": "8953",
+    "name": "Southbound 216 St @ 47A Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.623705,
      49.085801
     ],
@@ -130335,7 +130278,7 @@
     "desc": "",
     "id": "9998",
     "name": "Westbound Jack Bell Dr @ 12500 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -130487,7 +130430,7 @@
     "desc": "",
     "id": "10006",
     "name": "Eastbound Jack Bell Dr @ 12500 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -143054,8 +142997,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.841659,
-     49.278898
+     -122.841931,
+     49.278907
     ],
     "type": "Point"
    },
@@ -147093,6 +147036,25 @@
     "desc": "",
     "id": "11559",
     "name": "Pitt Meadows Station @ Bay 1",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.130164,
+     49.278573
+    ],
+    "type": "Point"
+   },
+   "id": "11563",
+   "properties": {
+    "code": "58721",
+    "desc": "",
+    "id": "11563",
+    "name": "Southbound Burrard St @ Burnaby St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -159318,6 +159280,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.131265,
+     49.277837
+    ],
+    "type": "Point"
+   },
+   "id": "12494",
+   "properties": {
+    "code": "60197",
+    "desc": "",
+    "id": "12494",
+    "name": "Southbound Burrard St @ Harwood St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.124475,
      49.166861
     ],
@@ -166215,25 +166196,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.092634,
-     49.262606
-    ],
-    "type": "Point"
-   },
-   "id": "13087",
-   "properties": {
-    "code": "62060",
-    "desc": "",
-    "id": "13087",
-    "name": "Westbound E Broadway @ St. George St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.110487,
      49.225969
     ],
@@ -166245,25 +166207,6 @@
     "desc": "",
     "id": "13088",
     "name": "Westbound W 49 Ave @ Columbia St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.110257,
-     49.225824
-    ],
-    "type": "Point"
-   },
-   "id": "13089",
-   "properties": {
-    "code": "62058",
-    "desc": "",
-    "id": "13089",
-    "name": "Eastbound W 49 Ave @ Columbia St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166417,6 +166360,44 @@
     "id": "13102",
     "name": "Eastbound Keefer St @ Quebec St",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.187115,
+     49.127584
+    ],
+    "type": "Point"
+   },
+   "id": "13103",
+   "properties": {
+    "code": "62054",
+    "desc": "",
+    "id": "13103",
+    "name": "Northbound 4th Ave @ Broadway St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.187295,
+     49.12819
+    ],
+    "type": "Point"
+   },
+   "id": "13104",
+   "properties": {
+    "code": "62055",
+    "desc": "",
+    "id": "13104",
+    "name": "Southbound 4th Ave @ Richmond St",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
