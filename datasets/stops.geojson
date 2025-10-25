@@ -535,6 +535,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.16824,
+     49.267795
+    ],
+    "type": "Point"
+   },
+   "id": "62",
+   "properties": {
+    "code": "50062",
+    "desc": "",
+    "id": "62",
+    "name": "Northbound Macdonald St @ W 5th Ave",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.168208,
      49.269101
     ],
@@ -25721,6 +25740,25 @@
     "desc": "",
     "id": "1985",
     "name": "Eastbound W 49 Ave @ Alberta St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.103335,
+     49.225636
+    ],
+    "type": "Point"
+   },
+   "id": "1987",
+   "properties": {
+    "code": "51970",
+    "desc": "",
+    "id": "1987",
+    "name": "Eastbound E 49 Ave @ Quebec St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -60662,25 +60700,6 @@
     "desc": "",
     "id": "4509",
     "name": "Eastbound E 15 St @ Ridgeway Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.059574,
-     49.321869
-    ],
-    "type": "Point"
-   },
-   "id": "4510",
-   "properties": {
-    "code": "54460",
-    "desc": "",
-    "id": "4510",
-    "name": "Eastbound E 15 St @ Moody Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -140698,25 +140717,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.071802,
-     49.240204
-    ],
-    "type": "Point"
-   },
-   "id": "11050",
-   "properties": {
-    "code": "61113",
-    "desc": "",
-    "id": "11050",
-    "name": "Westbound E 33 Ave @ Fleming St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.058302,
      49.239712
     ],
@@ -150095,25 +150095,6 @@
     "desc": "",
     "id": "11813",
     "name": "Westbound Great Northern Way @ Thornton St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.732747,
-     49.13705
-    ],
-    "type": "Point"
-   },
-   "id": "11815",
-   "properties": {
-    "code": "57090",
-    "desc": "",
-    "id": "11815",
-    "name": "Eastbound Fraser Hwy @ 176 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165683,6 +165664,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.736915,
+     49.138911
+    ],
+    "type": "Point"
+   },
+   "id": "13055",
+   "properties": {
+    "code": "62014",
+    "desc": "",
+    "id": "13055",
+    "name": "Eastbound Fraser Hwy @ 176 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.690775,
      49.118766
     ],
@@ -166397,6 +166397,44 @@
     "desc": "",
     "id": "13104",
     "name": "Southbound 4th Ave @ Richmond St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.070533,
+     49.240196
+    ],
+    "type": "Point"
+   },
+   "id": "13105",
+   "properties": {
+    "code": "62030",
+    "desc": "",
+    "id": "13105",
+    "name": "Westbound E 33 Ave @ Argyle St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.186256,
+     49.268542
+    ],
+    "type": "Point"
+   },
+   "id": "13106",
+   "properties": {
+    "code": "61916",
+    "desc": "",
+    "id": "13106",
+    "name": "Eastbound W 4th Ave @ Alma St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
