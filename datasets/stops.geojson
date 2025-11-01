@@ -21294,7 +21294,7 @@
     "desc": "",
     "id": "1626",
     "name": "Southbound Kerr St @ E 59 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -43076,8 +43076,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.880733,
-     49.274255
+     -122.880698,
+     49.27426
     ],
     "type": "Point"
    },
@@ -72024,7 +72024,7 @@
     "desc": "",
     "id": "5226",
     "name": "Eastbound Churchill St @ King St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -72032,8 +72032,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.000935,
-     49.089918
+     -123.00173,
+     49.089792
     ],
     "type": "Point"
    },
@@ -72157,7 +72157,7 @@
     "desc": "",
     "id": "5235",
     "name": "Westbound Churchill St @ King St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -74711,8 +74711,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.801247,
-     49.16676
+     -122.80124,
+     49.167156
     ],
     "type": "Point"
    },
@@ -80392,6 +80392,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.834507,
+     49.163216
+    ],
+    "type": "Point"
+   },
+   "id": "5756",
+   "properties": {
+    "code": "55701",
+    "desc": "",
+    "id": "5756",
+    "name": "Northbound 140 St @ 88 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.834481,
      49.1668
     ],
@@ -80764,6 +80783,25 @@
     "desc": "",
     "id": "5778",
     "name": "Southbound 140 St @ 94A Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.834759,
+     49.1698
+    ],
+    "type": "Point"
+   },
+   "id": "5779",
+   "properties": {
+    "code": "55724",
+    "desc": "",
+    "id": "5779",
+    "name": "Southbound 140 St @ 92 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -148412,8 +148450,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.859594,
-     49.230572
+     -122.856097,
+     49.229898
     ],
     "type": "Point"
    },
@@ -149678,25 +149716,6 @@
     "id": "11771",
     "name": "Northbound 152 St @ 66A Ave",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.001785,
-     49.089478
-    ],
-    "type": "Point"
-   },
-   "id": "11773",
-   "properties": {
-    "code": "55182",
-    "desc": "",
-    "id": "11773",
-    "name": "Southbound 80 St @ Ladner Trunk Rd",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -161001,7 +161020,7 @@
     "desc": "",
     "id": "12661",
     "name": "Southbound Reeve St @ Wilson Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
