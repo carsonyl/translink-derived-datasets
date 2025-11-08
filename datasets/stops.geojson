@@ -1770,25 +1770,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.100989,
-     49.258782
-    ],
-    "type": "Point"
-   },
-   "id": "173",
-   "properties": {
-    "code": "59582",
-    "desc": "",
-    "id": "173",
-    "name": "Northbound Main St @ E 14 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.100888,
      49.260528
     ],
@@ -10016,6 +9997,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.093535,
+     49.262598
+    ],
+    "type": "Point"
+   },
+   "id": "855",
+   "properties": {
+    "code": "50848",
+    "desc": "",
+    "id": "855",
+    "name": "Westbound E Broadway @ St. George St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.096513,
      49.262835
     ],
@@ -11745,8 +11745,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116588,
-     49.229514
+     -123.116605,
+     49.229431
     ],
     "type": "Point"
    },
@@ -18034,6 +18034,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.985898,
+     49.249929
+    ],
+    "type": "Point"
+   },
+   "id": "1408",
+   "properties": {
+    "code": "51396",
+    "desc": "",
+    "id": "1408",
+    "name": "Eastbound Canada Way @ 4800 Block",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.978665,
      49.247739
     ],
@@ -19015,6 +19034,25 @@
     "id": "1463",
     "name": "Westbound Canada Way @ Douglas Rd",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.986889,
+     49.250089
+    ],
+    "type": "Point"
+   },
+   "id": "1464",
+   "properties": {
+    "code": "51452",
+    "desc": "",
+    "id": "1464",
+    "name": "Westbound Canada Way @ 4800 Block",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -77895,7 +77933,7 @@
     "desc": "",
     "id": "5615",
     "name": "Northbound Scott Rd @ Preddy Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -86643,8 +86681,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.876784,
-     49.053873
+     -122.876719,
+     49.053914
     ],
     "type": "Point"
    },
@@ -86654,7 +86692,7 @@
     "desc": "",
     "id": "6144",
     "name": "Eastbound Bayview St @ Beecher St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -91214,6 +91252,25 @@
     "desc": "",
     "id": "6480",
     "name": "Westbound Fraser Hwy @ 140 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.842303,
+     49.180787
+    ],
+    "type": "Point"
+   },
+   "id": "6481",
+   "properties": {
+    "code": "56420",
+    "desc": "",
+    "id": "6481",
+    "name": "Westbound Fraser Hwy @ Whalley Blvd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -95934,8 +95991,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.091731,
-     49.138649
+     -123.091748,
+     49.138457
     ],
     "type": "Point"
    },
@@ -97788,6 +97845,25 @@
     "desc": "",
     "id": "6884",
     "name": "Northbound Gilbert Rd @ Granville Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147587,
+     49.166463
+    ],
+    "type": "Point"
+   },
+   "id": "6886",
+   "properties": {
+    "code": "56821",
+    "desc": "",
+    "id": "6886",
+    "name": "Northbound Gilbert Rd @ Azure Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -103202,7 +103278,7 @@
     "code": "57196",
     "desc": "",
     "id": "7267",
-    "name": "Northbound Glover Rd @ 76A Ave",
+    "name": "Northbound Glover Rd @ University Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -104285,7 +104361,7 @@
     "code": "57254",
     "desc": "",
     "id": "7325",
-    "name": "Southbound Glover Rd @ Labonte Rd",
+    "name": "Southbound Glover Rd @ University Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -127835,8 +127911,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.154169,
-     49.140917
+     -123.153712,
+     49.140918
     ],
     "type": "Point"
    },
@@ -127846,7 +127922,7 @@
     "desc": "",
     "id": "9565",
     "name": "Eastbound Williams Rd @ Swift Lane",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -130640,6 +130716,25 @@
     "id": "10023",
     "name": "Eastbound Lougheed Hwy @ Bainbridge Ave",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.938606,
+     49.25443
+    ],
+    "type": "Point"
+   },
+   "id": "10028",
+   "properties": {
+    "code": "53308",
+    "desc": "",
+    "id": "10028",
+    "name": "Westbound Lougheed Hwy @ Lake City Way",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -138551,6 +138646,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.116096,
+     49.230066
+    ],
+    "type": "Point"
+   },
+   "id": "10853",
+   "properties": {
+    "code": "60996",
+    "desc": "",
+    "id": "10853",
+    "name": "Northbound Cambie St @ W 45 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.949453,
      49.188232
     ],
@@ -142997,8 +143111,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.877081,
-     49.053934
+     -122.876249,
+     49.054115
     ],
     "type": "Point"
    },
@@ -165068,25 +165182,6 @@
     "id": "13004",
     "name": "Westbound W 12 Ave @ Granville St",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.11615,
-     49.229082
-    ],
-    "type": "Point"
-   },
-   "id": "13005",
-   "properties": {
-    "code": "51001",
-    "desc": "",
-    "id": "13005",
-    "name": "Northbound Cambie St @ W 46 Ave",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
