@@ -67928,25 +67928,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.895023,
-     49.177071
-    ],
-    "type": "Point"
-   },
-   "id": "4960",
-   "properties": {
-    "code": "54908",
-    "desc": "",
-    "id": "4960",
-    "name": "Eastbound 96 Ave @ 118 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.889399,
      49.177023
     ],
@@ -85457,7 +85438,7 @@
     "desc": "",
     "id": "6063",
     "name": "Westbound 100 Ave @ 150 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -130544,7 +130525,7 @@
     "desc": "",
     "id": "10005",
     "name": "Eastbound Jack Bell Dr @ McNeely Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -130582,7 +130563,7 @@
     "desc": "",
     "id": "10007",
     "name": "Northbound Jack Bell Dr @ Wyne Cres North",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -130734,7 +130715,7 @@
     "desc": "",
     "id": "10028",
     "name": "Westbound Lougheed Hwy @ Lake City Way",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -138639,25 +138620,6 @@
     "id": "10852",
     "name": "(Westbound Dewdney Trunk Rd In 26400-Block Area) (Flag)",
     "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.116096,
-     49.230066
-    ],
-    "type": "Point"
-   },
-   "id": "10853",
-   "properties": {
-    "code": "60996",
-    "desc": "",
-    "id": "10853",
-    "name": "Northbound Cambie St @ W 45 Ave",
-    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -148802,7 +148764,7 @@
     "code": "52751",
     "desc": "",
     "id": "11697",
-    "name": "Brentwood Station @ Bay 3 New",
+    "name": "Brentwood Station @ Bay 3",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -150949,7 +150911,7 @@
     "code": "61804",
     "desc": "",
     "id": "11876",
-    "name": "Brentwood Station @ Bay 5 New",
+    "name": "Brentwood Station @ Bay 5",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -151786,6 +151748,25 @@
     "desc": "",
     "id": "11951",
     "name": "Southbound Coast Meridian Rd @ Mason Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.78232,
+     49.292731
+    ],
+    "type": "Point"
+   },
+   "id": "11952",
+   "properties": {
+    "code": "59400",
+    "desc": "",
+    "id": "11952",
+    "name": "Eastbound David Ave @ Pipeline Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -155739,25 +155720,6 @@
     "id": "12244",
     "name": "Westbound Foster Ave @ Aspen St",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.886632,
-     49.256704
-    ],
-    "type": "Point"
-   },
-   "id": "12245",
-   "properties": {
-    "code": "58186",
-    "desc": "",
-    "id": "12245",
-    "name": "Eastbound Foster Ave @ Aspen St",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -160146,25 +160108,6 @@
     "desc": "",
     "id": "12573",
     "name": "Northbound 52 St @ Saratoga Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147475,
-     49.170522
-    ],
-    "type": "Point"
-   },
-   "id": "12579",
-   "properties": {
-    "code": "56938",
-    "desc": "",
-    "id": "12579",
-    "name": "Northbound Gilbert Rd @ Westminster Hwy",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165189,6 +165132,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.11615,
+     49.229082
+    ],
+    "type": "Point"
+   },
+   "id": "13005",
+   "properties": {
+    "code": "51001",
+    "desc": "",
+    "id": "13005",
+    "name": "Northbound Cambie St @ W 46 Ave",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.136363,
      49.173961
     ],
@@ -166549,6 +166511,44 @@
     "desc": "",
     "id": "13106",
     "name": "Eastbound W 4th Ave @ Alma St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.994547,
+     49.169318
+    ],
+    "type": "Point"
+   },
+   "id": "13108",
+   "properties": {
+    "code": "62109",
+    "desc": "",
+    "id": "13108",
+    "name": "Westbound Westminster Hwy @ McMillan Way",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147533,
+     49.16991
+    ],
+    "type": "Point"
+   },
+   "id": "13109",
+   "properties": {
+    "code": "62113",
+    "desc": "",
+    "id": "13109",
+    "name": "Northbound Gilbert Rd @ Westminster Hwy",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
