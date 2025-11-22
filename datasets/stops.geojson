@@ -1998,17 +1998,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116035,
-     49.281407
+     -123.115253,
+     49.281944
     ],
     "type": "Point"
    },
-   "id": "191",
+   "id": "190",
    "properties": {
-    "code": "50191",
+    "code": "50190",
     "desc": "",
-    "id": "191",
-    "name": "Southbound Richards St @ W Georgia St",
+    "id": "190",
+    "name": "Southbound Richards St @ Dunsmuir St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -14538,25 +14538,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.022197,
-     49.232527
-    ],
-    "type": "Point"
-   },
-   "id": "1180",
-   "properties": {
-    "code": "51171",
-    "desc": "",
-    "id": "1180",
-    "name": "Westbound Kingsway @ Boundary Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.024096,
      49.232402
     ],
@@ -14568,25 +14549,6 @@
     "desc": "",
     "id": "1181",
     "name": "Westbound Kingsway @ Boundary Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.026273,
-     49.232284
-    ],
-    "type": "Point"
-   },
-   "id": "1182",
-   "properties": {
-    "code": "51173",
-    "desc": "",
-    "id": "1182",
-    "name": "Westbound Kingsway @ Lincoln St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -25759,25 +25721,6 @@
     "desc": "",
     "id": "1980",
     "name": "Eastbound W 49 Ave @ Oak St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.112498,
-     49.225896
-    ],
-    "type": "Point"
-   },
-   "id": "1985",
-   "properties": {
-    "code": "51968",
-    "desc": "",
-    "id": "1985",
-    "name": "Eastbound W 49 Ave @ Alberta St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -52948,6 +52891,44 @@
     "desc": "",
     "id": "3984",
     "name": "Eastbound Robson Dr @ Pinetree Way",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.782859,
+     49.297167
+    ],
+    "type": "Point"
+   },
+   "id": "3985",
+   "properties": {
+    "code": "53944",
+    "desc": "",
+    "id": "3985",
+    "name": "Eastbound Robson Dr @ Purcell Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.780868,
+     49.298466
+    ],
+    "type": "Point"
+   },
+   "id": "3986",
+   "properties": {
+    "code": "53945",
+    "desc": "",
+    "id": "3986",
+    "name": "Eastbound Robson Dr @ Blackwater Place",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -80829,6 +80810,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.834774,
+     49.166042
+    ],
+    "type": "Point"
+   },
+   "id": "5780",
+   "properties": {
+    "code": "55725",
+    "desc": "",
+    "id": "5780",
+    "name": "Southbound 140 St @ 90 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.834765,
      49.162433
     ],
@@ -92134,6 +92134,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.157896,
+     49.170259
+    ],
+    "type": "Point"
+   },
+   "id": "6547",
+   "properties": {
+    "code": "56486",
+    "desc": "",
+    "id": "6547",
+    "name": "Westbound Westminster Hwy @ No. 2 Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.165036,
      49.170203
     ],
@@ -97693,6 +97712,25 @@
     "desc": "",
     "id": "6876",
     "name": "Northbound Gilbert Rd @ Broadmoor Blvd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147711,
+     49.14866
+    ],
+    "type": "Point"
+   },
+   "id": "6877",
+   "properties": {
+    "code": "56812",
+    "desc": "",
+    "id": "6877",
+    "name": "Northbound Gilbert Rd @ Francis Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -123826,6 +123864,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.769332,
+     49.255645
+    ],
+    "type": "Point"
+   },
+   "id": "9201",
+   "properties": {
+    "code": "58772",
+    "desc": "",
+    "id": "9201",
+    "name": "Eastbound Kingsway Ave @ 1900 Block",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.774875,
+     49.258013
+    ],
+    "type": "Point"
+   },
+   "id": "9202",
+   "properties": {
+    "code": "58774",
+    "desc": "",
+    "id": "9202",
+    "name": "Eastbound Kingsway Ave @ Tyner St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.77455,
      49.257999
     ],
@@ -124692,6 +124768,44 @@
     "desc": "",
     "id": "9257",
     "name": "Northbound Shaughnessy St @ Prairie Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.779054,
+     49.29924
+    ],
+    "type": "Point"
+   },
+   "id": "9259",
+   "properties": {
+    "code": "58818",
+    "desc": "",
+    "id": "9259",
+    "name": "Westbound Robson Dr @ Kenney St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.781306,
+     49.298216
+    ],
+    "type": "Point"
+   },
+   "id": "9260",
+   "properties": {
+    "code": "58817",
+    "desc": "",
+    "id": "9260",
+    "name": "Southbound Robson Dr @ Blackwater Place",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -128112,6 +128226,25 @@
     "desc": "",
     "id": "9576",
     "name": "Westbound Williams Rd @ Deagle Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.148379,
+     49.141026
+    ],
+    "type": "Point"
+   },
+   "id": "9577",
+   "properties": {
+    "code": "59059",
+    "desc": "",
+    "id": "9577",
+    "name": "Westbound Williams Rd @ Gilbert Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -148536,7 +148669,7 @@
     "code": "61617",
     "desc": "",
     "id": "11684",
-    "name": "Westbound United Blvd @ King Edward St",
+    "name": "Westbound United Blvd @",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -151862,6 +151995,25 @@
     "desc": "",
     "id": "11958",
     "name": "Westbound David Ave @ Coast Meridian Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.782894,
+     49.292923
+    ],
+    "type": "Point"
+   },
+   "id": "11959",
+   "properties": {
+    "code": "59399",
+    "desc": "",
+    "id": "11959",
+    "name": "Westbound David Ave @ Pipeline Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166196,44 +166348,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.785613,
-     49.293557
-    ],
-    "type": "Point"
-   },
-   "id": "13083",
-   "properties": {
-    "code": "59567",
-    "desc": "",
-    "id": "13083",
-    "name": "Southbound Genest Way @ Dayanee Springs Blvd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.785307,
-     49.293526
-    ],
-    "type": "Point"
-   },
-   "id": "13084",
-   "properties": {
-    "code": "58676",
-    "desc": "",
-    "id": "13084",
-    "name": "Northbound Genest Way @ David Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.139847,
      49.230974
     ],
@@ -166245,44 +166359,6 @@
     "desc": "",
     "id": "13085",
     "name": "Southbound Granville St @ W 45 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.783644,
-     49.296775
-    ],
-    "type": "Point"
-   },
-   "id": "13086",
-   "properties": {
-    "code": "60564",
-    "desc": "",
-    "id": "13086",
-    "name": "Southbound Purcell Dr @ Robson Dr",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.110487,
-     49.225969
-    ],
-    "type": "Point"
-   },
-   "id": "13088",
-   "properties": {
-    "code": "62057",
-    "desc": "",
-    "id": "13088",
-    "name": "Westbound W 49 Ave @ Columbia St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166359,6 +166435,25 @@
     "desc": "",
     "id": "13094",
     "name": "Westbound Lougheed Hwy @ Delta Ave",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.779159,
+     49.299147
+    ],
+    "type": "Point"
+   },
+   "id": "13095",
+   "properties": {
+    "code": "62070",
+    "desc": "",
+    "id": "13095",
+    "name": "Eastbound Robson Dr @ Kenney St",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -166549,6 +166644,25 @@
     "desc": "",
     "id": "13109",
     "name": "Northbound Gilbert Rd @ Westminster Hwy",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.985391,
+     49.152011
+    ],
+    "type": "Point"
+   },
+   "id": "13110",
+   "properties": {
+    "code": "62061",
+    "desc": "",
+    "id": "13110",
+    "name": "Eastbound River Rd @ 8600 Blk",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
