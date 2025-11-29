@@ -28685,7 +28685,7 @@
     "desc": "",
     "id": "2216",
     "name": "Westbound Marine Dr @ Royal Oak Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -34784,7 +34784,7 @@
     "desc": "",
     "id": "2662",
     "name": "Northbound Nelson Ave @ Portland St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -67890,17 +67890,17 @@
   {
    "geometry": {
     "coordinates": [
-     -122.900724,
-     49.177061
+     -122.895023,
+     49.177071
     ],
     "type": "Point"
    },
-   "id": "4959",
+   "id": "4960",
    "properties": {
-    "code": "54907",
+    "code": "54908",
     "desc": "",
-    "id": "4959",
-    "name": "Eastbound 96 Ave @ 116 St",
+    "id": "4960",
+    "name": "Eastbound 96 Ave @ 118 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -69725,7 +69725,7 @@
     "desc": "",
     "id": "5078",
     "name": "Southbound Dunlop Rd @ Byron Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -69782,7 +69782,7 @@
     "desc": "",
     "id": "5081",
     "name": "Southbound Dunlop Rd @ 10400 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -69896,7 +69896,7 @@
     "desc": "",
     "id": "5087",
     "name": "Eastbound River Rd @ 92A Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -108352,7 +108352,7 @@
     "desc": "",
     "id": "7592",
     "name": "Southbound Harvest Dr @ 4500 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -108713,7 +108713,7 @@
     "desc": "",
     "id": "7611",
     "name": "Northbound Harvest Dr @ Mountain View Blvd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -122021,8 +122021,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.966602,
-     49.203837
+     -122.967247,
+     49.204315
     ],
     "type": "Point"
    },
@@ -122031,8 +122031,8 @@
     "code": "58761",
     "desc": "",
     "id": "8992",
-    "name": "Westbound Marine Dr @ Byrnepark Dr",
-    "wheelchair_boarding": "2",
+    "name": "Northbound Byrnepark Dr @ Marine Dr",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -123875,7 +123875,7 @@
     "desc": "",
     "id": "9201",
     "name": "Eastbound Kingsway Ave @ 1900 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -123894,7 +123894,7 @@
     "desc": "",
     "id": "9202",
     "name": "Eastbound Kingsway Ave @ Tyner St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -133432,7 +133432,7 @@
     "desc": "",
     "id": "10290",
     "name": "Southbound Nelson Ave @ Clinton St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -133858,8 +133858,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.012456,
-     49.222365
+     -123.01246,
+     49.222441
     ],
     "type": "Point"
    },
@@ -166663,6 +166663,82 @@
     "desc": "",
     "id": "13110",
     "name": "Eastbound River Rd @ 8600 Blk",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.106275,
+     49.225697
+    ],
+    "type": "Point"
+   },
+   "id": "13111",
+   "properties": {
+    "code": "62099",
+    "desc": "",
+    "id": "13111",
+    "name": "Eastbound E 49 Ave @ Ontario St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.106481,
+     49.22583
+    ],
+    "type": "Point"
+   },
+   "id": "13112",
+   "properties": {
+    "code": "52031",
+    "desc": "",
+    "id": "13112",
+    "name": "Westbound W 49 Ave @ Ontario St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.646079,
+     49.132957
+    ],
+    "type": "Point"
+   },
+   "id": "13113",
+   "properties": {
+    "code": "62004",
+    "desc": "",
+    "id": "13113",
+    "name": "Southbound 208 St @ 72 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.645811,
+     49.133858
+    ],
+    "type": "Point"
+   },
+   "id": "13114",
+   "properties": {
+    "code": "62005",
+    "desc": "",
+    "id": "13114",
+    "name": "Northbound 208 St @ 72 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
