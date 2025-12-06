@@ -1846,6 +1846,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.100505,
+     49.269455
+    ],
+    "type": "Point"
+   },
+   "id": "179",
+   "properties": {
+    "code": "50179",
+    "desc": "",
+    "id": "179",
+    "name": "Northbound Main St @ E 2nd Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.100432,
      49.270803
     ],
@@ -2283,17 +2302,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.13852,
-     49.261157
+     -123.138663,
+     49.257367
     ],
     "type": "Point"
    },
-   "id": "215",
+   "id": "213",
    "properties": {
-    "code": "50214",
+    "code": "50212",
     "desc": "",
-    "id": "215",
-    "name": "Northbound Granville St @ W 12 Ave",
+    "id": "213",
+    "name": "Northbound Granville St @ W 16 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -5969,17 +5988,17 @@
   {
    "geometry": {
     "coordinates": [
-     -123.138899,
-     49.257667
+     -123.138834,
+     49.259524
     ],
     "type": "Point"
    },
-   "id": "549",
+   "id": "548",
    "properties": {
-    "code": "50544",
+    "code": "50543",
     "desc": "",
-    "id": "549",
-    "name": "Southbound Granville St @ W 15 Ave",
+    "id": "548",
+    "name": "Southbound Granville St @ W 13 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -10225,8 +10244,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.140672,
-     49.209597
+     -123.140613,
+     49.210199
     ],
     "type": "Point"
    },
@@ -26576,6 +26595,25 @@
     "desc": "",
     "id": "2046",
     "name": "Westbound E 49 Ave @ Prince Edward St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.113387,
+     49.226074
+    ],
+    "type": "Point"
+   },
+   "id": "2050",
+   "properties": {
+    "code": "52033",
+    "desc": "",
+    "id": "2050",
+    "name": "Westbound W 49 Ave @ Alberta St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -60719,6 +60757,25 @@
     "desc": "",
     "id": "4509",
     "name": "Eastbound E 15 St @ Ridgeway Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.059574,
+     49.321869
+    ],
+    "type": "Point"
+   },
+   "id": "4510",
+   "properties": {
+    "code": "54460",
+    "desc": "",
+    "id": "4510",
+    "name": "Eastbound E 15 St @ Moody Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -117016,7 +117073,7 @@
     "desc": "",
     "id": "8483",
     "name": "Eastbound Steveston Hwy @ Hwy 99",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -128074,7 +128131,7 @@
     "desc": "",
     "id": "9568",
     "name": "Eastbound Williams Rd @ Deagle Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -133869,7 +133926,7 @@
     "desc": "",
     "id": "10331",
     "name": "Northbound Willingdon Extension @ Imperial St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -145459,7 +145516,7 @@
     "desc": "",
     "id": "11374",
     "name": "Southbound Minoru Blvd @ Minoru Gate",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -151083,25 +151140,6 @@
     "desc": "",
     "id": "11879",
     "name": "Southbound Willingdon Ave @ Halifax St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.666944,
-     49.159084
-    ],
-    "type": "Point"
-   },
-   "id": "11880",
-   "properties": {
-    "code": "61781",
-    "desc": "",
-    "id": "11880",
-    "name": "Eastbound 86 Ave @ 200 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -164847,6 +164885,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.138574,
+     49.260169
+    ],
+    "type": "Point"
+   },
+   "id": "12976",
+   "properties": {
+    "code": "60849",
+    "desc": "",
+    "id": "12976",
+    "name": "Northbound Granville St @ W 13th Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.128082,
      49.237881
     ],
@@ -165219,44 +165276,6 @@
     "desc": "",
     "id": "13000",
     "name": "Westbound Blue Heron Way @ Swan Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.138826,
-     49.260427
-    ],
-    "type": "Point"
-   },
-   "id": "13002",
-   "properties": {
-    "code": "61462",
-    "desc": "",
-    "id": "13002",
-    "name": "Southbound Granville St @ W 12 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.138643,
-     49.258305
-    ],
-    "type": "Point"
-   },
-   "id": "13003",
-   "properties": {
-    "code": "61315",
-    "desc": "",
-    "id": "13003",
-    "name": "Northbound Granville St @ W 15 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166367,25 +166386,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.100561,
-     49.268662
-    ],
-    "type": "Point"
-   },
-   "id": "13090",
-   "properties": {
-    "code": "62063",
-    "desc": "",
-    "id": "13090",
-    "name": "Northbound Main St @ E 2nd Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.127726,
      49.274065
     ],
@@ -166739,6 +166739,25 @@
     "desc": "",
     "id": "13114",
     "name": "Northbound 208 St @ 72 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.138944,
+     49.25737
+    ],
+    "type": "Point"
+   },
+   "id": "13115",
+   "properties": {
+    "code": "62118",
+    "desc": "",
+    "id": "13115",
+    "name": "Southbound Granville St @ W 16th Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
