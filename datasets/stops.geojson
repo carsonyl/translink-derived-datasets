@@ -10225,25 +10225,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.140547,
-     49.211828
-    ],
-    "type": "Point"
-   },
-   "id": "870",
-   "properties": {
-    "code": "50863",
-    "desc": "",
-    "id": "870",
-    "name": "Southbound Granville St @ W 65 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.140613,
      49.210199
     ],
@@ -12562,25 +12543,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.044447,
-     49.255993
-    ],
-    "type": "Point"
-   },
-   "id": "1058",
-   "properties": {
-    "code": "51049",
-    "desc": "",
-    "id": "1058",
-    "name": "Southbound Renfrew St @ E 15 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.044433,
      49.254177
     ],
@@ -13086,25 +13048,6 @@
     "desc": "",
     "id": "1088",
     "name": "Northbound Renfrew St @ E 17 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.044185,
-     49.255753
-    ],
-    "type": "Point"
-   },
-   "id": "1089",
-   "properties": {
-    "code": "51080",
-    "desc": "",
-    "id": "1089",
-    "name": "Northbound Renfrew St @ E 16 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -30262,25 +30205,6 @@
     "desc": "",
     "id": "2338",
     "name": "Eastbound Columbia St @ 6th St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.904917,
-     49.204662
-    ],
-    "type": "Point"
-   },
-   "id": "2339",
-   "properties": {
-    "code": "52317",
-    "desc": "",
-    "id": "2339",
-    "name": "Columbia Station @ Bay 2",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -138817,6 +138741,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.116096,
+     49.230066
+    ],
+    "type": "Point"
+   },
+   "id": "10853",
+   "properties": {
+    "code": "60996",
+    "desc": "",
+    "id": "10853",
+    "name": "Northbound Cambie St @ W 45 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.949453,
      49.188232
     ],
@@ -154454,6 +154397,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.894807,
+     49.247995
+    ],
+    "type": "Point"
+   },
+   "id": "12147",
+   "properties": {
+    "code": "60101",
+    "desc": "",
+    "id": "12147",
+    "name": "Lougheed Station @ Bay 11",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.090092,
      49.253864
     ],
@@ -165303,25 +165265,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.11615,
-     49.229082
-    ],
-    "type": "Point"
-   },
-   "id": "13005",
-   "properties": {
-    "code": "51001",
-    "desc": "",
-    "id": "13005",
-    "name": "Northbound Cambie St @ W 46 Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.136363,
      49.173961
     ],
@@ -165903,6 +165846,25 @@
     "desc": "",
     "id": "13052",
     "name": "Eastbound Fraser Hwy @ 140 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.92083,
+     49.213416
+    ],
+    "type": "Point"
+   },
+   "id": "13054",
+   "properties": {
+    "code": "62015",
+    "desc": "",
+    "id": "13054",
+    "name": "Southbound 6th St @ Princess St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166690,8 +166652,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.106481,
-     49.22583
+     -123.106842,
+     49.225848
     ],
     "type": "Point"
    },
@@ -166701,7 +166663,7 @@
     "desc": "",
     "id": "13112",
     "name": "Westbound W 49 Ave @ Ontario St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166758,6 +166720,25 @@
     "desc": "",
     "id": "13115",
     "name": "Southbound Granville St @ W 16th Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.841695,
+     49.278764
+    ],
+    "type": "Point"
+   },
+   "id": "13116",
+   "properties": {
+    "code": "60491",
+    "desc": "",
+    "id": "13116",
+    "name": "Eastbound Murray St @ Electronic Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
