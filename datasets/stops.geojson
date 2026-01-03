@@ -60138,25 +60138,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.082166,
-     49.31297
-    ],
-    "type": "Point"
-   },
-   "id": "4470",
-   "properties": {
-    "code": "54420",
-    "desc": "",
-    "id": "4470",
-    "name": "Southbound Chesterfield Ave @ W 1st St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.082918,
      49.310597
     ],
@@ -103222,7 +103203,7 @@
     "desc": "",
     "id": "7269",
     "name": "Northbound Glover Rd @ 88 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -120494,25 +120475,6 @@
     "id": "8841",
     "name": "Eastbound 20 Ave @ 144 St",
     "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.86592,
-     49.276557
-    ],
-    "type": "Point"
-   },
-   "id": "8845",
-   "properties": {
-    "code": "58227",
-    "desc": "",
-    "id": "8845",
-    "name": "Eastbound St. Johns St @ Albert St",
-    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166701,6 +166663,25 @@
     "desc": "",
     "id": "13116",
     "name": "Eastbound Murray St @ Electronic Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.867112,
+     49.276538
+    ],
+    "type": "Point"
+   },
+   "id": "13117",
+   "properties": {
+    "code": "59817",
+    "desc": "",
+    "id": "13117",
+    "name": "Eastbound Clarke Rd @ Albert St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
