@@ -18642,8 +18642,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.935607,
-     49.220067
+     -122.93595,
+     49.220335
     ],
     "type": "Point"
    },
@@ -18653,7 +18653,7 @@
     "desc": "",
     "id": "1447",
     "name": "Northbound Canada Way @ 14 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -50536,25 +50536,6 @@
     "id": "3822",
     "name": "Port Coquitlam Station @ Bay 3",
     "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.747793,
-     49.263782
-    ],
-    "type": "Point"
-   },
-   "id": "3823",
-   "properties": {
-    "code": "53784",
-    "desc": "",
-    "id": "3823",
-    "name": "Eastbound Riverwood Gate @ Terry Fox Secondary",
-    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -104028,8 +104009,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.614152,
-     49.162633
+     -122.615322,
+     49.162542
     ],
     "type": "Point"
    },
@@ -149107,25 +149088,6 @@
     "desc": "",
     "id": "11720",
     "name": "Southbound University Dr @ 107A Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.85073,
-     49.197675
-    ],
-    "type": "Point"
-   },
-   "id": "11721",
-   "properties": {
-    "code": "61658",
-    "desc": "",
-    "id": "11721",
-    "name": "Northbound University Dr @ 107A Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
