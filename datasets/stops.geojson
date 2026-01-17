@@ -2321,25 +2321,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.099988,
-     49.282229
-    ],
-    "type": "Point"
-   },
-   "id": "230",
-   "properties": {
-    "code": "50228",
-    "desc": "",
-    "id": "230",
-    "name": "Eastbound E Cordova St @ Main St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.099812,
      49.28081
     ],
@@ -28180,44 +28161,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.936668,
-     49.204261
-    ],
-    "type": "Point"
-   },
-   "id": "2187",
-   "properties": {
-    "code": "52167",
-    "desc": "",
-    "id": "2187",
-    "name": "Eastbound 6th Ave @ 16 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.933296,
-     49.206089
-    ],
-    "type": "Point"
-   },
-   "id": "2188",
-   "properties": {
-    "code": "52168",
-    "desc": "",
-    "id": "2188",
-    "name": "Eastbound 6th Ave @ 14 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.930196,
      49.207236
     ],
@@ -28343,25 +28286,6 @@
     "desc": "",
     "id": "2197",
     "name": "Westbound Columbia St @ Royal Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.946299,
-     49.199966
-    ],
-    "type": "Point"
-   },
-   "id": "2202",
-   "properties": {
-    "code": "52182",
-    "desc": "",
-    "id": "2202",
-    "name": "Westbound Marine Way @ 20 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -29198,6 +29122,25 @@
     "desc": "",
     "id": "2268",
     "name": "Northbound 6th St @ 10 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.92926,
+     49.220388
+    ],
+    "type": "Point"
+   },
+   "id": "2269",
+   "properties": {
+    "code": "52247",
+    "desc": "",
+    "id": "2269",
+    "name": "Northbound 6th St @ 12 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -44634,8 +44577,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.815944,
-     49.263158
+     -122.815813,
+     49.263204
     ],
     "type": "Point"
    },
@@ -44900,8 +44843,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.815773,
-     49.263329
+     -122.81578,
+     49.263341
     ],
     "type": "Point"
    },
@@ -48008,82 +47951,6 @@
     "desc": "",
     "id": "3623",
     "name": "Westbound 6th Ave @ 10 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.931048,
-     49.207443
-    ],
-    "type": "Point"
-   },
-   "id": "3624",
-   "properties": {
-    "code": "53585",
-    "desc": "",
-    "id": "3624",
-    "name": "Westbound 6th Ave @ 12 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.933942,
-     49.205881
-    ],
-    "type": "Point"
-   },
-   "id": "3625",
-   "properties": {
-    "code": "53586",
-    "desc": "",
-    "id": "3625",
-    "name": "Westbound 6th Ave @ 14 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.937477,
-     49.203973
-    ],
-    "type": "Point"
-   },
-   "id": "3626",
-   "properties": {
-    "code": "53587",
-    "desc": "",
-    "id": "3626",
-    "name": "Westbound 6th Ave @ 16 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.940325,
-     49.202436
-    ],
-    "type": "Point"
-   },
-   "id": "3627",
-   "properties": {
-    "code": "53588",
-    "desc": "",
-    "id": "3627",
-    "name": "Westbound 6th Ave @ 18 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -79404,44 +79271,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.856702,
-     49.151125
-    ],
-    "type": "Point"
-   },
-   "id": "5711",
-   "properties": {
-    "code": "55656",
-    "desc": "",
-    "id": "5711",
-    "name": "Northbound 132 St @ 81A Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.856727,
-     49.152928
-    ],
-    "type": "Point"
-   },
-   "id": "5712",
-   "properties": {
-    "code": "55657",
-    "desc": "",
-    "id": "5712",
-    "name": "Northbound 132 St @ 82A Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.856726,
      49.155731
     ],
@@ -93654,25 +93483,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.17806,
-     49.125239
-    ],
-    "type": "Point"
-   },
-   "id": "6655",
-   "properties": {
-    "code": "56594",
-    "desc": "",
-    "id": "6655",
-    "name": "Westbound Moncton St @ Easthope Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.181091,
      49.125591
     ],
@@ -103344,8 +103154,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.615141,
-     49.162682
+     -122.61531,
+     49.162678
     ],
     "type": "Point"
    },
@@ -104009,8 +103819,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.615322,
-     49.162542
+     -122.615818,
+     49.162509
     ],
     "type": "Point"
    },
@@ -131673,25 +131483,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.940342,
-     49.202286
-    ],
-    "type": "Point"
-   },
-   "id": "10151",
-   "properties": {
-    "code": "59549",
-    "desc": "",
-    "id": "10151",
-    "name": "Eastbound 6th Ave @ 18 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.845834,
      49.206235
     ],
@@ -136890,25 +136681,6 @@
     "desc": "",
     "id": "10705",
     "name": "Westbound Falcon Dr @ 1200 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.134884,
-     49.164647
-    ],
-    "type": "Point"
-   },
-   "id": "10706",
-   "properties": {
-    "code": "59731",
-    "desc": "",
-    "id": "10706",
-    "name": "Park Rd @ Buswell St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -147815,6 +147587,44 @@
     "desc": "",
     "id": "11610",
     "name": "Westbound E 49 Ave @ Vivian St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.695491,
+     49.133542
+    ],
+    "type": "Point"
+   },
+   "id": "11611",
+   "properties": {
+    "code": "60758",
+    "desc": "",
+    "id": "11611",
+    "name": "Eastbound 72 Ave @ 190 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.696881,
+     49.133647
+    ],
+    "type": "Point"
+   },
+   "id": "11612",
+   "properties": {
+    "code": "60768",
+    "desc": "",
+    "id": "11612",
+    "name": "Westbound 72 Ave @ 190 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -164581,6 +164391,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.134693,
+     49.164758
+    ],
+    "type": "Point"
+   },
+   "id": "12964",
+   "properties": {
+    "code": "59343",
+    "desc": "",
+    "id": "12964",
+    "name": "Park @ Buswell",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.857431,
      49.249032
     ],
@@ -166644,6 +166473,25 @@
     "desc": "",
     "id": "13117",
     "name": "Eastbound Clarke Rd @ Albert St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.179717,
+     49.125244
+    ],
+    "type": "Point"
+   },
+   "id": "13120",
+   "properties": {
+    "code": "62127",
+    "desc": "",
+    "id": "13120",
+    "name": "Westbound Moncton St @ Easthope Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
