@@ -2435,6 +2435,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.101166,
+     49.262246
+    ],
+    "type": "Point"
+   },
+   "id": "240",
+   "properties": {
+    "code": "50238",
+    "desc": "",
+    "id": "240",
+    "name": "Southbound Main St @ E Broadway",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.10127,
      49.259888
     ],
@@ -6482,6 +6501,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.168863,
+     49.268459
+    ],
+    "type": "Point"
+   },
+   "id": "591",
+   "properties": {
+    "code": "50585",
+    "desc": "",
+    "id": "591",
+    "name": "Westbound W 4th Ave @ Macdonald St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.174217,
      49.268528
     ],
@@ -10008,25 +10046,6 @@
     "desc": "",
     "id": "856",
     "name": "Westbound E Broadway @ Prince Edward St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.098697,
-     49.262926
-    ],
-    "type": "Point"
-   },
-   "id": "857",
-   "properties": {
-    "code": "50850",
-    "desc": "",
-    "id": "857",
-    "name": "Westbound E Broadway @ Scotia St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -28351,25 +28370,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.964735,
-     49.20329
-    ],
-    "type": "Point"
-   },
-   "id": "2206",
-   "properties": {
-    "code": "52186",
-    "desc": "",
-    "id": "2206",
-    "name": "Westbound Marine Dr @ 14 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.953717,
      49.197846
     ],
@@ -40492,27 +40492,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.800011,
-     49.26982
-    ],
-    "type": "Point"
-   },
-   "id": "3068",
-   "properties": {
-    "code": "53036",
-    "desc": "",
-    "id": "3068",
-    "name": "Westbound Dewdney Trunk Rd @ Lougheed Hwy",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.801808,
-     49.271255
+     -122.802424,
+     49.27171
     ],
     "type": "Point"
    },
@@ -44531,7 +44512,7 @@
     "desc": "",
     "id": "3383",
     "name": "Eastbound Kingsway Ave @ Burleigh Ave",
-    "wheelchair_boarding": "1",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -79263,6 +79244,25 @@
     "desc": "",
     "id": "5710",
     "name": "Northbound 132 St @ 80 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.856702,
+     49.151125
+    ],
+    "type": "Point"
+   },
+   "id": "5711",
+   "properties": {
+    "code": "55656",
+    "desc": "",
+    "id": "5711",
+    "name": "Northbound 132 St @ 81A Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -134865,8 +134865,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.957414,
-     49.204135
+     -122.956692,
+     49.204111
     ],
     "type": "Point"
    },
@@ -134875,7 +134875,7 @@
     "code": "59885",
     "desc": "",
     "id": "10483",
-    "name": "Eastbound Southridge Dr @ 6600 Block",
+    "name": "Eastbound Southridge Dr @ 6700 Block",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -148906,6 +148906,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.85073,
+     49.197675
+    ],
+    "type": "Point"
+   },
+   "id": "11721",
+   "properties": {
+    "code": "61658",
+    "desc": "",
+    "id": "11721",
+    "name": "Northbound University Dr @ 107A Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.537577,
      49.069471
     ],
@@ -161883,25 +161902,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.101128,
-     49.263326
-    ],
-    "type": "Point"
-   },
-   "id": "12749",
-   "properties": {
-    "code": "60517",
-    "desc": "",
-    "id": "12749",
-    "name": "Southbound Main St @ E Broadway",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.800967,
      49.145969
     ],
@@ -162624,8 +162624,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.104155,
-     49.263084
+     -123.104676,
+     49.263095
     ],
     "type": "Point"
    },
@@ -163167,25 +163167,6 @@
     "desc": "",
     "id": "12868",
     "name": "Westbound E 22 Ave @ Cassiar St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.167233,
-     49.268444
-    ],
-    "type": "Point"
-   },
-   "id": "12869",
-   "properties": {
-    "code": "61834",
-    "desc": "",
-    "id": "12869",
-    "name": "Westbound W 4th Ave @ Macdonald St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166082,25 +166063,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.134068,
-     49.168752
-    ],
-    "type": "Point"
-   },
-   "id": "13096",
-   "properties": {
-    "code": "61333",
-    "desc": "",
-    "id": "13096",
-    "name": "Saba Rd @ No. 3 Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.90397,
      49.211025
     ],
@@ -166264,25 +166226,6 @@
     "desc": "",
     "id": "13106",
     "name": "Eastbound W 4th Ave @ Alma St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.131633,
-     49.168475
-    ],
-    "type": "Point"
-   },
-   "id": "13107",
-   "properties": {
-    "code": "59342",
-    "desc": "",
-    "id": "13107",
-    "name": "Saba Rd @ No. 3 Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166492,6 +166435,25 @@
     "desc": "",
     "id": "13120",
     "name": "Westbound Moncton St @ Easthope Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.097845,
+     49.262916
+    ],
+    "type": "Point"
+   },
+   "id": "13121",
+   "properties": {
+    "code": "59862",
+    "desc": "",
+    "id": "13121",
+    "name": "Westbound E Broadway @ Brunswick St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
