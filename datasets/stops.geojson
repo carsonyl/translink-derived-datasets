@@ -858,25 +858,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116055,
-     49.285523
-    ],
-    "type": "Point"
-   },
-   "id": "97",
-   "properties": {
-    "code": "50097",
-    "desc": "",
-    "id": "97",
-    "name": "Westbound W Pender St @ Howe St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.12964,
      49.278914
     ],
@@ -1838,25 +1819,6 @@
     "desc": "",
     "id": "179",
     "name": "Northbound Main St @ E 2nd Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.100432,
-     49.270803
-    ],
-    "type": "Point"
-   },
-   "id": "180",
-   "properties": {
-    "code": "50180",
-    "desc": "",
-    "id": "180",
-    "name": "Northbound Main St @ Industrial Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -5676,6 +5638,25 @@
     "desc": "",
     "id": "505",
     "name": "Westbound E Hastings St @ Clark Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.081789,
+     49.281111
+    ],
+    "type": "Point"
+   },
+   "id": "506",
+   "properties": {
+    "code": "50502",
+    "desc": "",
+    "id": "506",
+    "name": "Westbound E Hastings St @ Glen Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -14158,44 +14139,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.028846,
-     49.231961
-    ],
-    "type": "Point"
-   },
-   "id": "1163",
-   "properties": {
-    "code": "51154",
-    "desc": "",
-    "id": "1163",
-    "name": "Eastbound Kingsway @ Melbourne St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.026055,
-     49.232088
-    ],
-    "type": "Point"
-   },
-   "id": "1164",
-   "properties": {
-    "code": "51155",
-    "desc": "",
-    "id": "1164",
-    "name": "Eastbound Kingsway @ Lincoln St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.022286,
      49.232257
     ],
@@ -14500,25 +14443,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.029643,
-     49.232118
-    ],
-    "type": "Point"
-   },
-   "id": "1183",
-   "properties": {
-    "code": "51174",
-    "desc": "",
-    "id": "1183",
-    "name": "Westbound Kingsway @ Melbourne St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.033761,
      49.233186
     ],
@@ -14682,25 +14606,6 @@
     "desc": "",
     "id": "1193",
     "name": "Westbound Kingsway @ McKinnon St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.041047,
-     49.235933
-    ],
-    "type": "Point"
-   },
-   "id": "1194",
-   "properties": {
-    "code": "51185",
-    "desc": "",
-    "id": "1194",
-    "name": "Westbound Kingsway @ Spencer St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -17597,44 +17502,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.127117,
-     49.289364
-    ],
-    "type": "Point"
-   },
-   "id": "1383",
-   "properties": {
-    "code": "51371",
-    "desc": "",
-    "id": "1383",
-    "name": "Eastbound W Pender St @ Broughton St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.123062,
-     49.288213
-    ],
-    "type": "Point"
-   },
-   "id": "1385",
-   "properties": {
-    "code": "51373",
-    "desc": "",
-    "id": "1385",
-    "name": "Eastbound W Pender St @ Bute St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.024952,
      49.281026
     ],
@@ -19223,25 +19090,6 @@
     "desc": "",
     "id": "1482",
     "name": "Kootenay Loop @ Bay 6",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.120865,
-     49.287731
-    ],
-    "type": "Point"
-   },
-   "id": "1483",
-   "properties": {
-    "code": "51471",
-    "desc": "",
-    "id": "1483",
-    "name": "Westbound W Pender St @ Thurlow St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -49137,8 +48985,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.788193,
-     49.256547
+     -122.788197,
+     49.256516
     ],
     "type": "Point"
    },
@@ -67814,25 +67662,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.896846,
-     49.177194
-    ],
-    "type": "Point"
-   },
-   "id": "4973",
-   "properties": {
-    "code": "54921",
-    "desc": "",
-    "id": "4973",
-    "name": "Westbound 96 Ave @ 117B St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.901673,
      49.177186
     ],
@@ -79252,25 +79081,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.856702,
-     49.151125
-    ],
-    "type": "Point"
-   },
-   "id": "5711",
-   "properties": {
-    "code": "55656",
-    "desc": "",
-    "id": "5711",
-    "name": "Northbound 132 St @ 81A Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.856726,
      49.155731
     ],
@@ -83166,8 +82976,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.823482,
-     49.136147
+     -122.8235,
+     49.135249
     ],
     "type": "Point"
    },
@@ -83176,8 +82986,8 @@
     "code": "55878",
     "desc": "",
     "id": "5934",
-    "name": "Southbound 144 St @ 7300 Block",
-    "wheelchair_boarding": "2",
+    "name": "Southbound 144 St @ 72A Ave",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -121907,8 +121717,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.67839,
-     49.11338
+     -122.67703,
+     49.112799
     ],
     "type": "Point"
    },
@@ -140375,6 +140185,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.258481,
+     49.262988
+    ],
+    "type": "Point"
+   },
+   "id": "11036",
+   "properties": {
+    "code": "51924",
+    "desc": "",
+    "id": "11036",
+    "name": "NW Marine Dr @ University Blvd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.16452,
      49.257427
     ],
@@ -152535,44 +152364,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.258499,
-     49.268113
-    ],
-    "type": "Point"
-   },
-   "id": "12010",
-   "properties": {
-    "code": "61424",
-    "desc": "",
-    "id": "12010",
-    "name": "Southbound West Mall @ NW Marine Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.256272,
-     49.263228
-    ],
-    "type": "Point"
-   },
-   "id": "12011",
-   "properties": {
-    "code": "61896",
-    "desc": "",
-    "id": "12011",
-    "name": "Southbound Lower Mall @ University Blvd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.237733,
      49.251694
     ],
@@ -154313,25 +154104,6 @@
     "desc": "",
     "id": "12168",
     "name": "Dunbar Loop @ Bay 3",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.256083,
-     49.263181
-    ],
-    "type": "Point"
-   },
-   "id": "12169",
-   "properties": {
-    "code": "59587",
-    "desc": "",
-    "id": "12169",
-    "name": "Northbound Lower Mall @ University Blvd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -157570,8 +157342,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.147179,
-     49.172828
+     -123.147329,
+     49.172872
     ],
     "type": "Point"
    },
@@ -162634,7 +162406,7 @@
     "code": "60579",
     "desc": "",
     "id": "12822",
-    "name": "Westbound E Broadway @ Quebec St",
+    "name": "Westbound E Broadway @ Ontario St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166455,6 +166227,139 @@
     "id": "13121",
     "name": "Westbound E Broadway @ Brunswick St",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.069775,
+     49.281346
+    ],
+    "type": "Point"
+   },
+   "id": "13122",
+   "properties": {
+    "code": "62130",
+    "desc": "",
+    "id": "13122",
+    "name": "Westbound E Hastings St @ Commercial Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.027587,
+     49.232011
+    ],
+    "type": "Point"
+   },
+   "id": "13124",
+   "properties": {
+    "code": "62009",
+    "desc": "",
+    "id": "13124",
+    "name": "Eastbound Kingsway @ Aberdeen St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.028643,
+     49.232179
+    ],
+    "type": "Point"
+   },
+   "id": "13125",
+   "properties": {
+    "code": "62008",
+    "desc": "",
+    "id": "13125",
+    "name": "Westbound Kingsway @ Aberdeen St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.115602,
+     49.285239
+    ],
+    "type": "Point"
+   },
+   "id": "13126",
+   "properties": {
+    "code": "62128",
+    "desc": "",
+    "id": "13126",
+    "name": "Westbound W Pender St @ Howe St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.101644,
+     49.282264
+    ],
+    "type": "Point"
+   },
+   "id": "13127",
+   "properties": {
+    "code": "62129",
+    "desc": "",
+    "id": "13127",
+    "name": "Eastbound E Cordova St @ Columbia St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.258632,
+     49.268916
+    ],
+    "type": "Point"
+   },
+   "id": "13128",
+   "properties": {
+    "code": "51920",
+    "desc": "",
+    "id": "13128",
+    "name": "Westbound NW Marine Dr @ West Mall",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.258633,
+     49.262899
+    ],
+    "type": "Point"
+   },
+   "id": "13129",
+   "properties": {
+    "code": "51921",
+    "desc": "",
+    "id": "13129",
+    "name": "Southbound NW Marine Dr @ University Blvd",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
