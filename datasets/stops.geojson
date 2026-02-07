@@ -2397,25 +2397,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.101166,
-     49.262246
-    ],
-    "type": "Point"
-   },
-   "id": "240",
-   "properties": {
-    "code": "50238",
-    "desc": "",
-    "id": "240",
-    "name": "Southbound Main St @ E Broadway",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.10127,
      49.259888
     ],
@@ -10730,25 +10711,6 @@
     "desc": "",
     "id": "919",
     "name": "Westbound E Broadway @ Lakewood Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.064374,
-     49.262384
-    ],
-    "type": "Point"
-   },
-   "id": "920",
-   "properties": {
-    "code": "50912",
-    "desc": "",
-    "id": "920",
-    "name": "Westbound E Broadway @ Semlin Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -54628,25 +54590,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.989945,
-     49.308455
-    ],
-    "type": "Point"
-   },
-   "id": "4124",
-   "properties": {
-    "code": "54082",
-    "desc": "",
-    "id": "4124",
-    "name": "Eastbound Dollarton Hwy @ 3000 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.987007,
      49.308491
     ],
@@ -90701,7 +90644,7 @@
     "desc": "",
     "id": "6478",
     "name": "Westbound Fraser Hwy @ 152 St",
-    "wheelchair_boarding": "1",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -126296,8 +126239,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.90625,
-     49.22081
+     -122.906923,
+     49.220463
     ],
     "type": "Point"
    },
@@ -134876,7 +134819,7 @@
     "desc": "",
     "id": "10520",
     "name": "Northbound Minoru Blvd @ Minoru Gate",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -163156,6 +163099,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.147015,
+     49.172391
+    ],
+    "type": "Point"
+   },
+   "id": "12888",
+   "properties": {
+    "code": "56944",
+    "desc": "",
+    "id": "12888",
+    "name": "Southbound Gilbert Rd @ Elmbridge Way",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.133819,
      49.352197
     ],
@@ -166359,6 +166321,63 @@
     "desc": "",
     "id": "13129",
     "name": "Southbound NW Marine Dr @ University Blvd",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.719361,
+     49.045746
+    ],
+    "type": "Point"
+   },
+   "id": "13130",
+   "properties": {
+    "code": "62069",
+    "desc": "",
+    "id": "13130",
+    "name": "Westbound 24 Ave @ 182 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.7179,
+     49.045593
+    ],
+    "type": "Point"
+   },
+   "id": "13131",
+   "properties": {
+    "code": "62068",
+    "desc": "",
+    "id": "13131",
+    "name": "Eastbound 24 Ave @ 182 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.10122,
+     49.261727
+    ],
+    "type": "Point"
+   },
+   "id": "13132",
+   "properties": {
+    "code": "50239",
+    "desc": "",
+    "id": "13132",
+    "name": "Southbound Main St @ E 10 Ave",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
