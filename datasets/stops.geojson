@@ -97302,6 +97302,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.147605,
+     49.168084
+    ],
+    "type": "Point"
+   },
+   "id": "6887",
+   "properties": {
+    "code": "56822",
+    "desc": "",
+    "id": "6887",
+    "name": "Northbound Gilbert Rd @ 6300 Block",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.147824,
      49.169766
     ],
@@ -101322,25 +101341,6 @@
     "desc": "",
     "id": "7146",
     "name": "Eastbound Fraser Hwy @ 200 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.663417,
-     49.106396
-    ],
-    "type": "Point"
-   },
-   "id": "7147",
-   "properties": {
-    "code": "57079",
-    "desc": "",
-    "id": "7147",
-    "name": "Eastbound Fraser Hwy @ 201A St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -116435,6 +116435,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.087985,
+     49.133527
+    ],
+    "type": "Point"
+   },
+   "id": "8484",
+   "properties": {
+    "code": "58152",
+    "desc": "",
+    "id": "8484",
+    "name": "Westbound Steveston Hwy @ Hwy 99",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.083154,
      49.133622
     ],
@@ -117928,25 +117947,6 @@
     "desc": "",
     "id": "8629",
     "name": "Southbound Nelson Ave @ 6400 Block",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.275581,
-     49.369566
-    ],
-    "type": "Point"
-   },
-   "id": "8635",
-   "properties": {
-    "code": "60886",
-    "desc": "",
-    "id": "8635",
-    "name": "Westbound Hwy One Overpass @ Marine Dr",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -135872,25 +135872,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.71329,
-     49.129092
-    ],
-    "type": "Point"
-   },
-   "id": "10647",
-   "properties": {
-    "code": "57141",
-    "desc": "",
-    "id": "10647",
-    "name": "Westbound Fraser Hwy @ 184 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.711511,
      49.128198
     ],
@@ -137193,7 +137174,7 @@
     "code": "60063",
     "desc": "",
     "id": "10772",
-    "name": "Byrne Rd @ North Fraser Way",
+    "name": "Northbound Byrne Rd @ North Fraser Way",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -140138,7 +140119,7 @@
     "code": "51924",
     "desc": "",
     "id": "11036",
-    "name": "NW Marine Dr @ University Blvd",
+    "name": "Northbound NW Marine Dr @ University Blvd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166378,7 +166359,26 @@
     "desc": "",
     "id": "13132",
     "name": "Southbound Main St @ E 10 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.711881,
+     49.128577
+    ],
+    "type": "Point"
+   },
+   "id": "13133",
+   "properties": {
+    "code": "62133",
+    "desc": "",
+    "id": "13133",
+    "name": "Westbound Fraser Hwy @ 184 St",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
