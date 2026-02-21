@@ -744,6 +744,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.112655,
+     49.283143
+    ],
+    "type": "Point"
+   },
+   "id": "79",
+   "properties": {
+    "code": "50079",
+    "desc": "",
+    "id": "79",
+    "name": "Eastbound W Pender St @ Richards St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.110618,
      49.281799
     ],
@@ -4688,25 +4707,6 @@
     "desc": "",
     "id": "410",
     "name": "Eastbound W Pender St @ Thurlow St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.111441,
-     49.282981
-    ],
-    "type": "Point"
-   },
-   "id": "411",
-   "properties": {
-    "code": "50407",
-    "desc": "",
-    "id": "411",
-    "name": "Northbound Homer St @ W Pender St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -25444,6 +25444,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.112498,
+     49.225896
+    ],
+    "type": "Point"
+   },
+   "id": "1985",
+   "properties": {
+    "code": "51968",
+    "desc": "",
+    "id": "1985",
+    "name": "Eastbound W 49 Ave @ Alberta St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.103335,
      49.225636
     ],
@@ -26291,25 +26310,6 @@
     "desc": "",
     "id": "2046",
     "name": "Westbound E 49 Ave @ Prince Edward St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.113387,
-     49.226074
-    ],
-    "type": "Point"
-   },
-   "id": "2050",
-   "properties": {
-    "code": "52033",
-    "desc": "",
-    "id": "2050",
-    "name": "Westbound W 49 Ave @ Alberta St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -30394,7 +30394,7 @@
     "code": "52355",
     "desc": "",
     "id": "2379",
-    "name": "Eastbound Duncan St @ 400 Block",
+    "name": "Eastbound Duncan St @ Stanley St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -60529,6 +60529,25 @@
     "desc": "",
     "id": "4536",
     "name": "Eastbound Ridgewood Dr @ Brookridge Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.100533,
+     49.338241
+    ],
+    "type": "Point"
+   },
+   "id": "4537",
+   "properties": {
+    "code": "54485",
+    "desc": "",
+    "id": "4537",
+    "name": "Northbound Highland Blvd @ Woodbine Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -97902,7 +97921,7 @@
     "desc": "",
     "id": "6920",
     "name": "Westbound Williams Rd @ Aragon Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -118202,17 +118221,17 @@
   {
    "geometry": {
     "coordinates": [
-     -122.894518,
-     49.247378
+     -122.895376,
+     49.247845
     ],
     "type": "Point"
    },
-   "id": "8657",
+   "id": "8656",
    "properties": {
-    "code": "58439",
+    "code": "58435",
     "desc": "",
-    "id": "8657",
-    "name": "Lougheed Station @ Bay 5",
+    "id": "8656",
+    "name": "Lougheed Station @ Bay 1",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -150065,25 +150084,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.898435,
-     49.212701
-    ],
-    "type": "Point"
-   },
-   "id": "11846",
-   "properties": {
-    "code": "61676",
-    "desc": "",
-    "id": "11846",
-    "name": "Eastbound E Royal Ave @ McBride Blvd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.660614,
      49.164206
     ],
@@ -155245,6 +155245,25 @@
     "id": "12244",
     "name": "Westbound Foster Ave @ Aspen St",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.886632,
+     49.256704
+    ],
+    "type": "Point"
+   },
+   "id": "12245",
+   "properties": {
+    "code": "58186",
+    "desc": "",
+    "id": "12245",
+    "name": "Eastbound Foster Ave @ Aspen St",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
