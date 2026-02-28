@@ -3252,25 +3252,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.179482,
-     49.234837
-    ],
-    "type": "Point"
-   },
-   "id": "299",
-   "properties": {
-    "code": "50296",
-    "desc": "",
-    "id": "299",
-    "name": "Westbound W 41 Ave @ Blenheim St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.182673,
      49.234842
     ],
@@ -26280,25 +26261,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.094471,
-     49.225593
-    ],
-    "type": "Point"
-   },
-   "id": "2045",
-   "properties": {
-    "code": "52028",
-    "desc": "",
-    "id": "2045",
-    "name": "Westbound E 49 Ave @ St. George St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.098055,
      49.22566
     ],
@@ -29909,25 +29871,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.902572,
-     49.205926
-    ],
-    "type": "Point"
-   },
-   "id": "2340",
-   "properties": {
-    "code": "52318",
-    "desc": "",
-    "id": "2340",
-    "name": "Eastbound Columbia St @ 200 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.910938,
      49.222855
     ],
@@ -30053,25 +29996,6 @@
     "desc": "",
     "id": "2350",
     "name": "Southbound Richmond St @ Miner St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.902216,
-     49.206351
-    ],
-    "type": "Point"
-   },
-   "id": "2353",
-   "properties": {
-    "code": "52330",
-    "desc": "",
-    "id": "2353",
-    "name": "Westbound Columbia St @ 200 Block",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165314,25 +165238,6 @@
     "desc": "",
     "id": "13058",
     "name": "Westbound Fraser Hwy @ 68 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.018567,
-     49.306059
-    ],
-    "type": "Point"
-   },
-   "id": "13059",
-   "properties": {
-    "code": "54027",
-    "desc": "",
-    "id": "13059",
-    "name": "Eastbound Old Dollarton Rd @ Amherst Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
