@@ -11460,8 +11460,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.069972,
-     49.258832
+     -123.069968,
+     49.259217
     ],
     "type": "Point"
    },
@@ -12068,25 +12068,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.155429,
-     49.2349
-    ],
-    "type": "Point"
-   },
-   "id": "1031",
-   "properties": {
-    "code": "51022",
-    "desc": "",
-    "id": "1031",
-    "name": "Northbound West Blvd @ W 41 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.155392,
      49.236779
     ],
@@ -12440,6 +12421,25 @@
     "desc": "",
     "id": "1057",
     "name": "Southbound Renfrew St @ Grandview Hwy",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.044447,
+     49.255993
+    ],
+    "type": "Point"
+   },
+   "id": "1058",
+   "properties": {
+    "code": "51049",
+    "desc": "",
+    "id": "1058",
+    "name": "Southbound Renfrew St @ E 15 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -12961,6 +12961,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.044185,
+     49.255753
+    ],
+    "type": "Point"
+   },
+   "id": "1089",
+   "properties": {
+    "code": "51080",
+    "desc": "",
+    "id": "1089",
+    "name": "Northbound Renfrew St @ E 16 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.044132,
      49.257532
     ],
@@ -13181,25 +13200,6 @@
     "desc": "",
     "id": "1103",
     "name": "Southbound Arbutus St @ W 12 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.153045,
-     49.256894
-    ],
-    "type": "Point"
-   },
-   "id": "1105",
-   "properties": {
-    "code": "51096",
-    "desc": "",
-    "id": "1105",
-    "name": "Southbound Arbutus St @ W 16 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -101292,6 +101292,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.663417,
+     49.106396
+    ],
+    "type": "Point"
+   },
+   "id": "7147",
+   "properties": {
+    "code": "57079",
+    "desc": "",
+    "id": "7147",
+    "name": "Eastbound Fraser Hwy @ 201A St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.659804,
      49.102377
     ],
@@ -115059,7 +115078,7 @@
     "desc": "",
     "id": "8282",
     "name": "Northbound Hwy 99 Offramp @ Steveston Hwy",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -137556,25 +137575,6 @@
     "id": "10812",
     "name": "Southbound Main St @ E 49 Ave",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.033883,
-     49.269052
-    ],
-    "type": "Point"
-   },
-   "id": "10813",
-   "properties": {
-    "code": "51703",
-    "desc": "",
-    "id": "10813",
-    "name": "Southbound Rupert St @ E 1st Ave",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -160097,8 +160097,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.154358,
-     49.234484
+     -123.154256,
+     49.234486
     ],
     "type": "Point"
    },
@@ -163831,7 +163831,7 @@
     "code": "60683",
     "desc": "",
     "id": "12950",
-    "name": "Phibbs Exchange @ Bay 6",
+    "name": "Phibbs Exchange @ Turning Lane",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166302,6 +166302,25 @@
     "desc": "",
     "id": "13133",
     "name": "Westbound Fraser Hwy @ 184 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.17834,
+     49.234839
+    ],
+    "type": "Point"
+   },
+   "id": "13135",
+   "properties": {
+    "code": "60558",
+    "desc": "",
+    "id": "13135",
+    "name": "Westbound W 41 Ave @ Blenheim St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
