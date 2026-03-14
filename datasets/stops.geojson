@@ -9959,8 +9959,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.093535,
-     49.262598
+     -123.093971,
+     49.262614
     ],
     "type": "Point"
    },
@@ -12049,25 +12049,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.155537,
-     49.232961
-    ],
-    "type": "Point"
-   },
-   "id": "1030",
-   "properties": {
-    "code": "51021",
-    "desc": "",
-    "id": "1030",
-    "name": "Northbound West Blvd @ W 43 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.155392,
      49.236779
     ],
@@ -12896,7 +12877,7 @@
     "desc": "",
     "id": "1085",
     "name": "Northbound Boyd Diversion @ Nootka St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -27203,7 +27184,7 @@
     "desc": "",
     "id": "2133",
     "name": "Eastbound Miller Rd @ Aylmer Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -39466,25 +39447,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.02361,
-     49.287261
-    ],
-    "type": "Point"
-   },
-   "id": "3019",
-   "properties": {
-    "code": "52988",
-    "desc": "",
-    "id": "3019",
-    "name": "Southbound N Boundary Rd @ Eton St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.023627,
      49.286231
     ],
@@ -42107,8 +42069,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.793385,
-     49.282274
+     -122.793409,
+     49.282089
     ],
     "type": "Point"
    },
@@ -78960,6 +78922,25 @@
     "id": "5710",
     "name": "Northbound 132 St @ 80 Ave",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.856727,
+     49.152928
+    ],
+    "type": "Point"
+   },
+   "id": "5712",
+   "properties": {
+    "code": "55657",
+    "desc": "",
+    "id": "5712",
+    "name": "Northbound 132 St @ 82A Ave",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166310,8 +166291,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.17834,
-     49.234839
+     -123.178062,
+     49.234843
     ],
     "type": "Point"
    },
@@ -166322,6 +166303,25 @@
     "id": "13135",
     "name": "Westbound W 41 Ave @ Blenheim St",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.155538,
+     49.233431
+    ],
+    "type": "Point"
+   },
+   "id": "13138",
+   "properties": {
+    "code": "62042",
+    "desc": "",
+    "id": "13138",
+    "name": "Northbound West Blvd @ W 42 Ave",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
