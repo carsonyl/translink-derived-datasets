@@ -12657,6 +12657,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.049127,
+     49.237873
+    ],
+    "type": "Point"
+   },
+   "id": "1071",
+   "properties": {
+    "code": "51062",
+    "desc": "",
+    "id": "1071",
+    "name": "Westbound Kingsway @ Earles St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.05558,
      49.235635
     ],
@@ -13181,6 +13200,25 @@
     "desc": "",
     "id": "1103",
     "name": "Southbound Arbutus St @ W 12 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.153044,
+     49.256461
+    ],
+    "type": "Point"
+   },
+   "id": "1105",
+   "properties": {
+    "code": "51096",
+    "desc": "",
+    "id": "1105",
+    "name": "Southbound Arbutus St @ W 16 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -14568,25 +14606,6 @@
     "desc": "",
     "id": "1196",
     "name": "Westbound Kingsway @ Fairmont St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.050491,
-     49.238483
-    ],
-    "type": "Point"
-   },
-   "id": "1197",
-   "properties": {
-    "code": "51188",
-    "desc": "",
-    "id": "1197",
-    "name": "Westbound Kingsway @ Rhodes St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -19964,25 +19983,6 @@
     "desc": "",
     "id": "1557",
     "name": "Southbound Willingdon Ave @ Canada Way",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.004486,
-     49.252275
-    ],
-    "type": "Point"
-   },
-   "id": "1558",
-   "properties": {
-    "code": "51546",
-    "desc": "",
-    "id": "1558",
-    "name": "Southbound Willingdon Ave @ Goard Way",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -26253,25 +26253,6 @@
     "desc": "",
     "id": "2046",
     "name": "Westbound E 49 Ave @ Prince Edward St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.116035,
-     49.226178
-    ],
-    "type": "Point"
-   },
-   "id": "2051",
-   "properties": {
-    "code": "61218",
-    "desc": "",
-    "id": "2051",
-    "name": "Langara-49th Station @ Bay 2",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -40180,6 +40161,25 @@
     "desc": "",
     "id": "3067",
     "name": "Coquitlam Central Station @ Bay 4",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.799514,
+     49.269433
+    ],
+    "type": "Point"
+   },
+   "id": "3068",
+   "properties": {
+    "code": "53036",
+    "desc": "",
+    "id": "3068",
+    "name": "Westbound Dewdney Trunk Rd @ Lougheed Hwy",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -59644,6 +59644,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.082166,
+     49.31297
+    ],
+    "type": "Point"
+   },
+   "id": "4470",
+   "properties": {
+    "code": "54420",
+    "desc": "",
+    "id": "4470",
+    "name": "Southbound Chesterfield Ave @ W 1st St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.082918,
      49.310597
     ],
@@ -67236,7 +67255,7 @@
     "desc": "",
     "id": "4955",
     "name": "Northbound 114 St @ 92A Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -78940,7 +78959,7 @@
     "desc": "",
     "id": "5712",
     "name": "Northbound 132 St @ 82A Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -79282,44 +79301,6 @@
     "desc": "",
     "id": "5730",
     "name": "Southbound 132 St @ 86 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.856984,
-     49.15515
-    ],
-    "type": "Point"
-   },
-   "id": "5731",
-   "properties": {
-    "code": "55676",
-    "desc": "",
-    "id": "5731",
-    "name": "Southbound 132 St @ 84 Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.856941,
-     49.152151
-    ],
-    "type": "Point"
-   },
-   "id": "5732",
-   "properties": {
-    "code": "55677",
-    "desc": "",
-    "id": "5732",
-    "name": "Southbound 132 St @ 82A Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -103488,7 +103469,7 @@
     "desc": "",
     "id": "7312",
     "name": "Eastbound 88 Ave @ 214B St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -112722,25 +112703,6 @@
     "desc": "",
     "id": "7928",
     "name": "(Westbound Lougheed Hwy In 27300-Block Area) (Flag)",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.476041,
-     49.173425
-    ],
-    "type": "Point"
-   },
-   "id": "7929",
-   "properties": {
-    "code": "57855",
-    "desc": "",
-    "id": "7929",
-    "name": "(Eastbound River Rd @  22927 Block) (Flag)",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -135758,8 +135720,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.702492,
-     49.124178
+     -122.705308,
+     49.125427
     ],
     "type": "Point"
    },
@@ -144213,25 +144175,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.82696,
-     49.2797
-    ],
-    "type": "Point"
-   },
-   "id": "11308",
-   "properties": {
-    "code": "59903",
-    "desc": "",
-    "id": "11308",
-    "name": "Northbound Ioco Rd @ Suter Brook Way",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.122521,
      49.274863
     ],
@@ -147948,25 +147891,6 @@
     "desc": "",
     "id": "11680",
     "name": "Westbound North Fraser Way @ 4300 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.947624,
-     49.187052
-    ],
-    "type": "Point"
-   },
-   "id": "11681",
-   "properties": {
-    "code": "61612",
-    "desc": "",
-    "id": "11681",
-    "name": "Southbound Howes St @ Hwy 91A Offramp",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -159774,25 +159698,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.098665,
-     49.273996
-    ],
-    "type": "Point"
-   },
-   "id": "12602",
-   "properties": {
-    "code": "60351",
-    "desc": "",
-    "id": "12602",
-    "name": "Southbound Station St @ National Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.124019,
      49.282359
     ],
@@ -165607,6 +165512,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.110487,
+     49.225969
+    ],
+    "type": "Point"
+   },
+   "id": "13088",
+   "properties": {
+    "code": "62057",
+    "desc": "",
+    "id": "13088",
+    "name": "Westbound W 49 Ave @ Columbia St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.127726,
      49.274065
     ],
@@ -165903,44 +165827,6 @@
     "desc": "",
     "id": "13110",
     "name": "Eastbound River Rd @ 8600 Blk",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.106275,
-     49.225697
-    ],
-    "type": "Point"
-   },
-   "id": "13111",
-   "properties": {
-    "code": "62099",
-    "desc": "",
-    "id": "13111",
-    "name": "Eastbound E 49 Ave @ Ontario St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.106842,
-     49.225848
-    ],
-    "type": "Point"
-   },
-   "id": "13112",
-   "properties": {
-    "code": "52031",
-    "desc": "",
-    "id": "13112",
-    "name": "Westbound W 49 Ave @ Ontario St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166322,6 +166208,44 @@
     "id": "13138",
     "name": "Northbound West Blvd @ W 42 Ave",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.10345,
+     49.225771
+    ],
+    "type": "Point"
+   },
+   "id": "13140",
+   "properties": {
+    "code": "62043",
+    "desc": "",
+    "id": "13140",
+    "name": "Westbound E 49th Ave @ Quebec St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.117145,
+     49.226222
+    ],
+    "type": "Point"
+   },
+   "id": "13141",
+   "properties": {
+    "code": "52034",
+    "desc": "",
+    "id": "13141",
+    "name": "Westbound W 49 Ave @ Cambie St",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -167444,6 +167368,2419 @@
     "name": "Capstan Station",
     "wheelchair_boarding": "1",
     "zone": "ZN 2"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.136149,
+     49.183804
+    ],
+    "type": "Point"
+   },
+   "id": "ASSEM",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "ASSEM",
+    "name": "Aberdeen Station entrance from mall to platform",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.136321,
+     49.184148
+    ],
+    "type": "Point"
+   },
+   "id": "ASSME",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "ASSME",
+    "name": "Aberdeen Station main Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.882858,
+     49.232958
+    ],
+    "type": "Point"
+   },
+   "id": "BDSET",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "BDSET",
+    "name": "Braid Station Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.889633,
+     49.261455
+    ],
+    "type": "Point"
+   },
+   "id": "BQSEE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "BQSEE",
+    "name": "Burquitlam Station East Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.889767,
+     49.261528
+    ],
+    "type": "Point"
+   },
+   "id": "BQSWE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "BQSWE",
+    "name": "Burquitlam Station West Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.001858,
+     49.266643
+    ],
+    "type": "Point"
+   },
+   "id": "BRSCL",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "BRSCL",
+    "name": "Brentwood Town Centre Station Concourse Level Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.001946,
+     49.266589
+    ],
+    "type": "Point"
+   },
+   "id": "BRSLN",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "BRSLN",
+    "name": "Brentwood Town Centre Station Lougheed Highway North Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.00195,
+     49.266219
+    ],
+    "type": "Point"
+   },
+   "id": "BRSLS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "BRSLS",
+    "name": "Brentwood Town Centre Station Lougheed Highway South Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.120045,
+     49.285431
+    ],
+    "type": "Point"
+   },
+   "id": "BSSBS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "BSSBS",
+    "name": "Burrard Station Burrard Street Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.126524,
+     49.195527
+    ],
+    "type": "Point"
+   },
+   "id": "BSSCE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "BSSCE",
+    "name": "Bridgeport Station Entrance from Casino to concourse",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.120042,
+     49.285747
+    ],
+    "type": "Point"
+   },
+   "id": "BSSDS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "BSSDS",
+    "name": "Burrard Station Dunsmuir Street Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.119804,
+     49.285581
+    ],
+    "type": "Point"
+   },
+   "id": "BSSEE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "BSSEE",
+    "name": "Burrard Station Elevator Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.126529,
+     49.195347
+    ],
+    "type": "Point"
+   },
+   "id": "BSSME",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "BSSME",
+    "name": "Bridgeport Station main Entrance from Bus Loop",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.120418,
+     49.285635
+    ],
+    "type": "Point"
+   },
+   "id": "BSSMN",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "BSSMN",
+    "name": "Burrard Station Melville Street North Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.120367,
+     49.285532
+    ],
+    "type": "Point"
+   },
+   "id": "BSSMW",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "BSSMW",
+    "name": "Burrard Station Melville Street West Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.114822,
+     49.262707
+    ],
+    "type": "Point"
+   },
+   "id": "BWCLN",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "BWCLN",
+    "name": "Broadway-City Hall North Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.114822,
+     49.262727
+    ],
+    "type": "Point"
+   },
+   "id": "BWCLS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "BWCLS",
+    "name": "Broadway-City Hall South Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.069051,
+     49.262162
+    ],
+    "type": "Point"
+   },
+   "id": "BWSNE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "BWSNE",
+    "name": "Commercial-Broadway Station North Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.069118,
+     49.261438
+    ],
+    "type": "Point"
+   },
+   "id": "BWSSE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "BWSSE",
+    "name": "Commercial-Broadway Station South Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.800253,
+     49.274732
+    ],
+    "type": "Point"
+   },
+   "id": "CCSET",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "CCSET",
+    "name": "Coquitlam Central Station Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.799327,
+     49.273904
+    ],
+    "type": "Point"
+   },
+   "id": "CCSWE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "CCSWE",
+    "name": "Coquitlam Central Station WCE entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.069245,
+     49.262511
+    ],
+    "type": "Point"
+   },
+   "id": "CMSSE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "CMSSE",
+    "name": "Commercial-Broadway Station South Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.069494,
+     49.262905
+    ],
+    "type": "Point"
+   },
+   "id": "CMSWE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "CMSWE",
+    "name": "Commercial-Broadway Station West Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.906083,
+     49.204304
+    ],
+    "type": "Point"
+   },
+   "id": "COSCL",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "COSCL",
+    "name": "Columbia Station Columbia Street Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.906681,
+     49.204681
+    ],
+    "type": "Point"
+   },
+   "id": "COSCS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "COSCS",
+    "name": "Columbia Station Clarkson Street Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.905893,
+     49.204949
+    ],
+    "type": "Point"
+   },
+   "id": "COSFS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "COSFS",
+    "name": "Columbia Station Fourth Street Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.13177,
+     49.189298
+    ],
+    "type": "Point"
+   },
+   "id": "CSSME",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "CSSME",
+    "name": "Capstan Station main Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.958934,
+     49.212279
+    ],
+    "type": "Point"
+   },
+   "id": "EDSNE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "EDSNE",
+    "name": "Edmonds Station North Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.958994,
+     49.212157
+    ],
+    "type": "Point"
+   },
+   "id": "EDSSE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "EDSSE",
+    "name": "Edmonds Station South Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.013849,
+     49.264769
+    ],
+    "type": "Point"
+   },
+   "id": "GMSEE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "GMSEE",
+    "name": "Gilmore Station Elevator Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.013997,
+     49.264648
+    ],
+    "type": "Point"
+   },
+   "id": "GMSET",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "GMSET",
+    "name": "Gilmore Station Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.116089,
+     49.283293
+    ],
+    "type": "Point"
+   },
+   "id": "GVSDS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "GVSDS",
+    "name": "Granville Station Dunsmuir Street Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.117147,
+     49.282982
+    ],
+    "type": "Point"
+   },
+   "id": "GVSGS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "GVSGS",
+    "name": "Granville Station Granville Street Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.116348,
+     49.282514
+    ],
+    "type": "Point"
+   },
+   "id": "GVSSS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "GVSSS",
+    "name": "Granville Station Seymour Street Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.850523,
+     49.199293
+    ],
+    "type": "Point"
+   },
+   "id": "GWSCE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "GWSCE",
+    "name": "Gateway Station Concourse Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.850637,
+     49.199214
+    ],
+    "type": "Point"
+   },
+   "id": "GWSEE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "GWSEE",
+    "name": "Gateway Station Elevator Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.981499,
+     49.264684
+    ],
+    "type": "Point"
+   },
+   "id": "HOSET",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "HOSET",
+    "name": "Holdom Station Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.827207,
+     49.277052
+    ],
+    "type": "Point"
+   },
+   "id": "ICSEE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "ICSEE",
+    "name": "Inlet Centre Station East Concourse Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.828173,
+     49.277236
+    ],
+    "type": "Point"
+   },
+   "id": "ICSWE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "ICSWE",
+    "name": "Inlet Centre Station West Concourse Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.030797,
+     49.238082
+    ],
+    "type": "Point"
+   },
+   "id": "JYSEN",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "JYSEN",
+    "name": "Joyce-Collingwood Station East Concourse North Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.030912,
+     49.237957
+    ],
+    "type": "Point"
+   },
+   "id": "JYSES",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "JYSES",
+    "name": "Joyce-Collingwood Station East Concourse South Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.032123,
+     49.238623
+    ],
+    "type": "Point"
+   },
+   "id": "JYSWN",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "JYSWN",
+    "name": "Joyce-Collingwood Station West Concourse North Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.032242,
+     49.238499
+    ],
+    "type": "Point"
+   },
+   "id": "JYSWS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "JYSWS",
+    "name": "Joyce-Collingwood Station West Concourse South Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.11578,
+     49.249188
+    ],
+    "type": "Point"
+   },
+   "id": "KESSE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "KESSE",
+    "name": "King Edward Station entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.844423,
+     49.182664
+    ],
+    "type": "Point"
+   },
+   "id": "KGSEE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "KGSEE",
+    "name": "King George Station East Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.844791,
+     49.182814
+    ],
+    "type": "Point"
+   },
+   "id": "KGSWE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "KGSWE",
+    "name": "King George Station West Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.791747,
+     49.285186
+    ],
+    "type": "Point"
+   },
+   "id": "LASEE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "LASEE",
+    "name": "Lafarge Lake-Douglas Station East Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.791928,
+     49.285228
+    ],
+    "type": "Point"
+   },
+   "id": "LASWE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "LASWE",
+    "name": "Lafarge Lake-Douglas Station West Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.938339,
+     49.254661
+    ],
+    "type": "Point"
+   },
+   "id": "LCSET",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "LCSET",
+    "name": "Lake City Way Station Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.895939,
+     49.248091
+    ],
+    "type": "Point"
+   },
+   "id": "LHSEE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "LHSEE",
+    "name": "Lougheed Town Centre Station East Concourse Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.8974,
+     49.248808
+    ],
+    "type": "Point"
+   },
+   "id": "LHSLW",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "LHSLW",
+    "name": "Lougheed Town Centre Station Lower West Concourse Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.897273,
+     49.249032
+    ],
+    "type": "Point"
+   },
+   "id": "LHSUW",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "LHSUW",
+    "name": "Lougheed Town Centre Station Upper West Concourse Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.793821,
+     49.280591
+    ],
+    "type": "Point"
+   },
+   "id": "LNSET",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "LNSET",
+    "name": "Lincoln Station Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.083267,
+     49.310199
+    ],
+    "type": "Point"
+   },
+   "id": "LQSBE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "LQSBE",
+    "name": "Lonsdale Quay Station SeaBus entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.11614,
+     49.226353
+    ],
+    "type": "Point"
+   },
+   "id": "LSSEE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "LSSEE",
+    "name": "Langra-49th Avenue Station elevator entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.116092,
+     49.226287
+    ],
+    "type": "Point"
+   },
+   "id": "LSSEM",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "LSSEM",
+    "name": "Langra-49th Avenue Station entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.136486,
+     49.174544
+    ],
+    "type": "Point"
+   },
+   "id": "LSSME",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "LSSME",
+    "name": "Lansdowne Station main entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.845487,
+     49.277789
+    ],
+    "type": "Point"
+   },
+   "id": "MCSET",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "MCSET",
+    "name": "Moody Centre Station Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.304724,
+     49.133877
+    ],
+    "type": "Point"
+   },
+   "id": "MCSWE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "MCSWE",
+    "name": "Mission City Station WCE entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.303997,
+     49.133804
+    ],
+    "type": "Point"
+   },
+   "id": "MCWEA",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "MCWEA",
+    "name": "Mission City Station WCE accessible entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.116936,
+     49.209358
+    ],
+    "type": "Point"
+   },
+   "id": "MDSSE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "MDSSE",
+    "name": "Marine Drive Station main entrance from Bus Loop",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.666105,
+     49.216551
+    ],
+    "type": "Point"
+   },
+   "id": "MMSWE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "MMSWE",
+    "name": "Maple Meadows Station WCE entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.099487,
+     49.273072
+    ],
+    "type": "Point"
+   },
+   "id": "MNSEN",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "MNSEN",
+    "name": "Main Street-Science World Station East Concourse North Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.099296,
+     49.272886
+    ],
+    "type": "Point"
+   },
+   "id": "MNSES",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "MNSES",
+    "name": "Main Street-Science World Station East Concourse South Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.100286,
+     49.273128
+    ],
+    "type": "Point"
+   },
+   "id": "MNSWE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "MNSWE",
+    "name": "Main Street-Science World Station West Concourse East Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.100868,
+     49.273129
+    ],
+    "type": "Point"
+   },
+   "id": "MNSWS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "MNSWS",
+    "name": "Main Street-Science World Station West Concourse South Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.003739,
+     49.225746
+    ],
+    "type": "Point"
+   },
+   "id": "MTSCE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "MTSCE",
+    "name": "Metrotown Station Central Concourse Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.002799,
+     49.225314
+    ],
+    "type": "Point"
+   },
+   "id": "MTSEE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "MTSEE",
+    "name": "Metrotown Station East Concourse Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.004994,
+     49.226323
+    ],
+    "type": "Point"
+   },
+   "id": "MTSWE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "MTSWE",
+    "name": "Metrotown Station West Concourse Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.056085,
+     49.248394
+    ],
+    "type": "Point"
+   },
+   "id": "NASET",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "NASET",
+    "name": "Nanaimo Station Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.913092,
+     49.201169
+    ],
+    "type": "Point"
+   },
+   "id": "NWSBL",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "NWSBL",
+    "name": "New Westminster Station Bus Loop Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.91295,
+     49.201798
+    ],
+    "type": "Point"
+   },
+   "id": "NWSCS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "NWSCS",
+    "name": "New Westminster Station Carnavon Street Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.912254,
+     49.201628
+    ],
+    "type": "Point"
+   },
+   "id": "NWSES",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "NWSES",
+    "name": "New Westminster Station Eighth Street Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.914153,
+     49.200493
+    ],
+    "type": "Point"
+   },
+   "id": "NWSQD",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "NWSQD",
+    "name": "New Westminster Station Quayside Drive Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.116613,
+     49.233146
+    ],
+    "type": "Point"
+   },
+   "id": "O41EE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "O41EE",
+    "name": "Oakridge-41st Avenue Station Elevator entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.116656,
+     49.23324
+    ],
+    "type": "Point"
+   },
+   "id": "O41SE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "O41SE",
+    "name": "Oakridge-41st Avenue Station entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.115836,
+     49.266435
+    ],
+    "type": "Point"
+   },
+   "id": "OVSSE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "OVSSE",
+    "name": "Olympic Village Station entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.774136,
+     49.261459
+    ],
+    "type": "Point"
+   },
+   "id": "PCSWE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "PCSWE",
+    "name": "Port Coquitlam Station WCE entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.605195,
+     49.212271
+    ],
+    "type": "Point"
+   },
+   "id": "PHSWE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "PHSWE",
+    "name": "Port Haney Station WCE entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.605882,
+     49.212435
+    ],
+    "type": "Point"
+   },
+   "id": "PHWEA",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "PHWEA",
+    "name": "Port Haney Station WCE accesible entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.688413,
+     49.225754
+    ],
+    "type": "Point"
+   },
+   "id": "PMSWE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "PMSWE",
+    "name": "Pitt Meadows Station WCE entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.012182,
+     49.22963
+    ],
+    "type": "Point"
+   },
+   "id": "PTSEN",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "PTSEN",
+    "name": "Patterson Station East Concourse North Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.012298,
+     49.229519
+    ],
+    "type": "Point"
+   },
+   "id": "PTSES",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "PTSES",
+    "name": "Patterson Station East Concourse South Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.013186,
+     49.230073
+    ],
+    "type": "Point"
+   },
+   "id": "PTSWN",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "PTSWN",
+    "name": "Patterson Station West Concourse North Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.013221,
+     49.229928
+    ],
+    "type": "Point"
+   },
+   "id": "PTSWS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "PTSWS",
+    "name": "Patterson Station West Concourse South Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.9183,
+     49.253543
+    ],
+    "type": "Point"
+   },
+   "id": "PWSEE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "PWSEE",
+    "name": "Production Way-University Station East Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.918543,
+     49.253575
+    ],
+    "type": "Point"
+   },
+   "id": "PWSWE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "PWSWE",
+    "name": "Production Way-University Station West Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.136256,
+     49.167945
+    ],
+    "type": "Point"
+   },
+   "id": "RBSSE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "RBSSE",
+    "name": "Richmond-Brighouse Station main entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.044774,
+     49.259013
+    ],
+    "type": "Point"
+   },
+   "id": "RESEE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "RESEE",
+    "name": "Renfrew Station Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.988131,
+     49.219942
+    ],
+    "type": "Point"
+   },
+   "id": "ROSET",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "ROSET",
+    "name": "Royal Oak Station Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.033369,
+     49.260637
+    ],
+    "type": "Point"
+   },
+   "id": "RUSET",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "RUSET",
+    "name": "Rupert Station Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.890011,
+     49.22411
+    ],
+    "type": "Point"
+   },
+   "id": "SASKS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "SASKS",
+    "name": "Sapperton South Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.890425,
+     49.225282
+    ],
+    "type": "Point"
+   },
+   "id": "SASSS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "SASSS",
+    "name": "Sapperton Station Spruce Street Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.84794,
+     49.18928
+    ],
+    "type": "Point"
+   },
+   "id": "SCSCE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "SCSCE",
+    "name": "Surrey Central Station Central Concourse Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.84797,
+     49.189977
+    ],
+    "type": "Point"
+   },
+   "id": "SCSNE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "SCSNE",
+    "name": "Surrey Central Station North Concourse Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.848296,
+     49.188931
+    ],
+    "type": "Point"
+   },
+   "id": "SCSSE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "SCSSE",
+    "name": "Surrey Central Station South Concourse Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.15792,
+     49.192555
+    ],
+    "type": "Point"
+   },
+   "id": "SICSM",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "SICSM",
+    "name": "Sea Island Centre Station South Entrance - Miller Rd",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.157673,
+     49.19351
+    ],
+    "type": "Point"
+   },
+   "id": "SICSN",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "SICSN",
+    "name": "Sea Island Centre Station North Entrance - Air Canada",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.963896,
+     49.259223
+    ],
+    "type": "Point"
+   },
+   "id": "SPSNE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "SPSNE",
+    "name": "Sperling-Burnaby Lake Station North Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.96392,
+     49.259125
+    ],
+    "type": "Point"
+   },
+   "id": "SPSSE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "SPSSE",
+    "name": "Sperling-Burnaby Lake Station South Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.873653,
+     49.204553
+    ],
+    "type": "Point"
+   },
+   "id": "SRSEN",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "SRSEN",
+    "name": "Scott Road Station East Concourse North Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.873558,
+     49.204435
+    ],
+    "type": "Point"
+   },
+   "id": "SRSES",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "SRSES",
+    "name": "Scott Road Station East Concourse South Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.874668,
+     49.204285
+    ],
+    "type": "Point"
+   },
+   "id": "SRSWE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "SRSWE",
+    "name": "Scott Road Station West Concourse Elevator Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.875397,
+     49.204333
+    ],
+    "type": "Point"
+   },
+   "id": "SRSWN",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "SRSWN",
+    "name": "Scott Road Station West Concourse North Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.875369,
+     49.204238
+    ],
+    "type": "Point"
+   },
+   "id": "SRSWS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "SRSWS",
+    "name": "Scott Road Station West Concourse South Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.110065,
+     49.279865
+    ],
+    "type": "Point"
+   },
+   "id": "STSBS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "STSBS",
+    "name": "Stadium-Chinatown Station Beatty Street Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.108406,
+     49.278828
+    ],
+    "type": "Point"
+   },
+   "id": "STSEB",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "STSEB",
+    "name": "Stadium-Chinatown Station Expo Boulevard Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.109661,
+     49.27975
+    ],
+    "type": "Point"
+   },
+   "id": "STSKP",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "STSKP",
+    "name": "Stadium-Chinatown Station Keefer Place Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.045246,
+     49.24392
+    ],
+    "type": "Point"
+   },
+   "id": "TNSEE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "TNSEE",
+    "name": "29th Avenue Station East Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.046181,
+     49.244402
+    ],
+    "type": "Point"
+   },
+   "id": "TNSWN",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "TNSWN",
+    "name": "29th Avenue Station West Concourse North Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.046314,
+     49.244267
+    ],
+    "type": "Point"
+   },
+   "id": "TNSWS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "TNSWS",
+    "name": "29th Avenue Station West Concourse South Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.949326,
+     49.199963
+    ],
+    "type": "Point"
+   },
+   "id": "TSSET",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "TSSET",
+    "name": "22nd Street Station Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.146621,
+     49.196833
+    ],
+    "type": "Point"
+   },
+   "id": "TSSNE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "TSSNE",
+    "name": "Templetone Station North Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.146494,
+     49.196485
+    ],
+    "type": "Point"
+   },
+   "id": "TSSSE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "TSSSE",
+    "name": "Templetone Station South Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.118685,
+     49.282348
+    ],
+    "type": "Point"
+   },
+   "id": "VCCEE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "VCCEE",
+    "name": "Vancouver City Centre Station Elevator Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.118542,
+     49.28252
+    ],
+    "type": "Point"
+   },
+   "id": "VCCGE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "VCCGE",
+    "name": "Vancouver City Centre Station Georgia Street Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.079099,
+     49.265721
+    ],
+    "type": "Point"
+   },
+   "id": "VCSET",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "VCSET",
+    "name": "VCC-Clark Station Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.114359,
+     49.285084
+    ],
+    "type": "Point"
+   },
+   "id": "WFSCG",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "WFSCG",
+    "name": "Waterfront Station Canada Line access at Granville and Hastings",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.114192,
+     49.28525
+    ],
+    "type": "Point"
+   },
+   "id": "WFSGE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "WFSGE",
+    "name": "Waterfront Station Canada Line elevator entrance at Granville and Hastings",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.113297,
+     49.286907
+    ],
+    "type": "Point"
+   },
+   "id": "WFSHS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "WFSHS",
+    "name": "Waterfront Station Howe Street Entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.110003,
+     49.286592
+    ],
+    "type": "Point"
+   },
+   "id": "WFSSE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "WFSSE",
+    "name": "Waterfront Station SeaBus entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.121878,
+     49.274534
+    ],
+    "type": "Point"
+   },
+   "id": "YRSES",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "YRSES",
+    "name": "Yaletown-Roundhouse Station Elevator Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.12196,
+     49.274541
+    ],
+    "type": "Point"
+   },
+   "id": "YRSSE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "YRSSE",
+    "name": "Yaletown-Roundhouse Station Davie Street entrance",
+    "wheelchair_boarding": "2",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.180486,
+     49.194265
+    ],
+    "type": "Point"
+   },
+   "id": "YVRDE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "YVRDE",
+    "name": "YVR-Airport Station Domestic Terminal entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.178038,
+     49.194702
+    ],
+    "type": "Point"
+   },
+   "id": "YVRIE",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "YVRIE",
+    "name": "YVR-Airport International Terminal  (upper level)",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.178101,
+     49.194358
+    ],
+    "type": "Point"
+   },
+   "id": "YVRIU",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "YVRIU",
+    "name": "YVR-Airport Station entrance from International Arrivals (lower level)",
+    "wheelchair_boarding": "1",
+    "zone": ""
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.111961,
+     49.285635
+    ],
+    "type": "Point"
+   },
+   "id": "﻿WFSCS",
+   "properties": {
+    "code": "",
+    "desc": "",
+    "id": "﻿WFSCS",
+    "name": "Waterfront Station West Cordova Street Entrance",
+    "wheelchair_boarding": "1",
+    "zone": ""
    },
    "type": "Feature"
   }
