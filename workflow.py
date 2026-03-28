@@ -9,11 +9,11 @@ from zipfile import ZipFile
 
 import click
 import geojson
-from geojson import Point, Feature, FeatureCollection, LineString
+from geojson import Feature, FeatureCollection, LineString, Point
+from natsort import natsorted
 from requests import Session
 from requests.adapters import HTTPAdapter
 from urllib3 import Retry
-
 
 session = Session()
 adapter = HTTPAdapter(
@@ -139,12 +139,11 @@ def stop_to_feature(stop):
 def stops():
     """Write a GeoJSON file containing all stops."""
     dest_dir = "datasets"
-    try:
-        os.makedirs(dest_dir)
-    except FileExistsError:
-        pass
+    os.makedirs(dest_dir, exist_ok=True)
 
-    stops = sorted(gtfs_rows("stops.csv"), key=lambda stop: int(stop["stop_id"]))
+    stops = list(gtfs_rows("stops.csv"))
+
+    stops = natsorted(stops, key=lambda stop: stop["stop_id"].strip())
     print(f"{len(stops)} stops")
     coll = FeatureCollection([stop_to_feature(stop) for stop in stops])
 
@@ -157,7 +156,7 @@ def stops():
     with open(os.path.join(dest_dir, "stops.csv"), "w", newline="") as outf:
         writer = DictWriter(outf, fields)
         writer.writeheader()
-        writer.writerows(stops)
+        writer.writerows(stops)  # pyright: ignore[reportArgumentType]
 
 
 @cli.command()
