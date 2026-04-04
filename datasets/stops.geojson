@@ -2131,25 +2131,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.129836,
-     49.233911
-    ],
-    "type": "Point"
-   },
-   "id": "201",
-   "properties": {
-    "code": "50201",
-    "desc": "",
-    "id": "201",
-    "name": "Eastbound W 41 Ave @ Osler St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.139463,
      49.234888
     ],
@@ -7424,6 +7405,25 @@
     "desc": "",
     "id": "672",
     "name": "Westbound E 22 Ave @ Slocan St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.185714,
+     49.264644
+    ],
+    "type": "Point"
+   },
+   "id": "674",
+   "properties": {
+    "code": "50667",
+    "desc": "",
+    "id": "674",
+    "name": "Northbound Alma St @ W Broadway",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -30137,25 +30137,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.948324,
-     49.163708
-    ],
-    "type": "Point"
-   },
-   "id": "2371",
-   "properties": {
-    "code": "52347",
-    "desc": "",
-    "id": "2371",
-    "name": "Eastbound Derwent Way @ Derwent Place",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.942522,
      49.167828
     ],
@@ -41974,6 +41955,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.817386,
+     49.277765
+    ],
+    "type": "Point"
+   },
+   "id": "3187",
+   "properties": {
+    "code": "53153",
+    "desc": "",
+    "id": "3187",
+    "name": "Eastbound Barnet Hwy @ Falcon Dr",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.806687,
      49.277677
     ],
@@ -42099,6 +42099,25 @@
     "desc": "",
     "id": "3204",
     "name": "Coquitlam Central Station @ Bay 7",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.80971,
+     49.277979
+    ],
+    "type": "Point"
+   },
+   "id": "3205",
+   "properties": {
+    "code": "53171",
+    "desc": "",
+    "id": "3205",
+    "name": "Westbound Barnet Hwy @ Lansdowne Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -124605,25 +124624,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.802263,
-     49.299379
-    ],
-    "type": "Point"
-   },
-   "id": "9310",
-   "properties": {
-    "code": "58836",
-    "desc": "",
-    "id": "9310",
-    "name": "Westbound Panorama Dr @ Johnson St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.809782,
      49.297586
     ],
@@ -126980,6 +126980,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.88605,
+     49.323873
+    ],
+    "type": "Point"
+   },
+   "id": "9541",
+   "properties": {
+    "code": "53249",
+    "desc": "",
+    "id": "9541",
+    "name": "Bus Stop @ White Pine Beach",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.11995,
      49.324033
     ],
@@ -127904,6 +127923,25 @@
     "id": "9632",
     "name": "Southbound Jackson Rd @ 104 Ave",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.856819,
+     49.33871
+    ],
+    "type": "Point"
+   },
+   "id": "9633",
+   "properties": {
+    "code": "59225",
+    "desc": "",
+    "id": "9633",
+    "name": "Buntzen Lake @ Parking Lot",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -134143,6 +134181,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.827603,
+     49.284375
+    ],
+    "type": "Point"
+   },
+   "id": "10436",
+   "properties": {
+    "code": "53228",
+    "desc": "",
+    "id": "10436",
+    "name": "Westbound Ungless Way @ Noons Creek Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.822421,
      49.07214
     ],
@@ -138076,6 +138133,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.855612,
+     49.322425
+    ],
+    "type": "Point"
+   },
+   "id": "10858",
+   "properties": {
+    "code": "61018",
+    "desc": "",
+    "id": "10858",
+    "name": "Northbound Park Access Rd @ Anmore Grocery Store",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.84529,
      49.277676
     ],
@@ -138874,6 +138950,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.842877,
+     49.132811
+    ],
+    "type": "Point"
+   },
+   "id": "10931",
+   "properties": {
+    "code": "58506",
+    "desc": "",
+    "id": "10931",
+    "name": "Newton Exchange @ Unloading Bay",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.133742,
      49.300494
     ],
@@ -139577,6 +139672,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.215494,
+     49.276328
+    ],
+    "type": "Point"
+   },
+   "id": "11002",
+   "properties": {
+    "code": "61143",
+    "desc": "",
+    "id": "11002",
+    "name": "Bus Stop @ Spanish Banks Loop",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.922785,
      49.155985
     ],
@@ -140261,6 +140375,82 @@
   {
    "geometry": {
     "coordinates": [
+     -123.203022,
+     49.271904
+    ],
+    "type": "Point"
+   },
+   "id": "11053",
+   "properties": {
+    "code": "51934",
+    "desc": "",
+    "id": "11053",
+    "name": "Westbound NW Marine Dr @ Discovery St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.203426,
+     49.271953
+    ],
+    "type": "Point"
+   },
+   "id": "11054",
+   "properties": {
+    "code": "51910",
+    "desc": "",
+    "id": "11054",
+    "name": "Eastbound NW Marine Dr @ Discovery St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.209135,
+     49.274502
+    ],
+    "type": "Point"
+   },
+   "id": "11055",
+   "properties": {
+    "code": "51937",
+    "desc": "",
+    "id": "11055",
+    "name": "Westbound NW Marine Dr @ Sasamat St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.200827,
+     49.268799
+    ],
+    "type": "Point"
+   },
+   "id": "11056",
+   "properties": {
+    "code": "51912",
+    "desc": "",
+    "id": "11056",
+    "name": "Eastbound NW Marine Dr @ Locarno Cres",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.097295,
      49.240485
     ],
@@ -140413,6 +140603,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.205593,
+     49.274065
+    ],
+    "type": "Point"
+   },
+   "id": "11065",
+   "properties": {
+    "code": "51935",
+    "desc": "",
+    "id": "11065",
+    "name": "Northbound NW Marine Dr @ Belmont Ave",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.211352,
+     49.274742
+    ],
+    "type": "Point"
+   },
+   "id": "11066",
+   "properties": {
+    "code": "51906",
+    "desc": "",
+    "id": "11066",
+    "name": "Eastbound NW Marine Dr @ Tolmie St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.134406,
      49.257964
     ],
@@ -140432,6 +140660,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.205803,
+     49.273327
+    ],
+    "type": "Point"
+   },
+   "id": "11068",
+   "properties": {
+    "code": "61133",
+    "desc": "",
+    "id": "11068",
+    "name": "Southbound Trimble St @ Belmont Ave",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.212054,
+     49.275093
+    ],
+    "type": "Point"
+   },
+   "id": "11069",
+   "properties": {
+    "code": "51938",
+    "desc": "",
+    "id": "11069",
+    "name": "Westbound NW Marine Dr @ Tolmie St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.55709,
      49.217262
     ],
@@ -140443,6 +140709,25 @@
     "desc": "",
     "id": "11070",
     "name": "Southbound 240 St @ 118 Ave",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.200702,
+     49.268954
+    ],
+    "type": "Point"
+   },
+   "id": "11071",
+   "properties": {
+    "code": "61138",
+    "desc": "",
+    "id": "11071",
+    "name": "Westbound NW Marine Dr @ W 4th Ave",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -162244,6 +162529,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.884767,
+     49.314325
+    ],
+    "type": "Point"
+   },
+   "id": "12829",
+   "properties": {
+    "code": "60588",
+    "desc": "",
+    "id": "12829",
+    "name": "Southbound White Pine Beach Rd @ Bedwell Bay Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.783538,
      49.263567
     ],
@@ -163717,7 +164021,7 @@
     "code": "60683",
     "desc": "",
     "id": "12950",
-    "name": "Phibbs Exchange @ Turning Lane",
+    "name": "Phibbs Exchange @ Bay 6",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165873,8 +166177,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.138944,
-     49.25737
+     -123.138963,
+     49.256727
     ],
     "type": "Point"
    },
@@ -165884,7 +166188,7 @@
     "desc": "",
     "id": "13115",
     "name": "Southbound Granville St @ W 16th Ave",
-    "wheelchair_boarding": "1",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -165923,6 +166227,25 @@
     "id": "13117",
     "name": "Eastbound Clarke Rd @ Albert St",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.84305,
+     49.133459
+    ],
+    "type": "Point"
+   },
+   "id": "13119",
+   "properties": {
+    "code": "55455",
+    "desc": "",
+    "id": "13119",
+    "name": "Newton Exchange @ Layover",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166246,6 +166569,25 @@
     "id": "13141",
     "name": "Westbound W 49 Ave @ Cambie St",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.94969,
+     49.162969
+    ],
+    "type": "Point"
+   },
+   "id": "13143",
+   "properties": {
+    "code": "62152",
+    "desc": "",
+    "id": "13143",
+    "name": "Eastbound Derwent Way  @ Derwent Place",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -167386,7 +167728,7 @@
     "id": "ASSEM",
     "name": "Aberdeen Station entrance from mall to platform",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167405,7 +167747,7 @@
     "id": "ASSME",
     "name": "Aberdeen Station main Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167424,7 +167766,7 @@
     "id": "BDSET",
     "name": "Braid Station Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167443,7 +167785,7 @@
     "id": "BQSEE",
     "name": "Burquitlam Station East Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167462,7 +167804,7 @@
     "id": "BQSWE",
     "name": "Burquitlam Station West Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167481,7 +167823,7 @@
     "id": "BRSCL",
     "name": "Brentwood Town Centre Station Concourse Level Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167500,7 +167842,7 @@
     "id": "BRSLN",
     "name": "Brentwood Town Centre Station Lougheed Highway North Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167519,7 +167861,7 @@
     "id": "BRSLS",
     "name": "Brentwood Town Centre Station Lougheed Highway South Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167538,7 +167880,7 @@
     "id": "BSSBS",
     "name": "Burrard Station Burrard Street Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167557,7 +167899,7 @@
     "id": "BSSCE",
     "name": "Bridgeport Station Entrance from Casino to concourse",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167576,7 +167918,7 @@
     "id": "BSSDS",
     "name": "Burrard Station Dunsmuir Street Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167595,7 +167937,7 @@
     "id": "BSSEE",
     "name": "Burrard Station Elevator Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167614,7 +167956,7 @@
     "id": "BSSME",
     "name": "Bridgeport Station main Entrance from Bus Loop",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167633,7 +167975,7 @@
     "id": "BSSMN",
     "name": "Burrard Station Melville Street North Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167652,7 +167994,7 @@
     "id": "BSSMW",
     "name": "Burrard Station Melville Street West Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167671,7 +168013,7 @@
     "id": "BWCLN",
     "name": "Broadway-City Hall North Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167690,7 +168032,7 @@
     "id": "BWCLS",
     "name": "Broadway-City Hall South Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167709,7 +168051,7 @@
     "id": "BWSNE",
     "name": "Commercial-Broadway Station North Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167728,7 +168070,7 @@
     "id": "BWSSE",
     "name": "Commercial-Broadway Station South Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167747,7 +168089,7 @@
     "id": "CCSET",
     "name": "Coquitlam Central Station Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167766,7 +168108,7 @@
     "id": "CCSWE",
     "name": "Coquitlam Central Station WCE entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167785,7 +168127,7 @@
     "id": "CMSSE",
     "name": "Commercial-Broadway Station South Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167804,7 +168146,7 @@
     "id": "CMSWE",
     "name": "Commercial-Broadway Station West Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167823,7 +168165,7 @@
     "id": "COSCL",
     "name": "Columbia Station Columbia Street Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167842,7 +168184,7 @@
     "id": "COSCS",
     "name": "Columbia Station Clarkson Street Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167861,7 +168203,7 @@
     "id": "COSFS",
     "name": "Columbia Station Fourth Street Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167880,7 +168222,7 @@
     "id": "CSSME",
     "name": "Capstan Station main Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167899,7 +168241,7 @@
     "id": "EDSNE",
     "name": "Edmonds Station North Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167918,7 +168260,7 @@
     "id": "EDSSE",
     "name": "Edmonds Station South Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167937,7 +168279,7 @@
     "id": "GMSEE",
     "name": "Gilmore Station Elevator Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167956,7 +168298,7 @@
     "id": "GMSET",
     "name": "Gilmore Station Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167975,7 +168317,7 @@
     "id": "GVSDS",
     "name": "Granville Station Dunsmuir Street Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -167994,7 +168336,7 @@
     "id": "GVSGS",
     "name": "Granville Station Granville Street Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168013,7 +168355,7 @@
     "id": "GVSSS",
     "name": "Granville Station Seymour Street Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168032,7 +168374,7 @@
     "id": "GWSCE",
     "name": "Gateway Station Concourse Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168051,7 +168393,7 @@
     "id": "GWSEE",
     "name": "Gateway Station Elevator Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168070,7 +168412,7 @@
     "id": "HOSET",
     "name": "Holdom Station Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168089,7 +168431,7 @@
     "id": "ICSEE",
     "name": "Inlet Centre Station East Concourse Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168108,7 +168450,7 @@
     "id": "ICSWE",
     "name": "Inlet Centre Station West Concourse Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168127,7 +168469,7 @@
     "id": "JYSEN",
     "name": "Joyce-Collingwood Station East Concourse North Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168146,7 +168488,7 @@
     "id": "JYSES",
     "name": "Joyce-Collingwood Station East Concourse South Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168165,7 +168507,7 @@
     "id": "JYSWN",
     "name": "Joyce-Collingwood Station West Concourse North Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168184,7 +168526,7 @@
     "id": "JYSWS",
     "name": "Joyce-Collingwood Station West Concourse South Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168203,7 +168545,7 @@
     "id": "KESSE",
     "name": "King Edward Station entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168222,7 +168564,7 @@
     "id": "KGSEE",
     "name": "King George Station East Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168241,7 +168583,7 @@
     "id": "KGSWE",
     "name": "King George Station West Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168260,7 +168602,7 @@
     "id": "LASEE",
     "name": "Lafarge Lake-Douglas Station East Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168279,7 +168621,7 @@
     "id": "LASWE",
     "name": "Lafarge Lake-Douglas Station West Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168298,7 +168640,7 @@
     "id": "LCSET",
     "name": "Lake City Way Station Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168317,7 +168659,7 @@
     "id": "LHSEE",
     "name": "Lougheed Town Centre Station East Concourse Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168336,7 +168678,7 @@
     "id": "LHSLW",
     "name": "Lougheed Town Centre Station Lower West Concourse Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168355,7 +168697,7 @@
     "id": "LHSUW",
     "name": "Lougheed Town Centre Station Upper West Concourse Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168374,7 +168716,7 @@
     "id": "LNSET",
     "name": "Lincoln Station Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168393,7 +168735,7 @@
     "id": "LQSBE",
     "name": "Lonsdale Quay Station SeaBus entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168412,7 +168754,7 @@
     "id": "LSSEE",
     "name": "Langra-49th Avenue Station elevator entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168431,7 +168773,7 @@
     "id": "LSSEM",
     "name": "Langra-49th Avenue Station entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168450,7 +168792,7 @@
     "id": "LSSME",
     "name": "Lansdowne Station main entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168469,7 +168811,7 @@
     "id": "MCSET",
     "name": "Moody Centre Station Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168488,7 +168830,7 @@
     "id": "MCSWE",
     "name": "Mission City Station WCE entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168507,7 +168849,7 @@
     "id": "MCWEA",
     "name": "Mission City Station WCE accessible entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168526,7 +168868,7 @@
     "id": "MDSSE",
     "name": "Marine Drive Station main entrance from Bus Loop",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168545,7 +168887,7 @@
     "id": "MMSWE",
     "name": "Maple Meadows Station WCE entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168564,7 +168906,7 @@
     "id": "MNSEN",
     "name": "Main Street-Science World Station East Concourse North Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168583,7 +168925,7 @@
     "id": "MNSES",
     "name": "Main Street-Science World Station East Concourse South Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168602,7 +168944,7 @@
     "id": "MNSWE",
     "name": "Main Street-Science World Station West Concourse East Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168621,7 +168963,7 @@
     "id": "MNSWS",
     "name": "Main Street-Science World Station West Concourse South Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168640,7 +168982,7 @@
     "id": "MTSCE",
     "name": "Metrotown Station Central Concourse Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168659,7 +169001,7 @@
     "id": "MTSEE",
     "name": "Metrotown Station East Concourse Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168678,7 +169020,7 @@
     "id": "MTSWE",
     "name": "Metrotown Station West Concourse Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168697,7 +169039,7 @@
     "id": "NASET",
     "name": "Nanaimo Station Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168716,7 +169058,7 @@
     "id": "NWSBL",
     "name": "New Westminster Station Bus Loop Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168735,7 +169077,7 @@
     "id": "NWSCS",
     "name": "New Westminster Station Carnavon Street Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168754,7 +169096,7 @@
     "id": "NWSES",
     "name": "New Westminster Station Eighth Street Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168773,7 +169115,7 @@
     "id": "NWSQD",
     "name": "New Westminster Station Quayside Drive Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168792,7 +169134,7 @@
     "id": "O41EE",
     "name": "Oakridge-41st Avenue Station Elevator entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168811,7 +169153,7 @@
     "id": "O41SE",
     "name": "Oakridge-41st Avenue Station entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168830,7 +169172,7 @@
     "id": "OVSSE",
     "name": "Olympic Village Station entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168849,7 +169191,7 @@
     "id": "PCSWE",
     "name": "Port Coquitlam Station WCE entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168868,7 +169210,7 @@
     "id": "PHSWE",
     "name": "Port Haney Station WCE entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168887,7 +169229,7 @@
     "id": "PHWEA",
     "name": "Port Haney Station WCE accesible entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168906,7 +169248,7 @@
     "id": "PMSWE",
     "name": "Pitt Meadows Station WCE entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168925,7 +169267,7 @@
     "id": "PTSEN",
     "name": "Patterson Station East Concourse North Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168944,7 +169286,7 @@
     "id": "PTSES",
     "name": "Patterson Station East Concourse South Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168963,7 +169305,7 @@
     "id": "PTSWN",
     "name": "Patterson Station West Concourse North Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -168982,7 +169324,7 @@
     "id": "PTSWS",
     "name": "Patterson Station West Concourse South Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169001,7 +169343,7 @@
     "id": "PWSEE",
     "name": "Production Way-University Station East Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169020,7 +169362,7 @@
     "id": "PWSWE",
     "name": "Production Way-University Station West Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169039,7 +169381,7 @@
     "id": "RBSSE",
     "name": "Richmond-Brighouse Station main entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169058,7 +169400,7 @@
     "id": "RESEE",
     "name": "Renfrew Station Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169077,7 +169419,7 @@
     "id": "ROSET",
     "name": "Royal Oak Station Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169096,7 +169438,7 @@
     "id": "RUSET",
     "name": "Rupert Station Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169115,7 +169457,7 @@
     "id": "SASKS",
     "name": "Sapperton South Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169134,7 +169476,7 @@
     "id": "SASSS",
     "name": "Sapperton Station Spruce Street Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169153,7 +169495,7 @@
     "id": "SCSCE",
     "name": "Surrey Central Station Central Concourse Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169172,7 +169514,7 @@
     "id": "SCSNE",
     "name": "Surrey Central Station North Concourse Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169191,7 +169533,7 @@
     "id": "SCSSE",
     "name": "Surrey Central Station South Concourse Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169210,7 +169552,7 @@
     "id": "SICSM",
     "name": "Sea Island Centre Station South Entrance - Miller Rd",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169229,7 +169571,7 @@
     "id": "SICSN",
     "name": "Sea Island Centre Station North Entrance - Air Canada",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169248,7 +169590,7 @@
     "id": "SPSNE",
     "name": "Sperling-Burnaby Lake Station North Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169267,7 +169609,7 @@
     "id": "SPSSE",
     "name": "Sperling-Burnaby Lake Station South Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169286,7 +169628,7 @@
     "id": "SRSEN",
     "name": "Scott Road Station East Concourse North Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169305,7 +169647,7 @@
     "id": "SRSES",
     "name": "Scott Road Station East Concourse South Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169324,7 +169666,7 @@
     "id": "SRSWE",
     "name": "Scott Road Station West Concourse Elevator Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169343,7 +169685,7 @@
     "id": "SRSWN",
     "name": "Scott Road Station West Concourse North Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169362,7 +169704,7 @@
     "id": "SRSWS",
     "name": "Scott Road Station West Concourse South Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169381,7 +169723,7 @@
     "id": "STSBS",
     "name": "Stadium-Chinatown Station Beatty Street Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169400,7 +169742,7 @@
     "id": "STSEB",
     "name": "Stadium-Chinatown Station Expo Boulevard Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169419,7 +169761,7 @@
     "id": "STSKP",
     "name": "Stadium-Chinatown Station Keefer Place Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169438,7 +169780,7 @@
     "id": "TNSEE",
     "name": "29th Avenue Station East Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169457,7 +169799,7 @@
     "id": "TNSWN",
     "name": "29th Avenue Station West Concourse North Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169476,7 +169818,7 @@
     "id": "TNSWS",
     "name": "29th Avenue Station West Concourse South Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169495,7 +169837,7 @@
     "id": "TSSET",
     "name": "22nd Street Station Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169514,7 +169856,7 @@
     "id": "TSSNE",
     "name": "Templetone Station North Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169533,7 +169875,7 @@
     "id": "TSSSE",
     "name": "Templetone Station South Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169552,7 +169894,7 @@
     "id": "VCCEE",
     "name": "Vancouver City Centre Station Elevator Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169571,7 +169913,7 @@
     "id": "VCCGE",
     "name": "Vancouver City Centre Station Georgia Street Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169590,7 +169932,7 @@
     "id": "VCSET",
     "name": "VCC-Clark Station Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169609,7 +169951,7 @@
     "id": "WFSCG",
     "name": "Waterfront Station Canada Line access at Granville and Hastings",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169628,7 +169970,7 @@
     "id": "WFSGE",
     "name": "Waterfront Station Canada Line elevator entrance at Granville and Hastings",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169647,7 +169989,7 @@
     "id": "WFSHS",
     "name": "Waterfront Station Howe Street Entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169666,7 +170008,7 @@
     "id": "WFSSE",
     "name": "Waterfront Station SeaBus entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169685,7 +170027,7 @@
     "id": "YRSES",
     "name": "Yaletown-Roundhouse Station Elevator Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169704,7 +170046,7 @@
     "id": "YRSSE",
     "name": "Yaletown-Roundhouse Station Davie Street entrance",
     "wheelchair_boarding": "2",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169723,7 +170065,7 @@
     "id": "YVRDE",
     "name": "YVR-Airport Station Domestic Terminal entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169742,7 +170084,7 @@
     "id": "YVRIE",
     "name": "YVR-Airport International Terminal  (upper level)",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169761,7 +170103,7 @@
     "id": "YVRIU",
     "name": "YVR-Airport Station entrance from International Arrivals (lower level)",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   },
@@ -169780,7 +170122,7 @@
     "id": "﻿WFSCS",
     "name": "Waterfront Station West Cordova Street Entrance",
     "wheelchair_boarding": "1",
-    "zone": ""
+    "zone": "merged_15288032"
    },
    "type": "Feature"
   }
