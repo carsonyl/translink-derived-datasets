@@ -26166,6 +26166,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.094471,
+     49.225593
+    ],
+    "type": "Point"
+   },
+   "id": "2045",
+   "properties": {
+    "code": "52028",
+    "desc": "",
+    "id": "2045",
+    "name": "Westbound E 49 Ave @ St. George St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.098055,
      49.22566
     ],
@@ -118478,7 +118497,7 @@
     "code": "58342",
     "desc": "",
     "id": "8683",
-    "name": "Northbound Holdom Ave @ Lougheed Hwy",
+    "name": "Holdom Station @ Bay 1",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -118630,7 +118649,7 @@
     "code": "58343",
     "desc": "",
     "id": "8697",
-    "name": "Southbound Holdom Ave @ Lougheed Hwy",
+    "name": "Holdom Station @ Bay 3",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -130068,7 +130087,7 @@
     "code": "53309",
     "desc": "",
     "id": "10017",
-    "name": "Westbound Lougheed Hwy @ Holdom Ave",
+    "name": "Holdom Station @ Bay 5",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -130087,7 +130106,7 @@
     "code": "53302",
     "desc": "",
     "id": "10018",
-    "name": "Eastbound Lougheed Hwy @ Holdom Ave",
+    "name": "Holdom Station @ Bay 2",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -130144,7 +130163,7 @@
     "code": "53308",
     "desc": "",
     "id": "10028",
-    "name": "Westbound Lougheed Hwy @ Lake City Way",
+    "name": "Lake City Way Station @ Bay 3",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -130163,7 +130182,7 @@
     "code": "53305",
     "desc": "",
     "id": "10029",
-    "name": "Eastbound Lougheed Hwy @ Lake City Way",
+    "name": "Lake City Station  @ Bay 2",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -165778,8 +165797,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.110487,
-     49.225969
+     -123.112124,
+     49.226029
     ],
     "type": "Point"
    },
@@ -165788,7 +165807,7 @@
     "code": "62057",
     "desc": "",
     "id": "13088",
-    "name": "Westbound W 49 Ave @ Columbia St",
+    "name": "Westbound W 49th Ave @ Columbia St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
