@@ -32740,8 +32740,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.974611,
-     49.248593
+     -122.974621,
+     49.248692
     ],
     "type": "Point"
    },
@@ -79461,25 +79461,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.850718,
-     49.126249
-    ],
-    "type": "Point"
-   },
-   "id": "5740",
-   "properties": {
-    "code": "55685",
-    "desc": "",
-    "id": "5740",
-    "name": "Eastbound 68 Ave @ 134 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.845364,
      49.126936
     ],
@@ -82379,25 +82360,6 @@
     "desc": "",
     "id": "5904",
     "name": "Westbound 108 Ave @ 140 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.840815,
-     49.198936
-    ],
-    "type": "Point"
-   },
-   "id": "5905",
-   "properties": {
-    "code": "55850",
-    "desc": "",
-    "id": "5905",
-    "name": "Westbound 108 Ave @ Whalley Blvd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -149590,25 +149552,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.248724,
-     49.265726
-    ],
-    "type": "Point"
-   },
-   "id": "11792",
-   "properties": {
-    "code": "58895",
-    "desc": "",
-    "id": "11792",
-    "name": "UBC Exchange @ Bay 9",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.248129,
      49.26581
     ],
@@ -150084,25 +150027,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.691408,
-     49.053205
-    ],
-    "type": "Point"
-   },
-   "id": "11839",
-   "properties": {
-    "code": "61643",
-    "desc": "",
-    "id": "11839",
-    "name": "Northbound 192 St @ 28 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.035007,
      49.169851
     ],
@@ -150380,25 +150304,6 @@
     "desc": "",
     "id": "11861",
     "name": "Newton Exchange @ Bay 10",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.843474,
-     49.133269
-    ],
-    "type": "Point"
-   },
-   "id": "11862",
-   "properties": {
-    "code": "61707",
-    "desc": "",
-    "id": "11862",
-    "name": "Newton Exchange @ Layover",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166112,44 +166017,6 @@
     "desc": "",
     "id": "13110",
     "name": "Eastbound River Rd @ 8600 Blk",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.646079,
-     49.132957
-    ],
-    "type": "Point"
-   },
-   "id": "13113",
-   "properties": {
-    "code": "62004",
-    "desc": "",
-    "id": "13113",
-    "name": "Southbound 208 St @ 72 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.645811,
-     49.133858
-    ],
-    "type": "Point"
-   },
-   "id": "13114",
-   "properties": {
-    "code": "62005",
-    "desc": "",
-    "id": "13114",
-    "name": "Northbound 208 St @ 72 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
