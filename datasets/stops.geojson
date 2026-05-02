@@ -7489,25 +7489,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.056744,
-     49.267362
-    ],
-    "type": "Point"
-   },
-   "id": "686",
-   "properties": {
-    "code": "50679",
-    "desc": "",
-    "id": "686",
-    "name": "Southbound Nanaimo St @ E 3rd Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.056743,
      49.265535
     ],
@@ -12372,8 +12353,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.044433,
-     49.254177
+     -123.044454,
+     49.254154
     ],
     "type": "Point"
    },
@@ -12961,8 +12942,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.044105,
-     49.262253
+     -123.044122,
+     49.26226
     ],
     "type": "Point"
    },
@@ -15785,25 +15766,6 @@
     "id": "1288",
     "name": "Eastbound Terminal Ave @ Begg St",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.095194,
-     49.276624
-    ],
-    "type": "Point"
-   },
-   "id": "1289",
-   "properties": {
-    "code": "51278",
-    "desc": "",
-    "id": "1289",
-    "name": "Eastbound Prior St @ Dunlevy Ave",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -19679,25 +19641,6 @@
     "desc": "",
     "id": "1544",
     "name": "Eastbound E 22 Ave @ Boyd Diversion",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.038654,
-     49.250535
-    ],
-    "type": "Point"
-   },
-   "id": "1545",
-   "properties": {
-    "code": "51533",
-    "desc": "",
-    "id": "1545",
-    "name": "Eastbound E 22 Ave @ Lillooet St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -73077,25 +73020,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.678809,
-     49.115186
-    ],
-    "type": "Point"
-   },
-   "id": "5337",
-   "properties": {
-    "code": "55285",
-    "desc": "",
-    "id": "5337",
-    "name": "Southbound Willowbrook Dr @ 19600 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.674404,
      49.111322
     ],
@@ -73791,25 +73715,6 @@
     "desc": "",
     "id": "5378",
     "name": "Westbound Fraser Hwy @ Langley Bypass",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.678529,
-     49.11512
-    ],
-    "type": "Point"
-   },
-   "id": "5379",
-   "properties": {
-    "code": "55326",
-    "desc": "",
-    "id": "5379",
-    "name": "Northbound Willowbrook Dr @ 19600 Block",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -100570,25 +100475,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.672775,
-     49.116678
-    ],
-    "type": "Point"
-   },
-   "id": "7101",
-   "properties": {
-    "code": "57033",
-    "desc": "",
-    "id": "7101",
-    "name": "Eastbound Willowbrook Dr @ 198 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.668356,
      49.119671
     ],
@@ -101170,44 +101056,6 @@
     "desc": "",
     "id": "7143",
     "name": "Southbound 200 St @ Willoughby Way",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.67023,
-     49.116843
-    ],
-    "type": "Point"
-   },
-   "id": "7144",
-   "properties": {
-    "code": "57076",
-    "desc": "",
-    "id": "7144",
-    "name": "Westbound Willowbrook Dr @ 200 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.673698,
-     49.116872
-    ],
-    "type": "Point"
-   },
-   "id": "7145",
-   "properties": {
-    "code": "57077",
-    "desc": "",
-    "id": "7145",
-    "name": "Westbound Willowbrook Dr @ 198 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -114926,25 +114774,6 @@
     "desc": "",
     "id": "8140",
     "name": "Kootenay Loop @ Bay 4",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.039504,
-     49.262004
-    ],
-    "type": "Point"
-   },
-   "id": "8277",
-   "properties": {
-    "code": "58044",
-    "desc": "",
-    "id": "8277",
-    "name": "Westbound E Broadway @ Lillooet St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -160154,25 +159983,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.154256,
-     49.234486
-    ],
-    "type": "Point"
-   },
-   "id": "12631",
-   "properties": {
-    "code": "60386",
-    "desc": "",
-    "id": "12631",
-    "name": "Eastbound W 41 Ave @ East Blvd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.15479,
      49.234672
     ],
@@ -166492,7 +166302,26 @@
     "desc": "",
     "id": "13146",
     "name": "Southbound Main St @ E 38 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.152442,
+     49.234451
+    ],
+    "type": "Point"
+   },
+   "id": "13151",
+   "properties": {
+    "code": "60548",
+    "desc": "",
+    "id": "13151",
+    "name": "Eastbound W 41 Ave @ Maple St",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
