@@ -26348,7 +26348,7 @@
     "desc": "",
     "id": "2064",
     "name": "Westbound W 49 Ave @ Larch St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -78758,8 +78758,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.851511,
-     49.126389
+     -122.852446,
+     49.126408
     ],
     "type": "Point"
    },
@@ -78769,7 +78769,7 @@
     "desc": "",
     "id": "5705",
     "name": "Westbound 68 Ave @ 134 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -79358,6 +79358,25 @@
     "desc": "",
     "id": "5739",
     "name": "Eastbound 68 Ave @ 132 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.850313,
+     49.126244
+    ],
+    "type": "Point"
+   },
+   "id": "5740",
+   "properties": {
+    "code": "55685",
+    "desc": "",
+    "id": "5740",
+    "name": "Eastbound 68 Ave @ 134 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -121964,25 +121983,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.803963,
-     49.298739
-    ],
-    "type": "Point"
-   },
-   "id": "9066",
-   "properties": {
-    "code": "58587",
-    "desc": "",
-    "id": "9066",
-    "name": "Eastbound Panorama Dr @ 2900 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.100973,
      49.266106
     ],
@@ -124111,8 +124111,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.654693,
-     49.118955
+     -122.654713,
+     49.118972
     ],
     "type": "Point"
    },
@@ -141154,8 +141154,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.65476,
-     49.118384
+     -122.65485,
+     49.118329
     ],
     "type": "Point"
    },
@@ -150350,6 +150350,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.666944,
+     49.159084
+    ],
+    "type": "Point"
+   },
+   "id": "11880",
+   "properties": {
+    "code": "61781",
+    "desc": "",
+    "id": "11880",
+    "name": "Eastbound 86 Ave @ 200 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.126502,
      49.280741
     ],
@@ -154093,8 +154112,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.645866,
-     49.154979
+     -122.645942,
+     49.155056
     ],
     "type": "Point"
    },
@@ -154112,8 +154131,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.645845,
-     49.151252
+     -122.645964,
+     49.151146
     ],
     "type": "Point"
    },
@@ -154131,8 +154150,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.645839,
-     49.147446
+     -122.645934,
+     49.147568
     ],
     "type": "Point"
    },
@@ -154150,8 +154169,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.645895,
-     49.145238
+     -122.645975,
+     49.145064
     ],
     "type": "Point"
    },
@@ -154169,8 +154188,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.646017,
-     49.141328
+     -122.646064,
+     49.140337
     ],
     "type": "Point"
    },
@@ -154188,8 +154207,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.646025,
-     49.129378
+     -122.64616,
+     49.12931
     ],
     "type": "Point"
    },
@@ -154207,8 +154226,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.653523,
-     49.119085
+     -122.653351,
+     49.119135
     ],
     "type": "Point"
    },
@@ -154226,8 +154245,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.645844,
-     49.130247
+     -122.645726,
+     49.130107
     ],
     "type": "Point"
    },
@@ -154245,8 +154264,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.645763,
-     49.140955
+     -122.64566,
+     49.141268
     ],
     "type": "Point"
    },
@@ -154264,8 +154283,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.645691,
-     49.145812
+     -122.64559,
+     49.145802
     ],
     "type": "Point"
    },
@@ -154283,8 +154302,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.645576,
-     49.148689
+     -122.645561,
+     49.14854
     ],
     "type": "Point"
    },
@@ -163878,8 +163897,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.646133,
-     49.125742
+     -122.646143,
+     49.125661
     ],
     "type": "Point"
    },
@@ -164182,8 +164201,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.648178,
-     49.123215
+     -122.647902,
+     49.123308
     ],
     "type": "Point"
    },
@@ -165094,8 +165113,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.649148,
-     49.122691
+     -122.649188,
+     49.122657
     ],
     "type": "Point"
    },
@@ -165360,8 +165379,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.645827,
-     49.126734
+     -122.645815,
+     49.126468
     ],
     "type": "Point"
    },
@@ -165637,7 +165656,7 @@
     "desc": "",
     "id": "13098",
     "name": "Westbound 72 Ave @ 188 St",
-    "wheelchair_boarding": "1",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -165827,6 +165846,44 @@
     "desc": "",
     "id": "13110",
     "name": "Eastbound River Rd @ 8600 Blk",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.646156,
+     49.132937
+    ],
+    "type": "Point"
+   },
+   "id": "13113",
+   "properties": {
+    "code": "62004",
+    "desc": "",
+    "id": "13113",
+    "name": "Southbound 208 St @ 72 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.645726,
+     49.134055
+    ],
+    "type": "Point"
+   },
+   "id": "13114",
+   "properties": {
+    "code": "62005",
+    "desc": "",
+    "id": "13114",
+    "name": "Northbound 208 St @ 72 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166321,6 +166378,25 @@
     "desc": "",
     "id": "13151",
     "name": "Eastbound W 41 Ave @ Maple St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.70177,
+     49.133243
+    ],
+    "type": "Point"
+   },
+   "id": "13152",
+   "properties": {
+    "code": "62067",
+    "desc": "",
+    "id": "13152",
+    "name": "Southbound 188 St @ 72 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
