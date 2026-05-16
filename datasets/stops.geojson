@@ -13303,8 +13303,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.155677,
-     49.234303
+     -123.155714,
+     49.233792
     ],
     "type": "Point"
    },
@@ -25075,7 +25075,7 @@
     "desc": "",
     "id": "1970",
     "name": "Eastbound W 49 Ave @ Yew St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -26139,6 +26139,25 @@
     "desc": "",
     "id": "2046",
     "name": "Westbound E 49 Ave @ Prince Edward St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.102131,
+     49.225733
+    ],
+    "type": "Point"
+   },
+   "id": "2047",
+   "properties": {
+    "code": "52030",
+    "desc": "",
+    "id": "2047",
+    "name": "Westbound E 49 Ave @ Main St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -56148,6 +56167,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.072122,
+     49.324592
+    ],
+    "type": "Point"
+   },
+   "id": "4244",
+   "properties": {
+    "code": "54198",
+    "desc": "",
+    "id": "4244",
+    "name": "Northbound Lonsdale Ave @ E 17 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.072061,
      49.32888
     ],
@@ -67282,25 +67320,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.895023,
-     49.177071
-    ],
-    "type": "Point"
-   },
-   "id": "4960",
-   "properties": {
-    "code": "54908",
-    "desc": "",
-    "id": "4960",
-    "name": "Eastbound 96 Ave @ 118 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.889399,
      49.177023
     ],
@@ -67464,25 +67483,6 @@
     "desc": "",
     "id": "4971",
     "name": "Southbound Scott Rd @ 99 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.890965,
-     49.177231
-    ],
-    "type": "Point"
-   },
-   "id": "4972",
-   "properties": {
-    "code": "54920",
-    "desc": "",
-    "id": "4972",
-    "name": "Westbound 96 Ave @ Scott Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -69668,7 +69668,7 @@
     "desc": "",
     "id": "5112",
     "name": "Northbound 123A St @ 98 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -79233,6 +79233,44 @@
   {
    "geometry": {
     "coordinates": [
+     -122.856984,
+     49.15515
+    ],
+    "type": "Point"
+   },
+   "id": "5731",
+   "properties": {
+    "code": "55676",
+    "desc": "",
+    "id": "5731",
+    "name": "Southbound 132 St @ 84 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.856941,
+     49.152151
+    ],
+    "type": "Point"
+   },
+   "id": "5732",
+   "properties": {
+    "code": "55677",
+    "desc": "",
+    "id": "5732",
+    "name": "Southbound 132 St @ 82A Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.856931,
      49.149732
     ],
@@ -88315,6 +88353,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.824787,
+     49.026055
+    ],
+    "type": "Point"
+   },
+   "id": "6293",
+   "properties": {
+    "code": "56233",
+    "desc": "",
+    "id": "6293",
+    "name": "Eastbound Marine Dr @ Magdalen Cres",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.818651,
      49.024752
     ],
@@ -97104,25 +97161,6 @@
     "desc": "",
     "id": "6886",
     "name": "Northbound Gilbert Rd @ Azure Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.147605,
-     49.168084
-    ],
-    "type": "Point"
-   },
-   "id": "6887",
-   "properties": {
-    "code": "56822",
-    "desc": "",
-    "id": "6887",
-    "name": "Northbound Gilbert Rd @ 6300 Block",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -122545,6 +122583,25 @@
     "desc": "",
     "id": "9127",
     "name": "Westbound Foster Ave @ Midvale St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.121726,
+     49.284954
+    ],
+    "type": "Point"
+   },
+   "id": "9128",
+   "properties": {
+    "code": "58705",
+    "desc": "",
+    "id": "9128",
+    "name": "Westbound W Georgia St @ Burrard St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -161807,6 +161864,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.900402,
+     49.170503
+    ],
+    "type": "Point"
+   },
+   "id": "12795",
+   "properties": {
+    "code": "60550",
+    "desc": "",
+    "id": "12795",
+    "name": "Eastbound 92 Ave @ 116 St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.908982,
      49.204255
     ],
@@ -162748,7 +162824,7 @@
     "code": "60613",
     "desc": "",
     "id": "12877",
-    "name": "Eastbound W Broadway @ Ontario St",
+    "name": "Eastbound W Broadway @ Manitoba St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -163091,25 +163167,6 @@
     "desc": "",
     "id": "12902",
     "name": "Phibbs Exchange @ Bay 5",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.072194,
-     49.323923
-    ],
-    "type": "Point"
-   },
-   "id": "12908",
-   "properties": {
-    "code": "60647",
-    "desc": "",
-    "id": "12908",
-    "name": "Northbound Lonsdale Ave @ E 17 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -163688,25 +163745,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.12073,
-     49.284306
-    ],
-    "type": "Point"
-   },
-   "id": "12948",
-   "properties": {
-    "code": "60665",
-    "desc": "",
-    "id": "12948",
-    "name": "Westbound W Georgia St @ Burrard St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.841019,
      49.133489
     ],
@@ -164011,25 +164049,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.100866,
-     49.225716
-    ],
-    "type": "Point"
-   },
-   "id": "12974",
-   "properties": {
-    "code": "60732",
-    "desc": "",
-    "id": "12974",
-    "name": "Westbound E 49 Ave @ Main St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.115931,
      49.234819
     ],
@@ -164192,7 +164211,7 @@
     "code": "60657",
     "desc": "",
     "id": "12987",
-    "name": "Westbound E King Edward Ave @ Prince Edward Ave",
+    "name": "Westbound E King Edward Ave @ Prince Edward St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -164486,8 +164505,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.121385,
-     49.226199
+     -123.121239,
+     49.226213
     ],
     "type": "Point"
    },
@@ -164497,7 +164516,7 @@
     "desc": "",
     "id": "13008",
     "name": "Eastbound W 49th Ave @ Tisdall St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166397,6 +166416,63 @@
     "desc": "",
     "id": "13152",
     "name": "Southbound 188 St @ 72 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.646055,
+     49.137596
+    ],
+    "type": "Point"
+   },
+   "id": "13153",
+   "properties": {
+    "code": "62111",
+    "desc": "",
+    "id": "13153",
+    "name": "Southbound 208 St @ 74B Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.131674,
+     49.276387
+    ],
+    "type": "Point"
+   },
+   "id": "13154",
+   "properties": {
+    "code": "62020",
+    "desc": "",
+    "id": "13154",
+    "name": "Eastbound Pacific St @ Hornby St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.645653,
+     49.138737
+    ],
+    "type": "Point"
+   },
+   "id": "13156",
+   "properties": {
+    "code": "62112",
+    "desc": "",
+    "id": "13156",
+    "name": "Northbound 208 St @ 74B Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
