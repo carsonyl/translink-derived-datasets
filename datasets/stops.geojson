@@ -1010,6 +1010,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.168389,
+     49.268877
+    ],
+    "type": "Point"
+   },
+   "id": "108",
+   "properties": {
+    "code": "50108",
+    "desc": "",
+    "id": "108",
+    "name": "Southbound Macdonald St @ W 3rd Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.168483,
      49.266274
     ],
@@ -12049,6 +12068,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.155537,
+     49.232961
+    ],
+    "type": "Point"
+   },
+   "id": "1030",
+   "properties": {
+    "code": "51021",
+    "desc": "",
+    "id": "1030",
+    "name": "Northbound West Blvd @ W 43 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.155392,
      49.236779
     ],
@@ -17369,25 +17407,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.168411,
-     49.268064
-    ],
-    "type": "Point"
-   },
-   "id": "1379",
-   "properties": {
-    "code": "51368",
-    "desc": "",
-    "id": "1379",
-    "name": "Southbound Macdonald St @ W 4th Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.128771,
      49.289898
     ],
@@ -18824,6 +18843,25 @@
     "desc": "",
     "id": "1469",
     "name": "Westbound Canada Way @ Willingdon Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.003062,
+     49.263385
+    ],
+    "type": "Point"
+   },
+   "id": "1470",
+   "properties": {
+    "code": "51458",
+    "desc": "",
+    "id": "1470",
+    "name": "Northbound Willingdon Ave @ Juneau St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -25349,6 +25387,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.107863,
+     49.22573
+    ],
+    "type": "Point"
+   },
+   "id": "1986",
+   "properties": {
+    "code": "51969",
+    "desc": "",
+    "id": "1986",
+    "name": "Eastbound W 49 Ave @ Manitoba St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.103335,
      49.225636
     ],
@@ -26215,6 +26272,25 @@
     "desc": "",
     "id": "2047",
     "name": "Westbound E 49 Ave @ Main St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.116035,
+     49.226178
+    ],
+    "type": "Point"
+   },
+   "id": "2051",
+   "properties": {
+    "code": "61218",
+    "desc": "",
+    "id": "2051",
+    "name": "Langara-49th Station @ Bay 2",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -27705,63 +27781,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.964955,
-     49.203253
-    ],
-    "type": "Point"
-   },
-   "id": "2176",
-   "properties": {
-    "code": "52156",
-    "desc": "",
-    "id": "2176",
-    "name": "Eastbound Marine Dr @ 14 Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.959752,
-     49.200219
-    ],
-    "type": "Point"
-   },
-   "id": "2177",
-   "properties": {
-    "code": "58172",
-    "desc": "",
-    "id": "2177",
-    "name": "Eastbound Marine Dr @ 6400 Block",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.954626,
-     49.198147
-    ],
-    "type": "Point"
-   },
-   "id": "2178",
-   "properties": {
-    "code": "52158",
-    "desc": "",
-    "id": "2178",
-    "name": "Eastbound Marine Dr @ Trapp Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.967209,
      49.201498
     ],
@@ -27868,6 +27887,25 @@
     "desc": "",
     "id": "2184",
     "name": "Eastbound Trapp Rd @ Marine Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.936668,
+     49.204261
+    ],
+    "type": "Point"
+   },
+   "id": "2187",
+   "properties": {
+    "code": "52167",
+    "desc": "",
+    "id": "2187",
+    "name": "Eastbound 6th Ave @ 16 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -28009,6 +28047,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.946299,
+     49.199966
+    ],
+    "type": "Point"
+   },
+   "id": "2202",
+   "properties": {
+    "code": "52182",
+    "desc": "",
+    "id": "2202",
+    "name": "Westbound Marine Way @ 20 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.950167,
      49.199522
     ],
@@ -28020,63 +28077,6 @@
     "desc": "",
     "id": "2203",
     "name": "22nd Street Station @ Bay 8",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.95361,
-     49.198195
-    ],
-    "type": "Point"
-   },
-   "id": "2204",
-   "properties": {
-    "code": "52184",
-    "desc": "",
-    "id": "2204",
-    "name": "Westbound Marine Dr @ 7th Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.960458,
-     49.201118
-    ],
-    "type": "Point"
-   },
-   "id": "2205",
-   "properties": {
-    "code": "52185",
-    "desc": "",
-    "id": "2205",
-    "name": "Westbound Marine Dr @ 10 Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.964735,
-     49.20329
-    ],
-    "type": "Point"
-   },
-   "id": "2206",
-   "properties": {
-    "code": "52186",
-    "desc": "",
-    "id": "2206",
-    "name": "Westbound Marine Dr @ 14 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -42498,7 +42498,7 @@
     "desc": "",
     "id": "3229",
     "name": "Westbound Washington Dr @ 800 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -47685,6 +47685,63 @@
     "desc": "",
     "id": "3623",
     "name": "Westbound 6th Ave @ 10 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.931048,
+     49.207443
+    ],
+    "type": "Point"
+   },
+   "id": "3624",
+   "properties": {
+    "code": "53585",
+    "desc": "",
+    "id": "3624",
+    "name": "Westbound 6th Ave @ 12 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.937477,
+     49.203973
+    ],
+    "type": "Point"
+   },
+   "id": "3626",
+   "properties": {
+    "code": "53587",
+    "desc": "",
+    "id": "3626",
+    "name": "Westbound 6th Ave @ 16 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.940325,
+     49.202436
+    ],
+    "type": "Point"
+   },
+   "id": "3627",
+   "properties": {
+    "code": "53588",
+    "desc": "",
+    "id": "3627",
+    "name": "Westbound 6th Ave @ 18 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -79347,25 +79404,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.856931,
-     49.149732
-    ],
-    "type": "Point"
-   },
-   "id": "5733",
-   "properties": {
-    "code": "55678",
-    "desc": "",
-    "id": "5733",
-    "name": "Southbound 132 St @ 81 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.856927,
      49.147833
     ],
@@ -80308,6 +80346,25 @@
     "desc": "",
     "id": "5785",
     "name": "Southbound 140 St @ 8300 Block",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.834691,
+     49.150585
+    ],
+    "type": "Point"
+   },
+   "id": "5786",
+   "properties": {
+    "code": "55731",
+    "desc": "",
+    "id": "5786",
+    "name": "Southbound 140 St @ Bear Creek Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -82406,6 +82463,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.840815,
+     49.198936
+    ],
+    "type": "Point"
+   },
+   "id": "5905",
+   "properties": {
+    "code": "55850",
+    "desc": "",
+    "id": "5905",
+    "name": "Westbound 108 Ave @ Whalley Blvd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.851025,
      49.193866
     ],
@@ -84127,6 +84203,25 @@
     "desc": "",
     "id": "6019",
     "name": "Southbound 144 St @ 64 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.823478,
+     49.111368
+    ],
+    "type": "Point"
+   },
+   "id": "6020",
+   "properties": {
+    "code": "55963",
+    "desc": "",
+    "id": "6020",
+    "name": "Southbound 144 St @ 60 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -92639,25 +92734,6 @@
     "desc": "",
     "id": "6621",
     "name": "Eastbound Sea Island Way @ No. 3 Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.125279,
-     49.187719
-    ],
-    "type": "Point"
-   },
-   "id": "6622",
-   "properties": {
-    "code": "58116",
-    "desc": "",
-    "id": "6622",
-    "name": "Eastbound Capstan Way @ Garden City Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -130601,7 +130677,7 @@
     "desc": "",
     "id": "10095",
     "name": "Eastbound Murray St @ 2900 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -131076,6 +131152,25 @@
     "desc": "",
     "id": "10149",
     "name": "Westbound 64 Ave @ 176 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.940342,
+     49.202286
+    ],
+    "type": "Point"
+   },
+   "id": "10151",
+   "properties": {
+    "code": "59549",
+    "desc": "",
+    "id": "10151",
+    "name": "Eastbound 6th Ave @ 18 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -146257,6 +146352,25 @@
     "desc": "",
     "id": "11535",
     "name": "Northbound Seymour St @ Dunsmuir St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.109025,
+     49.225913
+    ],
+    "type": "Point"
+   },
+   "id": "11537",
+   "properties": {
+    "code": "52032",
+    "desc": "",
+    "id": "11537",
+    "name": "Westbound W 49 Ave @ Manitoba St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -164239,25 +164353,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.823463,
-     49.112549
-    ],
-    "type": "Point"
-   },
-   "id": "12990",
-   "properties": {
-    "code": "60855",
-    "desc": "",
-    "id": "12990",
-    "name": "Southbound 144 St @ 60 Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.099086,
      49.046914
     ],
@@ -166215,25 +166310,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.155538,
-     49.233431
-    ],
-    "type": "Point"
-   },
-   "id": "13138",
-   "properties": {
-    "code": "62042",
-    "desc": "",
-    "id": "13138",
-    "name": "Northbound West Blvd @ W 42 Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.491339,
      49.289663
     ],
@@ -166245,44 +166321,6 @@
     "desc": "",
     "id": "13139",
     "name": "Northbound Golden Ears Parkway @ Golden Ears Beach",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.10345,
-     49.225771
-    ],
-    "type": "Point"
-   },
-   "id": "13140",
-   "properties": {
-    "code": "62043",
-    "desc": "",
-    "id": "13140",
-    "name": "Westbound E 49th Ave @ Quebec St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.117145,
-     49.226222
-    ],
-    "type": "Point"
-   },
-   "id": "13141",
-   "properties": {
-    "code": "52034",
-    "desc": "",
-    "id": "13141",
-    "name": "Westbound W 49 Ave @ Cambie St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166549,6 +166587,25 @@
     "desc": "",
     "id": "13157",
     "name": "Westbound Fraser Hwy @ 188 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.040647,
+     49.262008
+    ],
+    "type": "Point"
+   },
+   "id": "13158",
+   "properties": {
+    "code": "62131",
+    "desc": "",
+    "id": "13158",
+    "name": "Westbound E Broadway @ Nootka St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
