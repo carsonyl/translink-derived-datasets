@@ -1618,6 +1618,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.101505,
+     49.235734
+    ],
+    "type": "Point"
+   },
+   "id": "162",
+   "properties": {
+    "code": "50162",
+    "desc": "",
+    "id": "162",
+    "name": "Northbound Main St @ E 39 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.101502,
+     49.23802
+    ],
+    "type": "Point"
+   },
+   "id": "163",
+   "properties": {
+    "code": "50163",
+    "desc": "",
+    "id": "163",
+    "name": "Northbound Main St @ E 36 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.101314,
      49.241308
     ],
@@ -2560,6 +2598,25 @@
     "desc": "",
     "id": "251",
     "name": "Southbound Main St @ E 33 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.101715,
+     49.23788
+    ],
+    "type": "Point"
+   },
+   "id": "252",
+   "properties": {
+    "code": "50250",
+    "desc": "",
+    "id": "252",
+    "name": "Southbound Main St @ E 36 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -4404,44 +4461,6 @@
     "id": "387",
     "name": "Eastbound W 41 Ave @ Maple St",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.148854,
-     49.234394
-    ],
-    "type": "Point"
-   },
-   "id": "388",
-   "properties": {
-    "code": "50384",
-    "desc": "",
-    "id": "388",
-    "name": "Eastbound W 41 Ave @ Cypress St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.145952,
-     49.234351
-    ],
-    "type": "Point"
-   },
-   "id": "389",
-   "properties": {
-    "code": "50385",
-    "desc": "",
-    "id": "389",
-    "name": "Eastbound W 41 Ave @ Wiltshire St",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -12030,6 +12049,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.155429,
+     49.2349
+    ],
+    "type": "Point"
+   },
+   "id": "1031",
+   "properties": {
+    "code": "51022",
+    "desc": "",
+    "id": "1031",
+    "name": "Northbound West Blvd @ W 41 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.155392,
      49.236779
     ],
@@ -13341,8 +13379,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.155714,
-     49.233792
+     -123.155698,
+     49.234313
     ],
     "type": "Point"
    },
@@ -19640,7 +19678,7 @@
     "code": "51526",
     "desc": "",
     "id": "1538",
-    "name": "Northbound Nanaimo St @ Galt St",
+    "name": "Northbound Nanaimo St @ Kingsway",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -19698,6 +19736,25 @@
     "desc": "",
     "id": "1544",
     "name": "Eastbound E 22 Ave @ Boyd Diversion",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.038654,
+     49.250535
+    ],
+    "type": "Point"
+   },
+   "id": "1545",
+   "properties": {
+    "code": "51533",
+    "desc": "",
+    "id": "1545",
+    "name": "Eastbound E 22 Ave @ Lillooet St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -25178,25 +25235,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.103335,
-     49.225636
-    ],
-    "type": "Point"
-   },
-   "id": "1987",
-   "properties": {
-    "code": "51970",
-    "desc": "",
-    "id": "1987",
-    "name": "Eastbound E 49 Ave @ Quebec St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.101045,
      49.225593
     ],
@@ -25949,25 +25987,6 @@
     "desc": "",
     "id": "2052",
     "name": "Westbound W 49 Ave @ Tisdall St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.125587,
-     49.226538
-    ],
-    "type": "Point"
-   },
-   "id": "2053",
-   "properties": {
-    "code": "52036",
-    "desc": "",
-    "id": "2053",
-    "name": "Westbound W 49 Ave @ Laurel St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -103849,7 +103868,7 @@
     "desc": "",
     "id": "7381",
     "name": "Eastbound 32 Ave @ 27400 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -110253,25 +110272,6 @@
     "id": "7781",
     "name": "Westbound River Rd @ Darby St",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.629401,
-     49.213545
-    ],
-    "type": "Point"
-   },
-   "id": "7782",
-   "properties": {
-    "code": "57708",
-    "desc": "",
-    "id": "7782",
-    "name": "Westbound River Rd @ Pine St",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -121679,6 +121679,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.803963,
+     49.298739
+    ],
+    "type": "Point"
+   },
+   "id": "9066",
+   "properties": {
+    "code": "58587",
+    "desc": "",
+    "id": "9066",
+    "name": "Eastbound Panorama Dr @ 2900 Block",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.100973,
      49.266106
     ],
@@ -124149,6 +124168,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.802263,
+     49.299379
+    ],
+    "type": "Point"
+   },
+   "id": "9310",
+   "properties": {
+    "code": "58836",
+    "desc": "",
+    "id": "9310",
+    "name": "Westbound Panorama Dr @ Johnson St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.809782,
      49.297586
     ],
@@ -124255,6 +124293,25 @@
     "desc": "",
     "id": "9318",
     "name": "Eastbound Noons Creek Dr @ Thurston Terrace",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.80636,
+     49.298124
+    ],
+    "type": "Point"
+   },
+   "id": "9322",
+   "properties": {
+    "code": "58837",
+    "desc": "",
+    "id": "9322",
+    "name": "Westbound Panorama Dr @ 2900 Block",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -125832,25 +125889,6 @@
     "desc": "",
     "id": "9478",
     "name": "(Eastbound Bedwell Bay Rd In 1000-Block Area) (Flag)",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.884995,
-     49.314167
-    ],
-    "type": "Point"
-   },
-   "id": "9479",
-   "properties": {
-    "code": "58976",
-    "desc": "",
-    "id": "9479",
-    "name": "(Westbound Bedwell Bay Rd In 2000-Block Area) (Flag)",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -131065,8 +131103,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.080036,
-     49.266014
+     -123.079816,
+     49.265986
     ],
     "type": "Point"
    },
@@ -133440,6 +133478,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.101698,
+     49.235131
+    ],
+    "type": "Point"
+   },
+   "id": "10404",
+   "properties": {
+    "code": "59838",
+    "desc": "",
+    "id": "10404",
+    "name": "Southbound Main St @ E 39 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.952684,
      49.206149
     ],
@@ -135218,6 +135275,25 @@
     "desc": "",
     "id": "10646",
     "name": "Eastbound Fraser Hwy @ 68 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.71329,
+     49.129092
+    ],
+    "type": "Point"
+   },
+   "id": "10647",
+   "properties": {
+    "code": "57141",
+    "desc": "",
+    "id": "10647",
+    "name": "Westbound Fraser Hwy @ 184 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -138285,8 +138361,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.079816,
-     49.265986
+     -123.079456,
+     49.265469
     ],
     "type": "Point"
    },
@@ -144802,8 +144878,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.242087,
-     49.474111
+     -123.242343,
+     49.473887
     ],
     "type": "Point"
    },
@@ -145593,44 +145669,6 @@
     "id": "11521",
     "name": "Northbound Fraser St @ E 60 Ave",
     "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.116549,
-     49.283461
-    ],
-    "type": "Point"
-   },
-   "id": "11525",
-   "properties": {
-    "code": "60993",
-    "desc": "",
-    "id": "11525",
-    "name": "Northbound Granville St @ Dunsmuir St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.115939,
-     49.284039
-    ],
-    "type": "Point"
-   },
-   "id": "11526",
-   "properties": {
-    "code": "50526",
-    "desc": "",
-    "id": "11526",
-    "name": "Southbound Granville St @ W Pender St",
-    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -152394,6 +152432,25 @@
     "desc": "",
     "id": "12071",
     "name": "Westbound Powell St @ Clark Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.043938,
+     49.285006
+    ],
+    "type": "Point"
+   },
+   "id": "12075",
+   "properties": {
+    "code": "61963",
+    "desc": "",
+    "id": "12075",
+    "name": "Northbound N Renfrew St @ Pne Coliseum Loop",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -159451,6 +159508,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.154256,
+     49.234486
+    ],
+    "type": "Point"
+   },
+   "id": "12631",
+   "properties": {
+    "code": "60386",
+    "desc": "",
+    "id": "12631",
+    "name": "Eastbound W 41 Ave @ East Blvd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.15479,
      49.234672
     ],
@@ -161210,6 +161286,25 @@
     "desc": "",
     "id": "12791",
     "name": "Westbound W Broadway @ Hemlock St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.046502,
+     49.244542
+    ],
+    "type": "Point"
+   },
+   "id": "12792",
+   "properties": {
+    "code": "61486",
+    "desc": "",
+    "id": "12792",
+    "name": "29th Avenue Station @ Unloading",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165474,25 +165569,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.711881,
-     49.128577
-    ],
-    "type": "Point"
-   },
-   "id": "13133",
-   "properties": {
-    "code": "62133",
-    "desc": "",
-    "id": "13133",
-    "name": "Westbound Fraser Hwy @ 184 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.178062,
      49.234843
     ],
@@ -165523,7 +165599,7 @@
     "desc": "",
     "id": "13136",
     "name": "Renfrew Station @ Bay 4",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -165550,8 +165626,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.491339,
-     49.289663
+     -122.491407,
+     49.289792
     ],
     "type": "Point"
    },
@@ -165626,44 +165702,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.101525,
-     49.236614
-    ],
-    "type": "Point"
-   },
-   "id": "13145",
-   "properties": {
-    "code": "61102",
-    "desc": "",
-    "id": "13145",
-    "name": "Northbound Main St @ E 38 Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.101783,
-     49.236106
-    ],
-    "type": "Point"
-   },
-   "id": "13146",
-   "properties": {
-    "code": "50251",
-    "desc": "",
-    "id": "13146",
-    "name": "Southbound Main St @ E 38 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.03863,
      49.281228
     ],
@@ -165713,25 +165751,6 @@
     "desc": "",
     "id": "13150",
     "name": "Eastbound E Hastings St @ Kaslo St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.152442,
-     49.234451
-    ],
-    "type": "Point"
-   },
-   "id": "13151",
-   "properties": {
-    "code": "60548",
-    "desc": "",
-    "id": "13151",
-    "name": "Eastbound W 41 Ave @ Maple St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165922,6 +165941,44 @@
     "desc": "",
     "id": "13164",
     "name": "Eastbound Marine Dr @ Royal Oak Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.077256,
+     49.26911
+    ],
+    "type": "Point"
+   },
+   "id": "13165",
+   "properties": {
+    "code": "62161",
+    "desc": "",
+    "id": "13165",
+    "name": "Northbound Clark Dr @ E 2nd Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.147318,
+     49.234375
+    ],
+    "type": "Point"
+   },
+   "id": "13166",
+   "properties": {
+    "code": "62156",
+    "desc": "",
+    "id": "13166",
+    "name": "Eastbound W 41st Ave @ Angus Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
