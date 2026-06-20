@@ -11280,7 +11280,7 @@
     "code": "50952",
     "desc": "",
     "id": "960",
-    "name": "Eastbound E Hastings St @ Lillooet St",
+    "name": "Eastbound E Hastings St @ Lillooet St Bay 5",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -11299,7 +11299,7 @@
     "code": "50953",
     "desc": "",
     "id": "961",
-    "name": "Eastbound E Hastings St @ Windermere St",
+    "name": "Eastbound E Hastings St @ Windermere St Bay 4",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -11394,7 +11394,7 @@
     "code": "50958",
     "desc": "",
     "id": "967",
-    "name": "Westbound E Hastings St @ Windermere St",
+    "name": "Westbound E Hastings St @ Windermere St Bay 2",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -13208,8 +13208,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.153044,
-     49.256461
+     -123.153073,
+     49.257003
     ],
     "type": "Point"
    },
@@ -22985,25 +22985,6 @@
     "desc": "",
     "id": "1766",
     "name": "Northbound Lillooet Rd @ 1000 Block",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.023477,
-     49.317472
-    ],
-    "type": "Point"
-   },
-   "id": "1767",
-   "properties": {
-    "code": "51753",
-    "desc": "",
-    "id": "1767",
-    "name": "Eastbound Purcell Way @ Lillooet Rd",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -59378,25 +59359,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.020749,
-     49.317678
-    ],
-    "type": "Point"
-   },
-   "id": "4473",
-   "properties": {
-    "code": "54423",
-    "desc": "",
-    "id": "4473",
-    "name": "Purcell Way @ Capilano University",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.081348,
      49.313517
     ],
@@ -77067,6 +77029,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.867696,
+     49.132255
+    ],
+    "type": "Point"
+   },
+   "id": "5627",
+   "properties": {
+    "code": "55572",
+    "desc": "",
+    "id": "5627",
+    "name": "Northbound 128 St @ 7100 Block",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.867711,
      49.134311
     ],
@@ -90709,44 +90690,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.158091,
-     49.170023
-    ],
-    "type": "Point"
-   },
-   "id": "6505",
-   "properties": {
-    "code": "56444",
-    "desc": "",
-    "id": "6505",
-    "name": "Eastbound Westminster Hwy @ No. 2 Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.156096,
-     49.170032
-    ],
-    "type": "Point"
-   },
-   "id": "6506",
-   "properties": {
-    "code": "56445",
-    "desc": "",
-    "id": "6506",
-    "name": "Eastbound Westminster Hwy @ 6300 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.15191,
      49.170063
     ],
@@ -103857,8 +103800,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.4648,
-     49.060417
+     -122.465505,
+     49.060434
     ],
     "type": "Point"
    },
@@ -109815,7 +109758,7 @@
     "desc": "",
     "id": "7754",
     "name": "Eastbound Maple Cres @ Dartford St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -141192,25 +141135,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.098063,
-     49.039498
-    ],
-    "type": "Point"
-   },
-   "id": "11144",
-   "properties": {
-    "code": "61225",
-    "desc": "",
-    "id": "11144",
-    "name": "Southbound Tsawwassen Dr N @ 1900 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.811664,
      49.119023
     ],
@@ -141337,25 +141261,6 @@
     "id": "11153",
     "name": "Eastbound 64 Ave @ 138 St",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.097914,
-     49.039553
-    ],
-    "type": "Point"
-   },
-   "id": "11154",
-   "properties": {
-    "code": "61226",
-    "desc": "",
-    "id": "11154",
-    "name": "Northbound Tsawwassen Dr N @ 1900 Block",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -149354,6 +149259,25 @@
     "desc": "",
     "id": "11831",
     "name": "Westbound 56 Ave @ 128 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.691408,
+     49.053205
+    ],
+    "type": "Point"
+   },
+   "id": "11839",
+   "properties": {
+    "code": "61643",
+    "desc": "",
+    "id": "11839",
+    "name": "Northbound 192 St @ 28 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -161864,25 +161788,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.021073,
-     49.317665
-    ],
-    "type": "Point"
-   },
-   "id": "12837",
-   "properties": {
-    "code": "51754",
-    "desc": "",
-    "id": "12837",
-    "name": "Westbound Purcell Way @ Skeena Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.945529,
      49.261367
     ],
@@ -162255,6 +162160,25 @@
     "desc": "",
     "id": "12873",
     "name": "Westbound SE Marine Dr @ Knight St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.106429,
+     49.262959
+    ],
+    "type": "Point"
+   },
+   "id": "12877",
+   "properties": {
+    "code": "60613",
+    "desc": "",
+    "id": "12877",
+    "name": "Eastbound W Broadway @ Manitoba St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165617,7 +165541,7 @@
     "code": "61467",
     "desc": "",
     "id": "13137",
-    "name": "Westbound E Hastings St @ Windermere St",
+    "name": "Westbound E Hastings St @ Windermere St Bay 3",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165712,7 +165636,7 @@
     "code": "61466",
     "desc": "",
     "id": "13148",
-    "name": "Westbound E Hastings St @ Lillooet St",
+    "name": "Westbound E Hastings St @ Lillooet St Bay1",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165979,6 +165903,25 @@
     "desc": "",
     "id": "13166",
     "name": "Eastbound W 41st Ave @ Angus Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.669506,
+     49.046062
+    ],
+    "type": "Point"
+   },
+   "id": "13167",
+   "properties": {
+    "code": "58643",
+    "desc": "",
+    "id": "13167",
+    "name": "Southbound 200 St @ 24 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
