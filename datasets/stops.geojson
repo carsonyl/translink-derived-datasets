@@ -4734,8 +4734,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115252,
-     49.256555
+     -123.115226,
+     49.25653
     ],
     "type": "Point"
    },
@@ -6208,25 +6208,6 @@
     "desc": "",
     "id": "576",
     "name": "Westbound W 10 Ave @ Wallace St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.194468,
-     49.263683
-    ],
-    "type": "Point"
-   },
-   "id": "577",
-   "properties": {
-    "code": "50572",
-    "desc": "",
-    "id": "577",
-    "name": "Westbound W 10 Ave @ Crown St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -11167,6 +11148,25 @@
     "desc": "",
     "id": "952",
     "name": "Eastbound E Hastings St @ Victoria Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.061265,
+     49.281063
+    ],
+    "type": "Point"
+   },
+   "id": "953",
+   "properties": {
+    "code": "50945",
+    "desc": "",
+    "id": "953",
+    "name": "Eastbound E Hastings St @ Lakewood Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -26538,7 +26538,7 @@
     "desc": "",
     "id": "2100",
     "name": "Northbound Garden City Rd @ Odlin Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -26785,7 +26785,7 @@
     "desc": "",
     "id": "2132",
     "name": "Eastbound Miller Rd @ Aurora Connector",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -70284,44 +70284,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.811885,
-     49.198633
-    ],
-    "type": "Point"
-   },
-   "id": "5176",
-   "properties": {
-    "code": "55124",
-    "desc": "",
-    "id": "5176",
-    "name": "Eastbound 108 Ave @ 148 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.80821,
-     49.198663
-    ],
-    "type": "Point"
-   },
-   "id": "5177",
-   "properties": {
-    "code": "55125",
-    "desc": "",
-    "id": "5177",
-    "name": "Eastbound 108 Ave @ Oriole Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.806329,
      49.197569
     ],
@@ -112160,17 +112122,17 @@
   {
    "geometry": {
     "coordinates": [
-     -122.455018,
-     49.174357
+     -122.444274,
+     49.174293
     ],
     "type": "Point"
    },
-   "id": "7927",
+   "id": "7926",
    "properties": {
-    "code": "57853",
+    "code": "57852",
     "desc": "",
-    "id": "7927",
-    "name": "(Westbound Lougheed Hwy In 27500-Block Area) (Flag)",
+    "id": "7926",
+    "name": "Southbound 280 St @ Lougheed Hwy",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -112179,17 +112141,17 @@
   {
    "geometry": {
     "coordinates": [
-     -122.46567,
-     49.174256
+     -122.474227,
+     49.173732
     ],
     "type": "Point"
    },
-   "id": "7928",
+   "id": "7929",
    "properties": {
-    "code": "57854",
+    "code": "57855",
     "desc": "",
-    "id": "7928",
-    "name": "(Westbound Lougheed Hwy In 27300-Block Area) (Flag)",
+    "id": "7929",
+    "name": "Eastbound River Rd @ 27000 Blk",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -162168,25 +162130,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.106429,
-     49.262959
-    ],
-    "type": "Point"
-   },
-   "id": "12877",
-   "properties": {
-    "code": "60613",
-    "desc": "",
-    "id": "12877",
-    "name": "Eastbound W Broadway @ Manitoba St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.182682,
      49.342252
     ],
@@ -165923,6 +165866,44 @@
     "id": "13167",
     "name": "Southbound 200 St @ 24 Ave",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.10637,
+     49.262968
+    ],
+    "type": "Point"
+   },
+   "id": "13168",
+   "properties": {
+    "code": "50877",
+    "desc": "",
+    "id": "13168",
+    "name": "Eastbound W Broadway @ Manitoba St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.121844,
+     49.331303
+    ],
+    "type": "Point"
+   },
+   "id": "13169",
+   "properties": {
+    "code": "62056",
+    "desc": "",
+    "id": "13169",
+    "name": "Eastbound Keith Rd @ 3rd St",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
