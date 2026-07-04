@@ -4753,8 +4753,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115282,
-     49.254674
+     -123.115271,
+     49.254595
     ],
     "type": "Point"
    },
@@ -60594,44 +60594,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.091252,
-     49.323806
-    ],
-    "type": "Point"
-   },
-   "id": "4566",
-   "properties": {
-    "code": "54514",
-    "desc": "",
-    "id": "4566",
-    "name": "Southbound Bewicke Ave @ Larson Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.091428,
-     49.320882
-    ],
-    "type": "Point"
-   },
-   "id": "4567",
-   "properties": {
-    "code": "54515",
-    "desc": "",
-    "id": "4567",
-    "name": "Southbound Bewicke Ave @ W 14 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.082912,
      49.310742
     ],
@@ -66959,6 +66921,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.895023,
+     49.177071
+    ],
+    "type": "Point"
+   },
+   "id": "4960",
+   "properties": {
+    "code": "54908",
+    "desc": "",
+    "id": "4960",
+    "name": "Eastbound 96 Ave @ 118 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.889399,
      49.177023
     ],
@@ -67122,6 +67103,44 @@
     "desc": "",
     "id": "4971",
     "name": "Southbound Scott Rd @ 99 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.890965,
+     49.177231
+    ],
+    "type": "Point"
+   },
+   "id": "4972",
+   "properties": {
+    "code": "54920",
+    "desc": "",
+    "id": "4972",
+    "name": "Westbound 96 Ave @ Scott Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.896846,
+     49.177194
+    ],
+    "type": "Point"
+   },
+   "id": "4973",
+   "properties": {
+    "code": "54921",
+    "desc": "",
+    "id": "4973",
+    "name": "Westbound 96 Ave @ 117B St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -67464,25 +67483,6 @@
     "desc": "",
     "id": "4994",
     "name": "Northbound 122 St @ 7300 Block",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.899756,
-     49.185497
-    ],
-    "type": "Point"
-   },
-   "id": "4997",
-   "properties": {
-    "code": "54945",
-    "desc": "",
-    "id": "4997",
-    "name": "Westbound Grace Rd @ 117 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -68928,44 +68928,6 @@
     "id": "5088",
     "name": "Eastbound River Rd @ Knudson Rd",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.910786,
-     49.179002
-    ],
-    "type": "Point"
-   },
-   "id": "5089",
-   "properties": {
-    "code": "55037",
-    "desc": "",
-    "id": "5089",
-    "name": "Eastbound River Rd @ Regal Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.906627,
-     49.18249
-    ],
-    "type": "Point"
-   },
-   "id": "5090",
-   "properties": {
-    "code": "55038",
-    "desc": "",
-    "id": "5090",
-    "name": "Eastbound River Rd @ Millar Rd",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -94425,7 +94387,7 @@
     "desc": "",
     "id": "6757",
     "name": "Eastbound Westminster Hwy @ 11000 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -101189,7 +101151,7 @@
     "desc": "",
     "id": "7178",
     "name": "Eastbound 40 Ave @ 200A St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -101474,6 +101436,25 @@
     "desc": "",
     "id": "7207",
     "name": "Langley Centre @ Bay 2",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.681102,
+     49.11457
+    ],
+    "type": "Point"
+   },
+   "id": "7209",
+   "properties": {
+    "code": "57138",
+    "desc": "",
+    "id": "7209",
+    "name": "Westbound Fraser Hwy @ 195A St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -109272,8 +109253,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.648351,
-     49.220592
+     -122.649362,
+     49.220591
     ],
     "type": "Point"
    },
@@ -109282,7 +109263,7 @@
     "code": "57648",
     "desc": "",
     "id": "7721",
-    "name": "Westbound Dewdney Trunk Rd @ 207 St",
+    "name": "Westbound Dewdney Trunk Rd @ 206B St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -110517,7 +110498,7 @@
     "code": "57727",
     "desc": "",
     "id": "7801",
-    "name": "Northbound 203 St @ Hammond Rd",
+    "name": "Northbound 203 St @ Maple Cres",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -120987,25 +120968,6 @@
     "desc": "",
     "id": "9019",
     "name": "Eastbound Fraser Hwy @ Fleetwood Way",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.67703,
-     49.112799
-    ],
-    "type": "Point"
-   },
-   "id": "9020",
-   "properties": {
-    "code": "58591",
-    "desc": "",
-    "id": "9020",
-    "name": "Westbound Fraser Hwy @ 196A St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -138057,63 +138019,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.891384,
-     49.190713
-    ],
-    "type": "Point"
-   },
-   "id": "10897",
-   "properties": {
-    "code": "61048",
-    "desc": "",
-    "id": "10897",
-    "name": "Westbound 103A Ave @ Scott Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.892576,
-     49.190547
-    ],
-    "type": "Point"
-   },
-   "id": "10898",
-   "properties": {
-    "code": "61049",
-    "desc": "",
-    "id": "10898",
-    "name": "Eastbound 103A Ave @ Grace Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.893989,
-     49.190228
-    ],
-    "type": "Point"
-   },
-   "id": "10899",
-   "properties": {
-    "code": "61050",
-    "desc": "",
-    "id": "10899",
-    "name": "Westbound Grace Rd @ 103A Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.781829,
      49.041661
     ],
@@ -138220,25 +138125,6 @@
     "desc": "",
     "id": "10917",
     "name": "Eastbound Anderson Rd @ Buswell St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.895558,
-     49.188663
-    ],
-    "type": "Point"
-   },
-   "id": "10918",
-   "properties": {
-    "code": "61052",
-    "desc": "",
-    "id": "10918",
-    "name": "Eastbound Grace Rd @ 10200 Block",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -140500,25 +140386,6 @@
     "desc": "",
     "id": "11104",
     "name": "Eastbound Government St @ Halston Court",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.896174,
-     49.188432
-    ],
-    "type": "Point"
-   },
-   "id": "11107",
-   "properties": {
-    "code": "61051",
-    "desc": "",
-    "id": "11107",
-    "name": "Westbound Grace Rd @ 10200 Block",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -150065,25 +149932,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.812711,
-     49.133833
-    ],
-    "type": "Point"
-   },
-   "id": "11910",
-   "properties": {
-    "code": "61797",
-    "desc": "",
-    "id": "11910",
-    "name": "Westbound 72 Ave @ 148 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.927079,
      49.214252
     ],
@@ -151920,25 +151768,6 @@
     "id": "12040",
     "name": "Eastbound Cornwall Ave @ Trafalgar St",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.907299,
-     49.182283
-    ],
-    "type": "Point"
-   },
-   "id": "12041",
-   "properties": {
-    "code": "59373",
-    "desc": "",
-    "id": "12041",
-    "name": "Westbound River Rd @ Millar Rd",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158539,25 +158368,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.898602,
-     49.186221
-    ],
-    "type": "Point"
-   },
-   "id": "12534",
-   "properties": {
-    "code": "59372",
-    "desc": "",
-    "id": "12534",
-    "name": "Eastbound Grace Rd @ 117 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.11824,
      49.28102
     ],
@@ -161230,25 +161040,6 @@
     "id": "12794",
     "name": "Southbound Scott Rd @ 96 Ave",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.900402,
-     49.170503
-    ],
-    "type": "Point"
-   },
-   "id": "12795",
-   "properties": {
-    "code": "60550",
-    "desc": "",
-    "id": "12795",
-    "name": "Eastbound 92 Ave @ 116 St",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -165569,8 +165360,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.03863,
-     49.281228
+     -123.040983,
+     49.281234
     ],
     "type": "Point"
    },
@@ -165579,7 +165370,7 @@
     "code": "61466",
     "desc": "",
     "id": "13148",
-    "name": "Westbound E Hastings St @ Lillooet St Bay1",
+    "name": "Westbound E Hastings St @ Lillooet St Bay 1",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
