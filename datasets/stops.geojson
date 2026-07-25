@@ -11299,7 +11299,7 @@
     "code": "50952",
     "desc": "",
     "id": "960",
-    "name": "Eastbound E Hastings St @ Lillooet St Bay 5",
+    "name": "Eastbound E Hastings St @ Lillooet St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -11318,7 +11318,7 @@
     "code": "50953",
     "desc": "",
     "id": "961",
-    "name": "Eastbound E Hastings St @ Windermere St Bay 4",
+    "name": "Eastbound E Hastings St @ Windermere St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -11413,7 +11413,7 @@
     "code": "50958",
     "desc": "",
     "id": "967",
-    "name": "Westbound E Hastings St @ Windermere St Bay 2",
+    "name": "Westbound E Hastings St @ Windermere St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -51531,25 +51531,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.808979,
-     49.297486
-    ],
-    "type": "Point"
-   },
-   "id": "3965",
-   "properties": {
-    "code": "53924",
-    "desc": "",
-    "id": "3965",
-    "name": "Eastbound Panorama Dr @ Parkway Blvd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.802121,
      49.29652
     ],
@@ -78579,7 +78560,7 @@
     "desc": "",
     "id": "5724",
     "name": "Southbound 132 St @ 98 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -123940,25 +123921,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.809782,
-     49.297586
-    ],
-    "type": "Point"
-   },
-   "id": "9311",
-   "properties": {
-    "code": "58839",
-    "desc": "",
-    "id": "9311",
-    "name": "Westbound Panorama Dr @ Parkway Blvd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.817413,
      49.296534
     ],
@@ -149856,6 +149818,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.812711,
+     49.133833
+    ],
+    "type": "Point"
+   },
+   "id": "11910",
+   "properties": {
+    "code": "61797",
+    "desc": "",
+    "id": "11910",
+    "name": "Westbound 72 Ave @ 148 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.927079,
      49.214252
     ],
@@ -152858,6 +152839,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.818323,
+     49.133818
+    ],
+    "type": "Point"
+   },
+   "id": "12152",
+   "properties": {
+    "code": "61902",
+    "desc": "",
+    "id": "12152",
+    "name": "Westbound 72 Ave @ 146 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.993088,
      49.169174
     ],
@@ -154219,25 +154219,6 @@
     "id": "12244",
     "name": "Westbound Foster Ave @ Aspen St",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.886632,
-     49.256704
-    ],
-    "type": "Point"
-   },
-   "id": "12245",
-   "properties": {
-    "code": "58186",
-    "desc": "",
-    "id": "12245",
-    "name": "Eastbound Foster Ave @ Aspen St",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
