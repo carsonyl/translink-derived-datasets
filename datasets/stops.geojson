@@ -56976,7 +56976,7 @@
     "desc": "",
     "id": "4321",
     "name": "Southbound Lonsdale Ave @ Kensington Cres",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -66534,25 +66534,6 @@
     "id": "4945",
     "name": "Northbound 112 St @ Bridlington Dr",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.912483,
-     49.145667
-    ],
-    "type": "Point"
-   },
-   "id": "4946",
-   "properties": {
-    "code": "54894",
-    "desc": "",
-    "id": "4946",
-    "name": "Northbound 112 St @ 78A Ave",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -93076,7 +93057,7 @@
     "desc": "",
     "id": "6688",
     "name": "Southbound No. 3 Rd @ Francis Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -165638,6 +165619,25 @@
     "id": "13185",
     "name": "Southbound Garden City Rd @ Capstan Way",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.09148,
+     49.324188
+    ],
+    "type": "Point"
+   },
+   "id": "13186",
+   "properties": {
+    "code": "62168",
+    "desc": "",
+    "id": "13186",
+    "name": "Westbound Larson Rd @ Bewicke Ave",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
