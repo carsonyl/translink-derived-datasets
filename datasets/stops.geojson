@@ -24209,25 +24209,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.044803,
-     49.207748
-    ],
-    "type": "Point"
-   },
-   "id": "1851",
-   "properties": {
-    "code": "51837",
-    "desc": "",
-    "id": "1851",
-    "name": "Eastbound SE Marine Dr @ Kerr St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.035248,
      49.208333
     ],
@@ -41167,7 +41148,7 @@
     "code": "53134",
     "desc": "",
     "id": "3167",
-    "name": "Eastbound Washington Dr @ 800 Block",
+    "name": "Eastbound Washington Dr @ 830 Block",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -41908,7 +41889,7 @@
     "code": "53195",
     "desc": "",
     "id": "3229",
-    "name": "Westbound Washington Dr @ 800 Block",
+    "name": "Westbound Washington Dr @ 830 Block",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -66534,6 +66515,25 @@
     "id": "4945",
     "name": "Northbound 112 St @ Bridlington Dr",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.912483,
+     49.145667
+    ],
+    "type": "Point"
+   },
+   "id": "4946",
+   "properties": {
+    "code": "54894",
+    "desc": "",
+    "id": "4946",
+    "name": "Northbound 112 St @ 78A Ave",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -122097,6 +122097,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.780733,
+     49.29401
+    ],
+    "type": "Point"
+   },
+   "id": "9134",
+   "properties": {
+    "code": "58815",
+    "desc": "",
+    "id": "9134",
+    "name": "Southbound Pipeline Rd @ Dayanee Springs Blvd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.140711,
      49.20811
     ],
@@ -122982,6 +123001,25 @@
     "desc": "",
     "id": "9232",
     "name": "Northbound Pinetree Way @ Pinewood Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.780129,
+     49.294697
+    ],
+    "type": "Point"
+   },
+   "id": "9233",
+   "properties": {
+    "code": "58816",
+    "desc": "",
+    "id": "9233",
+    "name": "Northbound Pipeline Rd @ El Casa Court",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -128462,8 +128500,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.997189,
-     49.224817
+     -122.997214,
+     49.224834
     ],
     "type": "Point"
    },
@@ -133136,8 +133174,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.116344,
-     49.285048
+     -123.116738,
+     49.284811
     ],
     "type": "Point"
    },
@@ -165638,6 +165676,25 @@
     "id": "13186",
     "name": "Westbound Larson Rd @ Bewicke Ave",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.041373,
+     49.208067
+    ],
+    "type": "Point"
+   },
+   "id": "13189",
+   "properties": {
+    "code": "62059",
+    "desc": "",
+    "id": "13189",
+    "name": "Eastbound SE Marine Dr @ Kerr St",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
