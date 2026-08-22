@@ -2036,6 +2036,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.119551,
+     49.28128
+    ],
+    "type": "Point"
+   },
+   "id": "193",
+   "properties": {
+    "code": "59040",
+    "desc": "",
+    "id": "193",
+    "name": "Westbound Robson St @ Granville St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.128633,
      49.234081
     ],
@@ -23069,6 +23088,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.023477,
+     49.317472
+    ],
+    "type": "Point"
+   },
+   "id": "1767",
+   "properties": {
+    "code": "51753",
+    "desc": "",
+    "id": "1767",
+    "name": "Eastbound Purcell Way @ Lillooet Rd",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.024083,
      49.317205
     ],
@@ -30433,25 +30471,6 @@
     "desc": "",
     "id": "2426",
     "name": "Eastbound Kingsway @ Arcola St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.964089,
-     49.218308
-    ],
-    "type": "Point"
-   },
-   "id": "2427",
-   "properties": {
-    "code": "52403",
-    "desc": "",
-    "id": "2427",
-    "name": "Eastbound Kingsway @ Sperling Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -42373,8 +42392,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.846162,
-     49.291117
+     -122.846205,
+     49.291119
     ],
     "type": "Point"
    },
@@ -59207,6 +59226,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.020749,
+     49.317678
+    ],
+    "type": "Point"
+   },
+   "id": "4473",
+   "properties": {
+    "code": "54423",
+    "desc": "",
+    "id": "4473",
+    "name": "Purcell Way @ Capilano University",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.081348,
      49.313517
     ],
@@ -70094,6 +70132,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.811885,
+     49.198633
+    ],
+    "type": "Point"
+   },
+   "id": "5176",
+   "properties": {
+    "code": "55124",
+    "desc": "",
+    "id": "5176",
+    "name": "Eastbound 108 Ave @ 148 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.806329,
      49.197569
     ],
@@ -78769,7 +78826,7 @@
     "desc": "",
     "id": "5734",
     "name": "Southbound 132 St @ 80 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -135093,8 +135150,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.705308,
-     49.125427
+     -122.702506,
+     49.12417
     ],
     "type": "Point"
    },
@@ -143548,8 +143605,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.178254,
-     49.194152
+     -123.178108,
+     49.194177
     ],
     "type": "Point"
    },
@@ -144688,6 +144745,63 @@
   {
    "geometry": {
     "coordinates": [
+     -123.127092,
+     49.276487
+    ],
+    "type": "Point"
+   },
+   "id": "11426",
+   "properties": {
+    "code": "58593",
+    "desc": "",
+    "id": "11426",
+    "name": "Northbound Granville St @ Drake St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.126905,
+     49.276786
+    ],
+    "type": "Point"
+   },
+   "id": "11427",
+   "properties": {
+    "code": "50535",
+    "desc": "",
+    "id": "11427",
+    "name": "Southbound Granville St @ Davie St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.125372,
+     49.277584
+    ],
+    "type": "Point"
+   },
+   "id": "11429",
+   "properties": {
+    "code": "50220",
+    "desc": "",
+    "id": "11429",
+    "name": "Northbound Granville St @ Davie St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.678408,
      49.210159
     ],
@@ -144947,6 +145061,44 @@
     "id": "11473",
     "name": "Northbound Burrard St @ W 3rd Ave",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.123712,
+     49.278877
+    ],
+    "type": "Point"
+   },
+   "id": "11474",
+   "properties": {
+    "code": "50533",
+    "desc": "",
+    "id": "11474",
+    "name": "Southbound Granville St @ Nelson St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.128375,
+     49.275854
+    ],
+    "type": "Point"
+   },
+   "id": "11475",
+   "properties": {
+    "code": "50536",
+    "desc": "",
+    "id": "11475",
+    "name": "Southbound Granville St @ Drake St",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -145391,6 +145543,120 @@
   {
    "geometry": {
     "coordinates": [
+     -123.119373,
+     49.28172
+    ],
+    "type": "Point"
+   },
+   "id": "11522",
+   "properties": {
+    "code": "61292",
+    "desc": "",
+    "id": "11522",
+    "name": "Southbound Granville St @ Robson St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.118291,
+     49.282317
+    ],
+    "type": "Point"
+   },
+   "id": "11523",
+   "properties": {
+    "code": "61293",
+    "desc": "",
+    "id": "11523",
+    "name": "Northbound Granville St @ W Georgia St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.117951,
+     49.28266
+    ],
+    "type": "Point"
+   },
+   "id": "11524",
+   "properties": {
+    "code": "60980",
+    "desc": "",
+    "id": "11524",
+    "name": "Southbound Granville St @ W Georgia St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.116549,
+     49.283461
+    ],
+    "type": "Point"
+   },
+   "id": "11525",
+   "properties": {
+    "code": "60993",
+    "desc": "",
+    "id": "11525",
+    "name": "Northbound Granville St @ Dunsmuir St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.115939,
+     49.284039
+    ],
+    "type": "Point"
+   },
+   "id": "11526",
+   "properties": {
+    "code": "50526",
+    "desc": "",
+    "id": "11526",
+    "name": "Southbound Granville St @ W Pender St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.11335,
+     49.285553
+    ],
+    "type": "Point"
+   },
+   "id": "11527",
+   "properties": {
+    "code": "50034",
+    "desc": "",
+    "id": "11527",
+    "name": "Northbound Granville St @ W Hastings St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.100263,
      49.280462
     ],
@@ -145402,6 +145668,25 @@
     "desc": "",
     "id": "11529",
     "name": "Westbound E Pender St @ Main St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.120537,
+     49.280784
+    ],
+    "type": "Point"
+   },
+   "id": "11532",
+   "properties": {
+    "code": "58144",
+    "desc": "",
+    "id": "11532",
+    "name": "Northbound Granville St @ Smithe St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -146562,6 +146847,25 @@
     "id": "11615",
     "name": "Westbound Canada Way @ Smith Ave",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.114994,
+     49.284493
+    ],
+    "type": "Point"
+   },
+   "id": "11616",
+   "properties": {
+    "code": "58313",
+    "desc": "",
+    "id": "11616",
+    "name": "Northbound Granville St @ W Pender St",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -148575,6 +148879,25 @@
     "desc": "",
     "id": "11788",
     "name": "Bridgeport Station @ Bay 6",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.248724,
+     49.265726
+    ],
+    "type": "Point"
+   },
+   "id": "11792",
+   "properties": {
+    "code": "58895",
+    "desc": "",
+    "id": "11792",
+    "name": "UBC Exchange @ Bay 9",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -152193,8 +152516,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.845367,
-     49.290987
+     -122.845321,
+     49.290997
     ],
     "type": "Point"
    },
@@ -152585,6 +152908,25 @@
     "id": "12108",
     "name": "Westbound Dunn Ave @ Maple Meadows Way",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.003141,
+     49.2258
+    ],
+    "type": "Point"
+   },
+   "id": "12109",
+   "properties": {
+    "code": "59546",
+    "desc": "",
+    "id": "12109",
+    "name": "Metrotown Station @ Bay 15",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158368,8 +158710,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115153,
-     49.261616
+     -123.115138,
+     49.261914
     ],
     "type": "Point"
    },
@@ -161446,6 +161788,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.021073,
+     49.317665
+    ],
+    "type": "Point"
+   },
+   "id": "12837",
+   "properties": {
+    "code": "51754",
+    "desc": "",
+    "id": "12837",
+    "name": "Westbound Purcell Way @ Skeena Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.945529,
      49.261367
     ],
@@ -161743,6 +162104,25 @@
     "id": "12856",
     "name": "(Eastbound Bedwell Bay Rd In Crystal Creek Dr Area) (Flag)",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.025991,
+     49.281036
+    ],
+    "type": "Point"
+   },
+   "id": "12857",
+   "properties": {
+    "code": "60600",
+    "desc": "",
+    "id": "12857",
+    "name": "Kootenay Loop @ Bay 9",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -165341,6 +165721,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.488383,
+     49.103082
+    ],
+    "type": "Point"
+   },
+   "id": "13155",
+   "properties": {
+    "code": "62147",
+    "desc": "",
+    "id": "13155",
+    "name": "Westbound Gloucester Way @ 56 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.645653,
      49.138737
     ],
@@ -165352,25 +165751,6 @@
     "desc": "",
     "id": "13156",
     "name": "Northbound 208 St @ 74B Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.701139,
-     49.123547
-    ],
-    "type": "Point"
-   },
-   "id": "13157",
-   "properties": {
-    "code": "62157",
-    "desc": "",
-    "id": "13157",
-    "name": "Westbound Fraser Hwy @ 188 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165446,7 +165826,7 @@
     "code": "62123",
     "desc": "",
     "id": "13163",
-    "name": "Westbound Marine Drive @ Macpherson Ave",
+    "name": "Westbound Marine Drive @ 5400 Block",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165465,7 +165845,7 @@
     "code": "62124",
     "desc": "",
     "id": "13164",
-    "name": "Eastbound Marine Dr @ Royal Oak Ave",
+    "name": "Eastbound Marine Dr @ 5400 Block",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165588,6 +165968,215 @@
   {
    "geometry": {
     "coordinates": [
+     -122.487608,
+     49.103695
+    ],
+    "type": "Point"
+   },
+   "id": "13171",
+   "properties": {
+    "code": "62135",
+    "desc": "",
+    "id": "13171",
+    "name": "Eastbound 56 Ave @ Gloucester Way",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.481175,
+     49.103569
+    ],
+    "type": "Point"
+   },
+   "id": "13172",
+   "properties": {
+    "code": "62138",
+    "desc": "",
+    "id": "13172",
+    "name": "Eastbound 56 Ave @ 268 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.469946,
+     49.103341
+    ],
+    "type": "Point"
+   },
+   "id": "13173",
+   "properties": {
+    "code": "62139",
+    "desc": "",
+    "id": "13173",
+    "name": "Eastbound 56 Ave @ 272 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.461837,
+     49.103009
+    ],
+    "type": "Point"
+   },
+   "id": "13174",
+   "properties": {
+    "code": "62140",
+    "desc": "",
+    "id": "13174",
+    "name": "Southbound 275 St @ 56 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.462343,
+     49.097362
+    ],
+    "type": "Point"
+   },
+   "id": "13175",
+   "properties": {
+    "code": "62141",
+    "desc": "",
+    "id": "13175",
+    "name": "Southbound 275 St @ Gloucester Way",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.462195,
+     49.093523
+    ],
+    "type": "Point"
+   },
+   "id": "13176",
+   "properties": {
+    "code": "62142",
+    "desc": "",
+    "id": "13176",
+    "name": "Southbound 275 St @ 50 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.46211,
+     49.09068
+    ],
+    "type": "Point"
+   },
+   "id": "13177",
+   "properties": {
+    "code": "62143",
+    "desc": "",
+    "id": "13177",
+    "name": "Southbound 275 St @ 48 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.470496,
+     49.095156
+    ],
+    "type": "Point"
+   },
+   "id": "13178",
+   "properties": {
+    "code": "62144",
+    "desc": "",
+    "id": "13178",
+    "name": "Northbound 272 St @ 5100 Blk",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.471668,
+     49.09814
+    ],
+    "type": "Point"
+   },
+   "id": "13179",
+   "properties": {
+    "code": "62145",
+    "desc": "",
+    "id": "13179",
+    "name": "Westbound Gloucester Way @ 272 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.4794,
+     49.099165
+    ],
+    "type": "Point"
+   },
+   "id": "13180",
+   "properties": {
+    "code": "62149",
+    "desc": "",
+    "id": "13180",
+    "name": "Westbound Gloucester Way @ 26900 Blk",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.483194,
+     49.100673
+    ],
+    "type": "Point"
+   },
+   "id": "13181",
+   "properties": {
+    "code": "62146",
+    "desc": "",
+    "id": "13181",
+    "name": "Westbound Gloucester Way @ 268 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.916419,
      49.224884
     ],
@@ -165683,6 +166272,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.003505,
+     49.24404
+    ],
+    "type": "Point"
+   },
+   "id": "13187",
+   "properties": {
+    "code": "59036",
+    "desc": "",
+    "id": "13187",
+    "name": "Southbound Willingdon Ave @ Moscrop St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.041373,
      49.208067
     ],
@@ -165694,6 +166302,25 @@
     "desc": "",
     "id": "13189",
     "name": "Eastbound SE Marine Dr @ Kerr St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.741425,
+     49.252668
+    ],
+    "type": "Point"
+   },
+   "id": "13190",
+   "properties": {
+    "code": "61940",
+    "desc": "",
+    "id": "13190",
+    "name": "Eastbound Lougheed Hwy @ Sherling Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
