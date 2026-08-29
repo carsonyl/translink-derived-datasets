@@ -12448,6 +12448,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.044459,
+     49.262644
+    ],
+    "type": "Point"
+   },
+   "id": "1054",
+   "properties": {
+    "code": "51045",
+    "desc": "",
+    "id": "1054",
+    "name": "Southbound Renfrew St @ E 8th Ave",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.04446,
      49.261461
     ],
@@ -51550,6 +51569,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.808979,
+     49.297486
+    ],
+    "type": "Point"
+   },
+   "id": "3965",
+   "properties": {
+    "code": "53924",
+    "desc": "",
+    "id": "3965",
+    "name": "Eastbound Panorama Dr @ Parkway Blvd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.802121,
      49.29652
     ],
@@ -76128,7 +76166,7 @@
     "desc": "",
     "id": "5580",
     "name": "Northbound 132 St @ Hwy 10",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -83082,7 +83120,7 @@
     "desc": "",
     "id": "5980",
     "name": "Westbound 108 Ave @ 164 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -124016,6 +124054,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.809782,
+     49.297586
+    ],
+    "type": "Point"
+   },
+   "id": "9311",
+   "properties": {
+    "code": "58839",
+    "desc": "",
+    "id": "9311",
+    "name": "Westbound Panorama Dr @ Parkway Blvd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.817413,
      49.296534
     ],
@@ -146037,6 +146094,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.110698,
+     49.282056
+    ],
+    "type": "Point"
+   },
+   "id": "11554",
+   "properties": {
+    "code": "61520",
+    "desc": "",
+    "id": "11554",
+    "name": "Westbound W Pender St @ Hamilton St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.785177,
      49.292774
     ],
@@ -147082,25 +147158,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.11137,
-     49.282472
-    ],
-    "type": "Point"
-   },
-   "id": "11638",
-   "properties": {
-    "code": "50094",
-    "desc": "",
-    "id": "11638",
-    "name": "Westbound W Pender St @ Hamilton St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.121059,
      49.325441
     ],
@@ -147226,25 +147283,6 @@
     "desc": "",
     "id": "11646",
     "name": "Westbound W Hastings St @ Abbott St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.862739,
-     49.23874
-    ],
-    "type": "Point"
-   },
-   "id": "11651",
-   "properties": {
-    "code": "53384",
-    "desc": "",
-    "id": "11651",
-    "name": "Westbound Brunette Ave @ Marmont St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -149476,6 +149514,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.898435,
+     49.212701
+    ],
+    "type": "Point"
+   },
+   "id": "11846",
+   "properties": {
+    "code": "61676",
+    "desc": "",
+    "id": "11846",
+    "name": "Eastbound E Royal Ave @ McBride Blvd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.660614,
      49.164206
     ],
@@ -150417,7 +150474,7 @@
     "code": "61553",
     "desc": "",
     "id": "11929",
-    "name": "Eastbound W 3rd St @ Bewicke Ave",
+    "name": "Eastbound Marine Dr @ Bewicke Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165854,25 +165911,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.077256,
-     49.26911
-    ],
-    "type": "Point"
-   },
-   "id": "13165",
-   "properties": {
-    "code": "62161",
-    "desc": "",
-    "id": "13165",
-    "name": "Northbound Clark Dr @ E 2nd Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.147318,
      49.234375
     ],
@@ -165942,25 +165980,6 @@
     "id": "13169",
     "name": "Eastbound Keith Rd @ 3rd St",
     "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.898516,
-     49.213945
-    ],
-    "type": "Point"
-   },
-   "id": "13170",
-   "properties": {
-    "code": "62163",
-    "desc": "",
-    "id": "13170",
-    "name": "Westbound E Royal Ave @ Ross Dr",
-    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166264,7 +166283,7 @@
     "desc": "",
     "id": "13186",
     "name": "Westbound Larson Rd @ Bewicke Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166284,6 +166303,25 @@
     "id": "13187",
     "name": "Southbound Willingdon Ave @ Moscrop St",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.018301,
+     49.232771
+    ],
+    "type": "Point"
+   },
+   "id": "13188",
+   "properties": {
+    "code": "62169",
+    "desc": "",
+    "id": "13188",
+    "name": "Westbound Kingsway @ Smith Ave",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
