@@ -2625,25 +2625,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.101715,
-     49.23788
-    ],
-    "type": "Point"
-   },
-   "id": "252",
-   "properties": {
-    "code": "50250",
-    "desc": "",
-    "id": "252",
-    "name": "Southbound Main St @ E 36 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.101913,
      49.232967
     ],
@@ -6246,6 +6227,25 @@
     "desc": "",
     "id": "576",
     "name": "Westbound W 10 Ave @ Wallace St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.194468,
+     49.263683
+    ],
+    "type": "Point"
+   },
+   "id": "577",
+   "properties": {
+    "code": "50572",
+    "desc": "",
+    "id": "577",
+    "name": "Westbound W 10 Ave @ Crown St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -35258,7 +35258,7 @@
     "code": "52739",
     "desc": "",
     "id": "2764",
-    "name": "Northbound Willingdon Ave @ Deer Lake Parkway",
+    "name": "Northbound Willingdon Ave @ Moscrop St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -36019,7 +36019,7 @@
     "desc": "",
     "id": "2827",
     "name": "Northbound Gilmore Ave @ 1st Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -134447,6 +134447,63 @@
   {
    "geometry": {
     "coordinates": [
+     -122.76024,
+     49.241462
+    ],
+    "type": "Point"
+   },
+   "id": "10567",
+   "properties": {
+    "code": "59911",
+    "desc": "",
+    "id": "10567",
+    "name": "Eastbound Mary Hill Bypass @ Broadway St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.750353,
+     49.246142
+    ],
+    "type": "Point"
+   },
+   "id": "10568",
+   "properties": {
+    "code": "59912",
+    "desc": "",
+    "id": "10568",
+    "name": "Westbound Mary Hill Bypass @ Kingsway Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.746555,
+     49.246538
+    ],
+    "type": "Point"
+   },
+   "id": "10569",
+   "properties": {
+    "code": "59913",
+    "desc": "",
+    "id": "10569",
+    "name": "Eastbound Mary Hill Bypass @ Kingsway Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.001707,
      49.144143
     ],
@@ -137592,7 +137649,7 @@
     "code": "61018",
     "desc": "",
     "id": "10858",
-    "name": "Northbound Park Access Rd @ Anmore Grocery Store",
+    "name": "Northbound Sunnyside Rd @ Alpine Dr",
     "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
@@ -153276,25 +153333,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.818323,
-     49.133818
-    ],
-    "type": "Point"
-   },
-   "id": "12152",
-   "properties": {
-    "code": "61902",
-    "desc": "",
-    "id": "12152",
-    "name": "Westbound 72 Ave @ 146 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.993088,
      49.169174
     ],
@@ -155984,7 +156022,7 @@
     "code": "61752",
     "desc": "",
     "id": "12336",
-    "name": "Northbound Willingdon Ave @ Kingsborough St",
+    "name": "Northbound Willingdon Ave @ Kingsway",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166036,7 +166074,7 @@
     "desc": "",
     "id": "13173",
     "name": "Eastbound 56 Ave @ 272 St",
-    "wheelchair_boarding": "1",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166302,7 +166340,7 @@
     "desc": "",
     "id": "13187",
     "name": "Southbound Willingdon Ave @ Moscrop St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -166359,6 +166397,25 @@
     "desc": "",
     "id": "13190",
     "name": "Eastbound Lougheed Hwy @ Sherling Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.759724,
+     49.24204
+    ],
+    "type": "Point"
+   },
+   "id": "13191",
+   "properties": {
+    "code": "59910",
+    "desc": "",
+    "id": "13191",
+    "name": "Westbound Mary Hill Bypass @ Broadway St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
