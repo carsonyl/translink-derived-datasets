@@ -3062,7 +3062,7 @@
   {
    "geometry": {
     "coordinates": [
-     -123.190491,
+     -123.190448,
      49.26348
     ],
     "type": "Point"
@@ -6254,25 +6254,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.200725,
-     49.263781
-    ],
-    "type": "Point"
-   },
-   "id": "579",
-   "properties": {
-    "code": "50574",
-    "desc": "",
-    "id": "579",
-    "name": "Westbound W 10 Ave @ Courtenay St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.203438,
      49.263828
     ],
@@ -7242,8 +7223,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.065288,
-     49.237698
+     -123.065285,
+     49.23775
     ],
     "type": "Point"
    },
@@ -7888,8 +7869,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.065531,
-     49.237254
+     -123.065553,
+     49.237194
     ],
     "type": "Point"
    },
@@ -9959,8 +9940,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.093971,
-     49.262614
+     -123.09356,
+     49.262606
     ],
     "type": "Point"
    },
@@ -9969,7 +9950,7 @@
     "code": "50848",
     "desc": "",
     "id": "855",
-    "name": "Westbound E Broadway @ St. George St",
+    "name": "Westbound E Broadway @ Guelph St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -25406,8 +25387,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.076725,
-     49.225208
+     -123.076434,
+     49.225206
     ],
     "type": "Point"
    },
@@ -26880,6 +26861,44 @@
     "desc": "",
     "id": "2133",
     "name": "Eastbound Miller Rd @ Aylmer Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.148208,
+     49.192044
+    ],
+    "type": "Point"
+   },
+   "id": "2134",
+   "properties": {
+    "code": "52114",
+    "desc": "",
+    "id": "2134",
+    "name": "Eastbound Miller Rd @ Templeton St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.145729,
+     49.192028
+    ],
+    "type": "Point"
+   },
+   "id": "2135",
+   "properties": {
+    "code": "52115",
+    "desc": "",
+    "id": "2135",
+    "name": "Eastbound Miller Rd @ 7000 Block",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -43589,25 +43608,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.788479,
-     49.26532
-    ],
-    "type": "Point"
-   },
-   "id": "3383",
-   "properties": {
-    "code": "53346",
-    "desc": "",
-    "id": "3383",
-    "name": "Eastbound Kingsway Ave @ Burleigh Ave",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.78635,
      49.265735
     ],
@@ -54316,7 +54316,7 @@
     "desc": "",
     "id": "4146",
     "name": "Northbound Berkley Rd @ Carnation St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -55274,8 +55274,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.057031,
-     49.312736
+     -123.057044,
+     49.312813
     ],
     "type": "Point"
    },
@@ -61023,7 +61023,7 @@
     "desc": "",
     "id": "4601",
     "name": "Northbound Cliffridge Ave @ Sonora Dr South",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -93331,44 +93331,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.102447,
-     49.133305
-    ],
-    "type": "Point"
-   },
-   "id": "6703",
-   "properties": {
-    "code": "56641",
-    "desc": "",
-    "id": "6703",
-    "name": "Eastbound Steveston Hwy @ Shell Rd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.096283,
-     49.133285
-    ],
-    "type": "Point"
-   },
-   "id": "6704",
-   "properties": {
-    "code": "56642",
-    "desc": "",
-    "id": "6704",
-    "name": "Eastbound Steveston Hwy @ Coppersmith Place",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.083793,
      49.133449
     ],
@@ -102139,25 +102101,6 @@
     "desc": "",
     "id": "7274",
     "name": "Southbound Trattle St @ Houston Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.59079,
-     49.162816
-    ],
-    "type": "Point"
-   },
-   "id": "7275",
-   "properties": {
-    "code": "57204",
-    "desc": "",
-    "id": "7275",
-    "name": "Westbound 88 Ave @ Trattle St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -114318,25 +114261,6 @@
     "desc": "",
     "id": "8280",
     "name": "Westbound Steveston Hwy @ Seaward Gate",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.100556,
-     49.133327
-    ],
-    "type": "Point"
-   },
-   "id": "8281",
-   "properties": {
-    "code": "58046",
-    "desc": "",
-    "id": "8281",
-    "name": "Eastbound Steveston Hwy @ Seaward Gate",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -135902,7 +135826,7 @@
     "desc": "",
     "id": "10718",
     "name": "Westbound 111A Ave @ 12300 Block",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -135921,7 +135845,7 @@
     "desc": "",
     "id": "10719",
     "name": "Eastbound 112 Ave @ 124 St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -139569,6 +139493,25 @@
     "desc": "",
     "id": "11048",
     "name": "Westbound E 33 Ave @ Nanaimo St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.104966,
+     49.240505
+    ],
+    "type": "Point"
+   },
+   "id": "11049",
+   "properties": {
+    "code": "61101",
+    "desc": "",
+    "id": "11049",
+    "name": "Eastbound E 33 Ave @ Ontario St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -144870,7 +144813,7 @@
     "desc": "",
     "id": "11475",
     "name": "Southbound Granville St @ Drake St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -149278,7 +149221,7 @@
     "desc": "",
     "id": "11850",
     "name": "Northbound Nordel Way @ Swenson Way",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -158425,8 +158368,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115138,
-     49.261914
+     -123.115126,
+     49.262019
     ],
     "type": "Point"
    },
@@ -162216,7 +162159,7 @@
     "code": "60255",
     "desc": "",
     "id": "12900",
-    "name": "Phibbs Exchange @ Bay 3",
+    "name": "Main St @ Orwell St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -162255,25 +162198,6 @@
     "desc": "",
     "id": "12902",
     "name": "Phibbs Exchange @ Bay 5",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.130057,
-     49.210429
-    ],
-    "type": "Point"
-   },
-   "id": "12911",
-   "properties": {
-    "code": "60268",
-    "desc": "",
-    "id": "12911",
-    "name": "Northbound Oak St @ W 67 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -162862,7 +162786,7 @@
     "code": "60683",
     "desc": "",
     "id": "12950",
-    "name": "Phibbs Exchange @ Bay 6",
+    "name": "Phibbs Exchange @",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165960,6 +165884,25 @@
     "desc": "",
     "id": "13191",
     "name": "Westbound Mary Hill Bypass @ Broadway St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.104515,
+     49.133346
+    ],
+    "type": "Point"
+   },
+   "id": "13193",
+   "properties": {
+    "code": "58070",
+    "desc": "",
+    "id": "13193",
+    "name": "Eastbound Steveston Hwy @ Shell Rd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
