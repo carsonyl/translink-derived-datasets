@@ -326,25 +326,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.133574,
-     49.282009
-    ],
-    "type": "Point"
-   },
-   "id": "50",
-   "properties": {
-    "code": "50050",
-    "desc": "",
-    "id": "50",
-    "name": "Westbound Davie St @ Bute St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.135121,
      49.283006
     ],
@@ -6919,25 +6900,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.13477,
-     49.282579
-    ],
-    "type": "Point"
-   },
-   "id": "642",
-   "properties": {
-    "code": "50636",
-    "desc": "",
-    "id": "642",
-    "name": "Eastbound Davie St @ Jervis St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.132973,
      49.28144
     ],
@@ -13295,7 +13257,7 @@
     "desc": "",
     "id": "1107",
     "name": "Southbound Arbutus St @ W 21 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -66769,6 +66731,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.900724,
+     49.177061
+    ],
+    "type": "Point"
+   },
+   "id": "4959",
+   "properties": {
+    "code": "54907",
+    "desc": "",
+    "id": "4959",
+    "name": "Eastbound 96 Ave @ 116 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.895023,
      49.177071
     ],
@@ -90044,6 +90025,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.802808,
+     49.166722
+    ],
+    "type": "Point"
+   },
+   "id": "6478",
+   "properties": {
+    "code": "58628",
+    "desc": "",
+    "id": "6478",
+    "name": "Westbound Fraser Hwy @ 152 St",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.813039,
      49.1707
     ],
@@ -90511,6 +90511,44 @@
     "desc": "",
     "id": "6504",
     "name": "Eastbound Westminster Hwy @ Lynas Lane",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.158091,
+     49.170023
+    ],
+    "type": "Point"
+   },
+   "id": "6505",
+   "properties": {
+    "code": "56444",
+    "desc": "",
+    "id": "6505",
+    "name": "Eastbound Westminster Hwy @ No. 2 Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.156096,
+     49.170032
+    ],
+    "type": "Point"
+   },
+   "id": "6506",
+   "properties": {
+    "code": "56445",
+    "desc": "",
+    "id": "6506",
+    "name": "Eastbound Westminster Hwy @ 6300 Block",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -114250,25 +114288,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.100078,
-     49.133464
-    ],
-    "type": "Point"
-   },
-   "id": "8280",
-   "properties": {
-    "code": "58045",
-    "desc": "",
-    "id": "8280",
-    "name": "Westbound Steveston Hwy @ Seaward Gate",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.084336,
      49.133056
     ],
@@ -125118,25 +125137,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.644104,
-     49.10456
-    ],
-    "type": "Point"
-   },
-   "id": "9412",
-   "properties": {
-    "code": "58921",
-    "desc": "",
-    "id": "9412",
-    "name": "Eastbound 56 Ave @ Langley Bypass",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.793115,
      49.301023
     ],
@@ -128633,25 +128633,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.914936,
-     49.200769
-    ],
-    "type": "Point"
-   },
-   "id": "9948",
-   "properties": {
-    "code": "59848",
-    "desc": "",
-    "id": "9948",
-    "name": "Eastbound Carnarvon St @ Quayside Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.918229,
      49.254032
     ],
@@ -129422,7 +129403,7 @@
     "code": "58349",
     "desc": "",
     "id": "10034",
-    "name": "Westbound Lougheed Hwy @ Production Way",
+    "name": "Production Station @ Bay 4",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -132482,7 +132463,7 @@
     "desc": "",
     "id": "10339",
     "name": "Eastbound Southridge Dr @ Byrnepark Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -133250,6 +133231,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.02638,
+     49.281496
+    ],
+    "type": "Point"
+   },
+   "id": "10415",
+   "properties": {
+    "code": "58041",
+    "desc": "",
+    "id": "10415",
+    "name": "Kootenay Loop @ Bay 1",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.670767,
      49.221056
     ],
@@ -133527,25 +133527,6 @@
     "desc": "",
     "id": "10447",
     "name": "Eastbound Ewen Ave @ McGillivray Place",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.249148,
-     49.259061
-    ],
-    "type": "Point"
-   },
-   "id": "10450",
-   "properties": {
-    "code": "59942",
-    "desc": "",
-    "id": "10450",
-    "name": "Westbound Thunderbird Blvd @ Larkin Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -135028,25 +135009,6 @@
     "desc": "",
     "id": "10642",
     "name": "Eastbound Fraser Hwy @ 168 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.702506,
-     49.12417
-    ],
-    "type": "Point"
-   },
-   "id": "10643",
-   "properties": {
-    "code": "57140",
-    "desc": "",
-    "id": "10643",
-    "name": "Westbound Fraser Hwy @ 188 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -147576,17 +147538,17 @@
   {
    "geometry": {
     "coordinates": [
-     -122.914339,
-     49.201085
+     -122.911869,
+     49.201348
     ],
     "type": "Point"
    },
-   "id": "11710",
+   "id": "11711",
    "properties": {
-    "code": "61657",
+    "code": "61648",
     "desc": "",
-    "id": "11710",
-    "name": "New Westminster Station @ Bay 10",
+    "id": "11711",
+    "name": "New Westminster Station @ Bay 1",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -151281,44 +151243,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.247674,
-     49.259395
-    ],
-    "type": "Point"
-   },
-   "id": "12007",
-   "properties": {
-    "code": "61895",
-    "desc": "",
-    "id": "12007",
-    "name": "Eastbound Thunderbird Blvd @ Eagles Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.24443,
-     49.258079
-    ],
-    "type": "Point"
-   },
-   "id": "12008",
-   "properties": {
-    "code": "61832",
-    "desc": "",
-    "id": "12008",
-    "name": "Southbound East Mall @ Eagles Dr",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.237747,
      49.251615
     ],
@@ -151349,25 +151273,6 @@
     "desc": "",
     "id": "12012",
     "name": "Westbound Ross Dr @ Birney Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.244207,
-     49.25836
-    ],
-    "type": "Point"
-   },
-   "id": "12013",
-   "properties": {
-    "code": "61833",
-    "desc": "",
-    "id": "12013",
-    "name": "Northbound East Mall @ Eagles Dr",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -158425,25 +158330,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.807134,
-     49.168408
-    ],
-    "type": "Point"
-   },
-   "id": "12551",
-   "properties": {
-    "code": "61764",
-    "desc": "",
-    "id": "12551",
-    "name": "Westbound Fraser Hwy @ 150 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.785083,
      49.155559
     ],
@@ -165333,6 +165219,25 @@
     "desc": "",
     "id": "13156",
     "name": "Northbound 208 St @ 74B Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.701139,
+     49.123547
+    ],
+    "type": "Point"
+   },
+   "id": "13157",
+   "properties": {
+    "code": "62157",
+    "desc": "",
+    "id": "13157",
+    "name": "Westbound Fraser Hwy @ 188 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
