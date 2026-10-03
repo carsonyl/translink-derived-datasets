@@ -20770,25 +20770,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.045328,
-     49.244186
-    ],
-    "type": "Point"
-   },
-   "id": "1615",
-   "properties": {
-    "code": "51603",
-    "desc": "",
-    "id": "1615",
-    "name": "29th Avenue Station @ Bay 2",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.04321,
      49.234833
     ],
@@ -33625,6 +33606,25 @@
     "desc": "",
     "id": "2654",
     "name": "Eastbound 14 Ave @ 15 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.951051,
+     49.212338
+    ],
+    "type": "Point"
+   },
+   "id": "2655",
+   "properties": {
+    "code": "52630",
+    "desc": "",
+    "id": "2655",
+    "name": "Westbound 14 Ave @ 18 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -53062,7 +53062,7 @@
     "desc": "",
     "id": "4076",
     "name": "Eastbound Mt Seymour Parkway @ Tollcross Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -99449,6 +99449,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.646881,
+     49.084791
+    ],
+    "type": "Point"
+   },
+   "id": "7072",
+   "properties": {
+    "code": "57004",
+    "desc": "",
+    "id": "7072",
+    "name": "Northbound 208 St @ 45A Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.648549,
      49.087852
     ],
@@ -106346,8 +106365,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.068103,
-     49.031938
+     -123.067426,
+     49.031928
     ],
     "type": "Point"
    },
@@ -146398,25 +146417,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.096357,
-     49.133456
-    ],
-    "type": "Point"
-   },
-   "id": "11608",
-   "properties": {
-    "code": "61477",
-    "desc": "",
-    "id": "11608",
-    "name": "Westbound Steveston Hwy @ Coppersmith Place",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.685449,
      49.11122
     ],
@@ -148013,6 +148013,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.757816,
+     49.045761
+    ],
+    "type": "Point"
+   },
+   "id": "11742",
+   "properties": {
+    "code": "61636",
+    "desc": "",
+    "id": "11742",
+    "name": "Westbound 24 Ave @ 168 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.756255,
      49.045595
     ],
@@ -148271,6 +148290,25 @@
     "desc": "",
     "id": "11760",
     "name": "Northbound Wesbrook Mall @ Birney Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.044987,
+     49.244392
+    ],
+    "type": "Point"
+   },
+   "id": "11762",
+   "properties": {
+    "code": "61616",
+    "desc": "",
+    "id": "11762",
+    "name": "29th Avenue Station @ Bay 5",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -152326,25 +152364,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.969672,
-     49.194501
-    ],
-    "type": "Point"
-   },
-   "id": "12097",
-   "properties": {
-    "code": "61969",
-    "desc": "",
-    "id": "12097",
-    "name": "Eastbound North Fraser Way @ Glenwood Dr",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.998035,
      49.197454
     ],
@@ -155073,6 +155092,25 @@
     "desc": "",
     "id": "12306",
     "name": "Eastbound 24 Ave @ 172 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.746741,
+     49.045745
+    ],
+    "type": "Point"
+   },
+   "id": "12307",
+   "properties": {
+    "code": "61905",
+    "desc": "",
+    "id": "12307",
+    "name": "Westbound 24 Ave @ 172 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165797,8 +165835,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.104515,
-     49.133346
+     -123.105154,
+     49.13335
     ],
     "type": "Point"
    },
@@ -165809,6 +165847,25 @@
     "id": "13193",
     "name": "Eastbound Steveston Hwy @ Shell Rd",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.970977,
+     49.193824
+    ],
+    "type": "Point"
+   },
+   "id": "13194",
+   "properties": {
+    "code": "61965",
+    "desc": "",
+    "id": "13194",
+    "name": "Eastbound North Fraser Way @ Glenwood Dr",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
