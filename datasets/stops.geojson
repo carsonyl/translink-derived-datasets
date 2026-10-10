@@ -11423,7 +11423,7 @@
    "geometry": {
     "coordinates": [
      -123.069968,
-     49.259217
+     49.259192
     ],
     "type": "Point"
    },
@@ -25330,8 +25330,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.076434,
-     49.225206
+     -123.076715,
+     49.22521
     ],
     "type": "Point"
    },
@@ -33614,8 +33614,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.951051,
-     49.212338
+     -122.951076,
+     49.212313
     ],
     "type": "Point"
    },
@@ -35944,6 +35944,25 @@
     "id": "2827",
     "name": "Northbound Gilmore Ave @ 1st Ave",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.014164,
+     49.272367
+    ],
+    "type": "Point"
+   },
+   "id": "2828",
+   "properties": {
+    "code": "52799",
+    "desc": "",
+    "id": "2828",
+    "name": "Northbound Gilmore Ave @ Kitchener St",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -67320,6 +67339,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.899756,
+     49.185497
+    ],
+    "type": "Point"
+   },
+   "id": "4997",
+   "properties": {
+    "code": "54945",
+    "desc": "",
+    "id": "4997",
+    "name": "Westbound Grace Rd @ 117 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.9159,
      49.171954
     ],
@@ -68757,6 +68795,44 @@
     "id": "5088",
     "name": "Eastbound River Rd @ Knudson Rd",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.910786,
+     49.179002
+    ],
+    "type": "Point"
+   },
+   "id": "5089",
+   "properties": {
+    "code": "55037",
+    "desc": "",
+    "id": "5089",
+    "name": "Eastbound River Rd @ Regal Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.906627,
+     49.18249
+    ],
+    "type": "Point"
+   },
+   "id": "5090",
+   "properties": {
+    "code": "55038",
+    "desc": "",
+    "id": "5090",
+    "name": "Eastbound River Rd @ Millar Rd",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -137943,6 +138019,63 @@
   {
    "geometry": {
     "coordinates": [
+     -122.891384,
+     49.190713
+    ],
+    "type": "Point"
+   },
+   "id": "10897",
+   "properties": {
+    "code": "61048",
+    "desc": "",
+    "id": "10897",
+    "name": "Westbound 103A Ave @ Scott Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.892576,
+     49.190547
+    ],
+    "type": "Point"
+   },
+   "id": "10898",
+   "properties": {
+    "code": "61049",
+    "desc": "",
+    "id": "10898",
+    "name": "Eastbound 103A Ave @ Grace Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.893989,
+     49.190228
+    ],
+    "type": "Point"
+   },
+   "id": "10899",
+   "properties": {
+    "code": "61050",
+    "desc": "",
+    "id": "10899",
+    "name": "Westbound Grace Rd @ 103A Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.781829,
      49.041661
     ],
@@ -138049,6 +138182,25 @@
     "desc": "",
     "id": "10917",
     "name": "Eastbound Anderson Rd @ Buswell St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.895558,
+     49.188663
+    ],
+    "type": "Point"
+   },
+   "id": "10918",
+   "properties": {
+    "code": "61052",
+    "desc": "",
+    "id": "10918",
+    "name": "Eastbound Grace Rd @ 10200 Block",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -140139,6 +140291,25 @@
     "desc": "",
     "id": "11104",
     "name": "Eastbound Government St @ Halston Court",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.896174,
+     49.188432
+    ],
+    "type": "Point"
+   },
+   "id": "11107",
+   "properties": {
+    "code": "61051",
+    "desc": "",
+    "id": "11107",
+    "name": "Westbound Grace Rd @ 10200 Block",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -151661,6 +151832,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.907299,
+     49.182283
+    ],
+    "type": "Point"
+   },
+   "id": "12041",
+   "properties": {
+    "code": "59373",
+    "desc": "",
+    "id": "12041",
+    "name": "Westbound River Rd @ Millar Rd",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.768818,
      49.263926
     ],
@@ -158208,6 +158398,25 @@
     "desc": "",
     "id": "12533",
     "name": "Eastbound Alderbridge Way @ May Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.898602,
+     49.186221
+    ],
+    "type": "Point"
+   },
+   "id": "12534",
+   "properties": {
+    "code": "59372",
+    "desc": "",
+    "id": "12534",
+    "name": "Eastbound Grace Rd @ 117 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165865,7 +166074,7 @@
     "desc": "",
     "id": "13194",
     "name": "Eastbound North Fraser Way @ Glenwood Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
