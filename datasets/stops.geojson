@@ -725,25 +725,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.112655,
-     49.283143
-    ],
-    "type": "Point"
-   },
-   "id": "79",
-   "properties": {
-    "code": "50079",
-    "desc": "",
-    "id": "79",
-    "name": "Eastbound W Pender St @ Richards St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.110618,
      49.281799
     ],
@@ -2416,25 +2397,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.101161,
-     49.262444
-    ],
-    "type": "Point"
-   },
-   "id": "240",
-   "properties": {
-    "code": "50238",
-    "desc": "",
-    "id": "240",
-    "name": "Southbound Main St @ E Broadway",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.10127,
      49.259888
     ],
@@ -3149,25 +3111,6 @@
     "desc": "",
     "id": "291",
     "name": "Westbound W 41 Ave @ Maple St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.156193,
-     49.234649
-    ],
-    "type": "Point"
-   },
-   "id": "292",
-   "properties": {
-    "code": "50289",
-    "desc": "",
-    "id": "292",
-    "name": "Westbound W 41 Ave @ West Blvd",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -8431,6 +8374,25 @@
     "desc": "",
     "id": "749",
     "name": "Northbound Oak St @ W 70 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.130033,
+     49.211074
+    ],
+    "type": "Point"
+   },
+   "id": "750",
+   "properties": {
+    "code": "50743",
+    "desc": "",
+    "id": "750",
+    "name": "Northbound Oak St @ W 67 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -104104,25 +104066,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.646304,
-     49.104743
-    ],
-    "type": "Point"
-   },
-   "id": "7421",
-   "properties": {
-    "code": "57348",
-    "desc": "",
-    "id": "7421",
-    "name": "Westbound 56 Ave @ 208 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.039191,
      49.004794
     ],
@@ -159280,6 +159223,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.15479,
+     49.234672
+    ],
+    "type": "Point"
+   },
+   "id": "12632",
+   "properties": {
+    "code": "60385",
+    "desc": "",
+    "id": "12632",
+    "name": "Westbound W 41 Ave @ East Blvd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.661347,
      49.140984
     ],
@@ -165322,6 +165284,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.10122,
+     49.261727
+    ],
+    "type": "Point"
+   },
+   "id": "13132",
+   "properties": {
+    "code": "50239",
+    "desc": "",
+    "id": "13132",
+    "name": "Southbound Main St @ E 10 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.178062,
      49.234843
     ],
@@ -166044,6 +166025,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.99702,
+     49.224795
+    ],
+    "type": "Point"
+   },
+   "id": "13192",
+   "properties": {
+    "code": "59672",
+    "desc": "",
+    "id": "13192",
+    "name": "Northbound Bonsor Ave @ Layover",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.105154,
      49.13335
     ],
@@ -166074,6 +166074,25 @@
     "desc": "",
     "id": "13194",
     "name": "Eastbound North Fraser Way @ Glenwood Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.647371,
+     49.104768
+    ],
+    "type": "Point"
+   },
+   "id": "13195",
+   "properties": {
+    "code": "62179",
+    "desc": "",
+    "id": "13195",
+    "name": "Westbound 56 Ave @ 208 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
