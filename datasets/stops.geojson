@@ -60480,6 +60480,44 @@
   {
    "geometry": {
     "coordinates": [
+     -123.091252,
+     49.323806
+    ],
+    "type": "Point"
+   },
+   "id": "4566",
+   "properties": {
+    "code": "54514",
+    "desc": "",
+    "id": "4566",
+    "name": "Southbound Bewicke Ave @ Larson Rd",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.091428,
+     49.320882
+    ],
+    "type": "Point"
+   },
+   "id": "4567",
+   "properties": {
+    "code": "54515",
+    "desc": "",
+    "id": "4567",
+    "name": "Southbound Bewicke Ave @ W 14 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.082912,
      49.310742
     ],
@@ -66571,7 +66609,7 @@
     "desc": "",
     "id": "4946",
     "name": "Northbound 112 St @ 78A Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -66704,7 +66742,7 @@
     "desc": "",
     "id": "4953",
     "name": "Northbound 112 St @ 91 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -68680,7 +68718,7 @@
     "desc": "",
     "id": "5080",
     "name": "Southbound Dunlop Rd @ Sunset Dr",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -68965,7 +69003,7 @@
     "desc": "",
     "id": "5099",
     "name": "Northbound 116 St @ 76A Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -119019,44 +119057,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.850572,
-     49.249068
-    ],
-    "type": "Point"
-   },
-   "id": "8819",
-   "properties": {
-    "code": "58445",
-    "desc": "",
-    "id": "8819",
-    "name": "Westbound Austin Ave @ Decaire St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.852981,
-     49.249081
-    ],
-    "type": "Point"
-   },
-   "id": "8820",
-   "properties": {
-    "code": "58446",
-    "desc": "",
-    "id": "8820",
-    "name": "Westbound Austin Ave @ Schoolhouse St",
-    "wheelchair_boarding": "2",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.849623,
      49.248925
     ],
@@ -138371,7 +138371,7 @@
     "code": "54442",
     "desc": "",
     "id": "10947",
-    "name": "Eastbound Marine Dr @ 1000 Block",
+    "name": "Eastbound Marine Dr @ Bay 4",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -159746,7 +159746,7 @@
     "code": "60436",
     "desc": "",
     "id": "12662",
-    "name": "YVR Domestic Departures  @ Level Three",
+    "name": "YVR  @ Domestic Departures Level Three",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -162957,7 +162957,7 @@
     "code": "60683",
     "desc": "",
     "id": "12950",
-    "name": "Phibbs Exchange @",
+    "name": "Phibbs Exchange @ Bay 6",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -165987,25 +165987,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.09148,
-     49.324188
-    ],
-    "type": "Point"
-   },
-   "id": "13186",
-   "properties": {
-    "code": "62168",
-    "desc": "",
-    "id": "13186",
-    "name": "Westbound Larson Rd @ Bewicke Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.003505,
      49.24404
     ],
@@ -166169,6 +166150,25 @@
     "desc": "",
     "id": "13195",
     "name": "Westbound 56 Ave @ 208 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.851371,
+     49.249094
+    ],
+    "type": "Point"
+   },
+   "id": "13196",
+   "properties": {
+    "code": "59530",
+    "desc": "",
+    "id": "13196",
+    "name": "Westbound Austin Ave @ Schoolhouse St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
