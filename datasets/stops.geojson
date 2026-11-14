@@ -1105,25 +1105,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.170847,
-     49.257845
-    ],
-    "type": "Point"
-   },
-   "id": "115",
-   "properties": {
-    "code": "50115",
-    "desc": "",
-    "id": "115",
-    "name": "Westbound W 16 Ave @ Mackenzie St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.174638,
      49.257904
     ],
@@ -9894,6 +9875,25 @@
     "desc": "",
     "id": "856",
     "name": "Westbound E Broadway @ Prince Edward St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.098697,
+     49.262926
+    ],
+    "type": "Point"
+   },
+   "id": "857",
+   "properties": {
+    "code": "50850",
+    "desc": "",
+    "id": "857",
+    "name": "Westbound E Broadway @ Scotia St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -22814,7 +22814,7 @@
     "desc": "",
     "id": "1757",
     "name": "Northbound Boundary Rd @ Kitchener St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -28495,6 +28495,25 @@
     "desc": "",
     "id": "2268",
     "name": "Northbound 6th St @ 10 Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.92926,
+     49.220388
+    ],
+    "type": "Point"
+   },
+   "id": "2269",
+   "properties": {
+    "code": "52247",
+    "desc": "",
+    "id": "2269",
+    "name": "Northbound 6th St @ 12 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -36019,7 +36038,7 @@
     "desc": "",
     "id": "2828",
     "name": "Northbound Gilmore Ave @ Kitchener St",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -56007,7 +56026,7 @@
     "desc": "",
     "id": "4262",
     "name": "Southbound Duval Rd @ Westover Rd",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -56425,7 +56444,7 @@
     "desc": "",
     "id": "4287",
     "name": "Westbound Peters Rd @ Henderson Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -57679,7 +57698,7 @@
     "desc": "",
     "id": "4362",
     "name": "Eastbound W Queens Rd @ Jones Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -72792,25 +72811,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.644327,
-     49.104714
-    ],
-    "type": "Point"
-   },
-   "id": "5350",
-   "properties": {
-    "code": "55297",
-    "desc": "",
-    "id": "5350",
-    "name": "Westbound 56 Ave @ Langley Bypass",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.649639,
      49.104794
     ],
@@ -79442,44 +79442,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.834395,
-     49.177363
-    ],
-    "type": "Point"
-   },
-   "id": "5761",
-   "properties": {
-    "code": "55706",
-    "desc": "",
-    "id": "5761",
-    "name": "Northbound 140 St @ 96 Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.834227,
-     49.180425
-    ],
-    "type": "Point"
-   },
-   "id": "5762",
-   "properties": {
-    "code": "55707",
-    "desc": "",
-    "id": "5762",
-    "name": "Northbound 140 St @ Fraser Hwy",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.834919,
      49.187803
     ],
@@ -79681,25 +79643,6 @@
     "desc": "",
     "id": "5775",
     "name": "Southbound 140 St @ Green Timbers Way",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.834633,
-     49.178386
-    ],
-    "type": "Point"
-   },
-   "id": "5776",
-   "properties": {
-    "code": "55721",
-    "desc": "",
-    "id": "5776",
-    "name": "Southbound 140 St @ Fraser Hwy",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -90234,25 +90177,6 @@
   {
    "geometry": {
     "coordinates": [
-     -122.842303,
-     49.180787
-    ],
-    "type": "Point"
-   },
-   "id": "6481",
-   "properties": {
-    "code": "56420",
-    "desc": "",
-    "id": "6481",
-    "name": "Westbound Fraser Hwy @ Whalley Blvd",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.18361,
      49.126357
     ],
@@ -94395,8 +94319,8 @@
   {
    "geometry": {
     "coordinates": [
-     -123.115306,
-     49.170021
+     -123.11446,
+     49.170015
     ],
     "type": "Point"
    },
@@ -95129,6 +95053,25 @@
     "id": "6794",
     "name": "Westbound Westminster Hwy @ 10500 Block",
     "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.114647,
+     49.170292
+    ],
+    "type": "Point"
+   },
+   "id": "6795",
+   "properties": {
+    "code": "56730",
+    "desc": "",
+    "id": "6795",
+    "name": "Westbound Westminster Hwy @ No. 4 Rd",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -125270,6 +125213,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.644104,
+     49.10456
+    ],
+    "type": "Point"
+   },
+   "id": "9412",
+   "properties": {
+    "code": "58921",
+    "desc": "",
+    "id": "9412",
+    "name": "Eastbound 56 Ave @ Langley Bypass",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.793115,
      49.301023
     ],
@@ -153599,8 +153561,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.645605,
-     49.15328
+     -122.645647,
+     49.152184
     ],
     "type": "Point"
    },
@@ -153610,7 +153572,7 @@
     "desc": "",
     "id": "12201",
     "name": "Northbound 208 St @ 83 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -163764,8 +163726,8 @@
   {
    "geometry": {
     "coordinates": [
-     -122.801053,
-     49.034168
+     -122.801063,
+     49.034252
     ],
     "type": "Point"
    },
@@ -164231,25 +164193,6 @@
     "desc": "",
     "id": "13051",
     "name": "Northbound Douglas Rd @ Still Creek Ave",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.836332,
-     49.1794
-    ],
-    "type": "Point"
-   },
-   "id": "13052",
-   "properties": {
-    "code": "62012",
-    "desc": "",
-    "id": "13052",
-    "name": "Eastbound Fraser Hwy @ 140 St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
