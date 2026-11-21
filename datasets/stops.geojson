@@ -2378,6 +2378,25 @@
   {
    "geometry": {
     "coordinates": [
+     -123.101161,
+     49.262444
+    ],
+    "type": "Point"
+   },
+   "id": "240",
+   "properties": {
+    "code": "50238",
+    "desc": "",
+    "id": "240",
+    "name": "Southbound Main St @ E Broadway",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -123.10127,
      49.259888
     ],
@@ -10719,25 +10738,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.105291,
-     49.263101
-    ],
-    "type": "Point"
-   },
-   "id": "928",
-   "properties": {
-    "code": "50920",
-    "desc": "",
-    "id": "928",
-    "name": "Westbound W Broadway @ Ontario St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.109868,
      49.263212
     ],
@@ -11453,25 +11453,6 @@
     "id": "977",
     "name": "Southbound Victoria Dr @ Victoria Diversion",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.065204,
-     49.247318
-    ],
-    "type": "Point"
-   },
-   "id": "980",
-   "properties": {
-    "code": "50971",
-    "desc": "",
-    "id": "980",
-    "name": "Southbound Victoria Dr @ E 26 Ave",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -19888,25 +19869,6 @@
     "desc": "",
     "id": "1557",
     "name": "Southbound Willingdon Ave @ Canada Way",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.004458,
-     49.247982
-    ],
-    "type": "Point"
-   },
-   "id": "1559",
-   "properties": {
-    "code": "51547",
-    "desc": "",
-    "id": "1559",
-    "name": "Southbound Willingdon Ave @ Sanderson Way",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -43658,6 +43620,25 @@
     "id": "3382",
     "name": "Southbound Westwood St @ Dewdney Trunk Rd",
     "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.788479,
+     49.26532
+    ],
+    "type": "Point"
+   },
+   "id": "3383",
+   "properties": {
+    "code": "53346",
+    "desc": "",
+    "id": "3383",
+    "name": "Eastbound Kingsway Ave @ Burleigh Ave",
+    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -102823,7 +102804,7 @@
     "desc": "",
     "id": "7305",
     "name": "Southbound 212 St @ 92 Ave",
-    "wheelchair_boarding": "2",
+    "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -102919,25 +102900,6 @@
     "id": "7310",
     "name": "Eastbound 88 Ave @ Walnut Grove Dr",
     "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -122.632424,
-     49.162127
-    ],
-    "type": "Point"
-   },
-   "id": "7311",
-   "properties": {
-    "code": "57240",
-    "desc": "",
-    "id": "7311",
-    "name": "Eastbound 88 Ave @ 212 St",
-    "wheelchair_boarding": "2",
     "zone": "BUS ZN"
    },
    "type": "Feature"
@@ -128728,6 +128690,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.914936,
+     49.200769
+    ],
+    "type": "Point"
+   },
+   "id": "9948",
+   "properties": {
+    "code": "59848",
+    "desc": "",
+    "id": "9948",
+    "name": "Eastbound Carnarvon St @ Quayside Dr",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.918229,
      49.254032
     ],
@@ -135123,6 +135104,25 @@
     "desc": "",
     "id": "10644",
     "name": "Eastbound Fraser Hwy @ 188 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.706601,
+     49.126043
+    ],
+    "type": "Point"
+   },
+   "id": "10645",
+   "properties": {
+    "code": "60715",
+    "desc": "",
+    "id": "10645",
+    "name": "Westbound Fraser Hwy @ 68 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -147082,6 +147082,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.862739,
+     49.23874
+    ],
+    "type": "Point"
+   },
+   "id": "11651",
+   "properties": {
+    "code": "53384",
+    "desc": "",
+    "id": "11651",
+    "name": "Westbound Brunette Ave @ Marmont St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.720621,
      49.24395
     ],
@@ -147709,17 +147728,17 @@
   {
    "geometry": {
     "coordinates": [
-     -122.911869,
-     49.201348
+     -122.914339,
+     49.201085
     ],
     "type": "Point"
    },
-   "id": "11711",
+   "id": "11710",
    "properties": {
-    "code": "61648",
+    "code": "61657",
     "desc": "",
-    "id": "11711",
-    "name": "New Westminster Station @ Bay 1",
+    "id": "11710",
+    "name": "New Westminster Station @ Bay 10",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -163916,6 +163935,25 @@
   {
    "geometry": {
     "coordinates": [
+     -122.750468,
+     49.186069
+    ],
+    "type": "Point"
+   },
+   "id": "13025",
+   "properties": {
+    "code": "60455",
+    "desc": "",
+    "id": "13025",
+    "name": "Westbound Barnston Dr W @ 170A St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
      -122.772876,
      49.191615
     ],
@@ -165113,25 +165151,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.097845,
-     49.262916
-    ],
-    "type": "Point"
-   },
-   "id": "13121",
-   "properties": {
-    "code": "59862",
-    "desc": "",
-    "id": "13121",
-    "name": "Westbound E Broadway @ Brunswick St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.069775,
      49.281346
     ],
@@ -165295,25 +165314,6 @@
     "desc": "",
     "id": "13131",
     "name": "Eastbound 24 Ave @ 182 St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
-     -123.10122,
-     49.261727
-    ],
-    "type": "Point"
-   },
-   "id": "13132",
-   "properties": {
-    "code": "50239",
-    "desc": "",
-    "id": "13132",
-    "name": "Southbound Main St @ E 10 Ave",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166131,6 +166131,82 @@
     "desc": "",
     "id": "13197",
     "name": "Northbound Renfrew St @ E Broadway",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.003926,
+     49.247202
+    ],
+    "type": "Point"
+   },
+   "id": "13198",
+   "properties": {
+    "code": "62184",
+    "desc": "",
+    "id": "13198",
+    "name": "Southbound Willingdon Ave @ Sanderson Way",
+    "wheelchair_boarding": "2",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.633273,
+     49.162162
+    ],
+    "type": "Point"
+   },
+   "id": "13199",
+   "properties": {
+    "code": "62170",
+    "desc": "",
+    "id": "13199",
+    "name": "Eastbound 88 Ave @ 212 St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.027088,
+     49.281216
+    ],
+    "type": "Point"
+   },
+   "id": "13200",
+   "properties": {
+    "code": "62160",
+    "desc": "",
+    "id": "13200",
+    "name": "Westbound E Hastings St @ Kootenay Loop",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.103772,
+     49.263072
+    ],
+    "type": "Point"
+   },
+   "id": "13202",
+   "properties": {
+    "code": "62183",
+    "desc": "",
+    "id": "13202",
+    "name": "Westbound W Broadway @ Quebec St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
