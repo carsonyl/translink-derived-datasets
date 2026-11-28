@@ -20143,25 +20143,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.084376,
-     49.248642
-    ],
-    "type": "Point"
-   },
-   "id": "1578",
-   "properties": {
-    "code": "51566",
-    "desc": "",
-    "id": "1578",
-    "name": "Westbound E King Edward Ave @ Windsor St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -123.090666,
      49.248731
     ],
@@ -145904,25 +145885,6 @@
   {
    "geometry": {
     "coordinates": [
-     -123.110698,
-     49.282056
-    ],
-    "type": "Point"
-   },
-   "id": "11554",
-   "properties": {
-    "code": "61520",
-    "desc": "",
-    "id": "11554",
-    "name": "Westbound W Pender St @ Hamilton St",
-    "wheelchair_boarding": "1",
-    "zone": "BUS ZN"
-   },
-   "type": "Feature"
-  },
-  {
-   "geometry": {
-    "coordinates": [
      -122.785177,
      49.292774
     ],
@@ -146941,6 +146903,25 @@
     "desc": "",
     "id": "11637",
     "name": "Northbound 6th St @ 4th Ave",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.11137,
+     49.282472
+    ],
+    "type": "Point"
+   },
+   "id": "11638",
+   "properties": {
+    "code": "50094",
+    "desc": "",
+    "id": "11638",
+    "name": "Westbound W Pender St @ Hamilton St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -154370,6 +154351,25 @@
     "desc": "",
     "id": "12244",
     "name": "Westbound Foster Ave @ Aspen St",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -122.886632,
+     49.256704
+    ],
+    "type": "Point"
+   },
+   "id": "12245",
+   "properties": {
+    "code": "58186",
+    "desc": "",
+    "id": "12245",
+    "name": "Eastbound Foster Ave @ Aspen St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
@@ -166188,6 +166188,25 @@
     "desc": "",
     "id": "13200",
     "name": "Westbound E Hastings St @ Kootenay Loop",
+    "wheelchair_boarding": "1",
+    "zone": "BUS ZN"
+   },
+   "type": "Feature"
+  },
+  {
+   "geometry": {
+    "coordinates": [
+     -123.111785,
+     49.284204
+    ],
+    "type": "Point"
+   },
+   "id": "13201",
+   "properties": {
+    "code": "62187",
+    "desc": "",
+    "id": "13201",
+    "name": "Southbound Richards St @ W Hastings St",
     "wheelchair_boarding": "1",
     "zone": "BUS ZN"
    },
